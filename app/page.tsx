@@ -9,7 +9,7 @@ import { Toaster } from "@/components/ui/toaster"
 
 export default function Page() {
   const [activeFilters, setActiveFilters] = useState<string[]>([])
-  const [sortBy, setSortBy] = useState("recent")
+  const [sortBy, setSortBy] = useState("added")
   const [timePeriod, setTimePeriod] = useState("all")
   const [search, setSearch] = useState("")
 

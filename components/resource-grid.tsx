@@ -1,12 +1,11 @@
 "use client"
 
-import { useState, useMemo, useEffect, useRef } from "react"
+import { useState, useMemo, useEffect } from "react"
 import { ResourceCard } from "@/components/resource-card"
-import { resources } from "@/lib/resources-data"
+import { resources, resourceTime } from "@/lib/resources-data"
 import { Button } from "@/components/ui/button"
 import { Loader2 } from "lucide-react"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui/dialog"
-import { useToast } from "@/components/ui/use-toast"
 
 interface ResourceGridProps {
   activeFilters: string[]
@@ -21,7 +20,6 @@ interface Counts {
 }
 
 export function ResourceGrid({ activeFilters, sortBy, timePeriod, search }: ResourceGridProps) {
-  const { toast } = useToast()
   const [visibleCount, setVisibleCount] = useState(12)
   const [loading, setLoading] = useState(false)
   const [counts, setCounts] = useState<Counts>({ views: {}, scores: {} })
@@ -83,20 +81,16 @@ export function ResourceGrid({ activeFilters, sortBy, timePeriod, search }: Reso
       filtered = filtered.filter((r) => selectedTypes.includes(r.type))
     }
 
-    if (timePeriod !== "all") {
-      if (timePeriod === "foundation") {
-        filtered = filtered.filter((r) => {
-          const year = new Date(r.date).getFullYear()
-          return year >= 1999 && year <= 2013
-        })
-      } else {
-        filtered = filtered.filter((r) => new Date(r.date).getFullYear().toString() === timePeriod)
-      }
-    }
+    if (timePeriod !== "all") filtered = filtered.filter(r => resourceTime(r) !== null && r.date?.slice(0, 4) === timePeriod)
 
     filtered.sort((a, b) => {
-      if (sortBy === "recent") return new Date(b.date).getTime() - new Date(a.date).getTime()
-      if (sortBy === "oldest") return new Date(a.date).getTime() - new Date(b.date).getTime()
+      if (sortBy === "added") return (b.addedAt ?? '').localeCompare(a.addedAt ?? '') || (resourceTime(b) ?? 0) - (resourceTime(a) ?? 0)
+      if (sortBy === "recent" || sortBy === "oldest") {
+        const aTime = resourceTime(a), bTime = resourceTime(b)
+        if (aTime === null) return bTime === null ? 0 : 1
+        if (bTime === null) return -1
+        return sortBy === "recent" ? bTime - aTime : aTime - bTime
+      }
       if (sortBy === "popular") return (counts.scores[b.id] || 0) - (counts.scores[a.id] || 0)
       if (sortBy === "relevant") return (counts.views[b.id] || 0) - (counts.views[a.id] || 0)
       return 0
@@ -182,8 +176,6 @@ export function ResourceGrid({ activeFilters, sortBy, timePeriod, search }: Reso
       setVoteModalOpen(true)
     }
   }
-
-  if (countsLoading) return <div className="text-center py-8">Loading resources...</div>
 
   return (
     <div className="space-y-8">

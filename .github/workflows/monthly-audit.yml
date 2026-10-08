@@ -1,0 +1,31 @@
+name: Monthly library health
+on:
+  schedule:
+    - cron: '40 12 1 * *' # First day, 09:40 Argentina
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm run check
+      - run: npm run content:audit
+      - name: Dependency audit
+        if: always()
+        run: npm audit --audit-level=high
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: monthly-health
+          path: work/link-audit.*
+          retention-days: 90

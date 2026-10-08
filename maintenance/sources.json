@@ -1,0 +1,7 @@
+[
+  {"id":"01resolved","name":"01Resolved research","url":"https://01resolved.com/research/","hosts":["01resolved.com","www.01resolved.com"],"path":"/research/","exclude":"/(tag|author|page)/|/rss/?$"},
+  {"id":"01resolved-reports","name":"01Resolved reports","url":"https://01resolved.com/research/tag/reports/","hosts":["01resolved.com","www.01resolved.com"],"path":"/research/","exclude":"/(tag|author|page)/|/rss/?$"},
+  {"id":"metadao-decisions","name":"MetaDAO decisions","url":"https://metadao.fi/decisions","hosts":["metadao.fi","www.metadao.fi"],"path":"/decisions/"},
+  {"id":"metadao-blog","name":"MetaDAO blog","url":"https://blog.metadao.fi/","hosts":["blog.metadao.fi"],"path":"/","exclude":"/(tag|author|page)/|/rss/?$"},
+  {"id":"hanson","name":"Robin Hanson research","url":"https://mason.gmu.edu/~rhanson/","hosts":["mason.gmu.edu"],"path":"/~rhanson/","include":"futarch|decisionmarket|predict|market"}
+]

@@ -56,10 +56,11 @@ export function LibraryFilters({
               <SelectValue placeholder="Sort by" />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="recent">Newest by emission date</SelectItem>
-              <SelectItem value="oldest">Oldest by emission date</SelectItem>
+              <SelectItem value="added">Recently added</SelectItem>
+              <SelectItem value="recent">Newest dated</SelectItem>
+              <SelectItem value="oldest">Oldest dated</SelectItem>
               <SelectItem value="popular">Most Popular</SelectItem>
-              <SelectItem value="relevant">Most Relevant</SelectItem>
+              <SelectItem value="relevant">Most viewed</SelectItem>
             </SelectContent>
           </Select>
 
@@ -69,11 +70,7 @@ export function LibraryFilters({
             </SelectTrigger>
             <SelectContent>
               <SelectItem value="all">All Time</SelectItem>
-              <SelectItem value="2026">2026</SelectItem>
-              <SelectItem value="2025">2025</SelectItem>
-              <SelectItem value="2024">2024</SelectItem>
-              <SelectItem value="2023">2023</SelectItem>
-              <SelectItem value="foundation">1999-2013</SelectItem>
+              {[...new Set(resources.filter(r => r.datePrecision === 'day' && r.date).map(r => r.date!.slice(0, 4)))].sort().reverse().map(year => <SelectItem key={year} value={year}>{year}</SelectItem>)}
             </SelectContent>
           </Select>
         </div>

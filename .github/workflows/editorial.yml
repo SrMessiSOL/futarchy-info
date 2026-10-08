@@ -1,0 +1,149 @@
+name: Weekly library review
+on:
+  schedule:
+    - cron: '30 12 * * 1' # Monday 09:30 Argentina
+  workflow_dispatch:
+permissions:
+  contents: read
+  pull-requests: read
+concurrency:
+  group: library-editorial
+  cancel-in-progress: false
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      ready: ${{ steps.ready.outputs.ready }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Respect a pending review
+        id: pending
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          count=$(gh pr list --head automation/library-update --state open --json number --jq length)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-node@v4
+        if: steps.pending.outputs.count == '0'
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+        if: steps.pending.outputs.count == '0'
+      - name: Prepare candidate evidence
+        if: steps.pending.outputs.count == '0'
+        run: |
+          if git show-ref --verify --quiet refs/remotes/origin/automation/discovery; then
+            git show origin/automation/discovery:maintenance/discovery.json > maintenance/discovery.json
+          else
+            npm run content:discover
+          fi
+          npm run content:evidence
+          cp content/resources.json work/baseline.json
+      - name: Check prerequisites
+        id: ready
+        if: steps.pending.outputs.count == '0'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          count=$(node -e "const fs=require('fs');const e=JSON.parse(fs.readFileSync('work/evidence.json'));console.log(e.filter(x=>x.status==='fetched'&&!x.truncated&&x.text.length>=200).length)")
+          if [ "$count" = '0' ]; then
+            echo 'No complete candidate evidence to review.'
+            exit 0
+          fi
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo '::error::Add the OPENAI_API_KEY repository secret to enable weekly editorial review.'
+            exit 1
+          fi
+          echo 'ready=true' >> "$GITHUB_OUTPUT"
+      - name: Save trusted baseline and fetched evidence
+        if: steps.ready.outputs.ready == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-evidence
+          path: |
+            work/baseline.json
+            work/evidence-provenance.json
+          retention-days: 30
+      - name: Prepare source-backed update
+        if: steps.ready.outputs.ready == 'true'
+        uses: openai/codex-action@v1
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt-file: maintenance/editorial-prompt.md
+          sandbox: workspace-write
+          safety-strategy: drop-sudo
+      - name: Export only reviewable content
+        if: steps.ready.outputs.ready == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-proposal
+          path: |
+            content/resources.json
+            maintenance/editorial-report.md
+          retention-days: 30
+  validate:
+    needs: propose
+    if: needs.propose.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      changed: ${{ steps.evidence-gate.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-evidence
+          path: work
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-proposal
+          path: work/proposal
+      - name: Import permitted files only
+        run: |
+          cp work/proposal/content/resources.json content/resources.json
+          cp work/proposal/maintenance/editorial-report.md maintenance/editorial-report.md
+      - run: node scripts/validate-proposal.mjs
+        id: evidence-gate
+      - run: npm run check
+      - run: npm run build
+  publish-review:
+    needs: [propose, validate]
+    if: needs.propose.outputs.ready == 'true' && needs.validate.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: editorial-proposal
+          path: work/proposal
+      - name: Import validated files
+        run: |
+          cp work/proposal/content/resources.json content/resources.json
+          cp work/proposal/maintenance/editorial-report.md maintenance/editorial-report.md
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automation/library-update
+          title: 'content: verified library update'
+          commit-message: 'content: add source-checked library resources'
+          body-path: maintenance/editorial-report.md
+          add-paths: |
+            content/resources.json
+            maintenance/editorial-report.md
+          delete-branch: true
+          draft: true

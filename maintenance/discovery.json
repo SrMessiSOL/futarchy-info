@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "candidates": [
+    {
+      "url": "https://01resolved.com/research/rip-cars-raises-925k-otc-and-seeks-250k-for-inventory-dualmint-reaches-202-4k-and-omnipair-crosses-1m-tvl/",
+      "title": "Rip Cars Raises $925K OTC and Seeks $250K for Inventory, DualMint Reaches $202.4K, and Omnipair Crosses $1M TVL",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-10-08",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/solomon-launches-usdv-with-6m-in-supply-credible-approves-a-500k-settlement-facility-and-rip-cars-seeks-up-to-1-5m/",
+      "title": "Solomon Launches USDv With $6M in Supply, Credible Approves a $500K Settlement Facility, and Rip Cars Seeks Up to $1.5M",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-10-08",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/three-treasuries-approve-680k-in-usdv-allocations-sanctum-approves-25-cloud-burn-jurassic-closes-660k-raise/",
+      "title": "Three Treasuries Approve $680K in USDv Allocations, Sanctum Approves 25% CLOUD Burn, Jurassic Closes $660K Raise",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-10-08",
+      "status": "pending"
+    }
+  ],
+  "sources": {
+    "01resolved": {
+      "status": "ok",
+      "lastSuccess": "2026-10-08",
+      "links": 5
+    },
+    "01resolved-reports": {
+      "status": "ok",
+      "lastSuccess": "2026-10-08",
+      "links": 5
+    },
+    "metadao-decisions": {
+      "status": "unavailable",
+      "lastAttempt": "2026-10-08",
+      "reason": "HTTP 429"
+    },
+    "metadao-blog": {
+      "status": "unavailable",
+      "lastAttempt": "2026-10-08",
+      "reason": "HTTP 403"
+    },
+    "hanson": {
+      "status": "unavailable",
+      "lastAttempt": "2026-10-08",
+      "reason": "No matching links; source may require JavaScript or its structure changed"
+    }
+  }
+}

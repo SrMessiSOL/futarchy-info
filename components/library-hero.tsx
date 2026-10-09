@@ -6,6 +6,8 @@ import { ModeToggle } from "@/components/mode-toggle"
 import { Badge } from "@/components/ui/badge"
 import { resources, lastLibraryUpdate } from "@/lib/resources-data"
 
+import projects from "@/content/projects.json"
+
 interface LibraryHeroProps {
   search: string
   setSearch: React.Dispatch<React.SetStateAction<string>>
@@ -13,9 +15,7 @@ interface LibraryHeroProps {
 
 export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
   const totalResources = resources.length
-  const projectCount = resources.filter((resource) =>
-    resource.tags?.some((tag) => ["Project Page", "Fundraise", "ICO", "IDO"].includes(tag)),
-  ).length
+  const projectCount = projects.filter(p => p.coverage !== "failed-raise").length
   const mediaCount = resources.filter((resource) => ["podcast", "video", "news"].includes(resource.type)).length
 
   return (
@@ -37,16 +37,16 @@ export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-primary" />
             </span>
-            Research library
+            MetaDAO ecosystem archive
           </Badge>
 
           <h1 className="max-w-4xl text-5xl font-bold tracking-tight lg:text-6xl">
-            Futarchy, in theory and in practice
+            The MetaDAO ecosystem, documented
           </h1>
 
           <p className="max-w-3xl text-lg leading-8 text-muted-foreground lg:text-xl">
-            Chronological sources on prediction markets, MetaDAO projects, ownership coins, media appearances,
-            radio sessions, and the people building the ecosystem. Source checks and date uncertainty are shown on each entry.
+            Follow the projects that raised on MetaDAO: launches, product updates, governance decisions,
+            founder interviews, and what happened next. Source checks and date uncertainty are shown on each entry.
           </p>
 
           <p className="text-sm text-muted-foreground">Library updated {lastLibraryUpdate || "date unavailable"} · Independent research archive</p>
@@ -58,7 +58,7 @@ export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
             </div>
             <div className="border-l-2 border-primary bg-card/70 p-4">
               <p className="text-3xl font-semibold">{projectCount}</p>
-              <p className="text-sm text-muted-foreground">project and ICO entries</p>
+              <p className="text-sm text-muted-foreground">raised projects tracked</p>
             </div>
             <div className="border-l-2 border-primary bg-card/70 p-4">
               <p className="text-3xl font-semibold">{mediaCount}</p>

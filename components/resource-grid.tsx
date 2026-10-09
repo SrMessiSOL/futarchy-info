@@ -7,7 +7,10 @@ import { Button } from "@/components/ui/button"
 import { Loader2 } from "lucide-react"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui/dialog"
 
+import projects from "@/content/projects.json"
+
 interface ResourceGridProps {
+  project: string
   activeFilters: string[]
   sortBy: string
   timePeriod: string
@@ -19,7 +22,7 @@ interface Counts {
   scores: { [id: string]: number }
 }
 
-export function ResourceGrid({ activeFilters, sortBy, timePeriod, search }: ResourceGridProps) {
+export function ResourceGrid({ project, activeFilters, sortBy, timePeriod, search }: ResourceGridProps) {
   const [visibleCount, setVisibleCount] = useState(12)
   const [loading, setLoading] = useState(false)
   const [counts, setCounts] = useState<Counts>({ views: {}, scores: {} })
@@ -53,11 +56,13 @@ export function ResourceGrid({ activeFilters, sortBy, timePeriod, search }: Reso
 
   const filteredResources = useMemo(() => {
     let filtered = [...resources]
+    if (project === "ecosystem") filtered = filtered.filter(r => projects.some(p => p.coverage !== "failed-raise" && r.tags?.includes("project:" + p.id)))
+    else if (project !== "all") filtered = filtered.filter(r => r.tags?.includes("project:" + project))
 
     if (search.toLowerCase() === "metadao icos") {
-      const projects = ["omnipair", "umbra", "avici", "loyal", "paystream", "zklsol", "turbine cash", "solomon", "ranger"]
+      const projectTags = projects.filter(p => p.coverage !== "failed-raise").map(p => "project:" + p.id)
       filtered = filtered.filter((r) =>
-        r.tags?.some((tag) => projects.includes(tag.toLowerCase())) ?? false
+        r.tags?.some((tag) => projectTags.includes(tag.toLowerCase())) ?? false
       )
     } else if (search) {
       const lowerSearch = search.toLowerCase()
@@ -97,11 +102,11 @@ export function ResourceGrid({ activeFilters, sortBy, timePeriod, search }: Reso
     })
 
     return filtered
-  }, [activeFilters, sortBy, timePeriod, search, counts])
+  }, [project, activeFilters, sortBy, timePeriod, search, counts])
 
   useEffect(() => {
     setVisibleCount(12)
-  }, [activeFilters, timePeriod, search, sortBy])
+  }, [project, activeFilters, timePeriod, search, sortBy])
 
   const loadMore = () => {
     if (loading || visibleCount >= filteredResources.length) return

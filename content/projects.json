@@ -1,0 +1,333 @@
+[
+  {
+    "id": "ripcars",
+    "name": "Rip Cars",
+    "aliases": [
+      "Rip Cars",
+      "ripcars",
+      "RipCars"
+    ],
+    "companyUrl": "https://metadao.fi/companies/ripcars",
+    "resourceId": "company-ripcars",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://ripcars.io/"
+  },
+  {
+    "id": "credible",
+    "name": "Credible",
+    "aliases": [
+      "Credible",
+      "credible"
+    ],
+    "companyUrl": "https://metadao.fi/companies/credible",
+    "resourceId": "company-credible",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://credible.finance/"
+  },
+  {
+    "id": "laso-finance",
+    "name": "Laso Finance",
+    "aliases": [
+      "Laso Finance",
+      "laso-finance",
+      "Laso"
+    ],
+    "companyUrl": "https://metadao.fi/companies/laso-finance",
+    "resourceId": "company-laso-finance",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://laso.finance/"
+  },
+  {
+    "id": "avici",
+    "name": "Avici",
+    "aliases": [
+      "Avici",
+      "avici"
+    ],
+    "companyUrl": "https://metadao.fi/companies/avici",
+    "resourceId": "res-220",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://avici.money/"
+  },
+  {
+    "id": "umbra",
+    "name": "Umbra",
+    "aliases": [
+      "Umbra",
+      "umbra"
+    ],
+    "companyUrl": "https://metadao.fi/companies/umbra",
+    "resourceId": "res-229",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://www.umbraprivacy.com/"
+  },
+  {
+    "id": "solomon",
+    "name": "Solomon",
+    "aliases": [
+      "Solomon",
+      "solomon"
+    ],
+    "companyUrl": "https://metadao.fi/companies/solomon",
+    "resourceId": "res-236",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://solomonlabs.org/"
+  },
+  {
+    "id": "p2p-protocol",
+    "name": "P2P Protocol",
+    "aliases": [
+      "P2P Protocol",
+      "p2p-protocol"
+    ],
+    "companyUrl": "https://metadao.fi/companies/p2p-protocol",
+    "resourceId": "res-233",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://t.co/zTXUOaG0vy"
+  },
+  {
+    "id": "omnipair",
+    "name": "Omnipair",
+    "aliases": [
+      "Omnipair",
+      "omnipair"
+    ],
+    "companyUrl": "https://metadao.fi/companies/omnipair",
+    "resourceId": "res-225",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://www.omnipair.fi/"
+  },
+  {
+    "id": "jurassic-finance",
+    "name": "Jurassic Finance",
+    "aliases": [
+      "Jurassic Finance",
+      "jurassic-finance"
+    ],
+    "companyUrl": "https://metadao.fi/companies/jurassic-finance",
+    "resourceId": "company-jurassic-finance",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://app.jurassic.finance/"
+  },
+  {
+    "id": "ordr",
+    "name": "Ordr",
+    "aliases": [
+      "Ordr",
+      "ordr"
+    ],
+    "companyUrl": "https://metadao.fi/companies/ordr",
+    "resourceId": "company-ordr",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://www.ordrtrade.com/"
+  },
+  {
+    "id": "kimia",
+    "name": "Kimia",
+    "aliases": [
+      "Kimia",
+      "kimia"
+    ],
+    "companyUrl": "https://metadao.fi/companies/kimia",
+    "resourceId": "company-kimia",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://kimia.live/"
+  },
+  {
+    "id": "futardio-cult",
+    "name": "Futardio Cult",
+    "aliases": [
+      "Futardio Cult",
+      "futardio-cult",
+      "Futardio"
+    ],
+    "companyUrl": "https://metadao.fi/companies/futardio-cult",
+    "resourceId": "res-243",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": null
+  },
+  {
+    "id": "gesim",
+    "name": "GeSIM",
+    "aliases": [
+      "GeSIM",
+      "gesim"
+    ],
+    "companyUrl": "https://metadao.fi/companies/gesim",
+    "resourceId": "company-gesim",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://www.gesim.xyz/"
+  },
+  {
+    "id": "loyal",
+    "name": "Loyal",
+    "aliases": [
+      "Loyal",
+      "loyal"
+    ],
+    "companyUrl": "https://metadao.fi/companies/loyal",
+    "resourceId": "res-226",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://askloyal.com/"
+  },
+  {
+    "id": "hivebits",
+    "name": "HiveBits",
+    "aliases": [
+      "HiveBits",
+      "hivebits"
+    ],
+    "companyUrl": "https://metadao.fi/companies/hivebits",
+    "resourceId": "company-hivebits",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": null
+  },
+  {
+    "id": "basket",
+    "name": "Basket",
+    "aliases": [
+      "Basket",
+      "basket"
+    ],
+    "companyUrl": "https://metadao.fi/companies/basket",
+    "resourceId": "company-basket",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://basketsolana.xyz/"
+  },
+  {
+    "id": "lfown",
+    "name": "LFOwn",
+    "aliases": [
+      "LFOwn",
+      "lfown"
+    ],
+    "companyUrl": "https://metadao.fi/companies/lfown",
+    "resourceId": "company-lfown",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": null
+  },
+  {
+    "id": "areal-finance",
+    "name": "Areal Finance",
+    "aliases": [
+      "Areal Finance",
+      "areal-finance"
+    ],
+    "companyUrl": "https://metadao.fi/companies/areal-finance",
+    "resourceId": "company-areal-finance",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://areal.finance/"
+  },
+  {
+    "id": "accrue",
+    "name": "ACCRUE",
+    "aliases": [
+      "ACCRUE",
+      "accrue"
+    ],
+    "companyUrl": "https://metadao.fi/companies/accrue",
+    "resourceId": "company-accrue",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": null
+  },
+  {
+    "id": "superclaw",
+    "name": "Superclaw",
+    "aliases": [
+      "Superclaw",
+      "superclaw"
+    ],
+    "companyUrl": "https://metadao.fi/companies/superclaw",
+    "resourceId": "res-242",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://superclaw.org/"
+  },
+  {
+    "id": "predict",
+    "name": "PREDICT",
+    "aliases": [
+      "PREDICT",
+      "predict"
+    ],
+    "companyUrl": "https://metadao.fi/companies/predict",
+    "resourceId": "company-predict",
+    "coverage": "raise",
+    "checkedAt": "2026-10-08",
+    "website": null
+  },
+  {
+    "id": "paystream",
+    "name": "Paystream",
+    "aliases": [
+      "Paystream",
+      "paystream"
+    ],
+    "companyUrl": "https://metadao.fi/companies/paystream",
+    "resourceId": "res-235",
+    "coverage": "historical-raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://paystream.finance/"
+  },
+  {
+    "id": "ranger",
+    "name": "Ranger",
+    "aliases": [
+      "Ranger",
+      "ranger"
+    ],
+    "companyUrl": "https://metadao.fi/companies/ranger",
+    "resourceId": "res-237",
+    "coverage": "historical-raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://ranger.finance/"
+  },
+  {
+    "id": "zklsol",
+    "name": "ZKLSOL / ZKFG",
+    "aliases": [
+      "ZKLSOL / ZKFG",
+      "zklsol",
+      "ZKLSOL",
+      "ZKFG",
+      "Zinc Cash"
+    ],
+    "companyUrl": "https://metadao.fi/companies/zklsol",
+    "resourceId": "res-238",
+    "coverage": "historical-raise",
+    "checkedAt": "2026-10-08",
+    "website": "https://zklsol.org/"
+  },
+  {
+    "id": "hurupay",
+    "name": "Hurupay",
+    "aliases": [
+      "Hurupay",
+      "hurupay"
+    ],
+    "companyUrl": "https://metadao.fi/companies/hurupay",
+    "resourceId": "res-248",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-08",
+    "website": null
+  }
+]

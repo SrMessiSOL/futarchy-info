@@ -31,16 +31,6 @@
     "exclude": "/(tag|author|page)/|/rss/?$"
   },
   {
-    "id": "hanson",
-    "name": "Robin Hanson research",
-    "url": "https://mason.gmu.edu/~rhanson/",
-    "hosts": [
-      "mason.gmu.edu"
-    ],
-    "path": "/~rhanson/",
-    "include": "futarch|decisionmarket|predict|market"
-  },
-  {
     "id": "01resolved-rss",
     "name": "01Resolved latest research feed",
     "url": "https://01resolved.com/research/rss/",
@@ -73,54 +63,31 @@
     "path": "/pod/"
   },
   {
-    "id": "kleros-feed",
-    "name": "Kleros research and experiments",
-    "url": "https://blog.kleros.io/rss/",
+    "id": "loyal-updates",
+    "name": "Loyal product updates",
+    "url": "https://askloyal.com/blog",
+    "hosts": [
+      "askloyal.com"
+    ],
+    "path": "/blog/"
+  },
+  {
+    "id": "umbra-updates",
+    "name": "Umbra announcements",
+    "url": "https://hub.umbraprivacy.com/",
+    "hosts": [
+      "hub.umbraprivacy.com"
+    ],
+    "path": "/announcement/"
+  },
+  {
+    "id": "solomon-updates",
+    "name": "Solomon updates",
+    "url": "https://blog.solomonlabs.org/feed",
     "format": "rss",
     "hosts": [
-      "blog.kleros.io"
+      "blog.solomonlabs.org"
     ],
-    "path": "/",
-    "include": "futarchy|foresight|decision.market"
-  },
-  {
-    "id": "ethereum-research",
-    "name": "Ethereum Research futarchy discussion",
-    "url": "https://ethresear.ch/tag/futarchy.rss",
-    "format": "rss",
-    "hosts": [
-      "ethresear.ch"
-    ],
-    "path": "/t/"
-  },
-  {
-    "id": "gnosis-forum",
-    "name": "Gnosis futarchy discussion",
-    "url": "https://forum.gnosis.io/tag/futarchy.rss",
-    "format": "rss",
-    "hosts": [
-      "forum.gnosis.io"
-    ],
-    "path": "/t/"
-  },
-  {
-    "id": "hodl-interviews",
-    "name": "Hodl Up interviews",
-    "url": "https://hodluppod.com/episodes",
-    "hosts": [
-      "hodluppod.com"
-    ],
-    "path": "/episode/",
-    "include": "futarchy|decision.market|hanson"
-  },
-  {
-    "id": "max-desalle",
-    "name": "Maxime Desalle talks",
-    "url": "https://maxdesalle.com/",
-    "hosts": [
-      "maxdesalle.com"
-    ],
-    "path": "/talks/",
-    "include": "futarchy"
+    "path": "/p/"
   }
 ]

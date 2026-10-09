@@ -964,7 +964,8 @@
       "ICO",
       "Umbra",
       "Podcast",
-      "Solana ETFs"
+      "Solana ETFs",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -984,7 +985,8 @@
     "tags": [
       "Umbra",
       "ICO",
-      "Success"
+      "Success",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1026,7 +1028,8 @@
       "ICO",
       "Umbra",
       "Futarchy",
-      "Article"
+      "Article",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1127,7 +1130,8 @@
     "tags": [
       "Umbra",
       "ICO",
-      "$155M"
+      "$155M",
+      "project:umbra"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -1170,7 +1174,8 @@
       "ICO",
       "Umbra",
       "Video",
-      "Tutorial"
+      "Tutorial",
+      "project:umbra"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -1193,7 +1198,8 @@
       "ICO",
       "Avici",
       "Investment",
-      "Article"
+      "Article",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1215,7 +1221,8 @@
       "ICO",
       "Avici",
       "Projects",
-      "Article"
+      "Article",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1237,7 +1244,8 @@
       "ICO",
       "Avici",
       "Risk Management",
-      "Article"
+      "Article",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1259,7 +1267,8 @@
       "ICO",
       "Avici",
       "Guide",
-      "Video"
+      "Video",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1281,7 +1290,8 @@
       "ICO",
       "Umbra",
       "Podcast",
-      "Interview"
+      "Interview",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1323,7 +1333,8 @@
       "ICO",
       "Loyal",
       "Review",
-      "Video"
+      "Video",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1345,7 +1356,8 @@
       "ICO",
       "Omnipair",
       "Tutorial",
-      "Video"
+      "Video",
+      "project:omnipair"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1367,7 +1379,8 @@
       "ICO",
       "Umbra",
       "Structured ICOs",
-      "Article"
+      "Article",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1389,7 +1402,8 @@
       "ICO",
       "Umbra",
       "Investor Guide",
-      "Video"
+      "Video",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1451,7 +1465,8 @@
       "ICO",
       "Solomon",
       "Update",
-      "Blog"
+      "Blog",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1473,7 +1488,8 @@
       "ICO",
       "Solomon",
       "Update",
-      "Blog"
+      "Blog",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1495,7 +1511,8 @@
       "ICO",
       "Solomon",
       "Tutorial",
-      "Video"
+      "Video",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1516,7 +1533,8 @@
       "MetaDAO",
       "ICO",
       "Solomon",
-      "Video"
+      "Video",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1538,7 +1556,8 @@
       "ICO",
       "Solomon",
       "Closure",
-      "Article"
+      "Article",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1560,7 +1579,8 @@
       "ICO",
       "Solomon",
       "Synthetic Dollar",
-      "Article"
+      "Article",
+      "project:solomon"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -1583,7 +1603,8 @@
       "ICO",
       "Solomon",
       "Update",
-      "Blog"
+      "Blog",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1605,7 +1626,8 @@
       "ICO",
       "Solomon",
       "Update",
-      "Blog"
+      "Blog",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1627,7 +1649,8 @@
       "ICO",
       "Omnipair",
       "Update",
-      "Solana"
+      "Solana",
+      "project:omnipair"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1649,7 +1672,8 @@
       "ICO",
       "Solomon",
       "Update",
-      "Blog"
+      "Blog",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1671,7 +1695,8 @@
       "ICO",
       "Omnipair",
       "Governance",
-      "Solana"
+      "Solana",
+      "project:omnipair"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1693,7 +1718,8 @@
       "ICO",
       "Solomon",
       "Deep Dive",
-      "Video"
+      "Video",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1715,7 +1741,8 @@
       "ICO",
       "Solomon",
       "Update",
-      "Blog"
+      "Blog",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1737,7 +1764,8 @@
       "ICO",
       "Omnipair",
       "Analysis",
-      "Blog"
+      "Blog",
+      "project:omnipair"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -1760,7 +1788,8 @@
       "ICO",
       "Ranger",
       "Launch",
-      "Article"
+      "Article",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -1922,7 +1951,8 @@
       "MetaDAO",
       "ICO",
       "Omnipair",
-      "Article"
+      "Article",
+      "project:omnipair"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -1944,7 +1974,8 @@
       "ICO",
       "Umbra",
       "Futarchy",
-      "Article"
+      "Article",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -1966,7 +1997,8 @@
       "ICO",
       "Umbra",
       "Podcast",
-      "Interview"
+      "Interview",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -1988,7 +2020,8 @@
       "ICO",
       "Umbra",
       "Investor Guide",
-      "Video"
+      "Video",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2010,7 +2043,8 @@
       "ICO",
       "Avici",
       "Projects",
-      "Article"
+      "Article",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2032,7 +2066,8 @@
       "ICO",
       "Avici",
       "Guide",
-      "Video"
+      "Video",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2053,7 +2088,8 @@
       "MetaDAO",
       "ICO",
       "Avici",
-      "Article"
+      "Article",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2074,7 +2110,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2095,7 +2132,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2116,7 +2154,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2137,7 +2176,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2158,7 +2198,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2179,7 +2220,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2200,7 +2242,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2221,7 +2264,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2242,7 +2286,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2263,7 +2308,8 @@
       "MetaDAO",
       "ICO",
       "Loyal",
-      "Article"
+      "Article",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2285,7 +2331,8 @@
       "ICO",
       "ZKLSOL",
       "Turbine Cash",
-      "Article"
+      "Article",
+      "project:zklsol"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2307,7 +2354,8 @@
       "ICO",
       "Solomon",
       "Details",
-      "Article"
+      "Article",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2328,7 +2376,8 @@
       "MetaDAO",
       "ICO",
       "Ranger",
-      "Article"
+      "Article",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2349,7 +2398,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2370,7 +2420,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2391,7 +2442,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2412,7 +2464,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2433,7 +2486,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2454,7 +2508,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2475,7 +2530,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2496,7 +2552,8 @@
       "MetaDAO",
       "ICO",
       "Paystream",
-      "Article"
+      "Article",
+      "project:paystream"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2517,7 +2574,8 @@
       "MetaDAO",
       "ICO",
       "Ranger",
-      "Article"
+      "Article",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2538,7 +2596,8 @@
       "MetaDAO",
       "ICO",
       "Ranger",
-      "Article"
+      "Article",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2598,7 +2657,8 @@
     "tags": [
       "MetaDAO",
       "ICO",
-      "Article"
+      "Article",
+      "project:futardio-cult"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2711,7 +2771,8 @@
       "Video",
       "Solana",
       "Super App",
-      "Product Roadmap"
+      "Product Roadmap",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2737,7 +2798,8 @@
       "Oversubscription",
       "Catalysts",
       "Permissionless Launches",
-      "Colosseum STAMP"
+      "Colosseum STAMP",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2762,7 +2824,8 @@
       "Onchain Organizations",
       "Legal Integration",
       "mtnCapital",
-      "Umbra"
+      "Umbra",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2960,7 +3023,9 @@
       "Futarchy",
       "Governance Tokens",
       "Asymmetric Bet",
-      "Video"
+      "Video",
+      "project:solomon",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -2985,7 +3050,9 @@
       "Ownership Coins",
       "Launch Mechanisms",
       "Optimistic Governance",
-      "Scaling"
+      "Scaling",
+      "project:solomon",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3292,7 +3359,8 @@
       "Monthly Update",
       "ICO",
       "Governance",
-      "Achievements"
+      "Achievements",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3427,7 +3495,8 @@
       "DeFi Privacy",
       "Crypto Privacy",
       "GCR",
-      "Arcium"
+      "Arcium",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3474,7 +3543,8 @@
       "Privacy Infrastructure",
       "DeFi Privacy",
       "Arcium",
-      "Umbra"
+      "Umbra",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3543,7 +3613,8 @@
       "Governance Improvements",
       "Ownership Coins",
       "Decision Markets",
-      "Solana"
+      "Solana",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3567,7 +3638,8 @@
       "Crypto Cards",
       "DeFi Update",
       "Privacy Finance",
-      "Avici"
+      "Avici",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3591,7 +3663,8 @@
       "Futarchy Governance",
       "Solana Neobank",
       "Crypto Proposal",
-      "Avici"
+      "Avici",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3615,7 +3688,8 @@
       "Long Term Thinking",
       "Solana Neobank",
       "Futarchy",
-      "Avici"
+      "Avici",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3639,7 +3713,8 @@
       "Crypto Update",
       "Community Alignment",
       "DeFi Challenges",
-      "Avici"
+      "Avici",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3663,7 +3738,8 @@
       "MetaDAO",
       "ICO",
       "Crypto Yield",
-      "Solomon"
+      "Solomon",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3687,7 +3763,9 @@
       "Solana DeFi",
       "Neobank Partnership",
       "Avici Money",
-      "Avici"
+      "Avici",
+      "project:avici",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3734,7 +3812,8 @@
       "Crypto Audit",
       "Compliance",
       "DeFi Privacy",
-      "Umbra"
+      "Umbra",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3758,7 +3837,8 @@
       "Crypto Vaults",
       "Post ICO Update",
       "RNGR",
-      "Ranger"
+      "Ranger",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3782,7 +3862,8 @@
       "Points System",
       "Crypto Allocation",
       "Solana Trading",
-      "Ranger"
+      "Ranger",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "unverified",
@@ -3827,7 +3908,8 @@
       "MetaDAO",
       "Ownership Coins",
       "Podcast",
-      "Realms"
+      "Realms",
+      "project:hurupay"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -3849,7 +3931,8 @@
       "MetaDAO",
       "Ownership Coins",
       "Podcast",
-      "Launches"
+      "Launches",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -3871,7 +3954,8 @@
       "Futardio",
       "Futarchy",
       "X Spaces",
-      "Community"
+      "Community",
+      "project:futardio-cult"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -3916,7 +4000,8 @@
       "MetaDAO",
       "ICO",
       "News",
-      "Launchpad"
+      "Launchpad",
+      "project:hurupay"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4006,7 +4091,9 @@
       "Avici",
       "P2P",
       "Superclaw",
-      "X Spaces"
+      "X Spaces",
+      "project:avici",
+      "project:superclaw"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4028,7 +4115,8 @@
       "Futardio",
       "JurassicFi",
       "GAMESOL",
-      "X Spaces"
+      "X Spaces",
+      "project:futardio-cult"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4086,23 +4174,23 @@
     "id": "res-220",
     "title": "Avici on MetaDAO",
     "author": "MetaDAO",
-    "date": "2025-10-18",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/avici",
-    "description": "Live MetaDAO project page for Avici, a distributed internet banking infrastructure project with treasury, DAO, market cap, and proposal history.",
+    "url": "https://metadao.fi/companies/avici",
+    "description": "MetaDAO company record. Self-custody neobank and spending infrastructure.",
     "tags": [
-      "Avici",
       "MetaDAO",
-      "Ownership Coin",
-      "Neobank",
-      "Project Page"
+      "Avici",
+      "Project Page",
+      "project:avici"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/avici",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/avici",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-18. Previous URL: https://www.metadao.fi/projects/avici."
   },
   {
     "id": "res-221",
@@ -4117,7 +4205,8 @@
       "MetaDAO",
       "Fundraise",
       "Internet Banking",
-      "Ownership Coin"
+      "Ownership Coin",
+      "project:avici"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4130,45 +4219,45 @@
     "id": "res-225",
     "title": "Omnipair on MetaDAO",
     "author": "MetaDAO",
-    "date": "2026-01-21",
+    "date": null,
     "type": "article",
-    "url": "https://futarchy.metadao.fi/omnipair",
-    "description": "MetaDAO project page for Omnipair, a permissionless market, borrowing, and leverage protocol governed through futarchy.",
+    "url": "https://metadao.fi/companies/omnipair",
+    "description": "MetaDAO company record. Permissionless lending and trading infrastructure for Solana assets.",
     "tags": [
-      "Omnipair",
       "MetaDAO",
-      "DeFi",
-      "Ownership Coin",
-      "Project Page"
+      "Omnipair",
+      "Project Page",
+      "project:omnipair"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://futarchy.metadao.fi/omnipair",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/omnipair",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-01-21. Previous URL: https://futarchy.metadao.fi/omnipair."
   },
   {
     "id": "res-226",
     "title": "Loyal on MetaDAO",
     "author": "MetaDAO",
-    "date": "2025-10-23",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/loyal",
-    "description": "Live MetaDAO project page for Loyal, a permissionless private decentralized intelligence protocol with market-governed proposal history.",
+    "url": "https://metadao.fi/companies/loyal",
+    "description": "MetaDAO company record. Wallet and smart-account automation, including stablecoin Earn routing.",
     "tags": [
-      "Loyal",
       "MetaDAO",
-      "Private AI",
-      "Ownership Coin",
-      "Project Page"
+      "Loyal",
+      "Project Page",
+      "project:loyal"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/loyal",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/loyal",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-23. Previous URL: https://www.metadao.fi/projects/loyal."
   },
   {
     "id": "res-227",
@@ -4183,7 +4272,8 @@
       "MetaDAO",
       "Fundraise",
       "Private AI",
-      "Arcium"
+      "Arcium",
+      "project:loyal"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4196,23 +4286,23 @@
     "id": "res-229",
     "title": "Umbra on MetaDAO",
     "author": "MetaDAO",
-    "date": "2025-10-10",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/umbra",
-    "description": "Live MetaDAO project page for Umbra Privacy, including treasury, DAO, market data, and Umbra decision-market proposal history.",
+    "url": "https://metadao.fi/companies/umbra",
+    "description": "MetaDAO company record. Privacy infrastructure and applications for Solana.",
     "tags": [
-      "Umbra",
       "MetaDAO",
-      "Privacy",
-      "Arcium",
-      "Project Page"
+      "Umbra",
+      "Project Page",
+      "project:umbra"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/umbra",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/umbra",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-10. Previous URL: https://www.metadao.fi/projects/umbra."
   },
   {
     "id": "res-230",
@@ -4227,7 +4317,8 @@
       "MetaDAO",
       "Fundraise",
       "Privacy",
-      "Ownership Coin"
+      "Ownership Coin",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4249,7 +4340,8 @@
       "MetaDAO",
       "ICO",
       "The Block",
-      "News"
+      "News",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4272,7 +4364,8 @@
       "MetaDAO",
       "Fundraise",
       "Stablecoins",
-      "Ownership Coin"
+      "Ownership Coin",
+      "project:p2p-protocol"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -4286,111 +4379,111 @@
     "id": "res-233",
     "title": "P2P Protocol on MetaDAO",
     "author": "MetaDAO",
-    "date": "2026-03-26",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/p2p-protocol",
-    "description": "Live MetaDAO project page for P2P Protocol, a decentralized stablecoin on/off-ramp for emerging markets with active decision markets.",
+    "url": "https://metadao.fi/companies/p2p-protocol",
+    "description": "MetaDAO company record. Peer-to-peer infrastructure for converting between local currencies and crypto.",
     "tags": [
-      "P2P Protocol",
       "MetaDAO",
-      "Stablecoins",
-      "On-Ramp",
-      "Project Page"
+      "P2P Protocol",
+      "Project Page",
+      "project:p2p-protocol"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/p2p-protocol",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/p2p-protocol",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-03-26. Previous URL: https://www.metadao.fi/projects/p2p-protocol."
   },
   {
     "id": "res-235",
-    "title": "Paystream Fundraise",
+    "title": "Paystream on MetaDAO",
     "author": "MetaDAO",
-    "date": "2025-10-23",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/paystream/fundraise",
-    "description": "Primary Paystream fundraise page for its Solana liquidity optimizer, lending, leveraged LP, yield routing, and MetaDAO ownership-token launch.",
+    "url": "https://metadao.fi/companies/paystream",
+    "description": "MetaDAO company record. Historical raise: restructuring was followed by a passed liquidation proposal.",
     "tags": [
-      "Paystream",
       "MetaDAO",
-      "Fundraise",
-      "Solana DeFi",
-      "Ownership Coin"
+      "Paystream",
+      "Project Page",
+      "project:paystream"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/paystream/fundraise",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/paystream",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-23. Previous URL: https://www.metadao.fi/projects/paystream/fundraise."
   },
   {
     "id": "res-236",
     "title": "Solomon on MetaDAO",
     "author": "MetaDAO",
-    "date": "2025-11-14",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/solomon",
-    "description": "Live MetaDAO project page for Solomon, the composable dollar that always earns, including treasury and proposal history.",
+    "url": "https://metadao.fi/companies/solomon",
+    "description": "MetaDAO company record. Dollar infrastructure, USDv and yield distribution integrations.",
     "tags": [
-      "Solomon",
       "MetaDAO",
-      "Yield",
-      "Stablecoin",
-      "Project Page"
+      "Solomon",
+      "Project Page",
+      "project:solomon"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/solomon",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/solomon",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-11-14. Previous URL: https://www.metadao.fi/projects/solomon."
   },
   {
     "id": "res-237",
-    "title": "Ranger Fundraise",
+    "title": "Ranger on MetaDAO",
     "author": "MetaDAO",
-    "date": "2026-01-06",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/ranger/fundraise",
-    "description": "Primary Ranger fundraise page describing its liquidity aggregation thesis, token supply, investor terms, and MetaDAO-aligned ownership structure.",
+    "url": "https://metadao.fi/companies/ranger",
+    "description": "MetaDAO company record. Historical derivatives infrastructure raise with a passed liquidation proposal.",
     "tags": [
-      "Ranger",
       "MetaDAO",
-      "Fundraise",
-      "Trading",
-      "Ownership Coin"
+      "Ranger",
+      "Project Page",
+      "project:ranger"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/ranger/fundraise",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/ranger",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-01-06. Previous URL: https://www.metadao.fi/projects/ranger/fundraise."
   },
   {
     "id": "res-238",
-    "title": "ZKLSOL Fundraise",
+    "title": "ZKLSOL / ZKFG on MetaDAO",
     "author": "MetaDAO",
-    "date": "2025-10-19",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/zklsol/fundraise",
-    "description": "Primary fundraise page for ZKLSOL, a permissionless yield-generating privacy protocol launched through MetaDAO.",
+    "url": "https://metadao.fi/companies/zklsol",
+    "description": "MetaDAO company record. Historical privacy project with restructuring and take-private proposals.",
     "tags": [
-      "ZKLSOL",
-      "Turbine Cash",
       "MetaDAO",
-      "Privacy",
-      "Fundraise"
+      "ZKLSOL / ZKFG",
+      "Project Page",
+      "project:zklsol"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/zklsol/fundraise",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/zklsol",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-19. Previous URL: https://www.metadao.fi/projects/zklsol/fundraise."
   },
   {
     "id": "res-239",
@@ -4405,7 +4498,8 @@
       "Privacy",
       "Solana",
       "Futarchy",
-      "ZKFG"
+      "ZKFG",
+      "project:zklsol"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4418,45 +4512,45 @@
     "id": "res-242",
     "title": "Superclaw on MetaDAO",
     "author": "MetaDAO",
-    "date": "2026-04-12",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/superclaw",
-    "description": "Live MetaDAO project page for Superclaw, infrastructure for autonomous self-improving AI agents with multiple completed decision markets.",
+    "url": "https://metadao.fi/companies/superclaw",
+    "description": "MetaDAO company record. Infrastructure for autonomous AI agents and their economic activity.",
     "tags": [
-      "Superclaw",
       "MetaDAO",
-      "AI Agents",
-      "Decision Markets",
-      "Project Page"
+      "Superclaw",
+      "Project Page",
+      "project:superclaw"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/superclaw",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/superclaw",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-04-12. Previous URL: https://www.metadao.fi/projects/superclaw."
   },
   {
     "id": "res-243",
     "title": "Futardio Cult on MetaDAO",
     "author": "MetaDAO",
-    "date": "2026-03-08",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/futardio-cult",
-    "description": "MetaDAO project page for Futardio Cult, the first futarchy-governed meme coin, including treasury and proposal history.",
+    "url": "https://metadao.fi/companies/futardio-cult",
+    "description": "MetaDAO company record. Community project and meme coin using futarchy governance.",
     "tags": [
-      "Futardio",
       "MetaDAO",
-      "Meme Coin",
-      "Decision Markets",
-      "Project Page"
+      "Futardio Cult",
+      "Project Page",
+      "project:futardio-cult"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/futardio-cult",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/futardio-cult",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-03-08. Previous URL: https://www.metadao.fi/projects/futardio-cult."
   },
   {
     "id": "res-244",
@@ -4493,7 +4587,8 @@
       "Galaxy",
       "MetaDAO",
       "Futarchy",
-      "Research"
+      "Research",
+      "project:umbra"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -4517,7 +4612,8 @@
       "Proph3t",
       "Ownership Coins",
       "Futarchy",
-      "Podcast"
+      "Podcast",
+      "project:umbra"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -4551,25 +4647,25 @@
   },
   {
     "id": "res-248",
-    "title": "Hurupay Fundraise",
+    "title": "Hurupay on MetaDAO",
     "author": "MetaDAO",
-    "date": "2026-02-03",
+    "date": null,
     "type": "article",
-    "url": "https://www.metadao.fi/projects/hurupay/fundraise",
-    "description": "Primary Hurupay fundraise page documenting its MetaDAO ownership-token structure, team allocation, token supply, DAO configuration, and project risks.",
+    "url": "https://metadao.fi/companies/hurupay",
+    "description": "MetaDAO company record. Fundraise attempt retained separately from successful raises; its minimum target was not reached.",
     "tags": [
-      "Hurupay",
       "MetaDAO",
-      "Fundraise",
-      "Ownership Coin",
-      "Token Supply"
+      "Hurupay",
+      "Project Page",
+      "project:hurupay"
     ],
     "dateKind": "unknown",
-    "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://www.metadao.fi/projects/hurupay/fundraise",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/hurupay",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-02-03. Previous URL: https://www.metadao.fi/projects/hurupay/fundraise. Failed minimum and announced refunds are corroborated by SolanaFloor coverage dated February 9, 2026: https://solanafloor.com/nl/news/hurupay-fails-to-raise-3-m-ico-target-on-meta-dao-is-the-ico-meta-over. Refund execution was not independently checked."
   },
   {
     "id": "res-249",
@@ -4584,7 +4680,8 @@
       "MetaDAO",
       "Fundraise",
       "USDv",
-      "Yield As A Service"
+      "Yield As A Service",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4651,7 +4748,8 @@
       "Roadshow",
       "Umbra",
       "Solana Builders",
-      "Pitch"
+      "Pitch",
+      "project:umbra"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4673,7 +4771,8 @@
       "MetaDAO",
       "ICO",
       "News",
-      "Ownership Coin"
+      "Ownership Coin",
+      "project:ranger"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4695,7 +4794,8 @@
       "MetaDAO",
       "ICO",
       "SOLO",
-      "News"
+      "News",
+      "project:solomon"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4717,7 +4817,8 @@
       "MetaDAO",
       "ICO",
       "Fundraise",
-      "CoinLaunch"
+      "CoinLaunch",
+      "project:hurupay"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4739,7 +4840,8 @@
       "P2P.me",
       "MetaDAO",
       "IDO",
-      "Fundraise"
+      "Fundraise",
+      "project:p2p-protocol"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4761,7 +4863,8 @@
       "Omnipair",
       "Futarchy",
       "Ownership Coins",
-      "Podcast"
+      "Podcast",
+      "project:omnipair"
     ],
     "dateKind": "unknown",
     "datePrecision": "day",
@@ -4783,7 +4886,10 @@
       "Loyal",
       "Privacy AI",
       "MetaDAO",
-      "Podcast"
+      "Podcast",
+      "project:avici",
+      "project:umbra",
+      "project:loyal"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -4828,7 +4934,9 @@
       "Paystream",
       "MetaDAO",
       "Post ICO",
-      "Podcast"
+      "Podcast",
+      "project:paystream",
+      "project:ranger"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -4851,7 +4959,12 @@
       "Research",
       "MetaDAO",
       "Futardio",
-      "Decision Markets"
+      "Decision Markets",
+      "project:solomon",
+      "project:omnipair",
+      "project:futardio-cult",
+      "project:superclaw",
+      "project:ranger"
     ],
     "featured": true,
     "dateKind": "unknown",
@@ -5029,7 +5142,8 @@
       "Research",
       "Monthly Report",
       "Ownership Coins",
-      "Decision Markets"
+      "Decision Markets",
+      "project:solomon"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5139,7 +5253,8 @@
       "Research",
       "Monthly Report",
       "Ownership Coins",
-      "Decision Markets"
+      "Decision Markets",
+      "project:futardio-cult"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5160,7 +5275,8 @@
     "tags": [
       "Paystream",
       "Liquidation",
-      "Case Study"
+      "Case Study",
+      "project:paystream"
     ],
     "dateKind": "event",
     "datePrecision": "day",
@@ -5202,7 +5318,8 @@
     "tags": [
       "Rip Cars",
       "Follow-on Funding",
-      "Case Study"
+      "Case Study",
+      "project:ripcars"
     ],
     "dateKind": "event",
     "datePrecision": "day",
@@ -5224,7 +5341,8 @@
       "Security",
       "Criticism",
       "Umbra",
-      "Case Study"
+      "Case Study",
+      "project:umbra"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5246,7 +5364,8 @@
       "Rip Cars",
       "Criticism",
       "Ownership Coins",
-      "Case Study"
+      "Case Study",
+      "project:ripcars"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5267,7 +5386,9 @@
     "tags": [
       "Weekly Report",
       "Ownership Coins",
-      "Research"
+      "Research",
+      "project:ripcars",
+      "project:omnipair"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5288,7 +5409,10 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:ripcars",
+      "project:credible",
+      "project:solomon"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5330,7 +5454,9 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:solomon",
+      "project:paystream"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5351,7 +5477,9 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:avici",
+      "project:omnipair"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5372,7 +5500,10 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:solomon",
+      "project:kimia",
+      "project:paystream"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5393,7 +5524,9 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:ripcars",
+      "project:laso-finance"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5435,7 +5568,9 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:umbra",
+      "project:kimia"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5456,7 +5591,10 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:umbra",
+      "project:ordr",
+      "project:loyal"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5477,7 +5615,8 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Analysis"
+      "Analysis",
+      "project:ripcars"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5498,7 +5637,9 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:ripcars",
+      "project:loyal"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5519,7 +5660,10 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:credible",
+      "project:solomon",
+      "project:loyal"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5540,7 +5684,9 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:credible",
+      "project:solomon"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5561,7 +5707,10 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:laso-finance",
+      "project:umbra",
+      "project:loyal"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5603,7 +5752,8 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:zklsol"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5624,7 +5774,8 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:zklsol"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5645,7 +5796,8 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:zklsol"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5708,7 +5860,8 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:jurassic-finance"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5750,7 +5903,9 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Weekly Report"
+      "Weekly Report",
+      "project:laso-finance",
+      "project:loyal"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5771,7 +5926,8 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Analysis"
+      "Analysis",
+      "project:zklsol"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5813,7 +5969,8 @@
     "tags": [
       "Ownership Coins",
       "Decision Markets",
-      "Analysis"
+      "Analysis",
+      "project:solomon"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5918,7 +6075,8 @@
     "tags": [
       "Ownership Podcast",
       "Ownership Coins",
-      "Futarchy"
+      "Futarchy",
+      "project:credible"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5939,7 +6097,8 @@
     "tags": [
       "Ownership Podcast",
       "Ownership Coins",
-      "Futarchy"
+      "Futarchy",
+      "project:solomon"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -5960,7 +6119,8 @@
     "tags": [
       "Ownership Podcast",
       "Ownership Coins",
-      "Futarchy"
+      "Futarchy",
+      "project:laso-finance"
     ],
     "dateKind": "publication",
     "datePrecision": "day",
@@ -6151,5 +6311,1973 @@
     "checkedAt": "2026-10-08",
     "sourceUrl": "https://blog.kleros.io/advance-decision-markets-kleros-fellowship-offers-up-to-5-000/",
     "evidenceNote": "Official dated program announcement reviewed, including market selection and committee discretion. This describes the announced design, not completed fellowship results."
+  },
+  {
+    "id": "company-ripcars",
+    "title": "Rip Cars on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/ripcars",
+    "description": "MetaDAO company record. Collectible Hot Wheels marketplace with inventory funded through MetaDAO.",
+    "tags": [
+      "MetaDAO",
+      "Rip Cars",
+      "Project Page",
+      "project:ripcars"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/ripcars",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-credible",
+    "title": "Credible on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/credible",
+    "description": "MetaDAO company record. Payments infrastructure using local payment rails and stablecoin settlement.",
+    "tags": [
+      "MetaDAO",
+      "Credible",
+      "Project Page",
+      "project:credible"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/credible",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-laso-finance",
+    "title": "Laso Finance on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/laso-finance",
+    "description": "MetaDAO company record. Financial tools for AI agents, including payment infrastructure.",
+    "tags": [
+      "MetaDAO",
+      "Laso Finance",
+      "Project Page",
+      "project:laso-finance"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/laso-finance",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-jurassic-finance",
+    "title": "Jurassic Finance on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/jurassic-finance",
+    "description": "MetaDAO company record. Business developing tokenized ownership structures for dinosaur fossils.",
+    "tags": [
+      "MetaDAO",
+      "Jurassic Finance",
+      "Project Page",
+      "project:jurassic-finance"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/jurassic-finance",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-ordr",
+    "title": "Ordr on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/ordr",
+    "description": "MetaDAO company record. On-chain order-book infrastructure and market-making tools.",
+    "tags": [
+      "MetaDAO",
+      "Ordr",
+      "Project Page",
+      "project:ordr"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/ordr",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-kimia",
+    "title": "Kimia on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/kimia",
+    "description": "MetaDAO company record. Funding-rate derivatives and vault project; its liquidation proposal failed.",
+    "tags": [
+      "MetaDAO",
+      "Kimia",
+      "Project Page",
+      "project:kimia"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/kimia",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-gesim",
+    "title": "GeSIM on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/gesim",
+    "description": "MetaDAO company record. Mobile connectivity project focused on privacy and eSIM access.",
+    "tags": [
+      "MetaDAO",
+      "GeSIM",
+      "Project Page",
+      "project:gesim"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/gesim",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-hivebits",
+    "title": "HiveBits on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/hivebits",
+    "description": "MetaDAO company record. Project proposing tokenized beehives and connected beekeeping infrastructure.",
+    "tags": [
+      "MetaDAO",
+      "HiveBits",
+      "Project Page",
+      "project:hivebits"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/hivebits",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-basket",
+    "title": "Basket on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/basket",
+    "description": "MetaDAO company record. Thematic portfolios represented by Solana tokens; funded after a Spark competition.",
+    "tags": [
+      "MetaDAO",
+      "Basket",
+      "Project Page",
+      "project:basket"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/basket",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-lfown",
+    "title": "LFOwn on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/lfown",
+    "description": "MetaDAO company record. Spark-originated launchpad pairing meme coins with ownership coins.",
+    "tags": [
+      "MetaDAO",
+      "LFOwn",
+      "Project Page",
+      "project:lfown"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/lfown",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-areal-finance",
+    "title": "Areal Finance on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/areal-finance",
+    "description": "MetaDAO company record. Project proposing acquisitions of businesses and income-producing assets.",
+    "tags": [
+      "MetaDAO",
+      "Areal Finance",
+      "Project Page",
+      "project:areal-finance"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/areal-finance",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-accrue",
+    "title": "ACCRUE on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/accrue",
+    "description": "MetaDAO company record. Spark-originated concept for productive tokenized stock exposure.",
+    "tags": [
+      "MetaDAO",
+      "ACCRUE",
+      "Project Page",
+      "project:accrue"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/accrue",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "company-predict",
+    "title": "PREDICT on MetaDAO",
+    "author": "MetaDAO",
+    "date": null,
+    "type": "article",
+    "url": "https://metadao.fi/companies/predict",
+    "description": "MetaDAO company record. Prediction-market AMM implementation and developer ecosystem.",
+    "tags": [
+      "MetaDAO",
+      "PREDICT",
+      "Project Page",
+      "project:predict"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/companies/predict",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement."
+  },
+  {
+    "id": "decision-cars-004",
+    "title": "Rip Cars: Unlock $250K for Inventory",
+    "author": "MetaDAO proposal record",
+    "date": "2026-10-02",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/cars-004",
+    "description": "Proposes expanding collectible inventory with treasury capital. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Rip Cars",
+      "Governance",
+      "Passed",
+      "project:ripcars"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/cars-004",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-cars-002",
+    "title": "Rip Cars: Reconfigure Founder Liquidity",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-02",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/cars-002",
+    "description": "Proposes changing the founder package cliff and limiting monthly token sales. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Rip Cars",
+      "Governance",
+      "Passed",
+      "project:ripcars"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/cars-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-cars-001",
+    "title": "Rip Cars: Rip Cars — Additional Capital for Launch",
+    "author": "MetaDAO proposal record",
+    "date": "2026-08-14",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/cars-001",
+    "description": "Requests additional operating capital before the marketplace launch. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Rip Cars",
+      "Governance",
+      "Passed",
+      "project:ripcars"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/cars-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-cred-002",
+    "title": "Credible: $500,000 USDC, drawn from Credible's own raised treasury, 3-month rolling facility",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-24",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/cred-002",
+    "description": "Requests treasury funding for a revolving settlement facility. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Credible",
+      "Governance",
+      "Passed",
+      "project:credible"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/cred-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-cred-001",
+    "title": "Credible: Convert up to $250,000 of Credible Treasury USDC to USDv",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-16",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/cred-001",
+    "description": "Proposes allocating a portion of treasury stablecoins to USDv. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Credible",
+      "Governance",
+      "Passed",
+      "project:credible"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/cred-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-laso-001",
+    "title": "Laso Finance: Increase Team Allowance to $68,333/mo",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-24",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/laso-001",
+    "description": "Requests a higher monthly team budget to support hiring and development. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Laso Finance",
+      "Governance",
+      "Passed",
+      "project:laso-finance"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/laso-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-avici-001",
+    "title": "Avici: #1 - Go Big Or Go Home",
+    "author": "MetaDAO proposal record",
+    "date": "2026-03-30",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/avici-001",
+    "description": "Proposes performance-linked team incentives and a treasury upgrade. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Avici",
+      "Governance",
+      "Passed",
+      "project:avici"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/avici-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-umbra-006",
+    "title": "Umbra: Convert Up to $300,000 of Umbra (Phoenix DAO) Treasury USDC to USDv",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-15",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-006",
+    "description": "Proposes a capped treasury allocation to USDv. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Governance",
+      "Passed",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-006",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-umbra-005",
+    "title": "Umbra: UMBRA Buyback",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-08",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-005",
+    "description": "Proposes a time-limited token repurchase program with a price constraint. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Governance",
+      "Passed",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-005",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-solo-004",
+    "title": "Solomon: Preparing SOLO for Global Markets",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-04",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/solo-004",
+    "description": "Proposes removing a single-sided liquidity position and returning SOLO to the treasury. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Governance",
+      "Passed",
+      "project:solomon"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/solo-004",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-solo-003",
+    "title": "Solomon: DP-00003 (MEM): The Gigabus Proposal",
+    "author": "MetaDAO proposal record",
+    "date": "2026-04-20",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/solo-003",
+    "description": "Bundles treasury deployment, governance controls and post-formation actions. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Governance",
+      "Passed",
+      "project:solomon"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/solo-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-solo-002",
+    "title": "Solomon: DP-00002 (MEM): SOLO Acquisition and Restricted Incentives Reserve Framework",
+    "author": "MetaDAO proposal record",
+    "date": "2026-03-13",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/solo-002",
+    "description": "Proposes treasury-funded SOLO acquisitions and an incentive reserve. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Governance",
+      "Passed",
+      "project:solomon"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/solo-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-solo-001",
+    "title": "Solomon: DP-00001 (MEM): Treasury Subcommittee (Pre-Formation) and Legal Budget",
+    "author": "MetaDAO proposal record",
+    "date": "2026-03-05",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/solo-001",
+    "description": "Proposes a legal budget and a preparatory treasury committee. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Governance",
+      "Passed",
+      "project:solomon"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/solo-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-omfg-006",
+    "title": "Omnipair: Convert up to $130,000 of Omnipair Treasury USDC to USDv",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-17",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/omfg-006",
+    "description": "Proposes staged conversion of a capped treasury allocation into USDv. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Omnipair",
+      "Governance",
+      "Passed",
+      "project:omnipair"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/omfg-006",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-omfg-005",
+    "title": "Omnipair: OMFG-005: Strategic Raise via OTC Sale at a premium or higher",
+    "author": "MetaDAO proposal record",
+    "date": "2026-05-04",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/omfg-005",
+    "description": "Proposes a limited token issuance for strategic investors. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Omnipair",
+      "Governance",
+      "Passed",
+      "project:omnipair"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/omfg-005",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-omfg-004",
+    "title": "Omnipair: OMFG-004 Strategic Ecosystem Investment",
+    "author": "MetaDAO proposal record",
+    "date": "2026-03-12",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/omfg-004",
+    "description": "Requests a treasury investment connected to the Spark ecosystem. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Omnipair",
+      "Governance",
+      "Passed",
+      "project:omnipair"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/omfg-004",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-omfg-003",
+    "title": "Omnipair: OMFG-003 Migrate To V0.6",
+    "author": "MetaDAO proposal record",
+    "date": "2026-02-16",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/omfg-003",
+    "description": "Proposes moving the DAO and its liquidity to a newer MetaDAO program. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Omnipair",
+      "Governance",
+      "Passed",
+      "project:omnipair"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/omfg-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-rawr-001",
+    "title": "Jurassic Finance: Establish Legal Structure for First SPV",
+    "author": "MetaDAO proposal record",
+    "date": "2026-06-01",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/rawr-001",
+    "description": "Requests legal work for the first fossil ownership structure. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Jurassic Finance",
+      "Governance",
+      "Passed",
+      "project:jurassic-finance"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/rawr-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-kimia-001",
+    "title": "Kimia: Authorizes the orderly liquidation of the Kimia treasury and the return of IP to the original owners",
+    "author": "MetaDAO proposal record",
+    "date": "2026-08-19",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/kimia-001",
+    "description": "Proposes winding down the treasury and returning intellectual property. MetaDAO displayed failed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Kimia",
+      "Governance",
+      "Failed",
+      "project:kimia"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/kimia-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-futardio-006",
+    "title": "Futardio Cult: Blockformer x Futardio Cult — Q4 2026 Growth Partnership Renewal",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-28",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/futardio-006",
+    "description": "Proposes continuing a community growth engagement through the fourth quarter. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Futardio Cult",
+      "Governance",
+      "Passed",
+      "project:futardio-cult"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/futardio-006",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-futardio-005",
+    "title": "Futardio Cult: Blockformer x Futardio Cult — 3-Month Growth Partnership Renewal",
+    "author": "MetaDAO proposal record",
+    "date": "2026-07-08",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/futardio-005",
+    "description": "Requests a three-month extension of the community marketing engagement. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Futardio Cult",
+      "Governance",
+      "Passed",
+      "project:futardio-cult"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/futardio-005",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-futardio-004",
+    "title": "Futardio Cult: Proposal: Hire @vukan0x and His Team as Lead Content Creator / Social Media Manager",
+    "author": "MetaDAO proposal record",
+    "date": "2026-05-06",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/futardio-004",
+    "description": "Proposes a trial engagement for content and social-media support. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Futardio Cult",
+      "Governance",
+      "Passed",
+      "project:futardio-cult"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/futardio-004",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-futardio-003",
+    "title": "Futardio Cult: Attempts to drain the treasury by granting wallet HjWP9H8s…SbEa an unlimited one-time USDC spending limit to any address",
+    "author": "MetaDAO proposal record",
+    "date": "2026-04-11",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/futardio-003",
+    "description": "Records a rejected request for unrestricted treasury spending authority. MetaDAO displayed failed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Futardio Cult",
+      "Governance",
+      "Failed",
+      "project:futardio-cult"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/futardio-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-loyal-003",
+    "title": "Loyal: Autonomous treasury vaults, OTC, incentives and governance updates",
+    "author": "MetaDAO proposal record",
+    "date": "2026-07-22",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/loyal-003",
+    "description": "Bundles a treasury smart account, an OTC transaction, incentives and governance changes. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Governance",
+      "Passed",
+      "project:loyal"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/loyal-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-loyal-002",
+    "title": "Loyal: Liquidity Adjustment Proposal",
+    "author": "MetaDAO proposal record",
+    "date": "2025-12-23",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/loyal-002",
+    "description": "Proposes withdrawing liquidity and destroying the recovered project tokens. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Governance",
+      "Passed",
+      "project:loyal"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/loyal-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-loyal-001",
+    "title": "Loyal: Buyback Loyal Up To NAV",
+    "author": "MetaDAO proposal record",
+    "date": "2025-11-26",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/loyal-001",
+    "description": "Proposes a treasury-funded token repurchase with a maximum price. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Governance",
+      "Passed",
+      "project:loyal"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/loyal-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-basket-002",
+    "title": "Basket: Updates the DAO parameters to set proposal duration to 24 hours and TWAP start delay to 8 hours",
+    "author": "MetaDAO proposal record",
+    "date": "2026-08-21",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/basket-002",
+    "description": "Proposes shorter decision markets and a revised averaging delay. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Basket",
+      "Governance",
+      "Passed",
+      "project:basket"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/basket-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-basket-001",
+    "title": "Basket: Redeploys 25% of the futarchy AMM liquidity to Omnipair, moving 479,000 tokens and 382 USDC",
+    "author": "MetaDAO proposal record",
+    "date": "2026-08-07",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/basket-001",
+    "description": "Proposes reallocating part of the existing liquidity to Omnipair. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Basket",
+      "Governance",
+      "Passed",
+      "project:basket",
+      "project:omnipair"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/basket-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-lfown-003",
+    "title": "LFOwn: Allocate $500 USDC for LFOWN Marketing",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-18",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/lfown-003",
+    "description": "Requests a small treasury allocation for launchpad marketing. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "LFOwn",
+      "Governance",
+      "Passed",
+      "project:lfown"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/lfown-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-lfown-002",
+    "title": "LFOwn: Moves the Meteora LP position to Spark and shortens decision markets to 24 hours",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-15",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/lfown-002",
+    "description": "Proposes a liquidity migration and shorter decision markets. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "LFOwn",
+      "Governance",
+      "Passed",
+      "project:lfown"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/lfown-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-lfown-001",
+    "title": "LFOwn: Recognize Spark as Core Contributor and Authorize a $58.71/mo Allowance",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-10",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/lfown-001",
+    "description": "Proposes recognizing the Spark contributors and covering recurring infrastructure costs. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "LFOwn",
+      "Governance",
+      "Passed",
+      "project:lfown"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/lfown-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-arl-001",
+    "title": "Areal Finance: ARL-001: Foundation",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-30",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/arl-001",
+    "description": "Proposes final issuance, team allocations and removal of mint authority. The proposal remained unresolved when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Areal Finance",
+      "Governance",
+      "Unresolved",
+      "project:areal-finance"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/arl-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-accrue-001",
+    "title": "ACCRUE: Moves the Meteora LP position to Spark and shortens decision markets to 24 hours",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-15",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/accrue-001",
+    "description": "Proposes a liquidity migration and shorter decision markets. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "ACCRUE",
+      "Governance",
+      "Passed",
+      "project:accrue"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/accrue-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-super-002",
+    "title": "Superclaw: Burn 2M Team Performance Package + Approve Q2 Roadmap",
+    "author": "MetaDAO proposal record",
+    "date": "2026-04-06",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/super-002",
+    "description": "Proposes cancelling the team incentive allocation and adopting a quarterly roadmap. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Superclaw",
+      "Governance",
+      "Passed",
+      "project:superclaw"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/super-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-super-001",
+    "title": "Superclaw: Liquidation Proposal for $SUPER",
+    "author": "MetaDAO proposal record",
+    "date": "2026-03-25",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/super-001",
+    "description": "Records a rejected proposal to wind down the treasury. MetaDAO displayed failed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Superclaw",
+      "Governance",
+      "Failed",
+      "project:superclaw"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/super-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-predict-003",
+    "title": "PREDICT: Transfers Meteora LP to Spark",
+    "author": "MetaDAO proposal record",
+    "date": "2026-10-07",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/predict-003",
+    "description": "Proposes moving a liquidity position to Spark. The proposal remained unresolved when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "PREDICT",
+      "Governance",
+      "Unresolved",
+      "project:predict"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/predict-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-predict-002",
+    "title": "PREDICT: Transfer $1,000 to sponsor SOLANA Hackathon",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-25",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/predict-002",
+    "description": "Requests sponsorship of a developer competition using the project AMM. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "PREDICT",
+      "Governance",
+      "Passed",
+      "project:predict"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/predict-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-predict-001",
+    "title": "PREDICT: Transfers Meteora LP to Spark, shortens decision markets to 24 hours, and mints 2,000,000 tokens to an external wallet",
+    "author": "MetaDAO proposal record",
+    "date": "2026-09-22",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/predict-001",
+    "description": "Combines a liquidity migration, shorter markets and additional token issuance. MetaDAO displayed failed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "PREDICT",
+      "Governance",
+      "Failed",
+      "project:predict"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/predict-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-pays-002",
+    "title": "Paystream: Restructure Paystream",
+    "author": "MetaDAO proposal record",
+    "date": "2026-05-26",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/pays-002",
+    "description": "Proposes reducing operating costs, offering redemptions and changing team incentives. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Paystream",
+      "Governance",
+      "Passed",
+      "project:paystream"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/pays-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-pays-001",
+    "title": "Paystream: PAYS $225k Buyback",
+    "author": "MetaDAO proposal record",
+    "date": "2026-01-16",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/pays-001",
+    "description": "Proposes a capped treasury-funded token repurchase. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Paystream",
+      "Governance",
+      "Passed",
+      "project:paystream"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/pays-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-rngr-003",
+    "title": "Ranger: Liquidate Ranger Finance",
+    "author": "MetaDAO proposal record",
+    "date": "2026-03-02",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/rngr-003",
+    "description": "Proposes returning treasury funds to eligible holders and transferring intellectual property. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Ranger",
+      "Governance",
+      "Passed",
+      "project:ranger"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/rngr-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-rngr-001",
+    "title": "Ranger: RNGR $2M Buyback",
+    "author": "MetaDAO proposal record",
+    "date": "2026-01-12",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/rngr-001",
+    "description": "Proposes a treasury-funded repurchase at a specified maximum price. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Ranger",
+      "Governance",
+      "Passed",
+      "project:ranger"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/rngr-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-zkfg-008",
+    "title": "ZKLSOL / ZKFG: Take ZKFG private round 2",
+    "author": "MetaDAO proposal record",
+    "date": "2026-06-17",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/zkfg-008",
+    "description": "Proposes a revised take-private process using escrow and holder participation. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "ZKLSOL / ZKFG",
+      "Governance",
+      "Passed",
+      "project:zklsol"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/zkfg-008",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-zkfg-007",
+    "title": "ZKLSOL / ZKFG: Take ZKFG private",
+    "author": "MetaDAO proposal record",
+    "date": "2026-06-12",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/zkfg-007",
+    "description": "Records the earlier take-private proposal that did not pass. MetaDAO displayed failed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "ZKLSOL / ZKFG",
+      "Governance",
+      "Failed",
+      "project:zklsol"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/zkfg-007",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-zkfg-006",
+    "title": "ZKLSOL / ZKFG: Authorize ZKFG Liquidation Offer Capped at $0.15 per Token",
+    "author": "MetaDAO proposal record",
+    "date": "2026-06-09",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/zkfg-006",
+    "description": "Proposes a capped liquidation offer. The outcome label alone does not establish completion. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "ZKLSOL / ZKFG",
+      "Governance",
+      "Passed",
+      "project:zklsol"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/zkfg-006",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-zkfg-005",
+    "title": "ZKLSOL / ZKFG: Authorize OTC Sale of up to 2,000,000 ZKFG at a 25% Market Discount",
+    "author": "MetaDAO proposal record",
+    "date": "2026-06-04",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/zkfg-005",
+    "description": "Proposes a discounted OTC sale subject to treasury settlement conditions. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "ZKLSOL / ZKFG",
+      "Governance",
+      "Passed",
+      "project:zklsol"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/zkfg-005",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-zkfg-004",
+    "title": "ZKLSOL / ZKFG: ZKFG Restructuring Proposal",
+    "author": "MetaDAO proposal record",
+    "date": "2026-02-07",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/zkfg-004",
+    "description": "Proposes token acquisitions and withdrawing part of the liquidity into treasury. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "ZKLSOL / ZKFG",
+      "Governance",
+      "Passed",
+      "project:zklsol"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/zkfg-004",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-p2p-001",
+    "title": "P2P Protocol: P2P Buyback Program",
+    "author": "MetaDAO proposal record",
+    "date": "2026-04-03",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/p2p-001",
+    "description": "Proposes a treasury-funded repurchase program with a maximum token price. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "P2P Protocol",
+      "Governance",
+      "Passed",
+      "project:p2p-protocol"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/p2p-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-umbra-004",
+    "title": "Umbra: Transfers 1,568,349.29 USDC from the treasury to an external wallet",
+    "author": "MetaDAO proposal record",
+    "date": "2026-07-31",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-004",
+    "description": "Records a rejected proposal to transfer treasury funds to an outside wallet. MetaDAO displayed failed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Governance",
+      "Failed",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-004",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-umbra-003",
+    "title": "Umbra: UMBRA-003: Align Strategic Investors and Rebalance Liquidity",
+    "author": "MetaDAO proposal record",
+    "date": "2026-05-01",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-003",
+    "description": "Proposes liquidity changes and allocations for strategic investors. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Governance",
+      "Passed",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-003",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-umbra-002",
+    "title": "Umbra: Umbra: Road to Mainnet & Operational Expansion",
+    "author": "MetaDAO proposal record",
+    "date": "2026-01-13",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-002",
+    "description": "Requests funding for launch preparations and operating expansion. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Governance",
+      "Passed",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "decision-umbra-001",
+    "title": "Umbra: Umbra-001 - Fund Umbra Security Audits",
+    "author": "MetaDAO proposal record",
+    "date": "2025-11-12",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-001",
+    "description": "Requests treasury funding for external security reviews. MetaDAO displayed passed when checked on 2026-10-08.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Governance",
+      "Passed",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-001",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the rendered proposal summary, market outcome and Created on field. Date is proposal creation, not resolution or execution. Outcome is a platform label checked on 2026-10-08."
+  },
+  {
+    "id": "update-loyal-july-no-kings-or-gods-just-dogs",
+    "title": "july: no kings or gods, just dogs",
+    "author": "Loyal",
+    "date": "2026-08-11",
+    "type": "article",
+    "url": "https://askloyal.com/blog/july-no-kings-or-gods-just-dogs",
+    "description": "Loyal reports adoption of Earn, Seeker distribution and deployment of its treasury smart account. Figures are team-reported.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/july-no-kings-or-gods-just-dogs",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Aug 11, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-almost-pmf-and-a-roadmap-update",
+    "title": "(Almost?) PMF, a roadmap update, and what's next",
+    "author": "Loyal",
+    "date": "2026-07-18",
+    "type": "article",
+    "url": "https://askloyal.com/blog/almost-pmf-and-a-roadmap-update",
+    "description": "The founders discuss early Earn adoption, mobile distribution and the next product priorities.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/almost-pmf-and-a-roadmap-update",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jul 18, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-ginormous-june",
+    "title": "Ginormous June",
+    "author": "Loyal",
+    "date": "2026-07-08",
+    "type": "article",
+    "url": "https://askloyal.com/blog/ginormous-june",
+    "description": "Loyal describes the rollout of automated yield routing and balance sweeps, with team-reported adoption metrics.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/ginormous-june",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jul 8, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-passive-rewards-from-stables-you-already-own",
+    "title": "Big Passive Rewards, from Stables you Already Own",
+    "author": "Loyal",
+    "date": "2026-06-30",
+    "type": "article",
+    "url": "https://askloyal.com/blog/passive-rewards-from-stables-you-already-own",
+    "description": "Product explanation of automated stablecoin routing and balance sweeps. Promotional yield and risk claims are the publisher’s claims.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/passive-rewards-from-stables-you-already-own",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jun 30, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-may-was-good-to-us",
+    "title": "May was good to us",
+    "author": "Loyal",
+    "date": "2026-06-07",
+    "type": "article",
+    "url": "https://askloyal.com/blog/may-was-good-to-us",
+    "description": "Monthly update on the Seeker application, private balances, yield integration and treasury runway.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/may-was-good-to-us",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jun 7, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-week-21-at-loyal",
+    "title": "Week 21 at Loyal",
+    "author": "Loyal",
+    "date": "2026-05-19",
+    "type": "article",
+    "url": "https://askloyal.com/blog/week-21-at-loyal",
+    "description": "Reports a browser application release with sponsored smart accounts and multisig support.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/week-21-at-loyal",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (May 19, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-week-20-at-loyal",
+    "title": "Week 20 at Loyal",
+    "author": "Loyal",
+    "date": "2026-05-11",
+    "type": "article",
+    "url": "https://askloyal.com/blog/week-20-at-loyal",
+    "description": "Reports reduced shielding fees and progress on smart-account permissions and mobile distribution.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/week-20-at-loyal",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (May 11, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-week-19-at-loyal",
+    "title": "Week 19 at Loyal",
+    "author": "Loyal",
+    "date": "2026-05-03",
+    "type": "article",
+    "url": "https://askloyal.com/blog/week-19-at-loyal",
+    "description": "Update following the Seeker launch, covering the website, desktop app and distribution plans.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/week-19-at-loyal",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (May 3, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-umbra-umbra-proposal-003-passed-otc",
+    "title": "Umbra Proposal 003 (Passed) & OTC",
+    "author": "Umbra",
+    "date": "2026-05-06",
+    "type": "article",
+    "url": "https://hub.umbraprivacy.com/announcement/umbra-proposal-003-(passed)-otc",
+    "description": "Umbra reports the proposal outcome and initial strategic OTC allocations. This company update is distinct from the original proposal.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Project Update",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://hub.umbraprivacy.com/announcement/umbra-proposal-003-(passed)-otc",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (May 6, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-umbra-umbra-app-extension",
+    "title": "Umbra App + Extension",
+    "author": "Umbra",
+    "date": "2026-04-13",
+    "type": "article",
+    "url": "https://hub.umbraprivacy.com/announcement/umbra-app-extension",
+    "description": "Umbra announces mobile applications and a browser extension for private transfers and swaps.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Project Update",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://hub.umbraprivacy.com/announcement/umbra-app-extension",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Apr 13, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-umbra-v2-docs-are-live",
+    "title": "v2 Docs are Live",
+    "author": "Umbra",
+    "date": "2026-01-15",
+    "type": "article",
+    "url": "https://hub.umbraprivacy.com/announcement/v2-docs-are-live",
+    "description": "Announces technical documentation covering balances, addresses, transfers and compliance features.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Project Update",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://hub.umbraprivacy.com/announcement/v2-docs-are-live",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jan 15, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-umbra-umbra-proposal-002",
+    "title": "Umbra Proposal 002",
+    "author": "Umbra",
+    "date": "2026-01-14",
+    "type": "article",
+    "url": "https://hub.umbraprivacy.com/announcement/umbra-proposal-002",
+    "description": "Explains proposed launch funding and the planned phased mainnet rollout.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Project Update",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://hub.umbraprivacy.com/announcement/umbra-proposal-002",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jan 14, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-umbra-announcing-the-umbra-hub",
+    "title": "Announcing The Umbra Hub",
+    "author": "Umbra",
+    "date": "2025-12-21",
+    "type": "article",
+    "url": "https://hub.umbraprivacy.com/announcement/announcing-the-umbra-hub",
+    "description": "Introduces the project’s announcement hub and outlines work following its raise.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Project Update",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://hub.umbraprivacy.com/announcement/announcing-the-umbra-hub",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Dec 21, 2025). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-umbra-umbra-proposal-01-completed",
+    "title": "Umbra Proposal 001 (Passed)",
+    "author": "Umbra",
+    "date": "2025-11-16",
+    "type": "article",
+    "url": "https://hub.umbraprivacy.com/announcement/umbra-proposal-01-completed",
+    "description": "Umbra reports completion of an external security review; this announcement is not an independent security assessment.",
+    "tags": [
+      "MetaDAO",
+      "Umbra",
+      "Project Update",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://hub.umbraprivacy.com/announcement/umbra-proposal-01-completed",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Nov 16, 2025). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-solomon-winding-down-the-original-usdv",
+    "title": "Winding Down the Original USDv",
+    "author": "Solomon",
+    "date": "2026-08-28",
+    "type": "article",
+    "url": "https://blog.solomonlabs.org/p/winding-down-the-original-usdv",
+    "description": "Announces retirement of the legacy USDv and sUSDv system ahead of a separate new token system, with transition deadlines.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Project Update",
+      "project:solomon"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.solomonlabs.org/p/winding-down-the-original-usdv",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Aug 28, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-solomon-solomon-joins-global-dollar-network",
+    "title": "Solomon Joins Global Dollar Network",
+    "author": "Solomon",
+    "date": "2026-04-30",
+    "type": "article",
+    "url": "https://blog.solomonlabs.org/p/solomon-joins-global-dollar-network",
+    "description": "Announces network membership and acceptance of USDG as collateral for USDv.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Project Update",
+      "project:solomon"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.solomonlabs.org/p/solomon-joins-global-dollar-network",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Apr 30, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-solomon-gold-liquidity-reimagined",
+    "title": "Gold Liquidity, Reimagined",
+    "author": "Solomon",
+    "date": "2026-03-25",
+    "type": "article",
+    "url": "https://blog.solomonlabs.org/p/gold-liquidity-reimagined",
+    "description": "Reproduces an Oro announcement about a GOLD/USDv pool and rewards for eligible liquidity providers. Date is this republication.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Project Update",
+      "project:solomon"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.solomonlabs.org/p/gold-liquidity-reimagined",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Mar 25, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-solomon-custodian-attestation-of-assets-backing",
+    "title": "Custodian Attestation of Assets Backing USDv: March 2026",
+    "author": "Solomon",
+    "date": "2026-03-24",
+    "type": "article",
+    "url": "https://blog.solomonlabs.org/p/custodian-attestation-of-assets-backing",
+    "description": "Explains a limited custody attestation and its exclusions. The post is dated March 24; its embedded report states March 20 and a March 1 snapshot.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Project Update",
+      "project:solomon"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.solomonlabs.org/p/custodian-attestation-of-assets-backing",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Mar 24, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-solomon-lab-notes-05",
+    "title": "Lab Notes 05",
+    "author": "Solomon",
+    "date": "2026-03-08",
+    "type": "article",
+    "url": "https://blog.solomonlabs.org/p/lab-notes-05",
+    "description": "Team update on YaaS integration, governance plans, audit work and rollout constraints.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Project Update",
+      "project:solomon"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.solomonlabs.org/p/lab-notes-05",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Mar 08, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-solomon-solomon-lab-notes-04",
+    "title": "Solomon Lab Notes 04",
+    "author": "Solomon",
+    "date": "2026-01-21",
+    "type": "article",
+    "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-04",
+    "description": "Team update on audit preparations, hiring, legal work, infrastructure and rollout planning.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Project Update",
+      "project:solomon"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.solomonlabs.org/p/solomon-lab-notes-04",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jan 21, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-solomon-avici-and-solomon-labs-partner-to",
+    "title": "Solomon x Avici",
+    "author": "Solomon",
+    "date": "2026-01-07",
+    "type": "article",
+    "url": "https://blog.solomonlabs.org/p/avici-and-solomon-labs-partner-to",
+    "description": "Announces a planned integration of yield distribution with eligible Avici spending balances.",
+    "tags": [
+      "MetaDAO",
+      "Solomon",
+      "Project Update",
+      "project:solomon",
+      "project:avici"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.solomonlabs.org/p/avici-and-solomon-labs-partner-to",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the publisher article body and displayed publication date (Jan 07, 2026). Summary attributes project claims; it does not independently verify metrics or execution."
+  },
+  {
+    "id": "update-loyal-week-17",
+    "title": "Week 17 at Loyal",
+    "author": "Loyal",
+    "date": "2026-04-24",
+    "type": "article",
+    "url": "https://askloyal.com/blog/week-17-at-loyal",
+    "description": "Reports the browser extension release and publication of a quarterly spending and progress report.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Project Update",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/blog/week-17-at-loyal",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Read the official article body and displayed April 24, 2026 publication date. Product and spending statements are attributed to the team."
   }
 ]

@@ -192,6 +192,27 @@
       "sourceId": "gnosis-forum",
       "discoveredAt": "2026-10-09",
       "status": "pending"
+    },
+    {
+      "url": "https://askloyal.com/blog/markets-down-the-lower-risk-play",
+      "title": "Markets Down. The Lower-Risk Play that Survives Red Days. Jun 6, 2026",
+      "sourceId": "loyal-updates",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://hub.umbraprivacy.com/announcement/breakpoint-abu-dhabi",
+      "title": "Read More",
+      "sourceId": "umbra-updates",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://blog.solomonlabs.org/p/solomons-synthetic-dollar-in-a-declining",
+      "title": "Solomon's Synthetic Dollar in a Declining Treasury Market",
+      "sourceId": "solomon-updates",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
     }
   ],
   "sources": {
@@ -254,6 +275,21 @@
       "status": "ok",
       "lastSuccess": "2026-10-09",
       "links": 1
+    },
+    "loyal-updates": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 9
+    },
+    "umbra-updates": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 7
+    },
+    "solomon-updates": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 14
     }
   }
 }

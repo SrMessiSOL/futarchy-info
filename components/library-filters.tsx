@@ -7,7 +7,11 @@ import { Badge } from "@/components/ui/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { resources } from "@/lib/resources-data"
 
+import projects from "@/content/projects.json"
+
 interface LibraryFiltersProps {
+  project: string
+  setProject: Dispatch<SetStateAction<string>>
   activeFilters: string[]
   setActiveFilters: Dispatch<SetStateAction<string[]>>
   sortBy: string
@@ -17,6 +21,7 @@ interface LibraryFiltersProps {
 }
 
 export function LibraryFilters({
+  project, setProject,
   activeFilters,
   setActiveFilters,
   sortBy,
@@ -50,6 +55,14 @@ export function LibraryFilters({
         </div>
 
         <div className="flex flex-wrap gap-3">
+          <Select value={project} onValueChange={setProject}>
+            <SelectTrigger className="w-[220px]" aria-label="Filter by project"><SelectValue /></SelectTrigger>
+            <SelectContent>
+              <SelectItem value="all">All resources</SelectItem>
+              <SelectItem value="ecosystem">All raised projects</SelectItem>
+              {[...projects].sort((a,b)=>a.name.localeCompare(b.name)).map(p=><SelectItem key={p.id} value={p.id}>{p.name}{p.coverage === 'failed-raise' ? ' (failed raise)' : ''}</SelectItem>)}
+            </SelectContent>
+          </Select>
           <Select value={sortBy} onValueChange={setSortBy}>
             <SelectTrigger className="w-[180px]">
               <Calendar className="mr-2 h-4 w-4" />

@@ -90,7 +90,7 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
         {resource.tags && resource.tags.length > 0 && (
           <div className="mt-auto pt-5">
             <div className="flex flex-wrap gap-1">
-              {resource.tags.slice(0, 3).map((tag) => (
+              {resource.tags.filter(tag => !tag.startsWith("project:")).slice(0, 3).map((tag) => (
                 <Badge key={tag} variant="outline" className="rounded-md border-primary/25 text-xs text-foreground/80">
                   {tag}
                 </Badge>

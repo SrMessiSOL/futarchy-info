@@ -7,7 +7,7 @@ const read=async p=>JSON.parse(await readFile(p,'utf8'));
 const sources=await read('maintenance/sources.json');
 const state=await read('maintenance/discovery.json');
 const known=new Set((await read('content/resources.json')).map(r=>canonicalUrl(r.url)));
-const candidates=state.candidates.filter(c=>c.status==='pending'&&!known.has(canonicalUrl(c.url))).sort((a,b)=>b.discoveredAt.localeCompare(a.discoveredAt));
+const candidates=state.candidates.filter(c=>sources.some(s=>s.id===c.sourceId)&&c.status==='pending'&&!known.has(canonicalUrl(c.url))).sort((a,b)=>b.discoveredAt.localeCompare(a.discoveredAt));
 const evidence=[];
 // Round-robin sources, then rotate within each source to keep a large archive from crowding out smaller feeds.
 for(const candidate of selectCandidates(candidates,Math.floor(Date.now()/604800000))) {

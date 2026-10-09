@@ -52,3 +52,7 @@ npm run content:audit
 Discovery and evidence commands use the public internet. An unchanged scan creates no new candidates. Health checks never mark an article source-checked. Local reports and temporary source text live in ignored `work/`; only provenance metadata is exported by the workflow. See `maintenance/sources.json` to review allowed sources and `maintenance/editorial-prompt.md` for the saved agent instructions.
 
 To pause upkeep, disable the relevant workflow in GitHub Actions. To roll back a published content batch, revert its merge commit; preserve historical resource IDs.
+
+## MetaDAO project coverage
+
+The library tracks the raised-project roster in `content/projects.json`, including historical projects and failed raises as separate categories. Browse by project in the website. See [the coverage report](maintenance/backfill-coverage.md) for source checks, project counts, and limitations. Automated reviews prioritize project updates and decisions; general futarchy history remains available.

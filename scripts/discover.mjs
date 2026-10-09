@@ -1,5 +1,6 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
-import { safeFetch, extractLinks } from './network.mjs';
+import { safeFetch } from './network.mjs';
+import { sourceLinks } from './source-links.mjs';
 import { canonicalUrl } from './catalog.mjs';
 export function mergeCandidates(state, links, sourceId, known, today) {
   const pending=new Set(state.candidates.map(c=>canonicalUrl(c.url)));
@@ -21,7 +22,7 @@ export async function discover() {
     try {
       const result=await safeFetch(source.url,{hosts:source.hosts});
       if(result.status!==200)throw new Error(`HTTP ${result.status}`);
-      const links=extractLinks(result.text,source);
+      const links=sourceLinks(result.text,source);
       if(!links.length)throw new Error('No matching links; source may require JavaScript or its structure changed');
       total+=mergeCandidates(state,links,source.id,known,today);
       state.sources[source.id]={status:'ok',lastSuccess:today,links:links.length};

@@ -21,33 +21,239 @@
       "sourceId": "01resolved",
       "discoveredAt": "2026-10-08",
       "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/part-1-how-to-read-a-futarchy-based-decision-market/",
+      "title": "part 1 how to read a futarchy based decision market",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/how-a-decision-market-liquidated-ranger-finance/",
+      "title": "how a decision market liquidated ranger finance",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/when-uncontentious-futarchy-markets-are-decided-pre-twap/",
+      "title": "when uncontentious futarchy markets are decided pre twap",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/01resolved-launches-telegram-signals-for-ownership-coins-and-decision-markets/",
+      "title": "01resolved launches telegram signals for ownership coins and decision markets",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/01resolved-decision-market-research-report-febuary/",
+      "title": "01resolved decision market research report febuary",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/permissionless-proposals-for-metadao-decision-markets-a-framework-for-better-governance/",
+      "title": "permissionless proposals for metadao decision markets a framework for better governance",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/token-voting-doesnt-protect-you-markets-do/",
+      "title": "token voting doesnt protect you markets do",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/crypto-needs-an-ownership-overhaul/",
+      "title": "crypto needs an ownership overhaul",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/when-a-proposal-tests-futarchy-what-buyback-debates-reveal-about-decision-markets/",
+      "title": "when a proposal tests futarchy what buyback debates reveal about decision markets",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/ranger-finance-ico-analysis-what-the-numbers-behind-the-headline-reveal/",
+      "title": "ranger finance ico analysis what the numbers behind the headline reveal",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/why-the-rngr-2m-buyback-proposal-was-decided-early/",
+      "title": "why the rngr 2m buyback proposal was decided early",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/volume-is-a-misleading-decision-market-signal/",
+      "title": "volume is a misleading decision market signal",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/deconstructing-twap-the-anatomy-of-a-decision-market/",
+      "title": "deconstructing twap the anatomy of a decision market",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/introducing-01resolved-beta-an-analytics-layer-for-ownership-coins-and-decision-markets/",
+      "title": "introducing 01resolved beta an analytics layer for ownership coins and decision markets",
+      "sourceId": "01resolved-archive",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E5-Sheldon-P2P-me-e3gs8a3",
+      "title": "Ownership Podcast S1 E5: Sheldon (P2P.me)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-10-09",
+      "status": "rejected",
+      "reason": "Same episode already preserved under legacy ID; alternate publisher URL is not a new resource."
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E3-Kru-Umbra-e3fuqkg",
+      "title": "Ownership S1E3: Kru (Umbra)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-10-09",
+      "status": "rejected",
+      "reason": "Same episode already preserved under legacy ID; alternate publisher URL is not a new resource."
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E2-rakka-Omnipair-e3fmoq2",
+      "title": "Ownership S1E2: rakka (Omnipair)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-10-09",
+      "status": "rejected",
+      "reason": "Same episode already preserved under legacy ID; alternate publisher URL is not a new resource."
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E1-Anas-FlashTrade-e3fap4m",
+      "title": "Ownership S1 E1: Anas (FlashTrade)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://ethresear.ch/t/staking-rewards-as-venture-capital-governed-by-futarchy/26030",
+      "title": "Staking rewards as venture capital, governed by futarchy",
+      "sourceId": "ethereum-research",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://ethresear.ch/t/when-should-prediction-markets-be-subsidized-hypothesis-when-there-is-harmful-information-asymmetry/13512",
+      "title": "When should prediction markets be subsidized? Hypothesis: when there is harmful information asymmetry",
+      "sourceId": "ethereum-research",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://ethresear.ch/t/request-for-participation-in-futarchy-experiments/3587",
+      "title": "Request for participation in Futarchy experiments",
+      "sourceId": "ethereum-research",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://forum.gnosis.io/t/conditional-markets-for-gip-proposals/898",
+      "title": "Conditional Markets for GIP Proposals",
+      "sourceId": "gnosis-forum",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://forum.gnosis.io/t/math-example-for-conditional-investing/733",
+      "title": "Math example for conditional investing",
+      "sourceId": "gnosis-forum",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "url": "https://forum.gnosis.io/t/discrepancy-between-safe-token-polls-what-does-it-reveal/844",
+      "title": "Discrepancy between SAFE token polls - what does it reveal?",
+      "sourceId": "gnosis-forum",
+      "discoveredAt": "2026-10-09",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-10-08",
-      "links": 5
-    },
-    "01resolved-reports": {
-      "status": "ok",
-      "lastSuccess": "2026-10-08",
+      "lastSuccess": "2026-10-09",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-08",
+      "lastAttempt": "2026-10-09",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-08",
+      "lastAttempt": "2026-10-09",
       "reason": "HTTP 403"
     },
     "hanson": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-08",
+      "lastAttempt": "2026-10-09",
       "reason": "No matching links; source may require JavaScript or its structure changed"
+    },
+    "01resolved-rss": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 15
+    },
+    "01resolved-archive": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 52
+    },
+    "ownership-feed": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 14
+    },
+    "kleros-feed": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 2
+    },
+    "ethereum-research": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 4
+    },
+    "gnosis-forum": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 3
+    },
+    "hodl-interviews": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 1
+    },
+    "max-desalle": {
+      "status": "ok",
+      "lastSuccess": "2026-10-09",
+      "links": 1
     }
   }
 }

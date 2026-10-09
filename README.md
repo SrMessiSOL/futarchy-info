@@ -38,7 +38,7 @@ The daily collector is deterministic and needs no AI key. Weekly editorial work 
 
 At setup inspection on October 8, 2026, this repository had no repository-level Actions secrets and workflow PR creation was disabled. Environment/org secrets and Vercel account configuration have not been verified.
 
-Read [editorial policy](maintenance/EDITORIAL.md), [initial audit](maintenance/initial-audit.md), and [validation](maintenance/VALIDATION.md) for the evidence boundaries and remaining work. The current source allowlist is intentionally small. Some official pages block automated requests; this is reported explicitly. Scheduled discovery cannot guarantee exhaustive coverage of X, podcasts, academic papers, or JavaScript-only sites.
+Read [editorial policy](maintenance/EDITORIAL.md), [initial audit](maintenance/initial-audit.md), and [validation](maintenance/VALIDATION.md) for the evidence boundaries and remaining work. The allowlist now includes RSS feeds and an archive sitemap; see [backfill coverage](maintenance/backfill-coverage.md) for checked sources and unresolved gaps. Some official pages block automated requests; this is reported explicitly. Scheduled discovery cannot guarantee exhaustive coverage of X, podcasts, academic papers, or JavaScript-only sites.
 
 ## Content tools
 

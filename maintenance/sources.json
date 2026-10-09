@@ -1,7 +1,126 @@
 [
-  {"id":"01resolved","name":"01Resolved research","url":"https://01resolved.com/research/","hosts":["01resolved.com","www.01resolved.com"],"path":"/research/","exclude":"/(tag|author|page)/|/rss/?$"},
-  {"id":"01resolved-reports","name":"01Resolved reports","url":"https://01resolved.com/research/tag/reports/","hosts":["01resolved.com","www.01resolved.com"],"path":"/research/","exclude":"/(tag|author|page)/|/rss/?$"},
-  {"id":"metadao-decisions","name":"MetaDAO decisions","url":"https://metadao.fi/decisions","hosts":["metadao.fi","www.metadao.fi"],"path":"/decisions/"},
-  {"id":"metadao-blog","name":"MetaDAO blog","url":"https://blog.metadao.fi/","hosts":["blog.metadao.fi"],"path":"/","exclude":"/(tag|author|page)/|/rss/?$"},
-  {"id":"hanson","name":"Robin Hanson research","url":"https://mason.gmu.edu/~rhanson/","hosts":["mason.gmu.edu"],"path":"/~rhanson/","include":"futarch|decisionmarket|predict|market"}
+  {
+    "id": "01resolved",
+    "name": "01Resolved research",
+    "url": "https://01resolved.com/research/",
+    "hosts": [
+      "01resolved.com",
+      "www.01resolved.com"
+    ],
+    "path": "/research/",
+    "exclude": "/(tag|author|page)/|/rss/?$"
+  },
+  {
+    "id": "metadao-decisions",
+    "name": "MetaDAO decisions",
+    "url": "https://metadao.fi/decisions",
+    "hosts": [
+      "metadao.fi",
+      "www.metadao.fi"
+    ],
+    "path": "/decisions/"
+  },
+  {
+    "id": "metadao-blog",
+    "name": "MetaDAO blog",
+    "url": "https://blog.metadao.fi/",
+    "hosts": [
+      "blog.metadao.fi"
+    ],
+    "path": "/",
+    "exclude": "/(tag|author|page)/|/rss/?$"
+  },
+  {
+    "id": "hanson",
+    "name": "Robin Hanson research",
+    "url": "https://mason.gmu.edu/~rhanson/",
+    "hosts": [
+      "mason.gmu.edu"
+    ],
+    "path": "/~rhanson/",
+    "include": "futarch|decisionmarket|predict|market"
+  },
+  {
+    "id": "01resolved-rss",
+    "name": "01Resolved latest research feed",
+    "url": "https://01resolved.com/research/rss/",
+    "format": "rss",
+    "hosts": [
+      "01resolved.com"
+    ],
+    "path": "/research/"
+  },
+  {
+    "id": "01resolved-archive",
+    "name": "01Resolved complete post sitemap",
+    "url": "https://01resolved.com/research/sitemap-posts.xml",
+    "format": "sitemap",
+    "hosts": [
+      "01resolved.com"
+    ],
+    "path": "/research/"
+  },
+  {
+    "id": "ownership-feed",
+    "name": "Ownership podcast feed",
+    "url": "https://anchor.fm/s/10e854134/podcast/rss",
+    "format": "rss",
+    "hosts": [
+      "anchor.fm",
+      "podcasters.spotify.com",
+      "creators.spotify.com"
+    ],
+    "path": "/pod/"
+  },
+  {
+    "id": "kleros-feed",
+    "name": "Kleros research and experiments",
+    "url": "https://blog.kleros.io/rss/",
+    "format": "rss",
+    "hosts": [
+      "blog.kleros.io"
+    ],
+    "path": "/",
+    "include": "futarchy|foresight|decision.market"
+  },
+  {
+    "id": "ethereum-research",
+    "name": "Ethereum Research futarchy discussion",
+    "url": "https://ethresear.ch/tag/futarchy.rss",
+    "format": "rss",
+    "hosts": [
+      "ethresear.ch"
+    ],
+    "path": "/t/"
+  },
+  {
+    "id": "gnosis-forum",
+    "name": "Gnosis futarchy discussion",
+    "url": "https://forum.gnosis.io/tag/futarchy.rss",
+    "format": "rss",
+    "hosts": [
+      "forum.gnosis.io"
+    ],
+    "path": "/t/"
+  },
+  {
+    "id": "hodl-interviews",
+    "name": "Hodl Up interviews",
+    "url": "https://hodluppod.com/episodes",
+    "hosts": [
+      "hodluppod.com"
+    ],
+    "path": "/episode/",
+    "include": "futarchy|decision.market|hanson"
+  },
+  {
+    "id": "max-desalle",
+    "name": "Maxime Desalle talks",
+    "url": "https://maxdesalle.com/",
+    "hosts": [
+      "maxdesalle.com"
+    ],
+    "path": "/talks/",
+    "include": "futarchy"
+  }
 ]

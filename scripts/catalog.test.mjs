@@ -5,6 +5,10 @@ import {mergeCandidates} from './discover.mjs';
 import {extractLinks,publicAddress} from './network.mjs';
 import {validateProposal} from './validate-proposal.mjs';
 const entry={id:'example',title:'Example report',author:'Publisher',date:'2026-01-01',type:'article',url:'https://example.org/report',sourceUrl:'https://example.org/report',dateKind:'publication',datePrecision:'day',verification:'source-checked',addedAt:'2026-01-02',checkedAt:'2026-01-02',evidenceNote:'Title and publication date checked against the publisher page.'};
+test('verifying a legacy record preserves its unknown original addition date',()=>{
+  assert.equal(validateCatalog([{...entry,addedAt:null}],['example']).length,1);
+  assert.throws(()=>validateCatalog([{...entry,addedAt:null}]));
+});
 test('missing evidence and fabricated calendar dates are rejected',()=>{
   assert.throws(()=>validateCatalog([{...entry,evidenceNote:''}]));
   assert.throws(()=>validateCatalog([{...entry,date:'2026-02-30'}]));

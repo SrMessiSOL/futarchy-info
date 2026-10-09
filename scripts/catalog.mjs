@@ -35,7 +35,7 @@ export function validateCatalog(input, legacyIds = [], today = new Date().toISOS
     if (!legacy.has(r.id) && r.verification !== 'source-checked') errors.push(`${r.id}: new entries must be source-checked`);
     if (r.datePrecision === 'day' && !r.date) errors.push(`${r.id}: exact date missing`);
     if (!r.date && r.datePrecision !== 'unknown') errors.push(`${r.id}: null date must have unknown precision`);
-    if (r.verification === 'source-checked' && (!r.checkedAt || !r.addedAt || !r.evidenceNote || r.evidenceNote.length < 25 || (r.date && r.dateKind === 'unknown'))) errors.push(`${r.id}: missing verification evidence or date kind`);
+    if (r.verification === 'source-checked' && (!r.checkedAt || (!legacy.has(r.id) && !r.addedAt) || !r.evidenceNote || r.evidenceNote.length < 25 || (r.date && r.dateKind === 'unknown'))) errors.push(`${r.id}: missing verification evidence or date kind`);
     for (const key of ['date', 'addedAt', 'checkedAt']) if (r[key] && r[key] > today) errors.push(`${r.id}: future ${key}`);
     if (r.duplicateOf) {
       const target = rows.find(x => x.id === r.duplicateOf);
@@ -43,9 +43,7 @@ export function validateCatalog(input, legacyIds = [], today = new Date().toISOS
       if (target && canonicalUrl(target.url) !== canonicalUrl(r.url)) errors.push(`${r.id}: duplicate URL differs`);
     } else {
       const key = canonicalUrl(r.url); const previous = urls.get(key);
-      // Three historical episodes share a show landing page; retain until episode URLs are recovered.
-      const sharedShow = ['res-250', 'res-258', 'res-260'];
-      if (previous && !(sharedShow.includes(previous) && sharedShow.includes(r.id))) errors.push(`${r.id}: URL duplicates ${previous}`);
+      if (previous) errors.push(`${r.id}: URL duplicates ${previous}`);
       urls.set(key, r.id);
     }
   }

@@ -4599,7 +4599,7 @@
     "author": "Ownership FM",
     "date": "2026-02-20",
     "type": "podcast",
-    "url": "https://solana.com/ar/podcasts/ownership",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E0-8bitpenis-Ownership-e3fbsfu",
     "description": "Intro episode for Ownership, setting up the series around crypto capital formation, governance, law, and ownership coins.",
     "tags": [
       "Ownership FM",
@@ -4608,13 +4608,13 @@
       "Ownership Coins",
       "MetaDAO"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://solana.com/ar/podcasts/ownership",
+    "verification": "source-checked",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Legacy episode links to a shared show page. Exact episode source and date need review."
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Recovered exact episode link and publication date from the original publisher RSS item. Show notes reviewed; audio not independently reviewed."
   },
   {
     "id": "res-251",
@@ -4776,7 +4776,7 @@
     "author": "Ownership FM",
     "date": "2026-03-16",
     "type": "podcast",
-    "url": "https://solana.com/ar/podcasts/ownership",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E4-Chris-Loyal-e3ghnna",
     "description": "Chris from Loyal explains privacy-first communication infrastructure, why Loyal raised through MetaDAO, and lessons from Umbra, Avici, and Squads.",
     "tags": [
       "Ownership FM",
@@ -4785,13 +4785,13 @@
       "MetaDAO",
       "Podcast"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://solana.com/ar/podcasts/ownership",
+    "verification": "source-checked",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Legacy episode links to a shared show page. Exact episode source and date need review."
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Recovered exact episode link and publication date from the original publisher RSS item. Show notes reviewed; audio not independently reviewed."
   },
   {
     "id": "res-259",
@@ -4821,7 +4821,7 @@
     "author": "Ownership FM",
     "date": "2026-03-30",
     "type": "podcast",
-    "url": "https://solana.com/ar/podcasts/ownership",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E6-Maushish-Paystream-e3h62nf",
     "description": "Paystream founder Maushish returns after raising through MetaDAO to discuss building post-raise, the Ranger liquidation lesson, and Paystream's pivot to funding-rate arbitrage.",
     "tags": [
       "Ownership FM",
@@ -4830,13 +4830,13 @@
       "Post ICO",
       "Podcast"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://solana.com/ar/podcasts/ownership",
+    "verification": "source-checked",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Legacy episode links to a shared show page. Exact episode source and date need review."
+    "checkedAt": "2026-10-08",
+    "evidenceNote": "Recovered exact episode link and publication date from the original publisher RSS item. Show notes reviewed; audio not independently reviewed."
   },
   {
     "id": "res-261",
@@ -5276,5 +5276,880 @@
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
     "evidenceNote": "Read publisher page title, 04 Oct 2026 publication date, and full article text on 2026-10-08. Financial claims remain attributed to the publisher."
+  },
+  {
+    "id": "resolved-backfill-3",
+    "title": "Solomon Launches USDv With $6M in Supply, Credible Approves a $500K Settlement Facility, and Rip Cars Seeks Up to $1.5M",
+    "author": "01Resolved",
+    "date": "2026-09-27",
+    "type": "article",
+    "url": "https://01resolved.com/research/solomon-launches-usdv-with-6m-in-supply-credible-approves-a-500k-settlement-facility-and-rip-cars-seeks-up-to-1-5m/",
+    "description": "Weekly briefing on the USDv launch, Credible settlement funding, Rip Cars fundraising authorization, and a Bedrock-structured raise.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/solomon-launches-usdv-with-6m-in-supply-credible-approves-a-500k-settlement-facility-and-rip-cars-seeks-up-to-1-5m/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-4",
+    "title": "Three Treasuries Approve $680K in USDv Allocations, Sanctum Approves 25% CLOUD Burn, Jurassic Closes $660K Raise",
+    "author": "01Resolved",
+    "date": "2026-09-20",
+    "type": "article",
+    "url": "https://01resolved.com/research/three-treasuries-approve-680k-in-usdv-allocations-sanctum-approves-25-cloud-burn-jurassic-closes-660k-raise/",
+    "description": "Weekly briefing on treasury allocations to USDv, the CLOUD burn decision, Jurassic financing, and early Umia governance.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/three-treasuries-approve-680k-in-usdv-allocations-sanctum-approves-25-cloud-burn-jurassic-closes-660k-raise/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-6",
+    "title": "Paystream Decision Market to Liquidate, MetaDAO Proposes Market Making With the Tokens It Earns, and Solomon Seeks to Withdraw Meteora LP Ahead of USDv",
+    "author": "01Resolved",
+    "date": "2026-09-06",
+    "type": "article",
+    "url": "https://01resolved.com/research/paystream-decision-market-to-liquidate-metadao-proposes-market-making-with-the-tokens-it-earns-and-solomon-seeks-to-withdraw-meteora-lp-ahead-of-usdv/",
+    "description": "Weekly briefing on Paystream liquidation, proposed MetaDAO market making, Solomon liquidity changes, and founder token unlocks.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/paystream-decision-market-to-liquidate-metadao-proposes-market-making-with-the-tokens-it-earns-and-solomon-seeks-to-withdraw-meteora-lp-ahead-of-usdv/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-7",
+    "title": "Rain Repays $500K of Avici Card Balances After Contract Vulnerability, Umia's ICO Fills at $6.1M, and Omnipair Previews Dusk V2",
+    "author": "01Resolved",
+    "date": "2026-08-30",
+    "type": "article",
+    "url": "https://01resolved.com/research/rain-repays-500k-of-avici-card-balances-after-contract-vulnerability-umias-ico-fills-at-6-1m-and-omnipair-previews-dusk-v2/",
+    "description": "Weekly briefing on Avici card-balance reimbursement, Umia fundraising on Base, and Omnipair product development.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/rain-repays-500k-of-avici-card-balances-after-contract-vulnerability-umias-ico-fills-at-6-1m-and-omnipair-previews-dusk-v2/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-8",
+    "title": "MetaDAO Approves Moving $2M of Treasury into Solomon's USDv, Umia ICO, Paystream Winds Down, and Ownership Coin Filings Reach Bloomberg Terminals",
+    "author": "01Resolved",
+    "date": "2026-08-23",
+    "type": "article",
+    "url": "https://01resolved.com/research/metadao-approves-moving-2m-of-treasury-into-solomons-usdv-umia-ico-paystream-winds-down-and-ownership-coin-filings-reach-bloomberg-terminals/",
+    "description": "Weekly briefing on a MetaDAO treasury allocation, Paystream winding down, a rejected Kimia liquidation, and token disclosures.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/metadao-approves-moving-2m-of-treasury-into-solomons-usdv-umia-ico-paystream-winds-down-and-ownership-coin-filings-reach-bloomberg-terminals/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-9",
+    "title": "Laso Finance Becomes the #2 App on x402, Rip Cars Proposes Capital Unlock, Sanctum Ends CLOUD Staking Through a Decision Market, and 01Resolved Launches Snapshots",
+    "author": "01Resolved",
+    "date": "2026-08-15",
+    "type": "article",
+    "url": "https://01resolved.com/research/laso-finance-becomes-the-2-app-on-x402-rip-cars-proposes-capital-unlock-sanctum-ends-cloud-staking-through-a-decision-market-and-01resolved-launches-snapshots/",
+    "description": "Weekly briefing on Laso adoption, Rip Cars capital access, Sanctum staking changes, and ownership-coin reporting.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/laso-finance-becomes-the-2-app-on-x402-rip-cars-proposes-capital-unlock-sanctum-ends-cloud-staking-through-a-decision-market-and-01resolved-launches-snapshots/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-10",
+    "title": "What Is NAV? A Guide to Net Asset Value for Ownership Coins",
+    "author": "01Resolved",
+    "date": "2026-05-27",
+    "type": "article",
+    "url": "https://01resolved.com/research/what-is-nav-a-guide-to-net-asset-value-for-ownership-coins/",
+    "description": "Distinguishes total treasury NAV from NAV per adjusted token, explaining supply exclusions, liabilities, and why neither measures the full operating business.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/what-is-nav-a-guide-to-net-asset-value-for-ownership-coins/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-11",
+    "title": "Flash Trade to Wind Down Unless Acquired, Umbra's Decision Market Rejects a $1.5M Treasury Attack, and Kimia Closes 12.1x Oversubscribed",
+    "author": "01Resolved",
+    "date": "2026-08-09",
+    "type": "article",
+    "url": "https://01resolved.com/research/flash-trade-to-wind-down-unless-acquired-umbras-decision-market-rejects-a-1-5m-treasury-attack-and-kimia-closes-12-1x-oversubscribed/",
+    "description": "Weekly briefing on Flash Trade seeking a buyer, the rejected Umbra treasury proposal, Kimia fundraising, and ecosystem development.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/flash-trade-to-wind-down-unless-acquired-umbras-decision-market-rejects-a-1-5m-treasury-attack-and-kimia-closes-12-1x-oversubscribed/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-14",
+    "title": "A Live Proposal Seeks to Move $1.5M Out of Umbra's Treasury, MetaDAO's Ownership Score, Ordr Raise, and Loyal's Autonomous Vault Proposal Passes",
+    "author": "01Resolved",
+    "date": "2026-08-01",
+    "type": "article",
+    "url": "https://01resolved.com/research/a-live-proposal-seeks-to-move-1-5m-out-of-umbras-treasury-metadaos-ownership-score-ordr-raise-and-loyals-autonomous-vault-proposal-passes/",
+    "description": "Weekly briefing on the then-live Umbra treasury proposal, Loyal vault governance, Ordr fundraising, and the first Ownership Score analysis.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/a-live-proposal-seeks-to-move-1-5m-out-of-umbras-treasury-metadaos-ownership-score-ordr-raise-and-loyals-autonomous-vault-proposal-passes/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-15",
+    "title": "MetaDAO's Ownership Score: What the First Experiment Reveals",
+    "author": "01Resolved",
+    "date": "2026-07-27",
+    "type": "article",
+    "url": "https://01resolved.com/research/ownership-score-what-the-first-experiment-reveals/",
+    "description": "Analysis of the first Ownership Score allocation in the Rip Cars raise, comparing holder cohorts and early selling behavior with explicit sample limitations.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/ownership-score-what-the-first-experiment-reveals/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-16",
+    "title": "Rip Cars Draws ~$32M for a $250K Raise on MetaDAO, and Loyal's Autonomous Vault Proposal Goes to Decision Market",
+    "author": "01Resolved",
+    "date": "2026-07-25",
+    "type": "article",
+    "url": "https://01resolved.com/research/rip-cars-draws-32m-for-a-250k-raise-on-metadao-and-loyals-autonomous-vault-proposal-goes-to-decision-market/",
+    "description": "Weekly briefing on Rip Cars fundraising, Loyal autonomous-vault governance, and Flash Trade exploit response.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/rip-cars-draws-32m-for-a-250k-raise-on-metadao-and-loyals-autonomous-vault-proposal-goes-to-decision-market/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-17",
+    "title": "Credible Finance Draws $32.8M in Commitments and Accepts $4M, Loyal Passes $385K in Deposits, and Flash Trade Ships Duels",
+    "author": "01Resolved",
+    "date": "2026-07-18",
+    "type": "article",
+    "url": "https://01resolved.com/research/credible-finance-draws-32-8m-in-commitments-and-accepts-4m-loyal-passes-385k-in-deposits-and-flash-trade-ships-duels/",
+    "description": "Weekly briefing on Credible financing, Loyal deposits, Flash Trade product releases, and Solomon documentation.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/credible-finance-draws-32-8m-in-commitments-and-accepts-4m-loyal-passes-385k-in-deposits-and-flash-trade-ships-duels/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-18",
+    "title": "MetaDAO Holds Its First Owners Meeting in San Francisco, Credible Finance Raise Slated for Monday, and $2M of MetaDAO Treasury Planned for Solomon's USDv",
+    "author": "01Resolved",
+    "date": "2026-07-11",
+    "type": "article",
+    "url": "https://01resolved.com/research/metadao-holds-its-first-owners-meeting-in-san-francisco-credible-finance-raise-slated-for-monday-and-2m-of-metadao-treasury-planned-for-solomons-usdv/",
+    "description": "Weekly briefing on the first MetaDAO Owners Meeting, the upcoming Credible raise, and proposed treasury and vault changes.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/metadao-holds-its-first-owners-meeting-in-san-francisco-credible-finance-raise-slated-for-monday-and-2m-of-metadao-treasury-planned-for-solomons-usdv/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-19",
+    "title": "Laso Finance Pulls $25.6M in Commitments and Accepts $1M, Jurassic Prices the Deaton Fossil Raise, and Umbra Ships Private Payroll",
+    "author": "01Resolved",
+    "date": "2026-07-06",
+    "type": "article",
+    "url": "https://01resolved.com/research/laso-finance-pulls-25-6m-in-commitments-and-accepts-1m-jurassic-prices-the-deaton-fossil-raise-and-umbra-ships-private-payroll/",
+    "description": "Weekly briefing on Laso financing, Jurassic fossil acquisition terms, Umbra payroll, and Loyal adoption.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/laso-finance-pulls-25-6m-in-commitments-and-accepts-1m-jurassic-prices-the-deaton-fossil-raise-and-umbra-ships-private-payroll/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-20",
+    "title": "The Blockworks TTF Needs an Ownership Section",
+    "author": "01Resolved",
+    "date": "2026-07-02",
+    "type": "article",
+    "url": "https://01resolved.com/research/the-blockworks-ttf-needs-an-ownership-section/",
+    "description": "Argues that token disclosures need a clear account of equity versus token claims, control over assets, value flows, and enforcement.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/the-blockworks-ttf-needs-an-ownership-section/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-21",
+    "title": "ZKFG Holders Approve Buyout, Flash Trade Ships V2 Beta, Umia's Legal Structure & an Update on Predikt",
+    "author": "01Resolved",
+    "date": "2026-06-19",
+    "type": "article",
+    "url": "https://01resolved.com/research/zkfg-holders-approve-buyout-flash-trade-ships-v2-beta-umias-legal-structure-an-update-on-predikt/",
+    "description": "Weekly briefing on the approved ZKFG buyout, Flash Trade beta, Umia structure, and Predikt fundraising.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/zkfg-holders-approve-buyout-flash-trade-ships-v2-beta-umias-legal-structure-an-update-on-predikt/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-22",
+    "title": "META HoldersApprove $2M Ownership Capital Fund, The Attempt to Take Zinc Cash Private, P2P Reaches Major Milestone and Predikt Raises on Star",
+    "author": "01Resolved",
+    "date": "2026-06-13",
+    "type": "article",
+    "url": "https://01resolved.com/research/meta-holdersapprove-2m-ownership-capital-fund-the-attempt-to-take-zinc-cash-private-p2p-reaches-major-milestone-and-predikt-raises-on-star/",
+    "description": "Weekly briefing on the Ownership Capital fund, the disputed Zinc Cash buyout process, P2P usage, and Predikt fundraising.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/meta-holdersapprove-2m-ownership-capital-fund-the-attempt-to-take-zinc-cash-private-p2p-reaches-major-milestone-and-predikt-raises-on-star/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-23",
+    "title": "MetaDAO Proposes to Seed $2M Ownership Fund, Zinc Cash OTC Decision Market, Craft’s ReFi Hub ICO, Meteora and Bedrock’s Dynamic Assets and more",
+    "author": "01Resolved",
+    "date": "2026-06-06",
+    "type": "article",
+    "url": "https://01resolved.com/research/metadao-proposes-to-seed-2m-ownership-fund-zinc-cash-otc-decision-market-crafts-refi-hub-ico-meteora-and-bedrocks-dynamic-assets-and-more/",
+    "description": "Weekly briefing on proposed Ownership Capital funding, Zinc Cash treasury sales, Crafts fundraising, and Bedrock assets.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/metadao-proposes-to-seed-2m-ownership-fund-zinc-cash-otc-decision-market-crafts-refi-hub-ico-meteora-and-bedrocks-dynamic-assets-and-more/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-24",
+    "title": "MetaDAO's $META Listed on Coinbase, ZINC Launch, & Craft's STS Explained",
+    "author": "01Resolved",
+    "date": "2026-05-29",
+    "type": "article",
+    "url": "https://01resolved.com/research/metadaos-meta-listed-on-coinbase-zinc-launch-crafts-sts-explained/",
+    "description": "Weekly briefing on the META listing, Zinc mainnet launch, Crafts token standard, and ownership-coin product updates.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/metadaos-meta-listed-on-coinbase-zinc-launch-crafts-sts-explained/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-25",
+    "title": "MetaDAO Added to Coinbase Roadmap and Improves Discoverability with Dexscreener futarchyAMM Integration",
+    "author": "01Resolved",
+    "date": "2026-05-22",
+    "type": "article",
+    "url": "https://01resolved.com/research/metadao-added-to-coinbase-roadmap-and-improves-discoverability-with-dexscreener-futarchyamm-integration/",
+    "description": "Weekly briefing on META exchange-roadmap inclusion, DexScreener support for futarchyAMM, and ecosystem product updates.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/metadao-added-to-coinbase-roadmap-and-improves-discoverability-with-dexscreener-futarchyamm-integration/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-26",
+    "title": "Jurassic Finance $RAWR Raise: How Spark’s First Oversubscribed Ownership Coin Launch Drew $12.5M in Commitments",
+    "author": "01Resolved",
+    "date": "2026-05-16",
+    "type": "article",
+    "url": "https://01resolved.com/research/jurassic-finance-rawr-raise-how-sparks-first-oversubscribed-ownership-coin-launch-drew-12-5m-in-commitments/",
+    "description": "Weekly briefing on the Jurassic raise, Spark oversubscription, a MetaDAO security-services proposal, and Crafts auction testing.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/jurassic-finance-rawr-raise-how-sparks-first-oversubscribed-ownership-coin-launch-drew-12-5m-in-commitments/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-28",
+    "title": "What 53 Blockworks Token Transparency Filings Reveal and What They Leave Out",
+    "author": "01Resolved",
+    "date": "2026-06-30",
+    "type": "article",
+    "url": "https://01resolved.com/research/what-53-blockworks-token-transparency-filings-reveal-and-what-they-leave-out/",
+    "description": "Reviews 53 token disclosures and identifies gaps in financial statements, entity boundaries, and the relationship between token and equity ownership.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/what-53-blockworks-token-transparency-filings-reveal-and-what-they-leave-out/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-29",
+    "title": "Laso Finance Next to Raise on MetaDAO, FAF Holders Approve Flash Trade Team Allocation, and Loyal Releases Earn Routing",
+    "author": "01Resolved",
+    "date": "2026-06-28",
+    "type": "article",
+    "url": "https://01resolved.com/research/laso-finance-next-to-raise-on-metadao-faf-holders-approve-flash-trade-team-allocation-and-loyal-releases-earn-routing/",
+    "description": "Weekly briefing on Laso fundraising, Flash Trade team allocation, Loyal earn routing, and other ownership-coin releases.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Weekly Report"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/laso-finance-next-to-raise-on-metadao-faf-holders-approve-flash-trade-team-allocation-and-loyal-releases-earn-routing/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-30",
+    "title": "A Retro of the Zinc Cash / ZKFG Decision Markets",
+    "author": "01Resolved",
+    "date": "2026-06-16",
+    "type": "article",
+    "url": "https://01resolved.com/research/a-retro-of-the-zinc-cash-zkfg-decision-markets/",
+    "description": "Retrospective on the disputed Zinc Cash buyout markets, arguing that clear financial records and enforceable ownership terms are prerequisites for informed trading.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/a-retro-of-the-zinc-cash-zkfg-decision-markets/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-31",
+    "title": "Putting NAV to Work in Ownership Coin Analysis",
+    "author": "01Resolved",
+    "date": "2026-06-09",
+    "type": "article",
+    "url": "https://01resolved.com/research/putting-nav-to-work-in-ownership-coin-analysis/",
+    "description": "Explains how treasury NAV and NAV per adjusted token can inform runway, dilution, valuation, and proposal analysis using maintained financial records.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/putting-nav-to-work-in-ownership-coin-analysis/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-34",
+    "title": "How Solomon Saved MetaDAO’s Highest Volume Proposal from Rejection",
+    "author": "01Resolved",
+    "date": "2026-04-24",
+    "type": "article",
+    "url": "https://01resolved.com/research/how-solomon-saved-metadaos-highest-volume-proposal-from-rejection/",
+    "description": "Reconstructs trading around Solomon’s Gigabus proposal and describes how team engagement and distributed pass-side participation changed its trajectory.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/how-solomon-saved-metadaos-highest-volume-proposal-from-rejection/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-35",
+    "title": "Building in the Open",
+    "author": "01Resolved",
+    "date": "2026-04-09",
+    "type": "article",
+    "url": "https://01resolved.com/research/building-in-the-open/",
+    "description": "Argues that ownership-coin teams need understandable financial reporting and owner communications beyond raw onchain transaction visibility.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/building-in-the-open/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "resolved-backfill-36",
+    "title": "MetaDAO Ecosystem: Ownership Coin Token Buyback Analysis",
+    "author": "01Resolved",
+    "date": "2026-04-06",
+    "type": "article",
+    "url": "https://01resolved.com/research/metadao-ecosystem-ownership-coin-token-buyback-analysis/",
+    "description": "Compares ecosystem token buybacks against treasury runway and capital needs, distinguishing temporary price support from sustainable capital allocation.",
+    "tags": [
+      "Ownership Coins",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://01resolved.com/research/metadao-ecosystem-ownership-coin-token-buyback-analysis/",
+    "evidenceNote": "Publisher article and original datePublished metadata checked on 2026-10-08. Description summarizes the cited analysis; underlying financial and execution claims were not independently audited."
+  },
+  {
+    "id": "ownership-backfill-0",
+    "title": "Ownership Podcast S2 E01: Tim (The Syndicate)",
+    "author": "Ownership",
+    "date": "2026-10-05",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E01-Tim-The-Syndicate-e3purr9",
+    "description": "Publisher episode notes describe Tim’s account of building The Syndicate, removing an in-game token, and raising through ownership tokens on Backable.",
+    "tags": [
+      "Ownership Podcast",
+      "Ownership Coins",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+    "evidenceNote": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed."
+  },
+  {
+    "id": "ownership-backfill-1",
+    "title": "Ownership Podcast S1 E12: Tony (Epicentral)",
+    "author": "Ownership",
+    "date": "2026-07-20",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E12-Tony-Epicentral-e3mashp",
+    "description": "Publisher episode notes describe Tony’s discussion of onchain options, pool-based pricing, collateral design, and how options differ from binary prediction markets.",
+    "tags": [
+      "Ownership Podcast",
+      "Ownership Coins",
+      "Options"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+    "evidenceNote": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed."
+  },
+  {
+    "id": "ownership-backfill-2",
+    "title": "Ownership Podcast S1 E11: Shrii (Credible)",
+    "author": "Ownership",
+    "date": "2026-07-13",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E11-Shrii-Credible-e3m1tcq",
+    "description": "Publisher episode notes describe Shrii’s account of Credible’s payment-settlement model, business pivots, and fundraising through MetaDAO.",
+    "tags": [
+      "Ownership Podcast",
+      "Ownership Coins",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+    "evidenceNote": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed."
+  },
+  {
+    "id": "ownership-backfill-3",
+    "title": "Ownership Podcast S1 E10: Ranga (Solomon Labs)",
+    "author": "Ownership",
+    "date": "2026-07-13",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E10-Ranga-Solomon-Labs-e3m1s3b",
+    "description": "Publisher episode notes describe Ranga’s discussion of USDv, treasury reserves, fundraising through MetaDAO, and the role of decision markets.",
+    "tags": [
+      "Ownership Podcast",
+      "Ownership Coins",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+    "evidenceNote": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed."
+  },
+  {
+    "id": "ownership-backfill-4",
+    "title": "Ownership Podcast S1 E9: Hunter (Laso)",
+    "author": "Ownership",
+    "date": "2026-06-29",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E9-Hunter-Laso-e3lealb",
+    "description": "Publisher episode notes describe Hunter’s discussion of Laso’s payment products, MetaDAO fundraising, and commerce by AI agents.",
+    "tags": [
+      "Ownership Podcast",
+      "Ownership Coins",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+    "evidenceNote": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed."
+  },
+  {
+    "id": "ownership-backfill-5",
+    "title": "Ownership Podcast S1 E8: Arad (Lightcone)",
+    "author": "Ownership",
+    "date": "2026-05-25",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E8-Arad-Lightcone-e3jse3e",
+    "description": "Publisher episode notes describe Arad’s argument for permissionless impact markets and his criticism of information and market-definition problems in futarchy.",
+    "tags": [
+      "Ownership Podcast",
+      "Ownership Coins",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+    "evidenceNote": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed."
+  },
+  {
+    "id": "ownership-backfill-6",
+    "title": "Ownership Podcast S1 E7: Proph3t (MetaDAO)",
+    "author": "Ownership",
+    "date": "2026-04-22",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E7-Proph3t-MetaDAO-e3iaen4",
+    "description": "Publisher episode notes describe Proph3t’s discussion of futarchy, ownership coins, liquidation, insider-trading risks, and uses beyond crypto.",
+    "tags": [
+      "Ownership Podcast",
+      "Ownership Coins",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+    "evidenceNote": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed."
+  },
+  {
+    "id": "hanson-hodl-2026",
+    "title": "Futarchy and Prediction Markets: Robin Hanson Interview",
+    "author": "Hodl Up",
+    "date": "2026-09-19",
+    "type": "podcast",
+    "url": "https://hodluppod.com/episode/futarchy-robin-hanson-prediction-markets",
+    "description": "Publisher interview notes cover Hanson’s case for decision markets, barriers to institutional adoption, and comparisons with other information sources.",
+    "tags": [
+      "Futarchy",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://hodluppod.com/episode/futarchy-robin-hanson-prediction-markets",
+    "evidenceNote": "Publisher date, chapter list, and written interview summary reviewed; not a full audio review."
+  },
+  {
+    "id": "venice-futarchy-2026",
+    "title": "Venice and Futarchy",
+    "author": "Maxime Desalle",
+    "date": "2026-06-19",
+    "type": "video",
+    "url": "https://maxdesalle.com/talks/talk-1/",
+    "description": "A talk connecting institutional error correction in Venice with futarchy, discussing entrenched power, conditional markets, and objections to market governance.",
+    "tags": [
+      "Futarchy",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://maxdesalle.com/talks/talk-1/",
+    "evidenceNote": "Author’s dated talk page and transcript reviewed. The historical and governance arguments are attributed to the speaker."
+  },
+  {
+    "id": "gatekeeper-critique-2026",
+    "title": "Futarchy is insecure without a trusted gatekeeper",
+    "author": "distbit0",
+    "date": "2026-06-19",
+    "type": "article",
+    "url": "https://ethresear.ch/t/futarchy-is-insecure-without-a-trusted-gatekeeper/25235",
+    "description": "A critique of asset futarchy examining extraction, selection bias, conditional delivery, and sabotage. The discussion includes counterarguments about defensive pricing and future extraction.",
+    "tags": [
+      "Futarchy",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://ethresear.ch/t/futarchy-is-insecure-without-a-trusted-gatekeeper/25235",
+    "evidenceNote": "Original Ethereum Research post date and current discussion reviewed, including June and August replies. This is a debated argument, not an independently established vulnerability."
+  },
+  {
+    "id": "elucidations-hanson-157",
+    "title": "Episode 157: Robin Hanson discusses prediction markets",
+    "author": "Elucidations",
+    "date": "2026-07-21",
+    "type": "podcast",
+    "url": "https://elucidations.vercel.app/posts/episode-157/",
+    "description": "Publisher notes introduce prediction markets, corporate decision markets, and futarchy. Published in July 2026; the interview was recorded in September 2022.",
+    "tags": [
+      "Futarchy",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://elucidations.vercel.app/posts/episode-157/",
+    "evidenceNote": "Publisher episode page explicitly distinguishes the July 21, 2026 publication date from September 2022 recording. Summary based on the written episode introduction."
+  },
+  {
+    "id": "kleros-foresight-first",
+    "title": "What the First Foresight Experiment Taught Us About Predicting Clément’s Movie Taste",
+    "author": "Parul Yadav / Kleros",
+    "date": "2026-06-03",
+    "type": "article",
+    "url": "https://blog.kleros.io/what-the-first-foresight-experiment-taught-us-about-predicting-clements-movie-taste/",
+    "description": "Kleros reports the first Foresight movie-rating experiment, comparing market forecasts with personalized baselines and discussing selection bias. A small experiment in conditional judgment markets.",
+    "tags": [
+      "Futarchy",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://blog.kleros.io/what-the-first-foresight-experiment-taught-us-about-predicting-clements-movie-taste/",
+    "evidenceNote": "Official Kleros article, date, setup, and results discussion reviewed. Reported mainnet operation was not independently reproduced; five resolved movies do not establish general governance performance."
+  },
+  {
+    "id": "kleros-foresight-second",
+    "title": "The Market Won This Time: Season 2 of the Foresight Movie Experiment",
+    "author": "Parul Yadav / Kleros",
+    "date": "2026-08-31",
+    "type": "article",
+    "url": "https://blog.kleros.io/the-market-won-this-time-season-2-of-the-foresight-movie-experiment/",
+    "description": "Kleros reports improved ranking and forecast accuracy in the second movie experiment after changing candidate selection. The comparison covers five evaluated films and remains a limited case study.",
+    "tags": [
+      "Futarchy",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://blog.kleros.io/the-market-won-this-time-season-2-of-the-foresight-movie-experiment/",
+    "evidenceNote": "Official Kleros article and publication date reviewed, including changed sampling and the five-film comparison. No independent onchain or statistical replication performed."
+  },
+  {
+    "id": "kleros-decision-fellowship",
+    "title": "Advance Decision Markets: Kleros Fellowship Offers Up to $5,000",
+    "author": "Parul Yadav / Kleros",
+    "date": "2026-07-24",
+    "type": "article",
+    "url": "https://blog.kleros.io/advance-decision-markets-kleros-fellowship-offers-up-to-5-000/",
+    "description": "Announcement of a fellowship using conditional markets to help select research projects, with topics spanning asset futarchy, KPI governance, opportunity markets, and oracles.",
+    "tags": [
+      "Futarchy",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-08",
+    "checkedAt": "2026-10-08",
+    "sourceUrl": "https://blog.kleros.io/advance-decision-markets-kleros-fellowship-offers-up-to-5-000/",
+    "evidenceNote": "Official dated program announcement reviewed, including market selection and committee discretion. This describes the announced design, not completed fellowship results."
   }
 ]

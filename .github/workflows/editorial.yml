@@ -62,7 +62,7 @@ jobs:
           echo 'ready=true' >> "$GITHUB_OUTPUT"
       - name: Save trusted baseline and fetched evidence
         if: steps.ready.outputs.ready == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: editorial-evidence
           path: |
@@ -79,7 +79,7 @@ jobs:
           safety-strategy: drop-sudo
       - name: Export only reviewable content
         if: steps.ready.outputs.ready == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: editorial-proposal
           path: |

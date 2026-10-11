@@ -136,7 +136,7 @@ jobs:
         run: |
           cp work/proposal/content/resources.json content/resources.json
           cp work/proposal/maintenance/editorial-report.md maintenance/editorial-report.md
-      - uses: peter-evans/create-pull-request@v7
+      - uses: peter-evans/create-pull-request@v8
         with:
           branch: automation/library-update
           title: 'content: verified library update'

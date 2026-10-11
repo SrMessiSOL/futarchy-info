@@ -1,0 +1,1412 @@
+{
+  "checkedAt": "2026-10-08T22:30:34.808Z",
+  "results": [
+    {
+      "url": "https://01resolved.com/research/01resolved-decision-market-research-report-march-2026/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/01resolved-decision-market-research-report-march-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-april-2026/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/ownership-coin-monthly-research-report-april-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-august-2026/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/ownership-coin-monthly-research-report-august-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-july-2026/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/ownership-coin-monthly-research-report-july-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-june-2026/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/ownership-coin-monthly-research-report-june-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-may-2026/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/ownership-coin-monthly-research-report-may-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-september-2026/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/ownership-coin-monthly-research-report-september-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/rip-cars-proposal-founder-liquidity-on-metadao/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/rip-cars-proposal-founder-liquidity-on-metadao/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://01resolved.com/research/the-umbra-treasury-attack-cost-its-attacker-4-623/",
+      "status": 200,
+      "finalUrl": "https://01resolved.com/research/the-umbra-treasury-attack-cost-its-attacker-4-623/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blockchainwire.io/press-release/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance",
+      "status": 200,
+      "finalUrl": "https://www.blockchainwire.io/press-release/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blockworks.co/news/metadao-advertisement",
+      "status": 403,
+      "finalUrl": "https://blockworks.co/news/metadao-advertisement",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blockworks.co/news/metadao-solana-governance-platform",
+      "status": 403,
+      "finalUrl": "https://blockworks.co/news/metadao-solana-governance-platform",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blockworks.co/news/rangers-ico-metadao",
+      "status": 403,
+      "finalUrl": "https://blockworks.co/news/rangers-ico-metadao",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blockworks.co/news/risk-management-is-paramount",
+      "status": 403,
+      "finalUrl": "https://blockworks.co/news/risk-management-is-paramount",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blockworks.co/news/umbra-metadao-futarchy",
+      "status": 403,
+      "finalUrl": "https://blockworks.co/news/umbra-metadao-futarchy",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blockworks.co/news/umbra-metadao-futarchy/",
+      "status": 403,
+      "finalUrl": "https://blockworks.co/news/umbra-metadao-futarchy/",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blockworks.co/news/understanding-futarchy-on-solana",
+      "status": 403,
+      "finalUrl": "https://blockworks.co/news/understanding-futarchy-on-solana",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.colosseum.com/colosseum-alpha-testers-launch-on-solana-metadao/",
+      "status": 200,
+      "finalUrl": "https://blog.colosseum.com/colosseum-alpha-testers-launch-on-solana-metadao/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blog.ethereum.org/2014/08/21/introduction-futarchy",
+      "status": 200,
+      "finalUrl": "https://blog.ethereum.org/2014/08/21/introduction-futarchy",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blog.metadao.fi/a-futards-guide-to-the-meta-dao-7a6b8d66443a",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/a-futards-guide-to-the-meta-dao-7a6b8d66443a",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/an-update-on-the-first-proposal-0e9cdf6e7bfa",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/an-update-on-the-first-proposal-0e9cdf6e7bfa",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/deans-list-proposal-2-b1cbca456469",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/deans-list-proposal-2-b1cbca456469",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/endgame-63f51dc4b701",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/endgame-63f51dc4b701",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/fixing-cryptos-incentives-for-fun-and-for-profit-63fb16df7e3a",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/fixing-cryptos-incentives-for-fun-and-for-profit-63fb16df7e3a",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/from-believers-to-builders-introducing-unruggable-icos-for-founders-9e3eb18abb92",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/from-believers-to-builders-introducing-unruggable-icos-for-founders-9e3eb18abb92",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/from-corporations-to-nations-how-the-meta-dao-is-going-to-change-everything-part-1-a8657562b12e",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/from-corporations-to-nations-how-the-meta-dao-is-going-to-change-everything-part-1-a8657562b12e",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/from-corporations-to-nations-how-the-meta-dao-is-going-to-change-everything-part-2-8abe5b6814fc",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/from-corporations-to-nations-how-the-meta-dao-is-going-to-change-everything-part-2-8abe5b6814fc",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/from-corporations-to-nations-how-the-meta-dao-is-going-to-change-everything-part-3-16b3880fd86c",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/from-corporations-to-nations-how-the-meta-dao-is-going-to-change-everything-part-3-16b3880fd86c",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/so-you-want-to-raise-a-proposal-2d83304c0b9d",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/so-you-want-to-raise-a-proposal-2d83304c0b9d",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/some-personal-reflections-on-the-launch-5ee3989d97db",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/some-personal-reflections-on-the-launch-5ee3989d97db",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/the-03-28-24-incident-b1458f59335b",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/the-03-28-24-incident-b1458f59335b",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/the-battle-for-futardio-45e52d941900",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/the-battle-for-futardio-45e52d941900",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/the-first-kpi-market-2fb636e81abc",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/the-first-kpi-market-2fb636e81abc",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/the-meta-dao-decentralizes-d2d01dd5aa45",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/the-meta-dao-decentralizes-d2d01dd5aa45",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/the-monthly-metadao-february-c1d5446dd6b8",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/the-monthly-metadao-february-c1d5446dd6b8",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/the-story-of-proposal-3-33a6d766a3da",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/the-story-of-proposal-3-33a6d766a3da",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.metadao.fi/we-shipped-a-new-site-3cc28341cd16",
+      "status": 403,
+      "finalUrl": "https://blog.metadao.fi/we-shipped-a-new-site-3cc28341cd16",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://blog.solomonlabs.org/p/introducing-solomon",
+      "status": 200,
+      "finalUrl": "https://blog.solomonlabs.org/p/introducing-solomon",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-01",
+      "status": 200,
+      "finalUrl": "https://blog.solomonlabs.org/p/solomon-lab-notes-01",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-02",
+      "status": 200,
+      "finalUrl": "https://blog.solomonlabs.org/p/solomon-lab-notes-02",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-03",
+      "status": 200,
+      "finalUrl": "https://blog.solomonlabs.org/p/solomon-lab-notes-03",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blog.solomonlabs.org/p/solomon-metadao",
+      "status": 200,
+      "finalUrl": "https://blog.solomonlabs.org/p/solomon-metadao",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://blog.solomonlabs.org/p/whats-next-for-solomon",
+      "status": 200,
+      "finalUrl": "https://blog.solomonlabs.org/p/whats-next-for-solomon",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://coinlaunch.space/events-rounds/hurupay-metadao-ico-round/",
+      "status": 403,
+      "finalUrl": "https://coinlaunch.space/events-rounds/hurupay-metadao-ico-round/",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://coinmarketcal.com/en/event/ownership-radio-5-323157",
+      "status": 403,
+      "finalUrl": "https://coinmarketcal.com/event/ownership-radio-5-323157",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://coinmarketcal.com/en/event/ownership-radio-6-323891",
+      "status": 403,
+      "finalUrl": "https://coinmarketcal.com/event/ownership-radio-6-323891",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
+      "status": 200,
+      "finalUrl": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://ethresear.ch/t/explanation-of-daicos/465",
+      "status": 200,
+      "finalUrl": "https://ethresear.ch/t/explanation-of-daicos/465",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://futarchy.metadao.fi/omnipair",
+      "classification": "unverified",
+      "reason": "getaddrinfo ENOTFOUND futarchy.metadao.fi"
+    },
+    {
+      "url": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
+      "status": 200,
+      "finalUrl": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://harshghodkar.substack.com/p/futarchistic-future",
+      "status": 200,
+      "finalUrl": "https://harshghodkar.substack.com/p/futarchistic-future",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+      "status": 204,
+      "finalUrl": "https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://mason.gmu.edu/~rhanson/decisionmarkets.pdf",
+      "status": 200,
+      "finalUrl": "https://mason.gmu.edu/~rhanson/decisionmarkets.pdf",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://mason.gmu.edu/~rhanson/futarchy2000.pdf",
+      "status": 200,
+      "finalUrl": "https://mason.gmu.edu/~rhanson/futarchy2000.pdf",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://mason.gmu.edu/~rhanson/futarchy2013.pdf",
+      "status": 200,
+      "finalUrl": "https://mason.gmu.edu/~rhanson/futarchy2013.pdf",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://medium.com/@hrknsinst/futarchy-the-future-of-dao-governance-9dd00a18a423",
+      "status": 403,
+      "finalUrl": "https://medium.com/@hrknsinst/futarchy-the-future-of-dao-governance-9dd00a18a423",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@kollanh/a-new-paradigm-for-founders-opportunity-awaits-0654d3657750",
+      "status": 403,
+      "finalUrl": "https://medium.com/@kollanh/a-new-paradigm-for-founders-opportunity-awaits-0654d3657750",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@kollanh/futarchy-fixes-this-ba90d2aaec71",
+      "status": 403,
+      "finalUrl": "https://medium.com/@kollanh/futarchy-fixes-this-ba90d2aaec71",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@kollanh/how-to-trade-a-decision-75a7ca7abd19",
+      "status": 403,
+      "finalUrl": "https://medium.com/@kollanh/how-to-trade-a-decision-75a7ca7abd19",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@kollanh/market-dynamics-in-futarchy-proposals-db86a8150d01",
+      "status": 403,
+      "finalUrl": "https://medium.com/@kollanh/market-dynamics-in-futarchy-proposals-db86a8150d01",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@pottelisowmyasree/a-deep-dive-into-metadao-and-how-its-changing-crypto-fundraising-forever-bba0f0db83a7",
+      "status": 403,
+      "finalUrl": "https://medium.com/@pottelisowmyasree/a-deep-dive-into-metadao-and-how-its-changing-crypto-fundraising-forever-bba0f0db83a7",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@sekarl/eli5-what-is-futarchy-ba2978d5d91b",
+      "status": 403,
+      "finalUrl": "https://medium.com/@sekarl/eli5-what-is-futarchy-ba2978d5d91b",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@sidcaptures/truly-understanding-futarchy-the-future-of-governance-27588d6b018e",
+      "status": 403,
+      "finalUrl": "https://medium.com/@sidcaptures/truly-understanding-futarchy-the-future-of-governance-27588d6b018e",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@TheAMerk/gambling-wins-how-futarchy-changes-the-odds-of-success-for-the-meta-dao-f6cbd50d5816",
+      "status": 403,
+      "finalUrl": "https://medium.com/@TheAMerk/gambling-wins-how-futarchy-changes-the-odds-of-success-for-the-meta-dao-f6cbd50d5816",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/@ug_tokmetrics/futarchy-bozo-101-e55aec08390f",
+      "status": 403,
+      "finalUrl": "https://medium.com/@ug_tokmetrics/futarchy-bozo-101-e55aec08390f",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://medium.com/collab-currency/7-lessons-testament-of-a-futarchy-trader-2d7cc43b1323",
+      "status": 403,
+      "finalUrl": "https://medium.com/collab-currency/7-lessons-testament-of-a-futarchy-trader-2d7cc43b1323",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://members.delphidigital.io/feed/the-metadao-thesis",
+      "status": 200,
+      "finalUrl": "https://members.delphidigital.io/feed/the-metadao-thesis",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://metadao.fi/",
+      "status": 429,
+      "finalUrl": "https://metadao.fi/",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://metadao.fi/decisions/cars-003",
+      "status": 429,
+      "finalUrl": "https://metadao.fi/decisions/cars-003",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://metadao.fi/decisions/pays-003",
+      "status": 429,
+      "finalUrl": "https://metadao.fi/decisions/pays-003",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://metadao.fi/decisions/sanc-009",
+      "status": 429,
+      "finalUrl": "https://metadao.fi/decisions/sanc-009",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://mobile.twstalker.com/yieldbayfi",
+      "status": 403,
+      "finalUrl": "https://mobile.twstalker.com/yieldbayfi",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://music.amazon.com/podcasts/7bb2df05-8786-4004-9a69-982de5b97414/episodes/35ad5308-4930-4699-92a2-57945082dd1e/would-you-invest-an-internet-capital-markets-podcast-ep-07-hurupay-ownership-token",
+      "status": 200,
+      "finalUrl": "https://music.amazon.com/podcasts/7bb2df05-8786-4004-9a69-982de5b97414/episodes/35ad5308-4930-4699-92a2-57945082dd1e/would-you-invest-an-internet-capital-markets-podcast-ep-07-hurupay-ownership-token",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://news.manifold.markets/p/experiments-with-futarchy",
+      "status": 200,
+      "finalUrl": "https://news.manifold.markets/p/experiments-with-futarchy",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
+      "status": 200,
+      "finalUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
+      "status": 200,
+      "finalUrl": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
+      "status": 200,
+      "finalUrl": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://phemex.com/news/article/crypto-projects-update-omnipair-game-luna-token-works-and-clanker-world-developments-41844",
+      "status": 200,
+      "finalUrl": "https://phemex.com/news/article/crypto-projects-update-omnipair-game-luna-token-works-and-clanker-world-developments-41844",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://podcasts.apple.com/bm/podcast/ownership-s1e3-kru-umbra/id1888100311?i=1000757454033",
+      "status": 200,
+      "finalUrl": "https://podcasts.apple.com/bm/podcast/ownership-s1e3-kru-umbra/id1888100311?i=1000757454033",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/24-robin-hanson-the-scaling-of-futarchy/id1736309658?i=1000733109174",
+      "status": 200,
+      "finalUrl": "https://podcasts.apple.com/us/podcast/24-robin-hanson-the-scaling-of-futarchy/id1736309658?i=1000733109174",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
+      "status": 200,
+      "finalUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+      "status": 200,
+      "finalUrl": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
+      "status": 200,
+      "finalUrl": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://rss.com/podcasts/colosseum-podcast/1966321/",
+      "status": 200,
+      "finalUrl": "https://rss.com/podcasts/colosseum-podcast/1966321/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://solana.com/ar/podcasts/ownership",
+      "status": 200,
+      "finalUrl": "https://solana.com/ar/podcasts/ownership",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://solana.com/fi/podcasts/ownership/episodes/ownership-podcast-s1-e5-sheldon-p2p-me-e3gs8a3",
+      "status": 200,
+      "finalUrl": "https://solana.com/fi/podcasts/ownership/episodes/ownership-podcast-s1-e5-sheldon-p2p-me-e3gs8a3",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://solana.com/ko/podcasts/ownership/episodes/ownership-s1e2-rakka-omnipair-e3fmoq2",
+      "status": 200,
+      "finalUrl": "https://solana.com/ko/podcasts/ownership/episodes/ownership-s1e2-rakka-omnipair-e3fmoq2",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
+      "status": 200,
+      "finalUrl": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://solanacompass.com/learn/Lightspeed/how-metadao-became-solanas-breakout-token-launchpad-kollan-house",
+      "status": 200,
+      "finalUrl": "https://solanacompass.com/learn/Lightspeed/how-metadao-became-solanas-breakout-token-launchpad-kollan-house",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://squads.xyz/blog/onchain-economy-growth",
+      "status": 200,
+      "finalUrl": "https://squads.xyz/blog/onchain-economy-growth",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://web.ourcryptotalk.com/blog/solomon-labs-ico-solana",
+      "status": 200,
+      "finalUrl": "https://ourcryptotalk.com/news/solomon-labs-ico-solana",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://writeergosum.substack.com/p/futarchy-a-beginners-guide-to-a-new",
+      "status": 200,
+      "finalUrl": "https://writeergosum.substack.com/p/futarchy-a-beginners-guide-to-a-new",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.bankless.com/read/the-beauty-of-futarchy",
+      "status": 200,
+      "finalUrl": "https://www.bankless.com/read/the-beauty-of-futarchy",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/business/2025/03/07/mtndao-s-experimental-crypto-investment-fund-will-outperform-vcs-claims-founder",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/business/2025/03/07/mtndao-s-experimental-crypto-investment-fund-will-outperform-vcs-claims-founder",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/consensus-magazine/2024/02/19/the-goal-is-number-go-up-inside-a-daos-radical-governance-experiment",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/consensus-magazine/2024/02/19/the-goal-is-number-go-up-inside-a-daos-radical-governance-experiment",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/en/business/2025/02/13/metadao-hires-futarchy-s-creator-robin-hanson-as-advisor",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/en/business/2025/02/13/metadao-hires-futarchy-s-creator-robin-hanson-as-advisor",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/en/business/2025/07/09/is-there-a-future-for-daos",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/en/business/2025/07/09/is-there-a-future-for-daos",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2016/05/23/the-father-of-futarchy-has-an-idea-to-reshape-dao-governance",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/markets/2016/05/23/the-father-of-futarchy-has-an-idea-to-reshape-dao-governance",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/research/market-spotlight-the-structured-speculation-thesis-why-icos-are-back",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/research/market-spotlight-the-structured-speculation-thesis-why-icos-are-back",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/research/solomon-s-synthetic-dollar-meta-in-a-declining-treasury-market",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/research/solomon-s-synthetic-dollar-meta-in-a-declining-treasury-market",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coindesk.com/tech/2024/08/01/crypto-vc-paradigm-invests-in-metadao-as-prediction-markets-boom",
+      "status": 200,
+      "finalUrl": "https://www.coindesk.com/tech/2024/08/01/crypto-vc-paradigm-invests-in-metadao-as-prediction-markets-boom",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.coingabbar.com/en/crypto-ido/p2p-me-ido-token-sale-overview",
+      "status": 404,
+      "finalUrl": "https://www.coingabbar.com/en/crypto-ido/p2p-me-ido-token-sale-overview",
+      "classification": "missing"
+    },
+    {
+      "url": "https://www.coingecko.com/en/exchanges/metadao-futarchy-amm",
+      "classification": "unverified",
+      "reason": "Response exceeds size limit"
+    },
+    {
+      "url": "https://www.galaxy.com/insights/research/ownership-coins-futarchy-metadao-dao-governance-proph3t",
+      "status": 200,
+      "finalUrl": "https://www.galaxy.com/insights/research/ownership-coins-futarchy-metadao-dao-governance-proph3t",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.galaxy.com/insights/research/the-state-of-onchain-futarchy",
+      "status": 200,
+      "finalUrl": "https://www.galaxy.com/insights/research/the-state-of-onchain-futarchy",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.galaxy.com/insights/research/why-futarchy-matters",
+      "status": 200,
+      "finalUrl": "https://www.galaxy.com/insights/research/why-futarchy-matters",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.helius.dev/blog/futarchy-and-governance-prediction-markets-meet-daos-on-solana",
+      "status": 200,
+      "finalUrl": "https://www.helius.dev/blog/futarchy-and-governance-prediction-markets-meet-daos-on-solana",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.kucoin.com/news/flash/metadao-to-launch-p2p-me-ic0-on-march-26-with-6m-minimum-funding-target",
+      "status": 200,
+      "finalUrl": "https://www.kucoin.com/news/flash/metadao-to-launch-p2p-me-ic0-on-march-26-with-6m-minimum-funding-target",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.kucoin.com/news/flash/ranger-launches-ico-metadao-eyes-strategic-reset",
+      "status": 200,
+      "finalUrl": "https://www.kucoin.com/news/flash/ranger-launches-ico-metadao-eyes-strategic-reset",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.kucoin.com/news/flash/solomon-to-launch-solo-token-ico-on-metadao-from-november-15",
+      "status": 200,
+      "finalUrl": "https://www.kucoin.com/news/flash/solomon-to-launch-solo-token-ico-on-metadao-from-november-15",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.metadao.fi/projects",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/avici",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/avici",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/avici/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/avici/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/futardio-cult",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/futardio-cult",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/hurupay/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/hurupay/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/loyal",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/loyal",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/loyal/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/loyal/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/p2p-protocol",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/p2p-protocol",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/p2p-protocol/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/p2p-protocol/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/paystream/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/paystream/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/ranger/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/ranger/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/solomon",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/solomon",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/solomon/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/solomon/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/superclaw",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/superclaw",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/umbra",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/umbra",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/umbra/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/umbra/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.metadao.fi/projects/zklsol/fundraise",
+      "status": 429,
+      "finalUrl": "https://www.metadao.fi/projects/zklsol/fundraise",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.mexc.co/en-IN/news/129206",
+      "status": 400,
+      "finalUrl": "https://www.mexc.co/en-IN/news/129206",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.moomoo.com/news/post/59657190/the-skyrocketing-metadao-which-has-surged-10x-is-its-ico",
+      "status": 200,
+      "finalUrl": "https://www.moomoo.com/news/post/59657190/the-skyrocketing-metadao-which-has-surged-10x-is-its-ico",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.overcomingbias.com/p/futarchy-details",
+      "status": 200,
+      "finalUrl": "https://www.overcomingbias.com/p/futarchy-details",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.overcomingbias.com/p/no-corner-futarchy",
+      "status": 200,
+      "finalUrl": "https://www.overcomingbias.com/p/no-corner-futarchy",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.shoal.gg/p/metadao-the-new-capital-formation",
+      "status": 200,
+      "finalUrl": "https://www.shoal.gg/p/metadao-the-new-capital-formation",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.thebigwhale.io/article/proph3t-metadao-prediction-markets-have-the-potential-to-be-more-accurate-than-opinion-polls",
+      "status": 200,
+      "finalUrl": "https://www.thebigwhale.io/article/proph3t-metadao-prediction-markets-have-the-potential-to-be-more-accurate-than-opinion-polls",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.theblock.co/post/373997/solana-arcium-privacy-protocol-umbra-ico-metadao",
+      "status": 403,
+      "finalUrl": "https://www.theblock.co/post/373997/solana-arcium-privacy-protocol-umbra-ico-metadao",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.tradingview.com/news/coinmarketcal%3A020cdf2c6094b%3A0-metadao-meta-ownership-radio-3-22-march-2026/",
+      "status": 200,
+      "finalUrl": "https://www.tradingview.com/news/coinmarketcal%3A020cdf2c6094b%3A0-metadao-meta-ownership-radio-3-22-march-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.tradingview.com/news/coinmarketcal%3A32ca504b0094b%3A0-metadao-meta-ownership-radio-1-08-march-2026/",
+      "status": 200,
+      "finalUrl": "https://www.tradingview.com/news/coinmarketcal%3A32ca504b0094b%3A0-metadao-meta-ownership-radio-1-08-march-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.tradingview.com/news/coinmarketcal%3A6722d4bf0094b%3A0-metadao-meta-ownership-radio-15-march-2026/",
+      "status": 200,
+      "finalUrl": "https://www.tradingview.com/news/coinmarketcal%3A6722d4bf0094b%3A0-metadao-meta-ownership-radio-15-march-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.tradingview.com/news/coinmarketcal%3Ae7f65fcd1094b%3A0-metadao-meta-ownership-radio-7-19-april-2026/",
+      "status": 200,
+      "finalUrl": "https://www.tradingview.com/news/coinmarketcal%3Ae7f65fcd1094b%3A0-metadao-meta-ownership-radio-7-19-april-2026/",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.turbinecash.app/",
+      "classification": "unverified",
+      "reason": "getaddrinfo EAI_AGAIN www.turbinecash.app"
+    },
+    {
+      "url": "https://www.vanityfair.com/news/story/prediction-markets-kalshi-polymarket",
+      "status": 200,
+      "finalUrl": "https://www.vanityfair.com/news/story/prediction-markets-kalshi-polymarket",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
+      "status": 204,
+      "finalUrl": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
+      "status": 204,
+      "finalUrl": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+      "status": 204,
+      "finalUrl": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LVSMJkWOrzY",
+      "status": 204,
+      "finalUrl": "https://www.youtube.com/watch?v=LVSMJkWOrzY",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
+      "status": 204,
+      "finalUrl": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
+      "status": 200,
+      "finalUrl": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
+      "status": 204,
+      "finalUrl": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yMJjilUU21o",
+      "status": 204,
+      "finalUrl": "https://www.youtube.com/watch?v=yMJjilUU21o",
+      "classification": "unverified"
+    },
+    {
+      "url": "https://x.com/01Resolved/status/2000547534570131797",
+      "status": 200,
+      "finalUrl": "https://x.com/01Resolved/status/2000547534570131797",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/01Resolved/status/2001883471950811263",
+      "status": 200,
+      "finalUrl": "https://x.com/01Resolved/status/2001883471950811263",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/01Resolved/status/2011463286097940685",
+      "status": 200,
+      "finalUrl": "https://x.com/01Resolved/status/2011463286097940685",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/01Resolved/status/2012912550577615233",
+      "status": 200,
+      "finalUrl": "https://x.com/01Resolved/status/2012912550577615233",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/0xcarlosg/status/2008560236794191921",
+      "status": 200,
+      "finalUrl": "https://x.com/0xcarlosg/status/2008560236794191921",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/0xResearch/status/1972679362639167492",
+      "status": 200,
+      "finalUrl": "https://x.com/0xResearch/status/1972679362639167492",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/0xSrMessi/status/1976083763999437047",
+      "status": 200,
+      "finalUrl": "https://x.com/0xSrMessi/status/1976083763999437047",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/11AMdotclub/status/1999204697857786087",
+      "status": 200,
+      "finalUrl": "https://x.com/11AMdotclub/status/1999204697857786087",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/8bitpenis/status/1983536764003209291",
+      "status": 200,
+      "finalUrl": "https://x.com/8bitpenis/status/1983536764003209291",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/8bitpenis/status/2013192242828071013",
+      "status": 200,
+      "finalUrl": "https://x.com/8bitpenis/status/2013192242828071013",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/airtightfish/status/1976025086051110995",
+      "status": 200,
+      "finalUrl": "https://x.com/airtightfish/status/1976025086051110995",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/airtightfish/status/1994882577073586407",
+      "status": 200,
+      "finalUrl": "https://x.com/airtightfish/status/1994882577073586407",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/AviciMoney/status/1888992057777348741",
+      "status": 200,
+      "finalUrl": "https://x.com/avici/status/1888992057777348741",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/AviciMoney/status/1943706943681400840",
+      "status": 200,
+      "finalUrl": "https://x.com/avici/status/1943706943681400840",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/AviciMoney/status/1977834732160418013",
+      "status": 200,
+      "finalUrl": "https://x.com/avici/status/1977834732160418013",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/BanklessHQ/status/1980242608107716824",
+      "status": 200,
+      "finalUrl": "https://x.com/Bankless/status/1980242608107716824",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/barrett_io/status/1991261485901947130",
+      "status": 200,
+      "finalUrl": "https://x.com/barrett_io/status/1991261485901947130",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/blocmates/status/1994053268260126990",
+      "status": 200,
+      "finalUrl": "https://x.com/blocmates/status/1994053268260126990",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/blocmates/status/2001331765055738265",
+      "status": 200,
+      "finalUrl": "https://x.com/blocmates/status/2001331765055738265",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/checkmatexbt/status/1993460344786718987",
+      "status": 200,
+      "finalUrl": "https://x.com/nihaoAINET/status/1993460344786718987",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/colosseum/status/2001010232152219988",
+      "status": 200,
+      "finalUrl": "https://x.com/colosseum/status/2001010232152219988",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/jito_sol/status/1915469158386483471",
+      "status": 200,
+      "finalUrl": "https://x.com/jito/status/1915469158386483471",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/JUPANDJUICE/status/2011856601603293565",
+      "status": 200,
+      "finalUrl": "https://x.com/JUPANDJUICE/status/2011856601603293565",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/JW100x/status/2013208262976393474",
+      "status": 404,
+      "finalUrl": "https://x.com/JW100x/status/2013208262976393474",
+      "classification": "missing"
+    },
+    {
+      "url": "https://x.com/kru_tweets/status/1987420528920174939",
+      "status": 200,
+      "finalUrl": "https://x.com/kru_tweets/status/1987420528920174939",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
+      "status": 200,
+      "finalUrl": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
+      "status": 200,
+      "finalUrl": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1976685165641351480",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1976685165641351480",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1978582744797184503",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1978582744797184503",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1980547196937199645",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1980547196937199645",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1986764853118189793",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1986764853118189793",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1990993868393992253",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1990993868393992253",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1994135327993123151",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1994135327993123151",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1995213328332009599",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1995213328332009599",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1998814082133041181",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1998814082133041181",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/1999090894893371407",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/1999090894893371407",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/loyal_hq/status/2002116995266031908",
+      "status": 200,
+      "finalUrl": "https://x.com/loyal_hq/status/2002116995266031908",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/MCGlive/status/1976324856905072700",
+      "status": 200,
+      "finalUrl": "https://x.com/MCGlive/status/1976324856905072700",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/MCGlive/status/1976747062709629405",
+      "status": 200,
+      "finalUrl": "https://x.com/MCGlive/status/1976747062709629405",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/MetaDAOProject/status/1909251208336019511",
+      "status": 200,
+      "finalUrl": "https://x.com/MetaDAOProject/status/1909251208336019511",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/metaproph3t/status/1899823082900259017",
+      "status": 200,
+      "finalUrl": "https://x.com/metaproph3t/status/1899823082900259017",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/metaproph3t/status/1975983944165097559",
+      "status": 200,
+      "finalUrl": "https://x.com/metaproph3t/status/1975983944165097559",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/metaproph3t/status/1998259709963337836",
+      "status": 200,
+      "finalUrl": "https://x.com/metaproph3t/status/1998259709963337836",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/metaproph3t/status/2001870120411631909",
+      "status": 200,
+      "finalUrl": "https://x.com/metaproph3t/status/2001870120411631909",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/metaproph3t/status/2011025662690382229",
+      "status": 200,
+      "finalUrl": "https://x.com/metaproph3t/status/2011025662690382229",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/mobius3_3/status/2009131161310912595",
+      "status": 200,
+      "finalUrl": "https://x.com/mobius3_3/status/2009131161310912595",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/notthreadguy/status/1998492210564837451",
+      "status": 200,
+      "finalUrl": "https://x.com/notthreadguy/status/1998492210564837451",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/omnipair/status/1994081660585795686",
+      "status": 200,
+      "finalUrl": "https://x.com/omnipair/status/1994081660585795686",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/oxranga/status/2014073369235267854",
+      "status": 200,
+      "finalUrl": "https://x.com/oxranga/status/2014073369235267854",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/1974428141276856821",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/1974428141276856821",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/1980173375935742010",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/1980173375935742010",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/1986069666591129960",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/1986069666591129960",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/1988973826764578863",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/1988973826764578863",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/1991990177116635496",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/1991990177116635496",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/1994491734836088934",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/1994491734836088934",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/2000530395570348040",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/2000530395570348040",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Paystreamlabs/status/2003901610188210216",
+      "status": 200,
+      "finalUrl": "https://x.com/Paystreamlabs/status/2003901610188210216",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/pineanalytics/status/1732095165177749869",
+      "status": 200,
+      "finalUrl": "https://x.com/PineAnalytics/status/1732095165177749869",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/PineAnalytics/status/2013312713229816000",
+      "status": 200,
+      "finalUrl": "https://x.com/PineAnalytics/status/2013312713229816000",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/rachit/status/2011021526662046047",
+      "status": 200,
+      "finalUrl": "https://x.com/rachit/status/2011021526662046047",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/RamXBT/status/1986118163109675353",
+      "status": 200,
+      "finalUrl": "https://x.com/RamXBT/status/1986118163109675353",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/RamXBT/status/1998075111803617295",
+      "status": 200,
+      "finalUrl": "https://x.com/RamXBT/status/1998075111803617295",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/RamXBT/status/2008237203688964231",
+      "status": 200,
+      "finalUrl": "https://x.com/RamXBT/status/2008237203688964231",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/RamXBT/status/2010772443670192310",
+      "status": 200,
+      "finalUrl": "https://x.com/RamXBT/status/2010772443670192310",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/ranger_finance/status/1938519325897560316",
+      "status": 200,
+      "finalUrl": "https://x.com/ranger_finance/status/1938519325897560316",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/ranger_finance/status/1990807074796695666",
+      "status": 200,
+      "finalUrl": "https://x.com/ranger_finance/status/1990807074796695666",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/ranger_finance/status/2007140827081089086",
+      "status": 200,
+      "finalUrl": "https://x.com/ranger_finance/status/2007140827081089086",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/ranger_finance/status/2010773370124845501",
+      "status": 200,
+      "finalUrl": "https://x.com/ranger_finance/status/2010773370124845501",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/SebMontgomery/status/2009362257529196833",
+      "status": 200,
+      "finalUrl": "https://x.com/SebMontgomery/status/2009362257529196833",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/SebMontgomery/status/2011153222652543263",
+      "status": 200,
+      "finalUrl": "https://x.com/SebMontgomery/status/2011153222652543263",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/seppmos/status/1998375343539781875",
+      "status": 200,
+      "finalUrl": "https://x.com/seppmos/status/1998375343539781875",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/Shoalresearch/status/2003544723294736431",
+      "status": 200,
+      "finalUrl": "https://x.com/Shoalresearch/status/2003544723294736431",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/solomon_labs/status/1986863901200253136",
+      "status": 200,
+      "finalUrl": "https://x.com/solomon_labs/status/1986863901200253136",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/solomon_labs/status/1988037282025091290",
+      "status": 200,
+      "finalUrl": "https://x.com/solomon_labs/status/1988037282025091290",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/solomon_labs/status/2008962597979345026",
+      "status": 200,
+      "finalUrl": "https://x.com/solomon_labs/status/2008962597979345026",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/turbine_cash/status/1993660948461035835",
+      "status": 404,
+      "finalUrl": "https://x.com/turbine_cash/status/1993660948461035835",
+      "classification": "missing"
+    },
+    {
+      "url": "https://x.com/typi_cal_/status/2013207016127508862",
+      "status": 200,
+      "finalUrl": "https://x.com/typi_cal_/status/2013207016127508862",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/UmbraPrivacy/status/1931382657570488766",
+      "status": 200,
+      "finalUrl": "https://x.com/UmbraPrivacy/status/1931382657570488766",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/UmbraPrivacy/status/1939723194195214716",
+      "status": 200,
+      "finalUrl": "https://x.com/UmbraPrivacy/status/1939723194195214716",
+      "classification": "reachable"
+    },
+    {
+      "url": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+      "status": 200,
+      "finalUrl": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+      "classification": "reachable"
+    }
+  ]
+}

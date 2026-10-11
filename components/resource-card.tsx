@@ -4,7 +4,7 @@ import { ExternalLink, FileText, Mic, Video, TrendingUp, BookOpen, Calendar, Eye
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import type { Resource } from "@/lib/resources-data"
+import { formatResourceDate, type Resource } from "@/lib/resources-data"
 
 interface ResourceCardProps {
   resource: Resource
@@ -15,12 +15,7 @@ interface ResourceCardProps {
 }
 
 export function ResourceCard({ resource, viewCount, score, onView, onVote }: ResourceCardProps) {
-  const formattedDate = new Intl.DateTimeFormat("en", {
-    month: "short",
-    day: "numeric",
-    year: "numeric",
-    timeZone: "UTC",
-  }).format(new Date(`${resource.date}T00:00:00Z`))
+  const formattedDate = formatResourceDate(resource)
 
   const typeLabel = {
     paper: "Paper",
@@ -88,13 +83,14 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
             </span>
           </div>
 
+          <p className="text-xs text-muted-foreground">{resource.verification === 'source-checked' ? 'Source checked · ' + resource.checkedAt : 'Archive entry · verification pending'}</p>
           {resource.description && <p className="text-sm leading-6 text-muted-foreground line-clamp-4">{resource.description}</p>}
         </div>
 
         {resource.tags && resource.tags.length > 0 && (
           <div className="mt-auto pt-5">
             <div className="flex flex-wrap gap-1">
-              {resource.tags.slice(0, 3).map((tag) => (
+              {resource.tags.filter(tag => !tag.startsWith("project:")).slice(0, 3).map((tag) => (
                 <Badge key={tag} variant="outline" className="rounded-md border-primary/25 text-xs text-foreground/80">
                   {tag}
                 </Badge>

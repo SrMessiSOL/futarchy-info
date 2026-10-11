@@ -1,0 +1,93 @@
+[
+  {
+    "id": "01resolved",
+    "name": "01Resolved research",
+    "url": "https://01resolved.com/research/",
+    "hosts": [
+      "01resolved.com",
+      "www.01resolved.com"
+    ],
+    "path": "/research/",
+    "exclude": "/(tag|author|page)/|/rss/?$"
+  },
+  {
+    "id": "metadao-decisions",
+    "name": "MetaDAO decisions",
+    "url": "https://metadao.fi/decisions",
+    "hosts": [
+      "metadao.fi",
+      "www.metadao.fi"
+    ],
+    "path": "/decisions/"
+  },
+  {
+    "id": "metadao-blog",
+    "name": "MetaDAO blog",
+    "url": "https://blog.metadao.fi/",
+    "hosts": [
+      "blog.metadao.fi"
+    ],
+    "path": "/",
+    "exclude": "/(tag|author|page)/|/rss/?$"
+  },
+  {
+    "id": "01resolved-rss",
+    "name": "01Resolved latest research feed",
+    "url": "https://01resolved.com/research/rss/",
+    "format": "rss",
+    "hosts": [
+      "01resolved.com"
+    ],
+    "path": "/research/"
+  },
+  {
+    "id": "01resolved-archive",
+    "name": "01Resolved complete post sitemap",
+    "url": "https://01resolved.com/research/sitemap-posts.xml",
+    "format": "sitemap",
+    "hosts": [
+      "01resolved.com"
+    ],
+    "path": "/research/"
+  },
+  {
+    "id": "ownership-feed",
+    "name": "Ownership podcast feed",
+    "url": "https://anchor.fm/s/10e854134/podcast/rss",
+    "format": "rss",
+    "hosts": [
+      "anchor.fm",
+      "podcasters.spotify.com",
+      "creators.spotify.com"
+    ],
+    "path": "/pod/"
+  },
+  {
+    "id": "loyal-updates",
+    "name": "Loyal product updates",
+    "url": "https://askloyal.com/blog",
+    "hosts": [
+      "askloyal.com"
+    ],
+    "path": "/blog/"
+  },
+  {
+    "id": "umbra-updates",
+    "name": "Umbra announcements",
+    "url": "https://hub.umbraprivacy.com/",
+    "hosts": [
+      "hub.umbraprivacy.com"
+    ],
+    "path": "/announcement/"
+  },
+  {
+    "id": "solomon-updates",
+    "name": "Solomon updates",
+    "url": "https://blog.solomonlabs.org/feed",
+    "format": "rss",
+    "hosts": [
+      "blog.solomonlabs.org"
+    ],
+    "path": "/p/"
+  }
+]

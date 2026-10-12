@@ -31,7 +31,6 @@ export function ResearchBrief() {
           <div className="text-sm font-medium">{resource.title}</div>
           <div className="mt-1 text-xs text-muted-foreground">{resource.author} · Added {resource.addedAt}</div>
         </a>)}</div>
-        <p className="mt-4 text-xs leading-5 text-muted-foreground">“Source checked” means the linked material was reviewed. It does not independently validate every claim. Historical entries retain a verification-pending label.</p>
       </div>
     </div>
   </section>

@@ -46,7 +46,7 @@ export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
 
           <p className="max-w-3xl text-lg leading-8 text-muted-foreground lg:text-xl">
             Follow the projects that raised on MetaDAO: launches, product updates, governance decisions,
-            founder interviews, and what happened next. Source checks and date uncertainty are shown on each entry.
+            founder interviews, and what happened next.
           </p>
 
           <p className="text-sm text-muted-foreground">Library updated {lastLibraryUpdate || "date unavailable"} · Independent research archive</p>

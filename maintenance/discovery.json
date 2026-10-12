@@ -213,22 +213,29 @@
       "sourceId": "solomon-updates",
       "discoveredAt": "2026-10-09",
       "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/syndicate-raises-600k-on-backable-dualmint-successfully-closes-its-sale-and-rip-cars-unlocks-250k/",
+      "title": "Syndicate Raises $600K on Backable, DualMint Successfully Closes Its Sale, and Rip Cars Unlocks $250K",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-10-12",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-10-09",
+      "lastSuccess": "2026-10-12",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-09",
+      "lastAttempt": "2026-10-12",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-09",
+      "lastAttempt": "2026-10-12",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -238,17 +245,17 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-10-09",
+      "lastSuccess": "2026-10-12",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-10-09",
-      "links": 52
+      "lastSuccess": "2026-10-12",
+      "links": 53
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-10-09",
+      "lastSuccess": "2026-10-12",
       "links": 14
     },
     "kleros-feed": {
@@ -278,17 +285,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-09",
+      "lastSuccess": "2026-10-12",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-09",
+      "lastSuccess": "2026-10-12",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-09",
+      "lastSuccess": "2026-10-12",
       "links": 14
     }
   }

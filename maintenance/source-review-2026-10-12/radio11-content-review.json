@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1oKMvRwmBBoGQ",
+  "resourceId": "ownership-radio-11-recording",
+  "audioSha256": "6628341dfdb83e7be8beddd164540664dfaaa72f92c01975b94d20bd1fb11a72",
+  "durationSeconds": 8752.32,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 2082,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 2082 segments of the locally generated transcript read for 8752.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript read. Jurassic commitments are distinct from funds raised; SPV formation, acquisition and museum arrangements are prospective. Epicentral trade counts and notional volume explicitly concern devnet test funds, not mainnet revenue or adoption. An intended raise is not a completed ecosystem raise. Guest regulatory views are opinions, not established legal conclusions. Groom Lake is discussed during trading, not as an executed decision. Later guest names are uncertain in ASR and are not assigned founder identities.",
+  "sections": [
+    {
+      "start": "05:00",
+      "topic": "Futardio content proposal and ongoing MetaDAO security-proposal trading"
+    },
+    {
+      "start": "10:00",
+      "topic": "Sora: Jurassic fundraising correction, runway and future specimen plans"
+    },
+    {
+      "start": "15:00",
+      "topic": "Prospective SPV proposal, fossil acquisition and excavation risks"
+    },
+    {
+      "start": "25:00",
+      "topic": "Museum custody and onboarding remain future work"
+    },
+    {
+      "start": "35:00",
+      "topic": "Futardio and Blockformer content trial; reporting and renewal plans"
+    },
+    {
+      "start": "60:00",
+      "topic": "Tony: Epicentral devnet beta; test-fund metrics and technical approach"
+    },
+    {
+      "start": "70:00",
+      "topic": "Founder background, earlier governance experience and planned raise"
+    },
+    {
+      "start": "80:00",
+      "topic": "Regulatory and product-design questions; no legal conclusions verified"
+    },
+    {
+      "start": "105:00",
+      "topic": "Five-minute prediction-market devnet pitch and funding intentions"
+    },
+    {
+      "start": "115:00",
+      "topic": "Token pre-market pitch; unresolved integration and product-demand questions"
+    },
+    {
+      "start": "140:00",
+      "topic": "Founder feedback and closing"
+    }
+  ]
+}

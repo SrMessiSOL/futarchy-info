@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1PKqrrlavRMGb",
+  "resourceId": "ownership-radio-14-recording",
+  "audioSha256": "5f843b3b9e4d27967054ba2037a1caf4296d4b3c71ea3668218bd17be7bfefbb",
+  "durationSeconds": 6879.68,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 1737,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 1737 segments of the locally generated transcript read for 6879.68 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Self-reported usage, revenue, privacy and financial-model claims are not audited. GeSIM’s raise was still ongoing during this conversation; commitments are not accepted proceeds. Jurassic’s fossil purchase, liquidity support and SPV arrangements were plans. Epicentral metrics explicitly describe devnet paper trading, not real-money trading or a completed ecosystem raise. Hedging comparisons and competitor claims are speaker opinions.",
+  "sections": [
+    {
+      "start": "04:34",
+      "topic": "Opening"
+    },
+    {
+      "start": "07:00",
+      "topic": "Sheldon: P2P checkout, applications, merchant network and small market experiments"
+    },
+    {
+      "start": "24:09",
+      "topic": "Sora: Jurassic legal budget, advisors and proposed first fossil"
+    },
+    {
+      "start": "32:18",
+      "topic": "Jurassic liquidity, fees, tokenization service and resale governance plans"
+    },
+    {
+      "start": "42:44",
+      "topic": "GeSIM initial raise, UI improvements, backend incident and staged rollout"
+    },
+    {
+      "start": "55:30",
+      "topic": "GeSIM privacy architecture claims and future product bundle"
+    },
+    {
+      "start": "61:02",
+      "topic": "Tony: Epicentral devnet options and simplified buying interface"
+    },
+    {
+      "start": "65:00",
+      "topic": "Options versus perpetual hedging discussion; illustrative speaker claims"
+    },
+    {
+      "start": "79:00",
+      "topic": "Options minting, oracle and probability-display plans"
+    },
+    {
+      "start": "85:00",
+      "topic": "Market-making usability, liquidity formation and institutional feedback"
+    },
+    {
+      "start": "98:00",
+      "topic": "Explicit devnet usage figures and asset-expansion constraints"
+    },
+    {
+      "start": "110:00",
+      "topic": "Competitive positioning and closing"
+    }
+  ]
+}

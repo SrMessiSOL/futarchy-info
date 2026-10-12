@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-12",
+  "scope": "Active funded projects only; three complete public caption tracks plus one complete written founder interview. Broader archives remain disclosed gaps.",
+  "decisions": [
+    {
+      "projectId": "umbra",
+      "title": "Umbra founders Kru and Cal: Making Privacy the Default",
+      "author": "Kru and Cal / Lightspeed",
+      "url": "https://www.youtube.com/watch?v=wneRrwMw61Y",
+      "date": "2026-03-24",
+      "type": "video",
+      "summary": "Kru and Cal recount Umbra’s founding and explain its then-current MPC/ZK architecture, shielded pools, confidential balances and SDK strategy. They discuss selective disclosure, deposit screening and MetaDAO accountability. The wallet is described as a restricted mainnet beta; public release and institutional integrations remain prospective. Later V2 coverage qualifies this historical architecture.",
+      "boundary": "Complete available English auto-generated captions read from 0:00–42:31 of a 42:48 recording; publisher episode page establishes date and founder identities. No full manual listening or visual review. Audit, security, adoption and compliance claims not independently verified; transcription errors excluded.",
+      "gaps": "Lightspeed March 24 interview complete available captions now read. Broader personal posts and other interviews remain incomplete; historical MPC/Arcium design is qualified by later V2 sources.",
+      "resourceId": "founder-umbra-bb0441e8e2",
+      "status": "reviewed",
+      "checkedAt": "2026-10-12",
+      "transcriptSha256": "ff911c4f6f68953faef2cbb3a53d831cadf368cc88d21d0f9b74be02c9d64eaa"
+    },
+    {
+      "projectId": "loyal",
+      "title": "Loyal founder Chris: Agentic Finance for Everyday Users",
+      "author": "Chris / Lightspeed",
+      "url": "https://www.youtube.com/watch?v=bx_n34xGYfQ",
+      "date": "2026-05-12",
+      "type": "video",
+      "summary": "Chris explains Loyal’s AI/privacy origins, Squads-based smart accounts, bounded agent policies and a Seeker-first rollout. He reflects on fundraising livestreams, tokenholder feedback, buyback trade-offs and performance-linked hiring. Smart-account production rollout and subsequent automations are historical plans; illustrated yields and security guarantees are not independently validated.",
+      "boundary": "Complete available English auto-generated captions read from 0:00–57:34 of a 57:41 recording. Apple publisher metadata dates the episode May 12, 2026. No full manual listening or visual review. Founder claims about investor protection, legal insulation and execution remain attributed.",
+      "gaps": "Lightspeed May 12 interview complete available captions now read. Broader personal posts and Rodion’s separate author archive remain incomplete. Chris and Rodion are not assumed identical.",
+      "resourceId": "founder-loyal-b0bb0d6dd8",
+      "status": "reviewed",
+      "checkedAt": "2026-10-12",
+      "transcriptSha256": "ffa2bd99819c416e395c2648982495bb65b7f1bc38f79ed5588261bd1799bbe8"
+    },
+    {
+      "projectId": "p2p-protocol",
+      "title": "P2P founder Sheldon: Seed Club pre-raise interview",
+      "author": "Sheldon / 11AM w/ Seed Club",
+      "url": "https://www.youtube.com/watch?v=1x-cSsjFgt0",
+      "date": "2026-03-25",
+      "type": "video",
+      "summary": "Sheldon discusses local payment rails, merchant reputation, fraud controls and Circles of Trust expansion. He describes operating on Base with Solana planned, and negotiating existing investors’ rights for the MetaDAO raise. The host challenges growth forecasts and market dependence. Geographic expansion, regulatory protection, equity analogies and future revenue remain founder claims.",
+      "boundary": "Complete available English auto-generated captions read from 0:00–33:34 of a 33:45–33:46 recording. Expanded YouTube description gives March 25; podcast distributor gives March 26, a separate distribution date. Auto-dub label concerns other audio tracks; reviewed exported caption track is English. No full manual listening or visual review. Legal conclusions, financial forecasts and fraud-prevention absolutes not independently verified.",
+      "gaps": "Full Seed Club public video caption track now read, replacing the former 8:37 preview-only gap. Personal founder writing and Bytes’s archive remain incomplete.",
+      "resourceId": "founder-p2p-protocol-7878ba6454",
+      "status": "reviewed",
+      "checkedAt": "2026-10-12",
+      "transcriptSha256": "62d454f439c3228a756b38c99d66f6a329dff061c4c10a50c9cde271fdedc9ca"
+    },
+    {
+      "projectId": "hivebits",
+      "title": "HiveBits founders: fundraising, beekeeping origins and equipment plans",
+      "author": "Vukašin Stojkov / Startit",
+      "url": "https://startit.rs/pcelari-iz-svilosa-skupili-140-000-za-27-sati-za-farmu-od-300-pametnih-kosnica-najvaznije-je-bilo-dobiti-podrsku-zajednice/",
+      "date": "2026-10-07",
+      "type": "article",
+      "summary": "Nemanja recounts HiveBits’ beekeeping background, public raise and Superteam Balkan support. The interview identifies Siniša Kezić as cofounder and describes equipment procurement and a planned sensor-equipped farm. It distinguishes the reported $140,000 accepted raise from roughly $242,675 committed; refund execution, historical sales and physical expansion are not independently verified.",
+      "boundary": "Complete available Serbian written interview read. Publication date and byline explicit. Publisher discloses AI-assisted writing reviewed by a human. Embedded images, linked posts, contracts and supplier arrangements not independently reviewed.",
+      "gaps": "October 7 Startit founder interview read in full; identities and reported procurement plans added. Dedicated Ownership interview, personal founder archives and Siniša’s wider archive remain incomplete.",
+      "resourceId": "founder-hivebits-455bc46e2e",
+      "status": "reviewed",
+      "checkedAt": "2026-10-12"
+    }
+  ]
+}

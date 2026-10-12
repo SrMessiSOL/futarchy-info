@@ -1,0 +1,154 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Company archive",
+      "title": "Inside Credible: How We Processed $400M+ Using Stablecoin Infrastructure",
+      "url": "https://credible.finance/insights/inside-credible-400m-processed",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-inside-credible-400m-processed"
+      ],
+      "note": "Full publisher article body read. Title says $400M+, opening says nearly $700M cumulative, and later sections say $400M+ monthly. These measures are not reconciled. Licences being pursued and future volume targets are not achieved outcomes.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "The Infrastructure Stack Behind Instant Cross-Border Payments",
+      "url": "https://credible.finance/insights/infrastructure-stack-cross-border",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-infrastructure-stack-cross-border"
+      ],
+      "note": "Full publisher article body read. SOC 2 Type II ready is not certification. Described annual audits and custody arrangements were not independently verified.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "Why Emerging Markets Need Open Payment Networks",
+      "url": "https://credible.finance/insights/emerging-markets-open-networks",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-emerging-markets-open-networks"
+      ],
+      "note": "Full publisher article body read. Company-authored market thesis; no individual founder byline.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "The Rise of Stablecoin Treasury Management for Global Businesses",
+      "url": "https://credible.finance/insights/stablecoin-treasury-management",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-stablecoin-treasury-management"
+      ],
+      "note": "Full publisher article body read. Not a record of MetaDAO treasury execution or an independent risk assessment.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "How AI Will Transform Payments Infrastructure",
+      "url": "https://credible.finance/insights/ai-transforms-payments",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-ai-transforms-payments"
+      ],
+      "note": "Full publisher article body read. Historical publisher edition read. Claimed model performance and implementation were not tested.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "Stablecoins vs SWIFT: A Technical Breakdown of Cross-Border Settlement",
+      "url": "https://credible.finance/insights/stablecoins-vs-swift",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-stablecoins-vs-swift"
+      ],
+      "note": "Full publisher article body read. No independent validation of comparative costs, liquidity assumptions or regulatory interpretations.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "Why Traditional Payment Gateways Fail Modern Internet Businesses",
+      "url": "https://credible.finance/insights/why-traditional-gateways-fail",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-why-traditional-gateways-fail"
+      ],
+      "note": "Full publisher article body read. Marketing and company strategy source, not a verified competitor comparison.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "PayFi Explained: How Pre-Funded Stablecoin Liquidity Enables Instant Payments",
+      "url": "https://credible.finance/insights/payfi-explained",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-payfi-explained"
+      ],
+      "note": "Full publisher article body read. Timing examples, noncustodial assertions and advertised yields were not independently validated.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "Countries Locked Out of Stablecoin Payments Will Struggle to Keep Up",
+      "url": "https://credible.finance/insights/countries-locked-out-stablecoin-payments",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-countries-locked-out-stablecoin-payments"
+      ],
+      "note": "Full publisher article body read. Company policy thesis, not jurisdiction-specific legal guidance.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "The Future of Global Payments Will Run on Stablecoins",
+      "url": "https://credible.finance/insights/future-global-payments-stablecoins",
+      "status": "added",
+      "resourceIds": [
+        "credible-insight-future-global-payments-stablecoins"
+      ],
+      "note": "Full publisher article body read. Historical thesis, not proof of delivered roadmap or current financial guidance.",
+      "method": "Full publisher article text",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Company archive",
+      "title": "Hurupay announces the Kolan rebrand",
+      "url": "https://www.linkedin.com/posts/kolanapp_18-months-100m-processed-thousands-activity-7483810415068774400-NZuE",
+      "status": "added",
+      "resourceIds": [
+        "hurupay-kolan-rebrand-announcement"
+      ],
+      "note": "Full public post and displayed short video transcript read. Transcript contains obvious name-recognition errors; company text establishes the brand name. Only a relative publication label was visible, so the date stays unknown. Audio and visuals were not reviewed; operating figures remain company claims.",
+      "method": "Full public post and displayed transcript",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "radio": {
+    "episode": 32,
+    "url": "https://x.com/i/spaces/1MJgNbpvWayGL",
+    "result": "Player recovered after transient browser timeouts. Captions enabled and playback paused at about 0:12. No full transcript appeared; More menu offered Hide captions and Report this Space only.",
+    "contentStatus": "not-reviewed",
+    "boundary": "This inspection cannot establish caption availability across the full recording or other episodes."
+  },
+  "rss": {
+    "url": "https://anchor.fm/s/10e854134/podcast/rss",
+    "status": 200,
+    "bytesOfText": 42909,
+    "transcriptTagsFound": 0,
+    "radioTitlesFound": 0,
+    "boundary": "Bounded current RSS response; absence does not prove no historical transcript or alternate recording exists."
+  },
+  "nextRequired": "A complete accessible transcript or downloadable recording is needed for full Radio content review. Do not infer content from player cards, captions toggle, announcement or episode description.",
+  "statusBoundary": "Historical earlier pass. Recording access and review statements are superseded by recording-acquisition.json, ownership-audio-reviews.json and ownership-radio-recordings.json in this directory."
+}

@@ -1,0 +1,1341 @@
+{
+  "checkedAt": "2026-10-12",
+  "scope": "Historical linked-source backlog preserved. Pending failed-raise archive research is deferred; use raised-project-research-queue.json for active research.",
+  "sources": [
+    {
+      "projectId": "markov",
+      "sourceUrl": "https://markov.fyi/litepaper",
+      "discoveredFrom": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Current litepaper describes owner/operator separation, bounded policies, refusal receipts and separately managed strategy accounts. It explicitly labels the software devnet and unaudited, uses mock venue adapters, and gates public mainnet on audit. Float public hosting, x402 facilitator settlement and the credit ladder remain roadmap items.",
+      "boundary": "Complete written body read through normal browser after public-tool redirect failure. Version header August 2026 is not an exact publication date. Security absolutes and incident comparisons are publisher assertions, not verified audit results.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "markov-archive-d948f14074",
+      "resolvedUrl": "https://markovhq.com/litepaper",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "markov",
+      "sourceUrl": "https://x.com/kunaldrall_",
+      "discoveredFrom": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+      "status": "profile-inspected-archive-pending",
+      "reviewNote": "Public bio links tradeOnMarkov and vessel_hq; two recent event posts visible. No Articles tab present in inspected profile navigation.",
+      "boundary": "Profile and initial posts inspected only; no complete historical archive or founder role inferred from bio.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "markov",
+      "sourceUrl": "https://x.com/dralldaksh",
+      "discoveredFrom": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+      "status": "profile-inspected-archive-pending",
+      "reviewNote": "Public profile links sleeve cash, Vessel and Stellar ambassador activity. Three visible October 7 event posts read; no Articles tab in inspected navigation.",
+      "boundary": "Bounded profile inspection only; historical archive and role transition remain unresolved.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "markov",
+      "sourceUrl": "https://x.com/monalikawalia",
+      "discoveredFrom": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+      "status": "profile-inspected-archive-pending",
+      "reviewNote": "Profile identifies marketing at ito_hq and ecosystem activity with nectar_xlm and markovfyi. No Articles tab in inspected navigation.",
+      "boundary": "Profile identity and navigation only; 18-post history not fully reviewed and founder status not inferred.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "coinflip",
+      "sourceUrl": "https://ir.coinflip.to/",
+      "discoveredFrom": "https://www.backable.biz/raises/7wiwmSgdVXhYyiMWdUz6vUxTjoiCPupFwvmGNzhPJvV9",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Current IR page announces CASINO on Pump.fun and describes PvP duels, pooled jackpots and settlement fees. Player targets are a September 2026–February 2027 roadmap. Revenue buybacks require proposal approval and defined execution/accounting rules; no completed buyback or accepted futarchy raise is established.",
+      "boundary": "Complete available written page read. Current token-platform announcement qualifies the historical unsuccessful Backable pitch; transition date unknown. Product, token mint and RNG assertions not independently tested on-chain.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "coinflip-archive-4542fdcdb9",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "coinflip",
+      "sourceUrl": "https://x.com/CoinflipTO",
+      "discoveredFrom": "https://www.backable.biz/raises/7wiwmSgdVXhYyiMWdUz6vUxTjoiCPupFwvmGNzhPJvV9",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "carrylend",
+      "sourceUrl": "https://github.com/klend-fork/klend-staked-borrow",
+      "discoveredFrom": "https://www.backable.biz/raises/86cSK16y9FZBggdLcmZiPUCaBjB9TWyGdEzjmJoNe4tn",
+      "status": "complete-readme-reviewed",
+      "reviewNote": "README describes a Kamino fork with forced staking of borrowed SOL, escrowed LST collateral and intended fee-burn accrual. Its cited proof is a Surfpool mainnet fork, while audit and public mainnet remain roadmap steps. Proposed excess-to-locked-LP terms differ from the failed-raise platform refund presentation. Neither document proves accepted proceeds or completed deployment.",
+      "boundary": "Complete rendered README read in normal browser. Source code, fork tests, authorities and financial invariants not independently audited. NAV-only-up language is qualified by stated carry inversion and technical risks. Revision/publication date unknown.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "carrylend-archive-b1015391be",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "collector-suite",
+      "sourceUrl": "https://x.com/aCollectorSuite",
+      "discoveredFrom": "https://www.backable.biz/raises/Eyq92APYDt5tEsvmsSHuCtX3KFJuKgmhLiry3EUaScuh",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bountive",
+      "sourceUrl": "https://www.youtube.com/watch?v=IUQ8MUXy2Ng",
+      "discoveredFrom": "https://www.backable.biz/raises/6YJbUyYug9nnj6ga83KSNBSNk46tpvxnAprQb1DPAoVp",
+      "status": "complete-available-captions-reviewed",
+      "reviewNote": "Omar introduces Bountive as a creator-content bounty platform scored for effort, quality and impact, motivated by costly influencer promotion after hackathon wins. The pitch seeks Futardio capital for platform and smart-contract testing before production; devnet wording in generated captions is garbled and not treated as deployment proof.",
+      "boundary": "Complete available English auto-generated captions (0:00–2:07 of a 2:14 video) read. Name and token recognition errors qualified using title and primary pitch; no full manual audio or visual review. Publication date from expanded publisher description.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "bountive-archive-0925a353fb",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bountive",
+      "sourceUrl": "https://x.com/BountiveXYZ",
+      "discoveredFrom": "https://www.backable.biz/raises/6YJbUyYug9nnj6ga83KSNBSNk46tpvxnAprQb1DPAoVp",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "clytheriq-chain",
+      "sourceUrl": "https://x.com/clytheriq",
+      "discoveredFrom": "https://www.backable.biz/raises/BawJPh331hYBctANtrnky3Rof1jYtSE4ckoYLqQvmGd7",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "gardendao",
+      "sourceUrl": "https://x.com/thegardendao",
+      "discoveredFrom": "https://www.backable.biz/raises/HLCNhF5rsrcWJLTLJYuGaYDQXJSPorMERm3ZcQz17R29",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://docs.prismprotocol.dev/",
+      "discoveredFrom": "https://www.backable.biz/raises/AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Introduction describes Prime/Core/Alpha tranches, top-down yield and bottom-up losses. Prime can absorb losses after subordinate layers are depleted; 15% Alpha yield is a target. Future RWA, cross-chain and institutional integrations are stated as future scope.",
+      "boundary": "Complete introduction body read. Linked documentation chapters not reviewed. No live loan, liquid market or investment protection independently established.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-0a6a0a8778",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog",
+      "discoveredFrom": "https://www.backable.biz/raises/AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+      "status": "index-reviewed-child-bodies-pending",
+      "reviewNote": "Complete visible blog index inspected: seven distinct essays plus three documentation field-note links. Footer explicitly says devnet demo operational. April/May 2026 index labels do not prove individual publication dates; integration claims require body review.",
+      "boundary": "Blog index review only, not the linked essays or founder archive.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://x.com/prismsolana",
+      "discoveredFrom": "https://www.backable.biz/raises/AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "talaria",
+      "sourceUrl": "https://x.com/CynicOracle",
+      "discoveredFrom": "https://www.backable.biz/raises/D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "talaria",
+      "sourceUrl": "https://github.com/zeyxx/CYNIC",
+      "discoveredFrom": "https://www.backable.biz/raises/D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+      "status": "complete-readme-reviewed",
+      "reviewNote": "Current CYNIC README presents a Rust runtime for agent coordination, bounded authority and state reconciliation. This is a component repository explicitly linked by the historical Talaria pitch; it does not independently establish Talaria oracle deployment or chess-product delivery.",
+      "boundary": "Complete rendered README read in normal browser despite public-tool 404. Current repository scope differs from historical pitch framing; transition date unknown. Code and security claims not independently verified; repository agent instructions treated only as source content.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "talaria-archive-935639ae02",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "talaria",
+      "sourceUrl": "https://github.com/Ragnar-no-sleep/blitz-and-chill",
+      "discoveredFrom": "https://www.backable.biz/raises/D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+      "status": "access-unresolved",
+      "reviewNote": "Normal browser displays GitHub 404; linked chess repository body unavailable.",
+      "boundary": "Cannot distinguish removal, rename or access restrictions; not evidence of project wind-down.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "arcade-cafe",
+      "sourceUrl": "https://x.com/arcadecafeok",
+      "discoveredFrom": "https://www.backable.biz/raises/1AEZZsShFCnC8UUetqk9hGby66Q5mgyszDHdXjAmdYe",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "privatedao",
+      "sourceUrl": "https://github.com/X-PACT/PrivateDAO",
+      "discoveredFrom": "https://www.backable.biz/raises/9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+      "status": "complete-readme-reviewed",
+      "reviewNote": "Repository README describes privacy workflows, Agent Exchange and provider-neutral runtime boundaries. Current Solana Testnet evidence and the historical Devnet proof registry are explicitly distinct. PDAO supply and workflow claims concern Testnet; mainnet launch, custody, liquidity and customer deployment remain separate gates.",
+      "boundary": "Complete rendered README read; repository files and linked attestation packets are not a completed code or independent execution audit. Original repository URL redirects to x-pact-pro. README calls the repository private while the visible GitHub header labels it Public; no inference of private access.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "privatedao-archive-1d77057be2",
+      "resolvedUrl": "https://github.com/x-pact-pro/PrivateDAO",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "privatedao",
+      "sourceUrl": "https://x.com/privateDAOOS",
+      "discoveredFrom": "https://www.backable.biz/raises/9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "privatedao",
+      "sourceUrl": "https://privatedao.org/proof/",
+      "discoveredFrom": "https://www.backable.biz/raises/9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Proof Center publishes Testnet governance and confidentiality packets alongside stale freshness labels and degraded/unconfirmed RPC results. It distinguishes archived SOL micropayment transfers from proposed stablecoin settlement and separately records approval, execution and receipt status. These publisher records are not independently reconciled transactions or mainnet proof.",
+      "boundary": "Complete available written body read across three public-tool windows, including all 1156 lines. Linked evidence packets, dynamic live counters, videos and transactions not independently reviewed; retrieved cached freshness is historical, not current chain state.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "privatedao-archive-29500b02ec",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "rugpull-club",
+      "sourceUrl": "https://x.com/rugpull_club",
+      "discoveredFrom": "https://www.backable.biz/raises/5S3bKMvxMhixAowK6WkdH5iRapmhd2PiKHt2bBSNxDha",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "bounded-index-and-all-ten-bodies-reviewed",
+      "reviewNote": "All ten bodies surfaced in the inspected Medium index read: seven selected, three not selected. Wider personal archive not exhausted.",
+      "boundary": "Visible index only; not exhaustive personal archive.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "summary": "All ten bodies surfaced in the inspected Medium index read: seven selected, three not selected. Wider personal archive not exhausted.",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://x.com/xer0c",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "bounded-index-and-all-five-articles-reviewed",
+      "reviewNote": "All five bodies surfaced in the inspected X Article index read: four selected, one later independent mutual-cover project retained in coverage without catalog addition. The founder profile links xeroc.org; wider posts, replies and external archives not exhausted.",
+      "boundary": "Bounded visible X Article index, not whole personal archive.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://docs.tributary.so/",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Documentation presents wallet token delegation for recurring, milestone and metered payments, with revocation and spending limits. The current overview expands into programmable capital and x402 tooling. The publisher reports over 4,000 mainnet pulls; this is usage, not revenue or audit proof.",
+      "boundary": "Complete documentation landing-page body read; linked security, deployment, SDK and migration pages are separate review objects. Publication and revision dates unknown. Settlement speed, geographic availability and custody claims remain attributed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-b9020f4bbb",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://github.com/tributary-so",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "organization-index-and-readme-reviewed-archive-pending",
+      "reviewNote": "Organization overview and visible repository index reviewed; main protocol README separately read in full.",
+      "boundary": "Organization index does not establish complete repository or founder-archive review.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://youtu.be/KwRowt-9448",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "captions-unavailable",
+      "reviewNote": "Publisher titles this OLD PITCH and directs readers to a newer pitch, https://www.youtube.com/watch?v=JSKsIdD1zhY. Transcript export reports unavailable.",
+      "boundary": "Metadata and description inspected, recording content not reviewed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://youtu.be/GHR2WmTtRAQ",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "captions-unavailable",
+      "reviewNote": "Publisher identifies a 2:59 Tributary Checkout walkthrough for Frontier Colosseum Hackathon. Transcript export reports unavailable.",
+      "boundary": "Metadata inspected, recording content not reviewed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://youtu.be/HwulPezwCSQ",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "complete-available-captions-reviewed",
+      "reviewNote": "Founder introduces a hackathon MVP for recurring Solana payments using token delegation, SDKs and developer tooling. Feature-complete and self-auditing statements are historical issuer claims, not an independent audit; uniqueness, market-size and friction figures are not independently validated.",
+      "boundary": "Complete available English auto-generated captions (0:00–3:06 of 3:10) read. Initial export returned unavailable before loading; successful export supersedes that result. No complete manual audio/visual review; later June 2026 gateway-signer explanation qualifies automation claims.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-5ec2281509",
+      "resolvedUrl": "https://www.youtube.com/watch?v=HwulPezwCSQ",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://youtu.be/0irXnJaL_Rs",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "captions-unavailable",
+      "reviewNote": "Publisher identifies a 32-second MVP/App demo published October 30, 2025. Expanded-page transcript export still reports none available; recording visuals not reviewed.",
+      "boundary": "Metadata reviewed, not a full video review. No deletion inferred.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://youtu.be/94tAF2PvMpw",
+      "discoveredFrom": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "status": "complete-available-captions-reviewed",
+      "reviewNote": "Founder narrates subscription setup, policy management and gateway architecture, describing Contribute as an example. At this historical stage only subscription policy was implemented; installments and milestone payments were future work, later discussed as implemented in the January 2026 retrospective.",
+      "boundary": "Complete available English auto-generated captions (0:00–2:55 of 2:58) read. Narration is distinct from independently verifying screen actions or live payments; security/custody claims remain attributed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-67aabeadbb",
+      "resolvedUrl": "https://www.youtube.com/watch?v=94tAF2PvMpw",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "sanctum-permissionless-fork",
+      "sourceUrl": "https://x.com/STACCoverflow/status/1897696471216005149",
+      "discoveredFrom": "https://www.backable.biz/raises/3SWD1jNDe6C1qbuDefXng6DQA2DnM8WKPpgH6nL7cuDg",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "The proposal author describes an intended expansion of Jupiter LST routing and disputes Sanctum rejecting permissionless governance access. This is one side of the disagreement; the separately reviewed official notice calls the proposal unofficial and removed. No proposal-market outcome or execution verified.",
+      "boundary": "Complete written post read. Official quoted notice opened separately; technical, motive and trading-outcome allegations remain attributed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "sanctum-permissionless-fork-archive-5bd2d8b8ca",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "boltick",
+      "sourceUrl": "https://x.com/BoltickWeb3",
+      "discoveredFrom": "https://www.backable.biz/raises/p3f1RW1uWTjraL99dCmqQ3uCtSTfKhSWdRxxKoAoaWx",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "diverg",
+      "sourceUrl": "https://x.com/divergsec",
+      "discoveredFrom": "https://www.backable.biz/raises/5mbLJavVEu9hRgEd9Sg2GCQSNMjRWc9t6ZzjamndU64q",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bynomo",
+      "sourceUrl": "https://x.com/amaanbiz",
+      "discoveredFrom": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bynomo",
+      "sourceUrl": "https://github.com/AmaanSayyad",
+      "discoveredFrom": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "status": "profile-and-readme-reviewed-archive-pending",
+      "reviewNote": "Complete available profile README read. Amaan names Bynomo among co-founded ventures and links his website and X. Achievements and backing claims remain self-reported.",
+      "boundary": "Profile README reviewed, not all 290 repositories, personal posts or linked project bodies.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bynomo",
+      "sourceUrl": "https://www.linkedin.com/in/amaan-sayyad-/",
+      "discoveredFrom": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bynomo",
+      "sourceUrl": "https://bynomo.fun/litepaper",
+      "discoveredFrom": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Litepaper describes off-chain Supabase balances, treasury workers, simulated chart amplifiers/jitter, withdrawal caps and manual review, alongside multi-chain transfers. P2P matching and leverage remain future work. Accelerator applications are not acceptance; reported Bags funding and traction remain issuer claims. Amaan Sayyad is explicitly identified as founder.",
+      "boundary": "Complete written body and text diagrams read in normal browser. Last updated April 9, 2026; publication unknown. Embedded demo reports terminated YouTube account; slide deck not reviewed. Oracle-bound/deterministic assertions coexist with client chart settlement and simulated prices; implementation and fairness not validated.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "bynomo-archive-5ef3163e32",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bynomo",
+      "sourceUrl": "https://youtu.be/t76ltZH9XSU",
+      "discoveredFrom": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "solar-wallet",
+      "sourceUrl": "https://x.com/getsolarwallet",
+      "discoveredFrom": "https://www.backable.biz/raises/5oyuNXQ8CpRn5oFGNszYGjrPknU1AMeQhuxwUdJpaMDT",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "universal-revenue-service",
+      "sourceUrl": "https://x.com/URS_main",
+      "discoveredFrom": "https://www.backable.biz/raises/6LRN6j1EdbkXkjQybpKbpb4xWc84Ps7LPNHwtQqA7cGC",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "quantum-waffle",
+      "sourceUrl": "https://x.com/QuantumWaffleQW",
+      "discoveredFrom": "https://www.backable.biz/raises/4Wm4NFVy9MKgSJe3ZT8aKwbL3dc5XxvnWdPhvC4Sinow",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/Bogdex",
+      "discoveredFrom": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "status": "index-reviewed-child-bodies-pending",
+      "reviewNote": "Public profile points to LoreResearch; inspected Articles index surfaces five long-form items about agencies, MCP, Y Combinator, prediction-market information lag and perp farming. Full bodies remain pending; profile does not itself announce NFA wind-down.",
+      "boundary": "Bounded visible index inspected; not whole personal archive. Five source links retained as discovery only.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/WictorijaNFA",
+      "discoveredFrom": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "status": "profile-and-visible-article-reviewed",
+      "reviewNote": "Public bio explicitly identifies COO/cofounder of NFA.space. One article surfaced in the inspected Articles index and its complete body was read. Wider posts remain unreviewed; bio's artist/country counts are self-reported and differ from older figures.",
+      "boundary": "One surfaced article is not exhaustive personal archive.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://www.nfa.space/blog",
+      "discoveredFrom": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://www.nfa.space/post/the-new-future-for-the-fine-arts-industry-at-nft-space-concerning-collectors",
+      "discoveredFrom": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "status": "complete-written-body-reviewed",
+      "resourceId": "nfa-collectors-nft-thesis-2023",
+      "checkedAt": "2026-10-12",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://www.nfa.space/post/art-3-0-second-year-so-far-so-good",
+      "discoveredFrom": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "status": "complete-written-body-reviewed",
+      "resourceId": "nfa-second-year-retrospective",
+      "checkedAt": "2026-10-12",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://www.nfa.space/post/empowering-our-holders-introducing-revenue-sharing-at-nfa-space",
+      "discoveredFrom": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "status": "complete-written-body-reviewed",
+      "resourceId": "nfa-holder-revenue-sharing-2024",
+      "checkedAt": "2026-10-12",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://www.youtube.com/@nfaspace",
+      "discoveredFrom": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "shopsbuilder-ai",
+      "sourceUrl": "https://x.com/shopsbuilder",
+      "discoveredFrom": "https://www.backable.biz/raises/6qtygHxrFzF3tucXcy6EzbwZJBRbiuZAZrsXapXZLxE3",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "git3",
+      "sourceUrl": "https://www.git3.io/docs",
+      "discoveredFrom": "https://www.backable.biz/raises/6JSEvdUfQuo8rh3M18Wex5xmSacUuBozz9uQEgFC81pX",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Current overview describes GitHub OAuth, Ethereum-compatible wallet connection and full-history repository import onto Irys, with repository assets and proposed x402 interoperability. Permanent availability, complete history and no-off-chain-dependency claims are not independently validated.",
+      "boundary": "Complete default Overview tab body read. Architecture, API, workflow and other tabs not yet read; this is not the entire documentation or code audit. Mutable page publication date unknown.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "git3-archive-d349e65fba",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "git3",
+      "sourceUrl": "https://x.com/TryGit3",
+      "discoveredFrom": "https://www.backable.biz/raises/6JSEvdUfQuo8rh3M18Wex5xmSacUuBozz9uQEgFC81pX",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "etnl",
+      "sourceUrl": "https://docs.etnl.io/",
+      "discoveredFrom": "https://www.backable.biz/raises/4oiZeLhoDB9jGTFd28kJDKBYheL1Yg1XwR3qPTa69Rx9",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Documentation introduction proposes smartphone Secure Enclave and StrongBox custody as a simpler hardware-based wallet experience. Claims of tamper-proof vaults and no attack surface remain promotional assertions; device implementation, threat model and independent security review are unresolved.",
+      "boundary": "Complete documentation introduction body read in browser after public-tool markdown error. Last-updated relative label is not publication date. Linked introduction and deeper documentation not reviewed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "etnl-archive-8ff8cfbcf4",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "etnl",
+      "sourceUrl": "https://x.com/etnl_io",
+      "discoveredFrom": "https://www.backable.biz/raises/4oiZeLhoDB9jGTFd28kJDKBYheL1Yg1XwR3qPTa69Rx9",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "seeker-vault",
+      "sourceUrl": "https://x.com/gbflarcos",
+      "discoveredFrom": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "seeker-vault",
+      "sourceUrl": "https://x.com/Beardkoda",
+      "discoveredFrom": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "seeker-vault",
+      "sourceUrl": "https://x.com/seekervaultxyz",
+      "discoveredFrom": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "seeker-vault",
+      "sourceUrl": "https://seekervault.xyz/assets/pdf%20preview%20seekervault.mp4",
+      "discoveredFrom": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "seeker-vault",
+      "sourceUrl": "https://seekervault.xyz/assets/video%20demo%20seekervault.mp4",
+      "discoveredFrom": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "seeker-vault",
+      "sourceUrl": "https://seekervault.xyz/assets/Picture%20upload%20seekervault.mp4",
+      "discoveredFrom": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nexid",
+      "sourceUrl": "https://docs.nexid.fun/",
+      "discoveredFrom": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+      "status": "access-unresolved",
+      "reviewNote": "Public tool unavailable and normal browser reports DNS resolution failure.",
+      "boundary": "Body not read; access failure does not establish deletion or project wind-down.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nexid",
+      "sourceUrl": "https://x.com/UseNexID",
+      "discoveredFrom": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nexid",
+      "sourceUrl": "https://academy.nexid.fun/academy/campaign/4",
+      "discoveredFrom": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nexid",
+      "sourceUrl": "https://academy.nexid.fun/academy/campaign/3",
+      "discoveredFrom": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "areal-finance",
+      "sourceUrl": "https://docs.areal.finance/",
+      "discoveredFrom": "https://www.backable.biz/raises/4mgSftMwb86RKe4P73b7iY1YzyNwGPtW8EmyGJyACykG",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Current introduction describes a shared RWA basket, RWT contributions and stRWT income accrual through an increasing exchange rate. Claims about owned assets, NAV, income and community governance remain publisher statements; no completed acquisition or legal title is established.",
+      "boundary": "Complete introduction body read. Linked token and staking pages not reviewed. Documentation publication/revision dates unknown; no numeric statistics were returned.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "areal-finance-archive-f5fc938302",
+      "researchPriority": "main-library"
+    },
+    {
+      "projectId": "areal-finance",
+      "sourceUrl": "https://github.com/arealfinance",
+      "discoveredFrom": "https://www.backable.biz/raises/4mgSftMwb86RKe4P73b7iY1YzyNwGPtW8EmyGJyACykG",
+      "status": "organization-index-reviewed-archive-pending",
+      "reviewNote": "Organization index read: ten repositories covering contracts, docs, SDK, backend, interfaces and Arlex. Main meta-repository README reviewed separately.",
+      "boundary": "Index discovery is not complete review of all repository bodies or founder identity.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "main-library"
+    },
+    {
+      "projectId": "lobsterfutarchy",
+      "sourceUrl": "https://x.com/lobster",
+      "discoveredFrom": "https://www.backable.biz/raises/2d9RAui8BGYh8Jt7dc49WSFTuXVRT4nNE4Sy2mUtALNZ",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "ludex-ai",
+      "sourceUrl": "https://ludexai.gitbook.io/ludexai/",
+      "discoveredFrom": "https://www.backable.biz/raises/95HNkVuqzStFe7B6Aw32sgkbwkHEyEsA818izKKTz776",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Documentation introduces natural-language game creation with generated artwork, story and digital assets. Intro header says whitepaper last updated July 2025; delivery speed, ownership and monetization are issuer claims, not independently verified product results.",
+      "boundary": "Complete introduction page read. Deeper whitepaper chapters remain separate; July 2025 update is not original publication date.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "ludex-ai-archive-dbb8a2e329",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "ludex-ai",
+      "sourceUrl": "https://x.com/LudexAI_io",
+      "discoveredFrom": "https://www.backable.biz/raises/95HNkVuqzStFe7B6Aw32sgkbwkHEyEsA818izKKTz776",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "futardio-boat",
+      "sourceUrl": "https://x.com/futardioboat",
+      "discoveredFrom": "https://www.backable.biz/raises/rFdgjcZYHgcsGy44iyvN95JRjB3Yr8APps437cd2HEL",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "launchpet",
+      "sourceUrl": "https://x.com/launchpet",
+      "discoveredFrom": "https://www.backable.biz/raises/BWeT96hGV245sm6Ua4EhLPL8GngcBV2aKS2uvkaEkjBi",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "blockrock",
+      "sourceUrl": "https://blockrock.fund/charter",
+      "discoveredFrom": "https://www.backable.biz/raises/J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Charter proposes treasury-backed ownership funds, market-governed liquid asset allocation and AI-generated proposals. The flagship plan allocates 95% to participants, 5% to performance-unlocked founders and a $5K monthly allowance. Proposed fund mechanics and legal protections do not establish launch or operation. Its mtnCapital liquidation account remains a third-party assertion.",
+      "boundary": "Complete available charter body read. Publication date unknown. Automated execution, performance, legal guarantees and universal no-loss rhetoric not independently validated; does not close primary mtnCapital wind-down evidence gap.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "blockrock-archive-fa443fbd12",
+      "resolvedUrl": "https://www.blockrock.fund/charter",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "blockrock",
+      "sourceUrl": "https://x.com/blockrockfund",
+      "discoveredFrom": "https://www.backable.biz/raises/J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "phonon-studio",
+      "sourceUrl": "https://x.com/Phonon_Studio",
+      "discoveredFrom": "https://www.backable.biz/raises/x1yqPH8mutuiqkrz66DPwFw1ykQqT4v5KyUUtUzBgPA",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "runbookai",
+      "sourceUrl": "https://docs.runbookai.xyz/",
+      "discoveredFrom": "https://www.backable.biz/raises/9DfNVpcDm6x1GXUa8wik8YVZhiw7dTmmhefVBWVZuAg8",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Documentation explicitly labels RunBook AI under development. It proposes natural-language strategy creation, mandatory paper-trading staging, immutable publication and rented TEE agents. On-chain history, tamper-proof execution and rental/performance income are design claims; no launched marketplace or verified returns established.",
+      "boundary": "Complete introduction body read in normal browser. Linked legal pages and code not reviewed. Publication date unknown.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "runbookai-archive-6115f371e6",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "insert-coin-labs",
+      "sourceUrl": "https://twitter.com/x0lpeko",
+      "discoveredFrom": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "insert-coin-labs",
+      "sourceUrl": "https://twitter.com/Excalead",
+      "discoveredFrom": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "insert-coin-labs",
+      "sourceUrl": "https://domin8.fun/",
+      "discoveredFrom": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "status": "product-interface-reviewed",
+      "reviewNote": "Current site renders an Insert Coin arcade with Arena and Rabbit Royale activity, a vault draw and account-gated deposits. Displayed wagering and payout totals are interface claims, not independently reconciled transactions.",
+      "boundary": "Public interface and screenshot inspected without login, wallet or gameplay transactions. FAQ click did not expose reviewable text. No complete game, randomness or treasury audit; publication date unknown.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "insert-coin-labs-archive-e93530ae28",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "insert-coin-labs",
+      "sourceUrl": "https://www.rabbit-royale.com/",
+      "discoveredFrom": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "status": "product-interface-reviewed",
+      "reviewNote": "Public homepage offers a free AI demo and auto islands, while duel and infinite modes are marked coming soon. It advertises a creator share of pots and Solana VRF randomness. These are product-interface claims; payouts, fairness and launch status not independently verified.",
+      "boundary": "Complete available homepage text read without wallet connection or paid gameplay. Historical pitch links this product; current ownership and contract execution not independently established. Publication date unknown.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "insert-coin-labs-archive-00cb834ba1",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "insert-coin-labs",
+      "sourceUrl": "https://x.com/iclabsdotfun",
+      "discoveredFrom": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "seyf",
+      "sourceUrl": "https://x.com/SeyfWallet",
+      "discoveredFrom": "https://www.backable.biz/raises/2TK2hDtyNAY2hbV3yHDoVaAPSfaod2sHX7PtWPz8QfmQ",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "torch-market",
+      "sourceUrl": "https://torch.market/whitepaper",
+      "discoveredFrom": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Whitepaper describes token launches with treasury-funded loans and a locked-token short pool, adaptive LTV, liquidation and transfer-fee revenue. Its reclaim mechanism routes inactive bonding capital to protocol rewards, rather than describing participant refunds. Advertised proof harnesses and an OpenAI o3 review remain author claims, not a completed independent human audit.",
+      "boundary": "Complete written body read in normal browser. Publication year 2026 only; date unknown. Risk parameters, no-rug rhetoric, solvency, code and mainnet state not independently verified.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "torch-market-archive-91c1a364d6",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "torch-market",
+      "sourceUrl": "https://torch.market/verification.md",
+      "discoveredFrom": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "status": "access-unresolved",
+      "reviewNote": "Public retrieval unavailable; verification body not read.",
+      "boundary": "Harness counts in whitepaper are issuer claims; this document remains pending.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "torch-market",
+      "sourceUrl": "https://torch.market/audit.md",
+      "discoveredFrom": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "status": "access-unresolved",
+      "reviewNote": "Public tool rejects markdown content type; normal browser blocks this URL by client. Document not read.",
+      "boundary": "No protection bypass used; not evidence of deletion or completed audit.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "torch-market",
+      "sourceUrl": "https://github.com/mrsirg97-rgb",
+      "discoveredFrom": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "torch-market",
+      "sourceUrl": "https://x.com/torch_market",
+      "discoveredFrom": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tridash",
+      "sourceUrl": "https://x.com/tridashgame",
+      "discoveredFrom": "https://www.backable.biz/raises/5jK8akFVVkM9JAJKps6M9eECCBoSLM7meR2Kf5Kc47f7",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "git3",
+      "sourceUrl": "https://www.git3.io/manifesto.pdf",
+      "discoveredFrom": "https://www.backable.biz/raises/HKRDmghovXSCMobiRCZ7BBdHopEizyKmnhJKywjk3vUa",
+      "status": "complete-extracted-text-reviewed",
+      "reviewNote": "Eleven-page manifesto proposes on-chain repositories as NFTs, GitHub Action distribution and code access/agent royalties using x402. The MVP-live statement, permanence, censorship resistance and market-size estimates remain publisher claims, with no independent revenue or deployment verification.",
+      "boundary": "All extracted text from 11 PDF pages read. Product screenshots and image-only content not reviewed. Publication date unknown; no date inferred from crawl or copyright.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "git3-archive-a64d5e8628",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bitfutard",
+      "sourceUrl": "https://x.com/BitFuTard",
+      "discoveredFrom": "https://www.backable.biz/raises/3jDrz2B6aDgjKSArkJPkqQPnYXqtihjAtGHf7tRohjj2",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "send-arcade",
+      "sourceUrl": "https://x.com/yashhsm/status/2009698779902169135",
+      "discoveredFrom": "https://www.backable.biz/raises/ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+      "status": "complete-written-body-reviewed",
+      "resourceId": "send-arcade-send-sunset",
+      "checkedAt": "2026-10-12",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "send-arcade",
+      "sourceUrl": "https://github.com/SendArcade",
+      "discoveredFrom": "https://www.backable.biz/raises/ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+      "status": "index-reviewed-child-bodies-pending",
+      "reviewNote": "Organization overview links SendRC, Solana App Kit, alpha-vm and Telegram bot repositories; 14 repositories advertised, 10 listed. This corroborates the public code organization, not commercial activity or current delivery.",
+      "boundary": "Organization index inspected; individual repositories and founder identities remain separate.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "send-arcade",
+      "sourceUrl": "https://x.com/sendarcadefun",
+      "discoveredFrom": "https://www.backable.biz/raises/ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "island",
+      "sourceUrl": "https://x.com/xpmaxxer",
+      "discoveredFrom": "https://www.backable.biz/raises/FpFytak8JZwVntqDh9G95zqXXVJNXMxRFUYY959AXeZj",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "island",
+      "sourceUrl": "https://x.com/islandYield",
+      "discoveredFrom": "https://www.backable.biz/raises/FpFytak8JZwVntqDh9G95zqXXVJNXMxRFUYY959AXeZj",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "i-rich",
+      "sourceUrl": "https://docs.i.rich/",
+      "discoveredFrom": "https://www.backable.biz/raises/87ZWGbregxaa7TMD3TgYg6n2ADdTN1vqXpVCtSvKjEjw",
+      "status": "access-unresolved",
+      "reviewNote": "Public tool unavailable and normal browser reports DNS resolution failure.",
+      "boundary": "Body not read; access failure does not establish deletion or project wind-down.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "i-rich",
+      "sourceUrl": "https://x.com/idotrich",
+      "discoveredFrom": "https://www.backable.biz/raises/87ZWGbregxaa7TMD3TgYg6n2ADdTN1vqXpVCtSvKjEjw",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "sizematters",
+      "sourceUrl": "https://x.com/sizemattersfun",
+      "discoveredFrom": "https://www.backable.biz/raises/CtynMdGE4CwJuUSoYhRf4powwKwT8bWo5Dq2KiBVEiKm",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "sizematters",
+      "sourceUrl": "https://x.com/sizemattersfun/status/2029149947405193560",
+      "discoveredFrom": "https://www.backable.biz/raises/CtynMdGE4CwJuUSoYhRf4powwKwT8bWo5Dq2KiBVEiKm",
+      "status": "written-post-reviewed-video-pending",
+      "reviewNote": "March 4, 2026 short post claims its ZK technology is working; account bio attributes the project to joaointech. Embedded ten-second video not reviewed.",
+      "boundary": "Written post alone does not verify operation, proof validity or embedded demonstration. No new catalog entry selected.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "xorrabet",
+      "sourceUrl": "https://x.com/XorraBet",
+      "discoveredFrom": "https://www.backable.biz/raises/24fzAzy51sUFSnRf4qpTqSrrugiKcJ8uVh2TSnQrDdoY",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "vervepay",
+      "sourceUrl": "https://x.com/vervepay",
+      "discoveredFrom": "https://www.backable.biz/raises/CrRTdZWr8iectFdEXi2FdDGNFSLT3LEX3i1xVNiJqEpc",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "digifrens",
+      "sourceUrl": "https://x.com/DigiFrens",
+      "discoveredFrom": "https://www.backable.biz/raises/HTyjkYarxpf115vPqGXYpPpS9jFMXzLLjGNnVjEGWuBg",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "cloak",
+      "sourceUrl": "https://github.com/vaibhav0806/cloak-dca",
+      "discoveredFrom": "https://www.backable.biz/raises/9MqyiXXJUAXQ1Uy5j2EV8hq21UeR3ruukWkZ1XGNhg3R",
+      "status": "complete-readme-reviewed",
+      "reviewNote": "README describes Privacy.cash deposits, session wallets and keeper-executed Jupiter DCA. Limitations explicitly label it a hackathon demo with session keypairs stored base64 without encryption and output tokens not re-shielded. This qualifies broad production/privacy claims; it does not prove the current product still uses that implementation.",
+      "boundary": "Complete rendered README read, not code audited. Current mutable revision date unknown. An implausible withdrawal-fee table value is not adopted as verified pricing. Absolute unlinkability claims are not independently validated.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "cloak-archive-1af0ed7a56",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "cloak",
+      "sourceUrl": "https://x.com/cloakdefi",
+      "discoveredFrom": "https://www.backable.biz/raises/9MqyiXXJUAXQ1Uy5j2EV8hq21UeR3ruukWkZ1XGNhg3R",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "manna-finance",
+      "sourceUrl": "https://x.com/MannaFinance",
+      "discoveredFrom": "https://www.backable.biz/raises/5whxoTjxW4oKeSN4C8yf5JUur7pcSChkPWgmhSZQ8oD5",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "open-music",
+      "sourceUrl": "https://x.com/openmusic_art",
+      "discoveredFrom": "https://www.backable.biz/raises/4R1peXdUehAS1aWCdnrBfLRevGktsKH2euvBLdsYXbWu",
+      "status": "pending-body-review",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/why-tributary-is-raising-on-futarchy-5cf228b3c9e9",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder explains a planned Futardio raise for audit, runway, integrations and growth, reporting mainnet operation since October 2025 and Yumi/Allowly/Contribute use. Product-market fit is explicitly unproven. The announced April 19 AMA is scheduled participation; statements about other projects and token returns remain third-party historical claims.",
+      "boundary": "Complete article body read in normal browser after public tool returned only shell. Mainnet use, integrations, governance migration and audit completion not independently verified.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-01d1887a02",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/tributary-development-update-referral-program-custom-fees-and-x402-v2-1cdeb7a31baa",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder retrospective describes three-level referral routing, admin-controlled custom gateway fees, milestone scheduling and x402 v2 middleware. Referral programme is described as almost merged and coming soon; test counts and production-ready language are publisher claims, not independent audit evidence.",
+      "boundary": "Complete article body read. No commit, deployment or test rerun performed on the project.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-beaaa000f6",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/proving-payments-without-a-backend-how-tributary-uses-jwt-d3605b23add9",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder explains ES256 JWTs signed by Tributary after reading subscription state, with payment-cycle expiry and refresh. Background billing requires a facilitator. The signed token is an issuer attestation about queried state; it alone does not establish requester identity, fresh settlement or secure frontend-only access control.",
+      "boundary": "Complete written body and text diagrams read in browser. Security and freshness assertions not independently validated; transaction submission is distinguished from confirmation.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-bd6a8841c4",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog/the-100t-market-that-doesnt-trade",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Company thesis advocates pooled credit and tradable tranche exposure rather than per-loan tokens, with Prime/Core/Alpha priority and loss hierarchy. Liquidity and cashflow claims describe the design; website labels the product a devnet demo.",
+      "boundary": "Complete available article body read. April 2026 month label retained as source context; exact publication unknown. Company byline is not personal founder authorship.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-cc207a831d",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog/solana-fixed-speed-not-credit",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Company essay argues for pooling loans and trading defined risk layers. Alpha's 15% yield is a target, and Prime priority is subordinate-loss protection rather than no-loss guarantee. Market liquidity, realized yield and mainnet operation unverified.",
+      "boundary": "Complete available body read; April 2026 month label, exact publication unknown. Devnet demo context retained.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-f1e7f350f5",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog/cross-chain-collateral-ika",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Essay proposes native BTC/ETH dWallet collateral and an 81-byte oracle-signed attestation verified on Solana. Signature verification authenticates an oracle statement; it does not independently prove underlying collateral truth or eliminate oracle trust. Integration and custody claims remain publisher assertions.",
+      "boundary": "Complete available article body read. May 2026 month label, exact publication unknown. Devnet demo context; no transaction or partner confirmation reviewed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-9821a52da1",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog/fhe-default-without-disclosure",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Essay describes sealed credit data, commitment binding and a 73-byte Encrypt oracle-signed default boolean. Native Ed25519 signature verification authenticates the oracle; it is not by itself verification of FHE computation or truthful repayment data. Institutional deployment remains unverified.",
+      "boundary": "Complete written body read in browser. May 2026 month label, exact publication unknown; devnet demo context retained.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-36c441a12a",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog/dodo-payments-why-prism",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Company essay contrasts legacy payments with structured on-chain credit and proposed IKA/Encrypt integrations. Settlement, institutional adoption and trustless-collateral assertions remain design claims within a devnet demo, with no independently established live credit market.",
+      "boundary": "Complete written body read in browser. May 2026 month label, exact publication unknown. Historical comparisons are attributed, not independently verified.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-b473026f12",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog/cloak-private-yield-payouts",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Essay proposes Cloak batch payouts, viewing keys and a 73-byte oracle-signed receipt. An oracle-signed commitment is not independent evidence of confidential settlement. The referenced Cloak identity and partnership are unconfirmed; no association with the separately reviewed DCA demo is inferred solely from name similarity.",
+      "boundary": "Complete written body read in browser. May 2026 month label, exact publication unknown. Claimed mainnet capability belongs to the essay's Cloak reference; PRISM footer says devnet demo.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-5a37ed0524",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "prism-protocol",
+      "sourceUrl": "https://www.prismprotocol.dev/blog/dune-sim-real-time-credit-analytics",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Essay describes six credit lifecycle event types and Dune SIM transaction/balance data. It also says NAV, TVL and AMM prices are read through RPC polling, qualifying the broader claim that all analytics comes from one real-time event stream. Integration quality and no-gap completeness not independently tested.",
+      "boundary": "Complete available written body read. May 2026 month label, exact publication unknown; devnet demo context. Advertised API capabilities not independently verified.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "prism-protocol-archive-b0ada443b9",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/WictorijaNFA/status/2039737589507211767",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "NFA cofounder explores collector participation and market-based expectations guiding artist and exhibition support. NFA describes this as a direction being explored; it is not proof of deployed futarchy decisions or legal artwork rights.",
+      "boundary": "Complete X Article body read in normal browser. Embedded images and linked company essay reviewed separately; no governance execution inferred.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "nfa-space-archive-6c1224aee6",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://www.nfa.space/post/when-art-smiles-back-equally-why-futarchy-could-redefine-the-future-of-art",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Company essay promotes whole physical-art ownership and collective participation in exhibitions and artist support, invoking futarchy as a vision. Permanent digital records do not independently establish physical authenticity, legal title or deployed governance.",
+      "boundary": "Complete written body read. Retrieved title differs from URL wording. Update displays January 28 without year; no exact update year inferred. Images not separately reviewed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "nfa-space-archive-89d5473360",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/accepting-recurring-solana-payments-in-react-without-losing-your-mind-652583e8c91d",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder guide explains hosted checkout and direct React hooks, callbacks and JWT verification. The example app runs on devnet by default. No-wallet-in-merchant-app wording refers to hosted checkout handling connection, not payments without wallet authorization.",
+      "boundary": "Complete article body and code examples read, not executed. SDK security, payment finality and production readiness not independently validated.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-e3086ca3e3",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/squads-vs-tributary-right-tools-for-different-jobs-29b75c173a69",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder compares individual recurring-payment delegation with team-controlled multisig treasury operations and suggests complementary use. Security and production-readiness claims remain attributed. The 2026 article contains stale 2024/2025 Squads roadmap wording, so it is not used as current Squads documentation.",
+      "boundary": "Complete available article body read. Third-party maturity and asset figures not independently verified; historical comparison only.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-54e7e4a618",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/web3-subscriptions-without-the-friction-how-tributary-transforms-saas-billing-82fb2f588211",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-body-reviewed-not-selected",
+      "reviewNote": "Full body explicitly identifies PromptFlow as fictional and the case study as hypothetical. Engineering-time, success-rate and support figures are illustrative, not real customer traction. Repeats previously selected delegation and SDK coverage.",
+      "boundary": "Complete body read; not selected for catalog. Publication January 6, 2026.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/understanding-token-delegation-the-magic-behind-tributarys-automatic-payments-aaac32a0e4af",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder explains amount, duration, recipient and schedule constraints for delegated recurring payments, with pause/cancel controls. Sign-once marketing is qualified by revocable authority and policy limits; security and custody absolutes remain publisher claims.",
+      "boundary": "Complete article body read; no independent program, wallet or deployment audit.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-fa09366761",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/3-things-about-recurring-subscription-payments-on-solana-that-will-surprise-you-59c4ad7ed4f3",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-body-reviewed-not-selected",
+      "reviewNote": "Complete November 29, 2025 promotional explanation of non-custodial delegation, sign-once UX and SaaS billing read. Repeats selected original token-delegation explanation; no additional operating outcome established.",
+      "boundary": "Reviewed, not selected; publisher security and settlement claims not independently validated.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/rektoff-solana-rust-security-bootcamp-review-76eb7e812e73",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder reflects on six-week Rust/Solana security training, CPI and account-check exercises, capstone work and applying lessons to Tributary. Training attendance and a learning capstone are distinct from an independent audit of Tributary.",
+      "boundary": "Complete article body read; biographical claims are attributed and no certification or protocol audit inferred.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-a8a473594b",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://medium.com/@xeroc/add-an-ai-developer-to-your-github-in-one-click-eb00472cc8ab",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-body-reviewed-not-selected",
+      "reviewNote": "Complete March 25, 2026 founder article describes Polycode, a separate self-hosted GitHub AI-agent app in closed beta. Retained in founder coverage; not selected because it does not add Tributary or ecosystem outcomes.",
+      "boundary": "Complete body read; no software installed or third-party instructions followed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/Bogdex/status/2057811047902224601",
+      "discoveredFrom": "https://x.com/Bogdex",
+      "status": "complete-body-reviewed-not-selected",
+      "boundary": "Written body only; screenshots and external repository not reviewed.",
+      "reviewNote": "Complete available agency-systems essay read. Unnamed case study and conversion figures are unsupported publisher claims, with no NFA outcome. Retained in founder review, not cataloged.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/Bogdex/status/2057401466340376660",
+      "discoveredFrom": "https://x.com/Bogdex",
+      "status": "complete-body-reviewed-not-selected",
+      "boundary": "Third-party statistics and technical/product assertions not independently verified.",
+      "reviewNote": "Complete MCP/GEO essay read. General software commentary and adoption figures do not add NFA or MetaDAO ecosystem outcomes; not selected.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/Bogdex/status/2057015121575137717",
+      "discoveredFrom": "https://x.com/Bogdex",
+      "status": "complete-body-reviewed-not-selected",
+      "boundary": "Third-party biography and financial claims not independently verified.",
+      "reviewNote": "Complete Garry Tan/YC biography and AI-building commentary read. Secondary biography does not establish NFA progress or founder partnership; not selected.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/Bogdex/status/2041836707373289884",
+      "discoveredFrom": "https://x.com/Bogdex",
+      "status": "complete-body-reviewed-not-selected",
+      "boundary": "Personal founder research; no NFA operating outcome. Embedded charts, market data and cited reports not independently reviewed.",
+      "reviewNote": "Complete available written prediction-market case study read. Its announcement time conflicts with its deadline-relative account, and subsequent contract-price timestamps are inconsistent. Model probabilities and claimed trading edge are unvalidated; not selected as reliable ecosystem history.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "nfa-space",
+      "sourceUrl": "https://x.com/Bogdex/status/2016919097645126006",
+      "discoveredFrom": "https://x.com/Bogdex",
+      "status": "complete-body-reviewed-not-selected",
+      "boundary": "Embedded dashboards and performance evidence not independently reviewed; no trading action performed.",
+      "reviewNote": "Complete historical perp-farming essay read. Trading recommendations, returns, token schedules and project rankings are personal claims; no NFA operational outcome. Not selected for library.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://x.com/xer0c/status/2062897371508248991",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder distinguishes a minimal subscription primitive from Tributary's gateway, fee and merchant tooling layer. Crucially, current execution depends on gateway-operated signers; fully permissionless execution is future scope. This qualifies earlier automatic/permissionless descriptions.",
+      "boundary": "Complete X Article body read. Third-party Solana Foundation implementation and security comparisons not independently audited; no code or payment execution performed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-642b59a13e",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://x.com/xer0c/status/2085113127641981089",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder argues that choosing policies through decision markets and adjudicating disputed performance require different mechanisms, proposing Accord's juror/appeal design as a complement. The later August 10 essay qualifies this article's absolute claims about capture resistance and truthful coordination. No MetaDAO raise or integration is inferred for Accord.",
+      "boundary": "Complete X Article body read. Historical incident, Hanson interpretation, implementation, audit and immunity-from-capture claims are attributed, not independently verified.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-aab466316e",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://x.com/xer0c/status/2086840730178523598",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder separates forecasts, adjudication and constitutional rule-setting. The essay explicitly recognizes thin-market manipulation, external incentives, correlated jurors, bribery and selection risks, qualifying the stronger August 5 capture-resistance language. Accord's no-native-token design is discussed without establishing a MetaDAO raise.",
+      "boundary": "Complete X Article body read. Design analysis is the author's argument; implementation, legal status and cited historical incidents not independently checked.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-d3e82da314",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://x.com/xer0c/status/2085415469423718757",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Founder describes separate unsigned-transaction building/simulation and Vault-backed signing plugins, with caps, allowlists and blocked authority instructions. Key isolation is an architectural proposal; claims that a compromised agent cannot steal are not independently validated. The deliberately content-blind signer makes the policy handoff a critical review boundary.",
+      "boundary": "Complete X Article body read. Linked repository, signing-backend authorization, policy binding and threat model not audited; no software or signer interaction performed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-cdd8e62c9a",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://x.com/xer0c/status/2105618969482645833",
+      "discoveredFrom": "Primary archive inspected during 102-link follow-up",
+      "status": "complete-body-reviewed-not-selected",
+      "reviewNote": "Full October 1, 2026 founder essay about the separate Riprap mutual-cover pilot read. It explicitly calls programs locally tested and unaudited, adjudication unproven, and legal classification unresolved. An upcoming event pilot is not a completed pool outcome or MetaDAO raise.",
+      "boundary": "Complete body read; retained as founder-archive context, not added to ecosystem roster/catalog. Linked legal sources and implementation not independently reviewed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://www.youtube.com/watch?v=JSKsIdD1zhY",
+      "discoveredFrom": "https://youtu.be/KwRowt-9448",
+      "status": "complete-available-captions-reviewed",
+      "boundary": "Complete available English auto-generated captions, 0:00–2:21 of 2:25, read. Date and mainnet claim from expanded publisher description. No complete manual audio or visual review; current README qualifies historical feature and fee assertions.",
+      "reviewNote": "Fabian describes checkout integration, recurring subscriptions and expansion to milestone and usage-based models. He reports businesses integrating and seeks initial seed funding for growth. Historical one-percent protocol-fee wording differs from the current README fee architecture; neither customers nor deployment independently verified.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-19521722ff",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "areal-finance",
+      "sourceUrl": "https://github.com/ArealFinance/areal",
+      "discoveredFrom": "Verified primary archive link",
+      "status": "complete-readme-reviewed",
+      "reviewNote": "Areal describes five programs for ownership, futarchy, reward-token NAV, AMM and yield distribution. Its deployment table explicitly identifies a local test validator. Bootstrap and authority-transfer claims are repository assertions; they do not prove public-mainnet execution or an accepted ecosystem raise.",
+      "boundary": "Complete available README read. April 29 Layer 10 status is an internal milestone, not established publication date. Source code, authority state and audit claims not independently verified.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "areal-finance-archive-02d48249b5",
+      "researchPriority": "main-library"
+    },
+    {
+      "projectId": "bynomo",
+      "sourceUrl": "https://amaansayyad.com",
+      "discoveredFrom": "Verified primary archive link",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Amaan lists himself as Bynomo CEO from March 2026 and describes its proposed short-duration binary-options platform. His portfolio documents other ventures and prior writing categories. Prospective BNB backing is phrased as a question and is not confirmed funding.",
+      "boundary": "Complete available written portfolio read. Employment, prizes, grants and company metrics are self-reported; linked publications and broader article archives not reviewed. Publication date unknown.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "bynomo-archive-01d8e003c5",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "tributary",
+      "sourceUrl": "https://github.com/tributary-so/tributary",
+      "discoveredFrom": "Verified primary archive link",
+      "status": "complete-readme-reviewed",
+      "reviewNote": "README describes subscription, milestone, usage-based and composable payment policies, authorized gateway execution and an emergency pause. It explicitly says Lighthouse validation dispatch is a no-op: configured assertions are not runtime-enforced. Mainnet deployment and verification claims remain publisher assertions.",
+      "boundary": "Complete available README read; tests, code, formal proofs, audits and on-chain state not independently verified. README contains differing fee descriptions; do not treat its overview as an authoritative current fee schedule. Publication date unknown.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "tributary-archive-bccf5b64a3",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "sanctum-permissionless-fork",
+      "sourceUrl": "https://x.com/sanctumso/status/1897154497417502801",
+      "discoveredFrom": "Verified primary archive link",
+      "status": "complete-written-body-reviewed",
+      "reviewNote": "Sanctum states a bug permitted an unofficial proposal, which it removed. It specifies forum submission, deliberation, official announcement and UI listing for recognized votes. The notice documents governance-process disagreement; it does not establish a failed token raise or executed proposal.",
+      "boundary": "Complete written official notice read in normal browser. Proposal account, voting results and execution not independently reviewed.",
+      "checkedAt": "2026-10-12",
+      "resourceId": "sanctum-permissionless-fork-archive-55e840c4a1",
+      "researchPriority": "historical-deferred"
+    },
+    {
+      "projectId": "bynomo",
+      "sourceUrl": "https://www.youtube.com/watch?v=t76ltZH9XSU",
+      "discoveredFrom": "Verified primary archive link",
+      "status": "access-unresolved",
+      "reviewNote": "Normal browser explicitly reports the associated YouTube account terminated and video unavailable; no transcript available.",
+      "boundary": "Recording content cannot be reviewed. Account termination does not establish project wind-down or product discontinuation.",
+      "checkedAt": "2026-10-12",
+      "resourceId": null,
+      "researchPriority": "historical-deferred"
+    }
+  ],
+  "continuation": {
+    "checkedAt": "2026-10-12",
+    "originalPending": 102,
+    "records": 744,
+    "visible": 738,
+    "sourceChecked": 578,
+    "projects": 91,
+    "reviewObjectsThisPass": 57,
+    "newResourcesThisPass": 39,
+    "untouchedOriginalLinks": 69,
+    "pendingBodyLinks": 75,
+    "queueObjects": 136,
+    "boundary": "Untouched links, complete content reviews, access gaps and partial profile/index inspections are separate. New archive discoveries expand the queue. No exhaustive personal archive claim."
+  }
+}

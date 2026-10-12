@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1qKDzzQNPaoJV",
+  "resourceId": "ownership-radio-17-recording",
+  "audioSha256": "ba97c6c2afd021c958a81ce61578ef8b414126d04a9e51ec0ae2e5b8cd7cf510",
+  "durationSeconds": 8941.269333,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 320,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 320 segments of the locally generated transcript read for 8941.27 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Ryvo describes a devnet protocol and a limited mainnet plan; Cesto retains underlying assets rather than issuing tokenized baskets at the time. Backyard explicitly corrects the host: no Colosseum honorable mention, and a MetaDAO raise remained undecided. Its guest represents growth, not a confirmed founder role. Potbot fundraising and token design remain prospective. Legal-equity, yield, safety and zkFG buyout assertions are attributed opinions, not independently established facts. Cesto spelling and Jason Richard Rodrigues are corroborated by his public self-profile; uncertain speaker names excluded.",
+  "sections": [
+    {
+      "start": "05:00",
+      "topic": "Opening, technical difficulties and builder introductions"
+    },
+    {
+      "start": "15:00",
+      "topic": "Ryvo micropayments, compression and planned launch"
+    },
+    {
+      "start": "20:00",
+      "topic": "Ownership, zkFG controversy and participant responsibility debate"
+    },
+    {
+      "start": "40:00",
+      "topic": "Cesto baskets, underlying asset ownership, rebalancing and curator fees"
+    },
+    {
+      "start": "70:00",
+      "topic": "Prospective market-governed baskets and creator distribution"
+    },
+    {
+      "start": "82:00",
+      "topic": "Backyard yield management, product stage and undecided fundraising route"
+    },
+    {
+      "start": "106:00",
+      "topic": "Potbot vault infrastructure, token utility and onboarding plans"
+    },
+    {
+      "start": "126:00",
+      "topic": "Venture rounds versus public fundraising; equity and treasury distinctions"
+    },
+    {
+      "start": "140:00",
+      "topic": "Builder collaboration and closing"
+    }
+  ]
+}

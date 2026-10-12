@@ -1,0 +1,551 @@
+{
+  "checkedAt": "2026-10-12",
+  "scope": "Public catalog metadata and project tags scanned; not a fresh re-reading of every embedded video or full linked body.",
+  "cutoffBoundary": "Conservative proposal/announcement dates, not independently established liquidation execution dates. Unknown primary mtnCapital date fails closed.",
+  "rules": [
+    {
+      "projectId": "ranger",
+      "names": [
+        "Ranger",
+        "RNGR"
+      ],
+      "publicationCutoff": "2026-03-02",
+      "cutoffKind": "conservative-proposal-creation",
+      "sourceUrl": "https://metadao.fi/decisions/RNGR-003",
+      "checkedAt": "2026-10-12",
+      "note": "Official liquidation proposal is Passed and displays an executed memo. March 2 is creation, not independently verified liquidation completion. Suppress from this earlier boundary."
+    },
+    {
+      "projectId": "paystream",
+      "names": [
+        "Paystream",
+        "PAYS"
+      ],
+      "publicationCutoff": "2026-08-15",
+      "cutoffKind": "wind-down-announcement",
+      "sourceUrl": "https://x.com/Paystreamlabs/status/2088486027304550883",
+      "corroboratingSourceUrl": "https://metadao.fi/decisions/pays-003",
+      "checkedAt": "2026-10-12",
+      "note": "Previously reviewed August 15 founder wind-down announcement is linked by the official passed liquidation proposal. Proposal creation September 2 is not liquidation execution date. Use the earlier announcement as cutoff."
+    },
+    {
+      "projectId": "zklsol",
+      "names": [
+        "ZKLSOL",
+        "ZKFG",
+        "Zinc Cash",
+        "Turbine Cash"
+      ],
+      "publicationCutoff": "2026-06-09",
+      "cutoffKind": "conservative-liquidation-offer-proposal",
+      "sourceUrl": "https://metadao.fi/companies/zklsol",
+      "checkedAt": "2026-10-12",
+      "note": "Official directory shows passed June 9 liquidation-offer proposal and passed June 17 take-private round. Neither creation date proves completed buyout. Suppress from the earlier boundary; do not classify successor ZINC as an active MetaDAO company."
+    },
+    {
+      "projectId": "mtncapital",
+      "names": [
+        "mtnCapital",
+        "mtn Capital"
+      ],
+      "publicationCutoff": null,
+      "cutoffKind": "unresolved-primary-date",
+      "sourceUrl": null,
+      "checkedAt": "2026-10-12",
+      "note": "Historical unwind is a research lead; exact primary date remains unresolved. Hold all matching material rather than inventing a cutoff or asserting liquidation completion."
+    }
+  ],
+  "heldCount": 0,
+  "mainLibraryCount": 566,
+  "historicalArchiveCount": 182,
+  "activeProjects": 22,
+  "held": [],
+  "previousExclusions": [
+    {
+      "id": "res-129",
+      "title": "Ranger's ICO starts today, and MetaDAO eyes a reset",
+      "url": "https://blockworks.co/news/rangers-ico-metadao",
+      "date": "2026-01-06",
+      "dateKind": "unknown",
+      "datePrecision": "day",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-114",
+      "title": "ZKLSOL Update - CLI Release",
+      "url": "https://x.com/turbine_cash/status/1993660948461035835",
+      "date": "2025-11-26",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "zklsol: source date unverified",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "res-151",
+      "title": "Seb Monty with cobra (Barret, co-founder of Ranger)",
+      "url": "https://x.com/SebMontgomery/status/2009362257529196833",
+      "date": "2026-01-08",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-152",
+      "title": "Ranger’s ICO, MetaDAO’s Momentum",
+      "url": "https://x.com/0xcarlosg/status/2008560236794191921",
+      "date": "2026-01-06",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-153",
+      "title": "We Call Them Ownership Coins’: A DAO Governance Innovation",
+      "url": "https://www.galaxy.com/insights/research/ownership-coins-futarchy-metadao-dao-governance-proph3t",
+      "date": "2025-10-20",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "mtncapital: primary cutoff unresolved",
+      "projects": [
+        "mtncapital"
+      ]
+    },
+    {
+      "id": "res-161",
+      "title": "Ownership Coins Are Taking Over!",
+      "url": "https://x.com/seppmos/status/1998375343539781875",
+      "date": "2025-12-09",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-162",
+      "title": "Gotta Go Fast",
+      "url": "https://x.com/metaproph3t/status/1998259709963337836",
+      "date": "2025-12-09",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-173",
+      "title": "A New Paradigm For Founders - Opportunity Awaits",
+      "url": "https://medium.com/@kollanh/a-new-paradigm-for-founders-opportunity-awaits-0654d3657750",
+      "date": "2025-04-29",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "mtncapital: primary cutoff unresolved",
+      "projects": [
+        "mtncapital"
+      ]
+    },
+    {
+      "id": "res-175",
+      "title": "Back on Track",
+      "url": "https://x.com/metaproph3t/status/2011025662690382229",
+      "date": "2026-01-13",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-196",
+      "title": "Ranger Points",
+      "url": "https://x.com/barrett_io/status/1991261485901947130",
+      "date": "2025-11-19",
+      "dateKind": "unknown",
+      "datePrecision": "unverified",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-235",
+      "title": "Paystream on MetaDAO",
+      "url": "https://metadao.fi/companies/paystream",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "paystream: source date unverified",
+      "projects": [
+        "paystream"
+      ]
+    },
+    {
+      "id": "res-237",
+      "title": "Ranger on MetaDAO",
+      "url": "https://metadao.fi/companies/ranger",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-238",
+      "title": "ZKLSOL / ZKFG on MetaDAO",
+      "url": "https://metadao.fi/companies/zklsol",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "zklsol: source date unverified",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "res-239",
+      "title": "Turbine Cash",
+      "url": "https://www.turbinecash.app/",
+      "date": "2026-01-21",
+      "dateKind": "unknown",
+      "datePrecision": "day",
+      "reason": "zklsol: source date unverified",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "res-253",
+      "title": "Ranger Launches ICO, MetaDAO Eyes Strategic Reset",
+      "url": "https://www.kucoin.com/news/flash/ranger-launches-ico-metadao-eyes-strategic-reset",
+      "date": "2026-01-06",
+      "dateKind": "unknown",
+      "datePrecision": "day",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "res-260",
+      "title": "Ownership Podcast S1E6: Maushish (Paystream)",
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E6-Maushish-Paystream-e3h62nf",
+      "date": "2026-03-30",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "ranger: on or after editorial cutoff 2026-03-02",
+      "projects": [
+        "ranger",
+        "paystream"
+      ]
+    },
+    {
+      "id": "res-261",
+      "title": "01Resolved Decision Market Research Report: March",
+      "url": "https://01resolved.com/research/01resolved-decision-market-research-report-march-2026/",
+      "date": "2026-04-02",
+      "dateKind": "unknown",
+      "datePrecision": "day",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "decision-pays-003",
+      "title": "Liquidate Paystream",
+      "url": "https://metadao.fi/decisions/pays-003",
+      "date": "2026-09-02",
+      "dateKind": "event",
+      "datePrecision": "day",
+      "reason": "paystream: on or after editorial cutoff 2026-08-15",
+      "projects": [
+        "paystream"
+      ]
+    },
+    {
+      "id": "resolved-backfill-6",
+      "title": "Paystream Decision Market to Liquidate, MetaDAO Proposes Market Making With the Tokens It Earns, and Solomon Seeks to Withdraw Meteora LP Ahead of USDv",
+      "url": "https://01resolved.com/research/paystream-decision-market-to-liquidate-metadao-proposes-market-making-with-the-tokens-it-earns-and-solomon-seeks-to-withdraw-meteora-lp-ahead-of-usdv/",
+      "date": "2026-09-06",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "paystream: on or after editorial cutoff 2026-08-15",
+      "projects": [
+        "paystream"
+      ]
+    },
+    {
+      "id": "resolved-backfill-8",
+      "title": "MetaDAO Approves Moving $2M of Treasury into Solomon's USDv, Umia ICO, Paystream Winds Down, and Ownership Coin Filings Reach Bloomberg Terminals",
+      "url": "https://01resolved.com/research/metadao-approves-moving-2m-of-treasury-into-solomons-usdv-umia-ico-paystream-winds-down-and-ownership-coin-filings-reach-bloomberg-terminals/",
+      "date": "2026-08-23",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "paystream: on or after editorial cutoff 2026-08-15",
+      "projects": [
+        "paystream"
+      ]
+    },
+    {
+      "id": "resolved-backfill-21",
+      "title": "ZKFG Holders Approve Buyout, Flash Trade Ships V2 Beta, Umia's Legal Structure & an Update on Predikt",
+      "url": "https://01resolved.com/research/zkfg-holders-approve-buyout-flash-trade-ships-v2-beta-umias-legal-structure-an-update-on-predikt/",
+      "date": "2026-06-19",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "zklsol: on or after editorial cutoff 2026-06-09",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "resolved-backfill-22",
+      "title": "META HoldersApprove $2M Ownership Capital Fund, The Attempt to Take Zinc Cash Private, P2P Reaches Major Milestone and Predikt Raises on Star",
+      "url": "https://01resolved.com/research/meta-holdersapprove-2m-ownership-capital-fund-the-attempt-to-take-zinc-cash-private-p2p-reaches-major-milestone-and-predikt-raises-on-star/",
+      "date": "2026-06-13",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "zklsol: on or after editorial cutoff 2026-06-09",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "resolved-backfill-30",
+      "title": "A Retro of the Zinc Cash / ZKFG Decision Markets",
+      "url": "https://01resolved.com/research/a-retro-of-the-zinc-cash-zkfg-decision-markets/",
+      "date": "2026-06-16",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "zklsol: on or after editorial cutoff 2026-06-09",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "decision-rngr-003",
+      "title": "Ranger: Liquidate Ranger Finance",
+      "url": "https://metadao.fi/decisions/rngr-003",
+      "date": "2026-03-02",
+      "dateKind": "event",
+      "datePrecision": "day",
+      "reason": "ranger: on or after editorial cutoff 2026-03-02",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "decision-zkfg-008",
+      "title": "ZKLSOL / ZKFG: Take ZKFG private round 2",
+      "url": "https://metadao.fi/decisions/zkfg-008",
+      "date": "2026-06-17",
+      "dateKind": "event",
+      "datePrecision": "day",
+      "reason": "zklsol: on or after editorial cutoff 2026-06-09",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "decision-zkfg-007",
+      "title": "ZKLSOL / ZKFG: Take ZKFG private",
+      "url": "https://metadao.fi/decisions/zkfg-007",
+      "date": "2026-06-12",
+      "dateKind": "event",
+      "datePrecision": "day",
+      "reason": "zklsol: on or after editorial cutoff 2026-06-09",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "decision-zkfg-006",
+      "title": "ZKLSOL / ZKFG: Authorize ZKFG Liquidation Offer Capped at $0.15 per Token",
+      "url": "https://metadao.fi/decisions/zkfg-006",
+      "date": "2026-06-09",
+      "dateKind": "event",
+      "datePrecision": "day",
+      "reason": "zklsol: on or after editorial cutoff 2026-06-09",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "x-article-2088486027304550883",
+      "title": "Winding down Paystream",
+      "url": "https://x.com/Paystreamlabs/status/2088486027304550883",
+      "date": "2026-08-15",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "paystream: on or after editorial cutoff 2026-08-15",
+      "projects": [
+        "paystream"
+      ]
+    },
+    {
+      "id": "founder-ranger-rockaway",
+      "title": "Advancing Perp Trading On Solana: A Q&A With Ranger Finance",
+      "url": "https://www.rockawayx.com/insights/advancing-perp-trading-on-solana-a-q-a-with-ranger-finance",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "video-review-7758776a3955744c4d5651",
+      "title": "How mtnCapital Is Redefining Crypto Governance",
+      "url": "https://www.youtube.com/watch?v=wXwj9UtLMVQ",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "mtncapital: primary cutoff unresolved",
+      "projects": [
+        "mtncapital"
+      ]
+    },
+    {
+      "id": "video-review-694a627442315a67535f30",
+      "title": "Robin Hanson - Futarchy: A Status Report",
+      "url": "https://www.youtube.com/watch?v=iJbtB1ZgS_0",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "ranger: source date unverified",
+      "projects": [
+        "ranger",
+        "zklsol"
+      ]
+    },
+    {
+      "id": "paystream-founder-static-analysis",
+      "title": "Paystream — founder-authored static analysis report",
+      "url": "https://docs.paystream.finance/audits",
+      "date": null,
+      "dateKind": "publication",
+      "datePrecision": "unknown",
+      "reason": "paystream: source date unverified",
+      "projects": [
+        "paystream"
+      ]
+    },
+    {
+      "id": "ownership-radio-1-recording",
+      "title": "Ownership Radio #1: recovered segment with MycoRealms and Futardio Cult",
+      "url": "https://x.com/i/spaces/1nKOLEgNDdQGR",
+      "date": "2026-03-08",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "ranger: on or after editorial cutoff 2026-03-02",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "ownership-radio-2-recording",
+      "title": "Ownership Radio #2: Valgrid, Lotus, Inkwell and Conviction Labs",
+      "url": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+      "date": "2026-03-15",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "ranger: on or after editorial cutoff 2026-03-02",
+      "projects": [
+        "ranger"
+      ]
+    },
+    {
+      "id": "ownership-radio-16-recording",
+      "title": "Ownership Radio #16: Bento, Salmon, Thaler and governance boundaries",
+      "url": "https://x.com/i/spaces/1aKbddqvZzoJX",
+      "date": "2026-06-21",
+      "dateKind": "publication",
+      "datePrecision": "day",
+      "reason": "zklsol: on or after editorial cutoff 2026-06-09",
+      "projects": [
+        "zklsol"
+      ]
+    },
+    {
+      "id": "blockrock-failed-raise-j7cmlqfm",
+      "title": "BlockRock: unsuccessful $500,000 raise (Mar 6)",
+      "url": "https://www.backable.biz/raises/J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "mtncapital: primary cutoff unresolved",
+      "projects": [
+        "mtncapital"
+      ]
+    },
+    {
+      "id": "blockrock-archive-fa443fbd12",
+      "title": "BlockRock: ownership fund charter",
+      "url": "https://www.blockrock.fund/charter",
+      "date": null,
+      "dateKind": "unknown",
+      "datePrecision": "unknown",
+      "reason": "mtncapital: primary cutoff unresolved",
+      "projects": [
+        "mtncapital"
+      ]
+    }
+  ],
+  "status": "All 37 prior exclusions explicitly restored by user on 2026-10-12",
+  "approvedResourceIds": [
+    "res-129",
+    "res-114",
+    "res-151",
+    "res-152",
+    "res-153",
+    "res-161",
+    "res-162",
+    "res-173",
+    "res-175",
+    "res-196",
+    "res-235",
+    "res-237",
+    "res-238",
+    "res-239",
+    "res-253",
+    "res-260",
+    "res-261",
+    "decision-pays-003",
+    "resolved-backfill-6",
+    "resolved-backfill-8",
+    "resolved-backfill-21",
+    "resolved-backfill-22",
+    "resolved-backfill-30",
+    "decision-rngr-003",
+    "decision-zkfg-008",
+    "decision-zkfg-007",
+    "decision-zkfg-006",
+    "x-article-2088486027304550883",
+    "founder-ranger-rockaway",
+    "video-review-7758776a3955744c4d5651",
+    "video-review-694a627442315a67535f30",
+    "paystream-founder-static-analysis",
+    "ownership-radio-1-recording",
+    "ownership-radio-2-recording",
+    "ownership-radio-16-recording",
+    "blockrock-failed-raise-j7cmlqfm",
+    "blockrock-archive-fa443fbd12"
+  ]
+}

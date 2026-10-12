@@ -1,0 +1,73 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1mxPaLbEjrnKN",
+  "resourceId": "ownership-radio-8-recording",
+  "audioSha256": "e762abb64871e3d79c69ed3aa090ee7d32bc8fa44232c5676790120c9f0cf253",
+  "durationSeconds": 7063.3173125,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 1683,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 1683 segments of the locally generated transcript read for 7063.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Publisher announcement corroborates Abbas and @francis_codex; Seedless and HiDEX product maturity and security claims remain attributed. Seedless describes an existing Bags token and a preferred future Start.fun raise, with MetaDAO/Futardio only an alternative. HiDEX says Identity is still on devnet. Neither appearance establishes an ecosystem raise. Advertised Bench and Spend interviews did not occur; no substantive Telebux interview is present. Umbra architecture and integration comments are historical and should be read with later architecture updates. Host opinions about governance success, alleged incidents and financial outcomes are not independently established; no exact Hanson funding figure adopted from the uncertain recollection.",
+  "sections": [
+    {
+      "start": "05:34",
+      "topic": "Opening and lineup changes"
+    },
+    {
+      "start": "09:47",
+      "topic": "Solomon Gigabus proposal: treasury, legal structure and governance flexibility discussion"
+    },
+    {
+      "start": "18:32",
+      "topic": "Abbas responds to the Solomon proposal and discusses Umbra/Ownership partnership"
+    },
+    {
+      "start": "28:02",
+      "topic": "Umbra developer support, SDK use cases and prospective integrations"
+    },
+    {
+      "start": "37:13",
+      "topic": "Seedless builder: passkeys, onboarding and product origins"
+    },
+    {
+      "start": "42:00",
+      "topic": "Lazorkit dependency, devnet testing and Umbra integration"
+    },
+    {
+      "start": "49:00",
+      "topic": "Existing Bags token and prospective Start.fun funding; MetaDAO/Futardio considered as alternative"
+    },
+    {
+      "start": "62:27",
+      "topic": "Bench and Spend unavailable; lineup changes"
+    },
+    {
+      "start": "65:14",
+      "topic": "HiDEX builder: Identity, domain-linked privacy and routing design"
+    },
+    {
+      "start": "70:16",
+      "topic": "HiDEX devnet status, existing validator/LST business and exploratory funding"
+    },
+    {
+      "start": "75:26",
+      "topic": "Governance participation, complexity and market-manipulation concerns"
+    },
+    {
+      "start": "92:18",
+      "topic": "Short-term versus long-term incentives; host acknowledges limited evidence"
+    },
+    {
+      "start": "100:01",
+      "topic": "HiDEX privacy-routing mechanism and metadata-leakage questions"
+    },
+    {
+      "start": "105:00",
+      "topic": "Anonmesh participants and broader privacy/governance discussion"
+    },
+    {
+      "start": "115:00",
+      "topic": "Closing"
+    }
+  ]
+}

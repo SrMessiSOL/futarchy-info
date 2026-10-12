@@ -1,0 +1,148 @@
+{
+  "checkedAt": "2026-10-12",
+  "publicationStatus": "hold",
+  "method": "Complete generated Radio21/23/24/25 transcripts read; targeted Radio24/25 repairs read; seven primary launch outcomes and expanded pitches read in normal browser.",
+  "boundary": "No full manual listening, audit, completed refund or exhaustive founder archive claimed. Mutable raise pitches have no established revision dates.",
+  "projects": [
+    {
+      "id": "gamebyts",
+      "name": "GameByts",
+      "key": "FfadyEpRPJEbJHDvQ9ZeCBzkBjX1GZtEVNgMFogsfdq8",
+      "website": "https://gamebyts.com/",
+      "people": "Mihai Chitafes (founder/CEO); Tudor Sandru (CTO); Alexandru Neagoe (engineering)",
+      "amount": "$57,916",
+      "goal": "$250,000",
+      "backers": 13,
+      "closed": "Sep 2",
+      "note": "Archived pitch separates GameByts reported $13K revenue and $150K marketplace volume from the team’s previous skins marketplace, reported at $10M revenue and $2M profit. Neither set is independently audited. Radio25 describes planned reward and distribution economics; it does not establish sustainable rewards.",
+      "gaps": "Personal founder writing, financial corroboration and refund execution remain open.",
+      "url": "https://www.backable.biz/raises/FfadyEpRPJEbJHDvQ9ZeCBzkBjX1GZtEVNgMFogsfdq8"
+    },
+    {
+      "id": "aeonian",
+      "name": "Aeonian",
+      "key": "Bw4TNjEEf8WChwYJTQBZMCKZx9ErGeQLNr8hBzDpeDHG",
+      "website": "https://aeonian.trade",
+      "people": "Juntdoe (@juntdoe), founder and lead developer; Radio25 guest describes a business-development role, not founder status",
+      "amount": "$109",
+      "goal": "$50,000",
+      "backers": 6,
+      "closed": "Aug 27",
+      "note": "Current archived pitch claims a live mainnet beta and names Juntdoe as founder. Radio25 describes devnet trading and a prospective social layer. The mutable pitch has no revision date, so it does not establish when the transition occurred. Retention, revenue distribution and grants are issuer claims.",
+      "gaps": "Founder X archive, dated mainnet transition, public metrics, audit and refund execution remain open.",
+      "url": "https://www.backable.biz/raises/Bw4TNjEEf8WChwYJTQBZMCKZx9ErGeQLNr8hBzDpeDHG"
+    },
+    {
+      "id": "digg",
+      "name": "Digg",
+      "key": "4bTzczBeysUL9MtHxXbQ9Xefd2MJHoMNRm8B6tg5hHUe",
+      "website": "http://digg.sh",
+      "people": "Not established; @karthikdigg is a contact in the pitch, not sufficient proof of founder title",
+      "amount": "approximately $4.42K",
+      "goal": "$80,000",
+      "backers": 12,
+      "closed": "Sep 17",
+      "note": "Archived pitch describes opt-in coding-session datasets, contributor rewards and planned AI-lab pilots. Radio23’s earlier $60K target differs from this $80K attempt. Interest and introductions are not paying customers; advertised AI-stock rewards do not establish delivered securities or returns.",
+      "gaps": "Founder identity, personal archive, privacy implementation, customers and refund execution remain open.",
+      "url": "https://www.backable.biz/raises/4bTzczBeysUL9MtHxXbQ9Xefd2MJHoMNRm8B6tg5hHUe"
+    },
+    {
+      "id": "ryvo-network",
+      "name": "Ryvo Network",
+      "key": "9EVNa5SukB5szKECdWVWssfFtsQmjiijukyXztK6PbrY",
+      "website": "https://ryvo.network",
+      "people": "Luka Matcharadze, solo founder named in the pitch",
+      "amount": "approximately $24.6K",
+      "goal": "$150,000",
+      "backers": 22,
+      "closed": "Aug 11",
+      "note": "Archived pitch describes agent payment channels and a provider gateway. It explicitly says no mainnet contracts yet, despite a roadmap for mainnet beta. Audit, entity incorporation and licensing counsel remain prospective. Brand/IP transfer includes a stated reversion to the founding team on dissolution; no completed transfer is inferred.",
+      "gaps": "Founder personal archive, deployment and audit evidence, entity/IP execution and refunds remain open.",
+      "url": "https://www.backable.biz/raises/9EVNa5SukB5szKECdWVWssfFtsQmjiijukyXztK6PbrY"
+    },
+    {
+      "id": "hiie",
+      "name": "HIIE, from Arthur Labs",
+      "key": "9oFattEBT5A34JHaCz4BJQHtSJuL8Wzaj2AszWxx3khW",
+      "website": "https://hiie.arthurlabs.net",
+      "people": "W LR (founder/CEO in pitch; Radio21 speaker self-identifies as Watson); Marko Ruble named as founding member; JE and GT retain published initials",
+      "amount": "$140",
+      "goal": "$250,000",
+      "backers": 5,
+      "closed": "Aug 4",
+      "note": "Pitch describes invention workflows, CAD, automation and proposed token/legal-formation services. Radio21 distinguishes intended HIIE project IP from the separate Arthur Labs agency. Federal compute support is sought, not shown awarded. Forecast revenue, old-token migration and DAO/IP arrangements remain plans.",
+      "gaps": "Arthur Labs Medium archive, precise entity scope, previous-token migration, founder archives and refund execution remain open.",
+      "url": "https://www.backable.biz/raises/9oFattEBT5A34JHaCz4BJQHtSJuL8Wzaj2AszWxx3khW"
+    },
+    {
+      "id": "superpumped",
+      "name": "SuperPumped",
+      "key": "Cdc9b9AuwkbfjBWqYC8xkcoyMacF6G55wsdUK2gpPuzS",
+      "website": "https://superpumped.pro",
+      "people": "No named founder established from reviewed pitch; Radio23 guest attribution remains limited",
+      "amount": "$845",
+      "goal": "$200,000",
+      "backers": 3,
+      "closed": "Aug 14",
+      "note": "Pitch describes private-beta leveraged prediction markets, isolated vaults and research tooling. Reported 90.04% selective historical accuracy is not live profitability or guaranteed performance. Radio23 discusses planned audits, liquidity and privacy features; implementation and security remain unverified.",
+      "gaps": "Founder identity and archives, complete audit, live deployment and refund execution remain open.",
+      "url": "https://www.backable.biz/raises/Cdc9b9AuwkbfjBWqYC8xkcoyMacF6G55wsdUK2gpPuzS"
+    },
+    {
+      "id": "degen-terminal",
+      "name": "Degen Terminal",
+      "key": "83fAjVrKqN3KN8UAFPunRNygTHMmkRRGd3KUKgeSXKx7",
+      "website": "https://dgnterminal.com",
+      "people": "Kelvin Alkorogie, founder named in Team section",
+      "amount": "approximately $1.08K",
+      "goal": "$20,000",
+      "backers": 6,
+      "closed": "Sep 11",
+      "note": "Pitch describes a multichain trading terminal and planned unified DGNT token. It claims 2,000+ ecosystem signups; integrations and safety checks are issuer claims. The Q4 launch and old-token distribution roadmap is not proof of execution and is not treated as a second raise.",
+      "gaps": "Kelvin’s personal archive, previous-token distribution, platform usage, safety implementation and refund execution remain open.",
+      "url": "https://www.backable.biz/raises/83fAjVrKqN3KN8UAFPunRNygTHMmkRRGd3KUKgeSXKx7"
+    }
+  ],
+  "directory": {
+    "url": "https://www.backable.biz/raises?filter=claimable&expand=1",
+    "total": 100,
+    "funded": 13,
+    "claimable": 82,
+    "live": 3,
+    "upcoming": 2,
+    "boundary": "All 82 directory rows inspected as discovery; seven relevant detail pages fully read this pass. Directory entries can be repeated attempts, test launches or unrelated names. Listing is not vetting.",
+    "additionalAttemptLeads": [
+      {
+        "name": "Bountive",
+        "url": "https://www.backable.biz/raises/6YJbUyYug9nnj6ga83KSNBSNk46tpvxnAprQb1DPAoVp",
+        "display": "$3K / $12K; 10 backers",
+        "status": "Now reviewed and cataloged as distinct unsuccessful attempt; see permissionless-raise-review.json."
+      },
+      {
+        "name": "Areal Finance",
+        "url": "https://www.backable.biz/raises/H6xSaDsnq9yUKpoLi3svozYGkRKbfKm4peX98CzDtmqp",
+        "display": "$1.35K / $50K; 4 backers",
+        "status": "Correction: exact H6x... attempt was already cataloged as areal-failed-50k-raise. The newly reviewed fourth failed attempt is 4mgSftMwb86RKe4P73b7iY1YzyNwGPtW8EmyGJyACykG."
+      },
+      {
+        "name": "Kaboom",
+        "url": "https://www.backable.biz/raises/GGTPQLuvzStq5J2Lj7jxig2jGTKiLRn5JDanq96zwsBo",
+        "display": "live $459 / $75K; 3 backers",
+        "status": "detail review pending; not funded; Radio24 discussed earlier $150K plan"
+      }
+    ]
+  },
+  "unregisteredInterviewGuests": [
+    "Malibu",
+    "Opta",
+    "Cognius",
+    "Corin",
+    "BAGLAND",
+    "ChessOnChain",
+    "Proof of War",
+    "Konta",
+    "Motion Markets",
+    "Veilo"
+  ],
+  "unregisteredBoundary": "Interview appearance or a proposed raise does not establish a completed MetaDAO ecosystem launch."
+}

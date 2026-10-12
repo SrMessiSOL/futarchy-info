@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1DxleeAlAqoKL",
+  "resourceId": "ownership-radio-23-recording",
+  "audioSha256": "b2bc92f2389ede09f5ee45cdc616b134c55f6c7a74f45488e2dae4e0a8f5c42f",
+  "durationSeconds": 10915.797333,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 391,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 391 segments of the locally generated transcript read for 10915.80 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Cognius credits are not an official tradable token. Corin’s proposed Ika integration is not implemented evidence. Digg interviews/introductions are not customer contracts. SuperPumped’s selective research accuracy is not investment performance. No Veilo follow-up occurs in this episode.",
+  "sections": [
+    {
+      "start": "14:40",
+      "topic": "Cognius: closed-beta education marketplace, nontransferable credits and no official tradable token."
+    },
+    {
+      "start": "49:00",
+      "topic": "Corin: agent trading, hosted runtime/Privy custody debate, local tooling versus future desktop and proposed raise."
+    },
+    {
+      "start": "88:50",
+      "topic": "Digg: consent, redaction and contributor economics; data pilots and $60K raise remain plans."
+    },
+    {
+      "start": "123:30",
+      "topic": "SuperPumped: leveraged prediction markets, vault liquidity, audits, custody, historical accuracy and privacy roadmap."
+    }
+  ]
+}

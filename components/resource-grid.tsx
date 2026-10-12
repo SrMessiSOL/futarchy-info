@@ -8,6 +8,7 @@ import { Loader2 } from "lucide-react"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui/dialog"
 
 import projects from "@/content/projects.json"
+import { selectProjectResources } from "@/lib/library-scope"
 
 interface ResourceGridProps {
   project: string
@@ -55,12 +56,10 @@ export function ResourceGrid({ project, activeFilters, sortBy, timePeriod, searc
   }, [])
 
   const filteredResources = useMemo(() => {
-    let filtered = [...resources]
-    if (project === "ecosystem") filtered = filtered.filter(r => projects.some(p => p.coverage !== "failed-raise" && r.tags?.includes("project:" + p.id)))
-    else if (project !== "all") filtered = filtered.filter(r => r.tags?.includes("project:" + project))
+    let filtered = selectProjectResources(resources, projects, project)
 
     if (search.toLowerCase() === "metadao icos") {
-      const projectTags = projects.filter(p => p.coverage !== "failed-raise").map(p => "project:" + p.id)
+      const projectTags = projects.filter(p => p.coverage === "raise").map(p => "project:" + p.id)
       filtered = filtered.filter((r) =>
         r.tags?.some((tag) => projectTags.includes(tag.toLowerCase())) ?? false
       )

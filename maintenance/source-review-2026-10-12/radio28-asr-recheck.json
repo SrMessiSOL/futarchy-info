@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1jxXgBvMRBzJZ",
+  "method": "Five one-minute non-batched base.en beam-3 passes; all resulting text read, not manual listening",
+  "windows": [
+    1800,
+    1860,
+    1920,
+    6780,
+    6840
+  ],
+  "findings": [
+    "Restored discussion of meme communities using ownership-coin treasury assets as syndicates; prospective feature.",
+    "Restored host question about a buggy game overpaying; founder asserts locked liability limits. This is not independent safety verification.",
+    "Withdrawal answer permits fractional redemption while liquidity remains locked in outstanding bets."
+  ]
+}

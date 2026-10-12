@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1aKbddqvZzoJX",
+  "resourceId": "ownership-radio-16-recording",
+  "audioSha256": "cfdaa6c90c12db7d3342c6fc550abffe868db8f9f65db9a914937d1567c1fbbf",
+  "durationSeconds": 7993.898667,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 965,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 965 segments of the locally generated transcript read for 7993.90 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Bento signing-authority questions remain unresolved. Buyout criticism and legal/IP interpretations are participant opinions, not independently established misconduct or legal findings. Salmon’s roughly $100K anecdote is qualified by the launch record: $97,535 committed against $375K, unsuccessful. Thaler describes an unaudited private mainnet beta; safety, equity linkage and commitments are claims/plans, not verified guarantees or a completed raise.",
+  "sections": [
+    {
+      "start": "00:00",
+      "topic": "Opening and Bento agent-wallet security discussion"
+    },
+    {
+      "start": "30:00",
+      "topic": "JerkTerror: proposed FusionCore stablecoin and future governance"
+    },
+    {
+      "start": "40:00",
+      "topic": "zkFG/Zinc buyout debate, revenue, IP and market incentives"
+    },
+    {
+      "start": "78:00",
+      "topic": "Salmon open-wallet history, platforms and community-ownership plans"
+    },
+    {
+      "start": "100:00",
+      "topic": "Salmon unsuccessful raise, proposed retry and validator"
+    },
+    {
+      "start": "108:00",
+      "topic": "Thaler private-beta vaults, security policies and financing plans"
+    },
+    {
+      "start": "125:00",
+      "topic": "Launch timing, testing and closing"
+    }
+  ]
+}

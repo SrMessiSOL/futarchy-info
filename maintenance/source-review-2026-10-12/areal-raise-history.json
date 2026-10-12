@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-12",
+  "resources": [
+    {
+      "id": "areal-failed-20k-raise",
+      "url": "https://www.futard.io/launch/BBHFc6prZ55DuvXcWSPG2uu816cjHCCzKZDcNMvt5oCP",
+      "finding": "Primary launch displays $5,457 committed by five funders against a $20,000 target and an unsuccessful/refunding status. The historical pitch describes a vehicle-tokenization pilot and proposed RWA infrastructure.",
+      "boundary": "Rendered overview and team disclosure reviewed. Pilot yield and legal ownership statements are issuer claims; prospective IP-transfer language and existing-SPC boilerplate differ. Team disclosure names Artsiom Hnatiuk, co-founder/CEO, and Evgenii Solomein, co-founder/CTO."
+    },
+    {
+      "id": "areal-failed-10k-raise",
+      "url": "https://www.futard.io/launch/8tT1npieq27dySTKFWJiMBRg5FbZRTuscYRq4wR4oLZo",
+      "finding": "Separate launch displays $462 committed by one funder against a structured $10,000 target, with an unsuccessful/refunding status.",
+      "boundary": "Funding panel and introduction reviewed. The introduction retains a conflicting $50,000 hard-cap statement; discrepancy unresolved."
+    },
+    {
+      "id": "areal-failed-50k-raise",
+      "url": "https://www.futard.io/launch/H6xSaDsnq9yUKpoLi3svozYGkRKbfKm4peX98CzDtmqp",
+      "finding": "Separate launch displays $1,350 committed by four funders against a $50,000 target, with an unsuccessful/refunding status.",
+      "boundary": "Funding panel and introduction reviewed. Older product and legal milestones remain plans."
+    },
+    {
+      "id": "areal-funded-backable-raise",
+      "url": "https://www.backable.biz/raises/DGRgqaGL2sQnGM6WzBmvXTT5XhnEkTdKecGmF1mswtL5",
+      "finding": "The platform lists $10,000 accepted from $10,010 committed by one wallet and a June 24 funding date. Current disclosures describe ARL governance and utility while excluding equity, direct asset ownership, dividends and redemption rights.",
+      "boundary": "Full current pitch and terms reviewed. Radio 12 revenue-sharing discussion is historical and does not override later disclosures. A single contributor is not identified as the founder. Buybacks and business acquisitions are proposed mechanisms, not verified execution."
+    },
+    {
+      "id": "areal-finance-failed-raise-4mgsftmw",
+      "url": "https://www.backable.biz/raises/4mgSftMwb86RKe4P73b7iY1YzyNwGPtW8EmyGJyACykG",
+      "finding": "Additional March 8 unsuccessful $50K attempt; directory displayed approximately $11.7K committed. Exact address distinct from the previously reviewed H6x... $1,350 attempt.",
+      "boundary": "Additional distinct Areal attempt at address 4mgS..., not the already cataloged H6x... attempt. Pitch reports a Dubai car pilot; yield and contracts remain issuer claims. Proposed Thai retreat is explicitly unlaunched. Failed raise is separate from later funded launch."
+    }
+  ],
+  "boundary": "Source review, not financial, legal or onchain audit. No chronological order inferred for failed attempts."
+}

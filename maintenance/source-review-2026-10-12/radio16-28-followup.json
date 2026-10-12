@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-12",
+  "status": "Radio16 and28 complete available generated transcripts reviewed; primary follow-up recorded",
+  "sources": [
+    {
+      "url": "https://metadao.fi/decisions/lfown-001",
+      "finding": "Primary proposal names Spark, represented by Mathis (@Mathis_btc) and Ewan (@Ewan_btc), as core contributor. $58.71 monthly allowance; no salary or contributor fee share. Passed outcome; execution not established by this review.",
+      "dateBoundary": "September 10 is proposal creation, not execution or publication."
+    },
+    {
+      "url": "https://x.com/i/spaces/1jxXgBvMRBzJZ",
+      "finding": "At about 81 minutes the ZeroFiat guest explicitly corrects the host: they have not listed a Futardio raise. Do not register ZeroFiat as a failed raise based on the introduction. At about 42 minutes the host corrects the 20x anecdote to Basket, not LFOWN. Token performance claims are excluded.",
+      "boundary": "Partial generated transcript review. Self-reported adoption, revenue and legal assertions are not audited."
+    },
+    {
+      "url": "https://docs.salmonwallet.io/getting-started/introduction",
+      "finding": "Official documentation lists Chrome and Android Beta, Solana and Bitcoin; iOS not generally available, no official Firefox listing. It dates retirement of the standalone web wallet to September 2, 2026."
+    },
+    {
+      "url": "https://www.salmonwallet.io/about",
+      "finding": "About page still lists a web wallet. Record this conflict and prefer the explicit retirement notice in current documentation for availability. Audit statement is a publisher claim, not an independently reviewed audit."
+    },
+    {
+      "url": "https://www.futard.io/launch/Aakx1gdDoNQYqiv5uoqdXx56mGr6AbZh73SWpxHrk2qF",
+      "finding": "Salmon unsuccessful raise corroborated: $375,000 target, $97,535 committed,53funders,Refunding. Individual refunds not verified; date remains unknown."
+    }
+  ],
+  "openGaps": [
+    "Radio 16 Bento, FusionCore and Thaler descriptions are prospective product/fundraising discussions, not completed ecosystem raises.",
+    "Radio 28 Milker is described as devnet; claimed house-edge safety and regulatory exemption are not accepted as facts. Withdrawal answer permits partial redemption until locked bet liquidity is released."
+  ]
+}

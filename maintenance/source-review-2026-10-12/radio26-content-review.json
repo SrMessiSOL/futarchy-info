@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1dGYlakDRXvKX",
+  "resourceId": "ownership-radio-26-recording",
+  "audioSha256": "6411f9181b4e260f7e9eb11b201eb69d17ec3f3536a0b146be722f4817b50953",
+  "durationSeconds": 6901.802667,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 242,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 242 segments of the locally generated transcript read for 6901.80 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. All available generated segments read. Nali and NYSA speaker names are not expanded into uncorroborated identities. Experiences.fun MVP, regional network and revenue models remain plans. HiveBits representative says140K target; host repeats150K, which is not adopted. Seasonal revenue expected after winter setup, not immediate post-raise cash flow. Token-as-shares analogy is not legal equity proof. Medical, environmental, market-size and performance figures remain unverified speaker claims. NYSA distinguishes permissionless lending from permissioned borrowing and discusses third-party lending infrastructure; no completed MetaDAO/Futardio raise, integration or angel allocation agreement inferred. Host token-allocation suggestions are not enacted terms.",
+  "sections": [
+    {
+      "start": "05:00",
+      "topic": "Opening and introductions"
+    },
+    {
+      "start": "10:00",
+      "topic": "Experiences.fun: founder background and impact platform"
+    },
+    {
+      "start": "20:00",
+      "topic": "Regional pilot, community and prospective distribution"
+    },
+    {
+      "start": "25:00",
+      "topic": "Launchpad, subscriptions and data business-model ideas"
+    },
+    {
+      "start": "35:00",
+      "topic": "Potential fundraising and Q4 MVP target"
+    },
+    {
+      "start": "45:00",
+      "topic": "HiveBits: connected beehives and proposed ownership structure"
+    },
+    {
+      "start": "55:00",
+      "topic": "Own farm first; later beekeeper network and marketplace"
+    },
+    {
+      "start": "65:00",
+      "topic": "Raise plans, Superteam Balkans and transparency"
+    },
+    {
+      "start": "75:00",
+      "topic": "Seasonal farm setup and prospective next-season revenue"
+    },
+    {
+      "start": "78:00",
+      "topic": "NYSA Finance founder introduction and lending-market curation"
+    },
+    {
+      "start": "85:00",
+      "topic": "Closed testing, team and planned markets"
+    },
+    {
+      "start": "90:00",
+      "topic": "Permissioned borrowers, collateral assessment and infrastructure"
+    },
+    {
+      "start": "100:00",
+      "topic": "Borrower-fee model, angel discussions and potential later raise"
+    },
+    {
+      "start": "110:00",
+      "topic": "Go-to-market and closing"
+    }
+  ]
+}

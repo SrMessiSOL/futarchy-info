@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1MJgNbpvWayGL",
+  "resourceId": "ownership-radio-32-recording",
+  "audioSha256": "a1e7856ad81d44ecc8e69623fc85bbe336fddd40f99a04ebb241651ee03d4f13",
+  "durationSeconds": 3940.0533125,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 818,
+  "firstSegmentSeconds": 297.68,
+  "lastSegmentSeconds": 3908.4,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "Complete locally generated machine transcript read after downloading the public X Space recording (3940.05 seconds). All 818 generated segments reviewed; detected speech runs approximately 04:57–65:08. ASR includes name errors, poor passages and speaker dropouts; no verbatim quotes, precise financial claims or personal identity inferred from unclear speech. This is transcript-based editorial review, not full manual listening, security validation or proof of executed raises.",
+  "sections": [
+    {
+      "start": "05:00",
+      "topic": "Introduction; Backable and MetaDAO governance discussion"
+    },
+    {
+      "start": "13:00",
+      "topic": "Kimia beta preparation and waitlist"
+    },
+    {
+      "start": "18:22",
+      "topic": "Kaboom product and planned raise"
+    },
+    {
+      "start": "27:01",
+      "topic": "Kimia runway and possible follow-on funding"
+    },
+    {
+      "start": "40:00",
+      "topic": "Security and audit plans; neither independent audit completion nor absence of vulnerabilities established"
+    },
+    {
+      "start": "54:07",
+      "topic": "Kaboom clarifies gameplay paused ahead of raise"
+    },
+    {
+      "start": "57:03",
+      "topic": "Kimia closing beta invitation plans; speaker connection interruptions"
+    },
+    {
+      "start": "60:20",
+      "topic": "Community participation and closing"
+    }
+  ]
+}

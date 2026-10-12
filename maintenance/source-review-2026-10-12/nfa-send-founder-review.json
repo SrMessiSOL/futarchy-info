@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-10-12",
+  "scope": "Six complete written-source bodies; linked documents and images remain separate",
+  "resources": [
+    {
+      "id": "send-arcade-send-sunset",
+      "projectId": "send-arcade",
+      "title": "SEND sunset and Send Arcade independence",
+      "author": "Yash (@yashhsm)",
+      "date": "2026-01-09",
+      "url": "https://x.com/yashhsm/status/2009698779902169135",
+      "summary": "Yash announces the SEND sunset, with Send Arcade continuing as an independent game studio. A January 31, 2026 burn deadline concerned eligibility for possible future allocations, not guaranteed redemption. Foundation treasury wind-down and future financing were plans; completion is not established.",
+      "boundary": "Complete visible post text read in the normal browser. Author is not automatically attributed as Send Arcade founder. Embedded image not separately reviewed."
+    },
+    {
+      "id": "nfa-holder-revenue-sharing-2024",
+      "projectId": "nfa-space",
+      "title": "NFA.space: historical NFT-holder revenue sharing",
+      "author": "gm0218 / NFA.space",
+      "date": "2024-08-06",
+      "url": "https://www.nfa.space/post/empowering-our-holders-introducing-revenue-sharing-at-nfa-space",
+      "summary": "Historical NFT-holder programme describes a 10% share of sales after marketplace fees when physical-painting NFTs are reused in new digital series, with wider rewards proposed. These terms concern specified NFT collections and must not be transferred to the later NFA ownership coin.",
+      "boundary": "Complete available written body read. Updated October 22, 2024. Linked Public Offer Agreement and actual distributions not reviewed or verified."
+    },
+    {
+      "id": "nfa-second-year-retrospective",
+      "projectId": "nfa-space",
+      "title": "NFA.space: second-year retrospective",
+      "author": "BogdanNFA",
+      "date": "2024-04-25",
+      "url": "https://www.nfa.space/post/art-3-0-second-year-so-far-so-good",
+      "summary": "Historical retrospective describes a May 2022 start, digital and phygital collections, and self-reported artist and collector reach. The 2024 figures are not current traction or independently audited results.",
+      "boundary": "Complete written body read in normal browser; updated May 13, 2024. Embedded roadmap images and charts not separately reviewed."
+    },
+    {
+      "id": "nfa-futardio-ico-announcement",
+      "projectId": "nfa-space",
+      "title": "NFA.space: Futardio ICO plan",
+      "author": "BogdanNFA",
+      "date": null,
+      "url": "https://www.nfa.space/post/nfa-token-ico-on-futardio",
+      "summary": "Primary announcement links the exact subsequently unsuccessful $125K raise and proposes an eight-month budget at $15,625 monthly. Claimed revenue and artwork sales are issuer figures; audit, marketplace, governance and vault milestones are prospective. The article does not establish completion of its roadmap.",
+      "boundary": "Complete written body read in normal browser. Header displays March 14 without a year; publication date remains unknown. Body retains a 2025 reference; no year inferred. Embedded graphics not separately reviewed."
+    },
+    {
+      "id": "nfa-art-ownership-retrospective",
+      "projectId": "nfa-space",
+      "title": "NFA.space: physical art ownership and platform history",
+      "author": "BogdanNFA",
+      "date": null,
+      "url": "https://www.nfa.space/post/nfa-space-building-the-future-of-art-ownership-one-artwork-at-a-time",
+      "summary": "Company retrospective describes whole physical-art ownership, early OpenSea collections and a transition toward its own marketplace. Event participation, artist education and accelerator completion remain publisher claims; this does not independently establish delivery, legal title or a commercial partnership.",
+      "boundary": "Complete written body read in normal browser. Header displays March 9 without a year; publication date remains unknown. Images not separately reviewed. Whole-art positioning is kept distinct from the earlier generic discussion of fractional ownership."
+    },
+    {
+      "id": "nfa-collectors-nft-thesis-2023",
+      "projectId": "nfa-space",
+      "title": "NFA.space: original collector and NFT thesis",
+      "author": "gm0218 / NFA.space",
+      "date": "2023-06-01",
+      "url": "https://www.nfa.space/post/the-new-future-for-the-fine-arts-industry-at-nft-space-concerning-collectors",
+      "summary": "Historical company thesis discusses provenance, transfer, fractional ownership and collection distribution through OpenSea. Assertions about authenticity, liquidity and returns are promotional claims, not proof that NFTs establish physical authenticity, legal ownership or investment performance.",
+      "boundary": "Complete written body read in normal browser. Updated January 29, 2024. Collection destinations and embedded images not separately reviewed."
+    }
+  ]
+}

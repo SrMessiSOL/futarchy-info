@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1NGaroXbOBdJj",
+  "resourceId": "ownership-radio-30-recording",
+  "audioSha256": "efda91b2d653241a4e9744ccac6c68d231e0bbd2a7138a8723c19fa2c6b11d6c",
+  "durationSeconds": 8841.1093125,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / batch 8 / 5 minute chunks",
+  "generatedSegments": 321,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 321 segments of the locally generated transcript read for 8841.11 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. MoveX, Kaching, Solkombat and TrustVault handles corroborated against the complete publisher announcement. Prospective fundraising is not a completed MetaDAO raise. Traction, licensing, security and deployment statements are speaker claims. Suggested Ika collaboration is not proof of an integration. An opening ASR repetition was separately re-transcribed; no uncertain detail used.",
+  "sections": [
+    {
+      "start": "04:38",
+      "topic": "Opening"
+    },
+    {
+      "start": "11:00",
+      "topic": "MoveX devnet volatility markets and prospective fundraising"
+    },
+    {
+      "start": "44:00",
+      "topic": "Kaching prize draws, reported traction and licensing plans"
+    },
+    {
+      "start": "73:00",
+      "topic": "Gaming pitch, points versus tokens and studio ownership discussion"
+    },
+    {
+      "start": "110:00",
+      "topic": "TrustVault MVP: inheritance, recovery, upgrade authority and Ika feedback"
+    },
+    {
+      "start": "140:00",
+      "topic": "Fundraising readiness, ecosystem collaboration and closing"
+    }
+  ]
+}

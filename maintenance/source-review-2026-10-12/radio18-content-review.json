@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1dGYllAwDWLKX",
+  "resourceId": "ownership-radio-18-recording",
+  "audioSha256": "e2d789a42b3947c938c8edd8b79a9c241e45957a31adecf06168afde92890925",
+  "durationSeconds": 10204.266667,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 360,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 360 segments of the locally generated transcript read for 10204.27 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read, with targeted re-transcriptions at810,2400 and8640 seconds. Omnipair V2/leverage audits and launch were future work; revenue-routing claims not independently audited. Keystone is explicitly pre-product, with no agreed governance token or MetaDAO raise. Kimia July completed-audit claim is not corroborated by current documentation, which lists scheduled/TBA audits and unaudited devnet; scope/version reconciliation remains open. Proposed60% fee buybacks are not an executed governance decision. Heirloom is public-devnet in the interview, with external audit and mainnet planned; candidate60–80K raise and revenue model remain tentative. Privacy limitations acknowledged. Founder backgrounds, partnership claims and investment analogies are attributed, not independently verified. No legal inheritance efficacy, risk-free yield or token-equity rights inferred.",
+  "sections": [
+    {
+      "start": "05:00",
+      "topic": "Opening; Rakka background and Omnipair origin"
+    },
+    {
+      "start": "15:00",
+      "topic": "Permissionless borrowing motivation and AMM design"
+    },
+    {
+      "start": "20:00",
+      "topic": "V1 lessons; proposed V2 efficiency, deposits and leverage"
+    },
+    {
+      "start": "30:00",
+      "topic": "Revenue generation, transparent routing and verification"
+    },
+    {
+      "start": "40:00",
+      "topic": "Founder advice and planned combined V2/leverage audit"
+    },
+    {
+      "start": "50:00",
+      "topic": "Keystone: carry coordination and early-stage thesis"
+    },
+    {
+      "start": "65:00",
+      "topic": "Capacity constraints, compounded risks and strategy critique"
+    },
+    {
+      "start": "80:00",
+      "topic": "No current governance token; prospective audited beta"
+    },
+    {
+      "start": "90:00",
+      "topic": "Kimia: funding-rate strategy and self-built perps"
+    },
+    {
+      "start": "105:00",
+      "topic": "Audit assertion, proposed raise, buybacks and governance discussion"
+    },
+    {
+      "start": "120:00",
+      "topic": "Heirloom: inheritance vaults and heartbeat mechanism"
+    },
+    {
+      "start": "130:00",
+      "topic": "Vault operations, public data and IKA integration discussion"
+    },
+    {
+      "start": "140:00",
+      "topic": "Devnet, planned audit and possible future fundraising"
+    },
+    {
+      "start": "155:00",
+      "topic": "Founder backgrounds and revenue-model discussion"
+    }
+  ]
+}

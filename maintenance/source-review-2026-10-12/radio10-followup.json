@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": [
+    {
+      "url": "https://metadao.fi/decisions/futardio-004",
+      "resourceId": "decision-futardio-004",
+      "method": "Live browser Summary and Instructions tabs read",
+      "finding": "Passed; May 6 creation date; one Memo instruction. Payment execution unverified."
+    },
+    {
+      "url": "https://www.futard.io/launch/3EZBeQPQNHYkxnbrMRXG56DK1QRG8DR7VhYAUyvUFBzK",
+      "finding": "Primary launch displays $11,402,898 commitments and $50K goal; company directory displays $50K raised. Radio figures are commitments, not proceeds."
+    },
+    {
+      "url": "https://x.com/deanmachine/status/2056293300647116856",
+      "resourceId": "dean-realms-ride-transition",
+      "finding": "Complete primary-author post read through public mirror; planned July 1 immutability/interface change not execution proof."
+    },
+    {
+      "url": "https://www.pulsarspaces.com/features",
+      "finding": "Primary product page corroborates Pulsar Spaces product spelling and workspace scope. No MetaDAO raise established."
+    }
+  ],
+  "remaining": [
+    "mtnCapital wind-down claims in Radio 10 are retrospective guest statements, not primary execution evidence.",
+    "Ride trial returns and treasury configuration not independently reconciled.",
+    "Pulsar privacy design and adoption figures remain speaker claims."
+  ]
+}

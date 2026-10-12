@@ -1,0 +1,59 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Founder attribution correction",
+      "title": "Solomon Lab Notes 04",
+      "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-04",
+      "status": "updated",
+      "resourceIds": [
+        "update-solomon-solomon-lab-notes-04"
+      ],
+      "method": "Complete publisher article reread",
+      "note": "Complete publisher article reread and founder byline verified. Plans, proposal execution and reported metrics remain distinct; linked audits and legal documents not independently validated.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder attribution correction",
+      "title": "Lab Notes 05",
+      "url": "https://blog.solomonlabs.org/p/lab-notes-05",
+      "status": "updated",
+      "resourceIds": [
+        "update-solomon-lab-notes-05"
+      ],
+      "method": "Complete publisher article reread",
+      "note": "Complete publisher article reread and founder byline verified. Plans, proposal execution and reported metrics remain distinct; linked audits and legal documents not independently validated.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder attribution correction",
+      "title": "Solomon x Avici",
+      "url": "https://blog.solomonlabs.org/p/avici-and-solomon-labs-partner-to",
+      "status": "updated",
+      "resourceIds": [
+        "update-solomon-avici-and-solomon-labs-partner-to"
+      ],
+      "method": "Complete publisher article reread",
+      "note": "Complete publisher article reread and founder byline verified. Plans, proposal execution and reported metrics remain distinct; linked audits and legal documents not independently validated.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder attribution correction",
+      "title": "Solomon Lab Notes 04",
+      "url": "https://x.com/oxranga/status/2014073369235267854",
+      "status": "updated",
+      "resourceIds": [
+        "res-186"
+      ],
+      "method": "Full X and publisher editions compared",
+      "note": "Full canonical X article text read through public FixTweet mirror and compared with publisher edition. Same Lab Notes 04 body; retained original ID as hidden alternate edition. Corrected unrelated legacy description.",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "identityObservation": {
+    "project": "avici",
+    "url": "https://x.com/0xatiwari",
+    "name": "Abhishek Tiwari",
+    "boundary": "Name from public profile; founder role from previously reviewed Ram post; no Articles tab exposed in this inspection."
+  }
+}

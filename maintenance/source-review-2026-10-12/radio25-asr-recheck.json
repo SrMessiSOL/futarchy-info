@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-12",
+  "method": "Targeted non-batched base.en re-transcription, 60 second chunks, beam 3; not manual listening",
+  "fullRepairTranscript": "Ignored local working file only",
+  "windows": [
+    {
+      "startSeconds": 3740,
+      "durationSeconds": 60,
+      "finding": "Repaired repeated phrase; host hands over to questions about Konta’s stablecoin provider."
+    }
+  ],
+  "boundary": "Targeted generated transcripts read; not manual listening or independent verification."
+}

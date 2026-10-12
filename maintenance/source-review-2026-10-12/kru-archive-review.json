@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Founder archive",
+      "title": "#05 - Fifth Gear",
+      "url": "https://x.com/kru_tweets/status/2094837269035401608",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2094837269035401608"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read through public FixTweet mirror after canonical article discovery on the founder’s X Articles tab. Embedded media not reviewed. Volume language mixes cumulative and monthly figures; the approximately 75% month-over-month assertion was not recalculated or independently validated. Certification audit is in preparation, not certification achieved.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "#04 - Fourward Motion",
+      "url": "https://x.com/kru_tweets/status/2082696417865298339",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2082696417865298339"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read through public FixTweet mirror after canonical article discovery on the founder’s X Articles tab. Embedded media not reviewed. Adoption statistics and comparative privacy claims are attributed, not independently audited. V2 is a planned rebuild.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "#03 - Three's the charm",
+      "url": "https://x.com/kru_tweets/status/2037515949084233827",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2037515949084233827"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read through public FixTweet mirror after canonical article discovery on the founder’s X Articles tab. Embedded media not reviewed. Public TestFlight access is distinct from app-store approval or final release. Swap latency is reported as 40–50 seconds; do not conflate with a later interview’s transfer latency.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "Two for the Show",
+      "url": "https://x.com/kru_tweets/status/2024907193020273018",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2024907193020273018"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read through public FixTweet mirror after canonical article discovery on the founder’s X Articles tab. Embedded media not reviewed. The February target is not a completed launch. Ownership/IP statements describe the founder’s position and are not independently established legal rights.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "#01 - One for the Road",
+      "url": "https://x.com/kru_tweets/status/1987420528920174939",
+      "status": "updated",
+      "resourceIds": [
+        "res-194"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read through public FixTweet mirror after canonical article discovery on the founder’s X Articles tab. Embedded media not reviewed. Budget proposal was being prepared; this is not evidence of approval, execution, expenditure or completed audits.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder interview",
+      "title": "Privacy Is the Future of Solana — Kru Shah of Umbra Explains Why",
+      "url": "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why",
+      "status": "added",
+      "resourceIds": [
+        "umbra-kru-index-podcast-2026-04-27"
+      ],
+      "method": "Complete publisher transcript",
+      "note": "Complete publisher transcript read from opening through closing at 32:50 (player duration 33:09). Transcript has obvious proper-name recognition errors. Audio and visuals not separately reviewed. Investor-relations bounty platform described as being built, not shipped; legal and security claims not independently verified.",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "boundary": "Five surfaced founder articles, not an assertion of exhaustive historical X coverage."
+}

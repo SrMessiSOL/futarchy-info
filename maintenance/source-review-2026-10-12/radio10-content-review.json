@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1RJZzjLyRrDJB",
+  "resourceId": "ownership-radio-10-recording",
+  "audioSha256": "16c9f318b6873f312bf4995ef1f063799ec6ea099f4b10ab8dc9325b2f48e7fc",
+  "durationSeconds": 7062.6986875,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 1691,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 1691 segments of the locally generated transcript read for 7062.70 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Umbra OTC round is not described as fully closed. Ride treasury downside can exceed caller bonds; liquidation controls are prospective and performance claims unverified. Futardio Cult’s $11.4M refers to commitments, not accepted proceeds (primary launch shows $50K raise). FUTARDIO-004 was awaiting stake during the show; later primary inspection shows Passed with a Memo instruction, not proof of payment. Vukan’s Jurassic/Blockformer role is distinguished from Futardio Cult’s participant. Pulsar Spaces is not established as a MetaDAO raise; Julian explicitly says no token is planned. Personal identity beyond clear first names and external source confirmation is not inferred. Privacy, safety and investment claims remain attributed.",
+  "sections": [
+    {
+      "start": "04:00",
+      "topic": "Opening; sponsorship and host interests disclosed"
+    },
+    {
+      "start": "08:06",
+      "topic": "Umbra SDK support, builder integrations and shielded transfers"
+    },
+    {
+      "start": "13:15",
+      "topic": "Umbra OTC proposal design, price volatility and remaining closing window"
+    },
+    {
+      "start": "20:37",
+      "topic": "Umbra team size and reported burn; figures are speaker claims"
+    },
+    {
+      "start": "23:38",
+      "topic": "Dean and Adrian introduce Realms, SPL Governance and planned decentralization"
+    },
+    {
+      "start": "29:36",
+      "topic": "Ride operational futarchy; IslandCapital comparison and retrospective mtnCapital claims"
+    },
+    {
+      "start": "35:37",
+      "topic": "Profit KPI, caller bonds, treasury trade sizing and payout parameters"
+    },
+    {
+      "start": "41:32",
+      "topic": "Treasury loss can exceed bond; planned liquidation mechanism and small trial claims"
+    },
+    {
+      "start": "47:41",
+      "topic": "Ride implementation described as closed source at the time; no Ride token planned"
+    },
+    {
+      "start": "53:30",
+      "topic": "David discusses Solana events, hackathon and ownership funding interest"
+    },
+    {
+      "start": "60:40",
+      "topic": "Futardio Cult content proposal still awaiting stake; founder account of launch origins"
+    },
+    {
+      "start": "66:43",
+      "topic": "Vukan explains Blockformer, Ownership and proposed Futardio Cult engagement"
+    },
+    {
+      "start": "72:18",
+      "topic": "Commitments versus small target; distribution and marketing discussion"
+    },
+    {
+      "start": "81:36",
+      "topic": "Liquid venture allocations and unresolved ecosystem-success thesis"
+    },
+    {
+      "start": "91:15",
+      "topic": "Julian introduces Pulsar Spaces productivity workspace and Solana integrations"
+    },
+    {
+      "start": "99:21",
+      "topic": "Fundraising exploration, no planned token and proposed governance NFTs"
+    },
+    {
+      "start": "104:07",
+      "topic": "Agentic workspace roadmap, developer background, privacy claims and storage tradeoffs"
+    },
+    {
+      "start": "113:15",
+      "topic": "Planned version-two update and closing"
+    }
+  ]
+}

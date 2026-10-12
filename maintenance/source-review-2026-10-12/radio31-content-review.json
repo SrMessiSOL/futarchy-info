@@ -1,0 +1,87 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1MKgNbwyaeexL",
+  "resourceId": "ownership-radio-31-recording",
+  "audioSha256": "84537a64aa30c89b7ebb725b53e6bba5b53a205e813deca716cbd89de6dc644c",
+  "durationSeconds": 9364.0746875,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / batch 8 / 5 minute chunks",
+  "generatedSegments": 336,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 336 segments of the locally generated transcript read for 9364.07 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. All generated segments of the complete recovered recording read. Publisher announcement identifies Styx and Pairs; Aikido is heard in the actual recording. None is registered as a completed ecosystem raise from this appearance. Styx performance/security claims were not tested: V2 devnet, external audit and authority arrangements remained future work. Pairs audio is intermittently unclear; precise metrics excluded. Aikido admits cloud-provider privacy limits and calls its product an early beta. ASR repetition around 127:00 and 129:12 was reprocessed with non-batched 60-second chunks and the resulting text read in full. This recovered the Finagotchi participant introduction and AI-eyewear discussion; unclear names and technical claims remain excluded. This is still generated-text review, not manual listening. Hardware/inference figures, predictions and allegations about third parties are not adopted as verified facts.",
+  "sections": [
+    {
+      "start": "04:58",
+      "topic": "Opening and guest introductions"
+    },
+    {
+      "start": "15:00",
+      "topic": "Styx: Protocol 01 rebrand, private transfers and subscriptions"
+    },
+    {
+      "start": "20:00",
+      "topic": "Post-quantum thesis and limitations of the underlying chain"
+    },
+    {
+      "start": "25:29",
+      "topic": "Technical questions on proof size, verification cost and reported performance"
+    },
+    {
+      "start": "36:42",
+      "topic": "V2 devnet plans, audit requirement and prospective fundraising"
+    },
+    {
+      "start": "45:00",
+      "topic": "Upgrade authority and unresolved trust/governance arrangements"
+    },
+    {
+      "start": "57:22",
+      "topic": "Custom cryptography implementation; participant urges specialist cryptographic review"
+    },
+    {
+      "start": "63:11",
+      "topic": "Pairs: stock-basket token launch experiment and product feedback"
+    },
+    {
+      "start": "73:02",
+      "topic": "Reported mainnet testing, liquidity needs and pre-raise traction discussion"
+    },
+    {
+      "start": "85:00",
+      "topic": "Aikido: hosted agents, planned payment controls and founder workflows"
+    },
+    {
+      "start": "93:22",
+      "topic": "Spending mandates, permissions and custody approach under development"
+    },
+    {
+      "start": "100:24",
+      "topic": "Cloud privacy limits, inference economics and business-model debate"
+    },
+    {
+      "start": "125:00",
+      "topic": "AI devices and hardware discussion; targeted ASR repair recovers Finagotchi participant introduction"
+    },
+    {
+      "start": "140:00",
+      "topic": "Aikido explicitly says a Backable raise is premature; validation first"
+    },
+    {
+      "start": "145:55",
+      "topic": "Late inference-infrastructure guest; operating and cost claims unverified"
+    },
+    {
+      "start": "151:27",
+      "topic": "Early-beta caveat, waitlist and closing"
+    }
+  ],
+  "asrRecheck": {
+    "rangeSeconds": [
+      7600,
+      7840
+    ],
+    "method": "Targeted non-batched base.en re-transcription, 60 second chunks, beam 3; not manual listening",
+    "transcriptSha256": "1d62482c74dae219dc8e94a6c7f599d5896f96b25e27de58d59c9937e756aeb1",
+    "reviewStatus": "complete-targeted-generated-text-reviewed",
+    "finding": "Repeated-text artifacts substantially resolved; Finagotchi participant introduction recovered. No founder legal identity or completed raise inferred."
+  }
+}

@@ -1,5 +1,5 @@
 import { ArrowUpRight, BookOpen, Clock } from 'lucide-react'
-import { resources } from '@/lib/resources-data'
+import { mainResources as resources } from '@/lib/resources-data'
 
 const readingPath = [
   { id: 'res-218', label: '01 · Explore the companies', detail: 'The official MetaDAO directory of projects and their decisions.' },

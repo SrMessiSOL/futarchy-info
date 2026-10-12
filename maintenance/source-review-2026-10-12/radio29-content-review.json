@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1nJOLQoPXArxR",
+  "resourceId": "ownership-radio-29-recording",
+  "audioSha256": "1ece473edcecdec27424d0ea0371752005560a7e3d7017bf57bf2af2dd297d5b",
+  "durationSeconds": 7161.621333,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 251,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 251 segments of the locally generated transcript read for 7161.62 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Product handles corroborated in the complete publisher announcement. GeSIM runway, revenue and proposed raise are speaker reports, not audited balances or executed financing. Finagotchi explicitly disclaims a points-based airdrop; its raise and hardware remain prospective. Polybaskets describes Vara activity and planned Solana integration; prediction-market baskets are not stock-token baskets. Sash is an early project with tentative partnerships, not a verified funded company. Riprap did not present. Repeated ASR passages at 600–720, 4800–4920 and 6300–6420 seconds were re-transcribed and read; uncertain token names and amounts are excluded.",
+  "sections": [
+    {
+      "start": "04:16",
+      "topic": "Opening and historical governance recap; proposal outcomes require primary records"
+    },
+    {
+      "start": "12:59",
+      "topic": "GeSIM: product origins, private connectivity bundle and app testing"
+    },
+    {
+      "start": "29:45",
+      "topic": "GeSIM: reported runway, traction and proposed follow-on financing"
+    },
+    {
+      "start": "38:20",
+      "topic": "Finagotchi: savings companion, protocol quests, hardware and business model"
+    },
+    {
+      "start": "58:40",
+      "topic": "Finagotchi points explicitly do not promise an airdrop"
+    },
+    {
+      "start": "65:29",
+      "topic": "Solo founder and agent-assisted development"
+    },
+    {
+      "start": "67:00",
+      "topic": "Polybaskets: thematic prediction-market indexes, Vara and prospective Solana raise"
+    },
+    {
+      "start": "90:00",
+      "topic": "Clarification: prediction-market baskets, not token portfolios"
+    },
+    {
+      "start": "95:00",
+      "topic": "Sash: physical-attention marketplace, verification challenges and early partnerships"
+    },
+    {
+      "start": "115:00",
+      "topic": "Closing; advertised additional guest unavailable"
+    }
+  ]
+}

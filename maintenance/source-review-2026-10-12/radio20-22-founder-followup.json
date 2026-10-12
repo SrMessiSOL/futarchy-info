@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": [
+    {
+      "url": "https://www.ordr.trade/",
+      "status": "read",
+      "finding": "Team roles corroborated; four linked articles already cataloged. Performance and security claims not independently validated."
+    },
+    {
+      "url": "https://metadao.fi/companies/ripcars",
+      "status": "read",
+      "finding": "Founder identities and funded company record corroborate context. Historical About cliff differs from later governance; existing decisions retained."
+    },
+    {
+      "url": "https://www.futard.io/launch/DaBxHyopVqt52zzCPpxNiK6stDwdv6Zf9Ep9hndBPEE7",
+      "status": "added",
+      "resourceId": "bountive-failed-raise",
+      "finding": "Funding panel, About, Details and B1 sections read from a publicly indexed snapshot crawled last month; not a live balance check. Refunding does not establish completed refunds. About retains founder brand/IP rights while B1 attributes them to an SPC; unresolved. This record is not identified as the attempt discussed in Radio 22. Publication date unknown."
+    },
+    {
+      "url": "https://docs.veilo.network/privacy/limits",
+      "status": "read-not-selected",
+      "finding": "Publisher states external activity and withdrawal amount/destination remain visible; anonymity depends on timing, amounts and pool activity. Not a verified guarantee."
+    },
+    {
+      "url": "https://docs.veilo.network/privacy/trust-model",
+      "status": "read-not-selected",
+      "finding": "Publisher claims noncustody, encrypted-note storage and no privileged program controls; names client, device, proof-system and relayer-availability assumptions. Code/deployment/audit not checked; current text does not settle the historical Radio22 exchange."
+    }
+  ],
+  "pending": [
+    {
+      "url": "https://www.youtube.com/watch?v=IUQ8MUXy2Ng",
+      "reason": "Dedicated Bountive founder video not yet reviewed."
+    }
+  ],
+  "boundary": "Primary disclosures are not independent legal or security verification. No live funding balance or refund execution claim."
+}

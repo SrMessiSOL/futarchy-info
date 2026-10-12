@@ -1,0 +1,1236 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://www.backable.biz/raises?filter=claimable&expand=1",
+  "method": "All 82 rendered directory links inspected in normal read-only browser; exact URLs transcribed into inventory.",
+  "boundary": "Claimable is the platform label, not evidence refunds completed. Entries are raise attempts, not 82 distinct vetted companies. Repeated attempts, test labels and unresolved identity remain pending. Seven detail pages and archived pitches newly reviewed this pass; other catalog matches use earlier evidence.",
+  "entries": [
+    {
+      "name": "Digg",
+      "address": "4bTzczBeysUL9MtHxXbQ9Xefd2MJHoMNRm8B6tg5hHUe",
+      "url": "https://www.backable.biz/raises/4bTzczBeysUL9MtHxXbQ9Xefd2MJHoMNRm8B6tg5hHUe",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "digg-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "SPARK",
+      "address": "2SGPL7DSLX35WuBm4458xwctrSEHzUpe5884aoXL68WY",
+      "url": "https://www.backable.biz/raises/2SGPL7DSLX35WuBm4458xwctrSEHzUpe5884aoXL68WY",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "spark-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Degen Terminal",
+      "address": "83fAjVrKqN3KN8UAFPunRNygTHMmkRRGd3KUKgeSXKx7",
+      "url": "https://www.backable.biz/raises/83fAjVrKqN3KN8UAFPunRNygTHMmkRRGd3KUKgeSXKx7",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "degen-terminal-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "GameByts",
+      "address": "FfadyEpRPJEbJHDvQ9ZeCBzkBjX1GZtEVNgMFogsfdq8",
+      "url": "https://www.backable.biz/raises/FfadyEpRPJEbJHDvQ9ZeCBzkBjX1GZtEVNgMFogsfdq8",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "gamebyts-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Aeonian",
+      "address": "Bw4TNjEEf8WChwYJTQBZMCKZx9ErGeQLNr8hBzDpeDHG",
+      "url": "https://www.backable.biz/raises/Bw4TNjEEf8WChwYJTQBZMCKZx9ErGeQLNr8hBzDpeDHG",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "aeonian-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Mycorealms",
+      "address": "8cJavsmirre12VUvajmcT4UXqqfM25ShZ9ZMPCcnVSB5",
+      "url": "https://www.backable.biz/raises/8cJavsmirre12VUvajmcT4UXqqfM25ShZ9ZMPCcnVSB5",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "mycorealms-cordyceps-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Markov",
+      "address": "F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+      "url": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "markov-failed-raise-f8fptkdg"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Delegated agent/strategist capital with policy limits and revocation. Pitch explicitly describes devnet; security-reviewed private mainnet beta and a later audit remain planned. Automatic-refund wording conflicts with current claim-required platform terms.",
+      "followupSources": [
+        "https://markov.fyi/litepaper",
+        "https://x.com/kunaldrall_",
+        "https://x.com/dralldaksh",
+        "https://x.com/monalikawalia"
+      ]
+    },
+    {
+      "name": "Coinflip",
+      "address": "7wiwmSgdVXhYyiMWdUz6vUxTjoiCPupFwvmGNzhPJvV9",
+      "url": "https://www.backable.biz/raises/7wiwmSgdVXhYyiMWdUz6vUxTjoiCPupFwvmGNzhPJvV9",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "coinflip-failed-raise-7wiwmsgd"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "PvP wagering and jackpot product with generated result videos. Pitch claims production games but proposes security audit and governance rollout. Illustrative wagering revenue is not actual revenue. No named founder established.",
+      "followupSources": [
+        "https://ir.coinflip.to/",
+        "https://x.com/CoinflipTO"
+      ]
+    },
+    {
+      "name": "Ryvo Network",
+      "address": "9EVNa5SukB5szKECdWVWssfFtsQmjiijukyXztK6PbrY",
+      "url": "https://www.backable.biz/raises/9EVNa5SukB5szKECdWVWssfFtsQmjiijukyXztK6PbrY",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "ryvo-network-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "SuperPumped",
+      "address": "Cdc9b9AuwkbfjBWqYC8xkcoyMacF6G55wsdUK2gpPuzS",
+      "url": "https://www.backable.biz/raises/Cdc9b9AuwkbfjBWqYC8xkcoyMacF6G55wsdUK2gpPuzS",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "superpumped-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "CarryLend",
+      "address": "86cSK16y9FZBggdLcmZiPUCaBjB9TWyGdEzjmJoNe4tn",
+      "url": "https://www.backable.biz/raises/86cSK16y9FZBggdLcmZiPUCaBjB9TWyGdEzjmJoNe4tn",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "carrylend-failed-raise-86csk16y"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Kamino fork proposing forced staking of borrowed SOL into escrowed LST collateral. Mainnet-fork simulation is not mainnet deployment. Audit and guarded launch remain planned. Pitch says excess commitments become locked LP, conflicting with current platform claimable-excess terms.",
+      "followupSources": [
+        "https://github.com/klend-fork/klend-staked-borrow"
+      ]
+    },
+    {
+      "name": "The collector suite",
+      "address": "Eyq92APYDt5tEsvmsSHuCtX3KFJuKgmhLiry3EUaScuh",
+      "url": "https://www.backable.biz/raises/Eyq92APYDt5tEsvmsSHuCtX3KFJuKgmhLiry3EUaScuh",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "collector-suite-failed-raise-eyq92apy"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Collectible pack aggregator with proposed Proof Network integration and revenue sharing. Claimed positive expected value and competitor market figures are not independently established. Founder identity absent from reviewed pitch.",
+      "followupSources": [
+        "https://x.com/aCollectorSuite"
+      ]
+    },
+    {
+      "name": "Bountive",
+      "address": "6YJbUyYug9nnj6ga83KSNBSNk46tpvxnAprQb1DPAoVp",
+      "url": "https://www.backable.biz/raises/6YJbUyYug9nnj6ga83KSNBSNk46tpvxnAprQb1DPAoVp",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "bountive-failed-raise-6yjbuyyu"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Separate $3K-commitment attempt, not the cataloged $800 attempt. Expanded pitch adds Direct Collab beta alongside open contests. AI fairness, escrow security, revenue routing and mainnet readiness are claims or plans, not audited execution.",
+      "followupSources": [
+        "https://www.youtube.com/watch?v=IUQ8MUXy2Ng",
+        "https://x.com/BountiveXYZ"
+      ]
+    },
+    {
+      "name": "HIIE, from AL",
+      "address": "9oFattEBT5A34JHaCz4BJQHtSJuL8Wzaj2AszWxx3khW",
+      "url": "https://www.backable.biz/raises/9oFattEBT5A34JHaCz4BJQHtSJuL8Wzaj2AszWxx3khW",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "hiie-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Clytheriq Chain",
+      "address": "BawJPh331hYBctANtrnky3Rof1jYtSE4ckoYLqQvmGd7",
+      "url": "https://www.backable.biz/raises/BawJPh331hYBctANtrnky3Rof1jYtSE4ckoYLqQvmGd7",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "clytheriq-chain-failed-raise-bawjph33"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Parallel-execution blockchain pitch with testnet and future mainnet milestones. Fastest/zero-congestion assertions lack benchmark verification in this review; audits and compliance are prospective. No named founder in reviewed pitch.",
+      "followupSources": [
+        "https://x.com/clytheriq"
+      ]
+    },
+    {
+      "name": "Bountive",
+      "address": "DaBxHyopVqt52zzCPpxNiK6stDwdv6Zf9Ep9hndBPEE7",
+      "url": "https://www.backable.biz/raises/DaBxHyopVqt52zzCPpxNiK6stDwdv6Zf9Ep9hndBPEE7",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "bountive-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "GardenDAO",
+      "address": "HLCNhF5rsrcWJLTLJYuGaYDQXJSPorMERm3ZcQz17R29",
+      "url": "https://www.backable.biz/raises/HLCNhF5rsrcWJLTLJYuGaYDQXJSPorMERm3ZcQz17R29",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "gardendao-failed-raise-hlcnhf5r"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Proposed sports-memorabilia acquisition DAO. Historical sports narrative, valuations and relationships are issuer claims. Pitch explicitly disclaims token equity or ownership claims on relics; failed raise is not evidence of auction participation or asset purchase.",
+      "followupSources": [
+        "https://x.com/thegardendao"
+      ]
+    },
+    {
+      "name": "PRISM Protocol",
+      "address": "AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+      "url": "https://www.backable.biz/raises/AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "prism-protocol-failed-raise-aja28kvl"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Proposes tradable credit-risk tranches with loss and repayment waterfalls. AMM exit liquidity and risk protection are design claims, not guaranteed liquidity or established live lending outcomes.",
+      "followupSources": [
+        "https://docs.prismprotocol.dev/",
+        "https://www.prismprotocol.dev/blog",
+        "https://x.com/prismsolana"
+      ]
+    },
+    {
+      "name": "Talaria",
+      "address": "D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+      "url": "https://www.backable.biz/raises/D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "talaria-failed-raise-d1zrtkz8"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Combines proposal-scoring AI with chess-based proof of humanity. Pitch distinguishes devnet badge backend from planned gateway/mainnet. Bot resistance, privacy and test-count claims are unverified; token economics remain proposed.",
+      "followupSources": [
+        "https://x.com/CynicOracle",
+        "https://github.com/zeyxx/CYNIC",
+        "https://github.com/Ragnar-no-sleep/blitz-and-chill"
+      ]
+    },
+    {
+      "name": "Arcade Cafe",
+      "address": "1AEZZsShFCnC8UUetqk9hGby66Q5mgyszDHdXjAmdYe",
+      "url": "https://www.backable.biz/raises/1AEZZsShFCnC8UUetqk9hGby66Q5mgyszDHdXjAmdYe",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "arcade-cafe-failed-raise-1aezzssh"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Game bankroll vault pitch. Explicitly separates DAO treasury and ACAFE governance token from bankroll LP shares; positive house expectation does not prevent losses. External review, LP testing and product rollout remain planned.",
+      "followupSources": [
+        "https://x.com/arcadecafeok"
+      ]
+    },
+    {
+      "name": "PrivateDAO",
+      "address": "9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+      "url": "https://www.backable.biz/raises/9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "privatedao-failed-raise-9zmefebt"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Private governance, treasury and payroll product described as Solana Testnet. Mainnet remains gated on external security and operational reviews. Awards, privacy and live-feature assertions remain attributed.",
+      "followupSources": [
+        "https://github.com/X-PACT/PrivateDAO",
+        "https://x.com/privateDAOOS",
+        "https://privatedao.org/proof/"
+      ]
+    },
+    {
+      "name": "Rugpull Club",
+      "address": "5S3bKMvxMhixAowK6WkdH5iRapmhd2PiKHt2bBSNxDha",
+      "url": "https://www.backable.biz/raises/5S3bKMvxMhixAowK6WkdH5iRapmhd2PiKHt2bBSNxDha",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "rugpull-club-failed-raise-5s3bkmvx"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Separate wallet-forensics raise from the May 25 attempt. Pitch describes a live analyzer and planned paid scans, multichain support and extension. Heuristic labels and alleged loss detection are not validated security findings.",
+      "followupSources": [
+        "https://x.com/rugpull_club"
+      ]
+    },
+    {
+      "name": "Rugpull Club",
+      "address": "yyBEsbz9q3L1i5423kxUVTfGBK42KptRt6Jq6FngDix",
+      "url": "https://www.backable.biz/raises/yyBEsbz9q3L1i5423kxUVTfGBK42KptRt6Jq6FngDix",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "rugpull-club-failed-raise-yybesbz9"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Earlier distinct unsuccessful wallet-analyzer attempt, retained alongside the June 2 attempt rather than hidden as duplicate. Product and roadmap claims remain attributed.",
+      "followupSources": [
+        "https://x.com/rugpull_club"
+      ]
+    },
+    {
+      "name": "Kavex",
+      "address": "GkhJz5pRUd3vYc6K3MFYGaoomCVzLdrcGgwuLpnHMKcy",
+      "url": "https://www.backable.biz/raises/GkhJz5pRUd3vYc6K3MFYGaoomCVzLdrcGgwuLpnHMKcy",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "kavex-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Areal Finance",
+      "address": "BBHFc6prZ55DuvXcWSPG2uu816cjHCCzKZDcNMvt5oCP",
+      "url": "https://www.backable.biz/raises/BBHFc6prZ55DuvXcWSPG2uu816cjHCCzKZDcNMvt5oCP",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "areal-failed-20k-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Tributary",
+      "address": "99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "url": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "tributary-failed-raise-99vd3p7e"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Recurring-payment stack described as mainnet and open source; full contract audit remains planned. Reported $10K payment volume is not revenue. Active integrations, integrations in progress and possible privacy partners are separate claims.",
+      "followupSources": [
+        "https://medium.com/@xeroc",
+        "https://x.com/xer0c",
+        "https://docs.tributary.so/",
+        "https://github.com/tributary-so",
+        "https://youtu.be/KwRowt-9448",
+        "https://youtu.be/GHR2WmTtRAQ",
+        "https://youtu.be/HwulPezwCSQ",
+        "https://youtu.be/0irXnJaL_Rs",
+        "https://youtu.be/94tAF2PvMpw"
+      ]
+    },
+    {
+      "name": "sanctum done right fork",
+      "address": "3SWD1jNDe6C1qbuDefXng6DQA2DnM8WKPpgH6nL7cuDg",
+      "url": "https://www.backable.biz/raises/3SWD1jNDe6C1qbuDefXng6DQA2DnM8WKPpgH6nL7cuDg",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "sanctum-permissionless-fork-failed-raise-3swd1jnd"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Independent fork proposal criticizing Sanctum proposal access and LST routing. Not an official Sanctum raise or approved governance action. Accusations and Jupiter integration expectations are attributed to the pitch, not adopted as facts.",
+      "followupSources": [
+        "https://x.com/STACCoverflow/status/1897696471216005149"
+      ]
+    },
+    {
+      "name": "Boltick",
+      "address": "p3f1RW1uWTjraL99dCmqQ3uCtSTfKhSWdRxxKoAoaWx",
+      "url": "https://www.backable.biz/raises/p3f1RW1uWTjraL99dCmqQ3uCtSTfKhSWdRxxKoAoaWx",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "boltick-failed-raise-p3f1rw1u"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "LATAM event-payment and ticketing platform. Pitch separates BOLT payment instrument from BOLTICK governance token. Ticket sales, producer counts, corporate registration and fee routing are issuer claims; future expansion is not delivery.",
+      "followupSources": [
+        "https://x.com/BoltickWeb3"
+      ]
+    },
+    {
+      "name": "Areal Finance",
+      "address": "8tT1npieq27dySTKFWJiMBRg5FbZRTuscYRq4wR4oLZo",
+      "url": "https://www.backable.biz/raises/8tT1npieq27dySTKFWJiMBRg5FbZRTuscYRq4wR4oLZo",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "areal-failed-10k-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Diverg",
+      "address": "5mbLJavVEu9hRgEd9Sg2GCQSNMjRWc9t6ZzjamndU64q",
+      "url": "https://www.backable.biz/raises/5mbLJavVEu9hRgEd9Sg2GCQSNMjRWc9t6ZzjamndU64q",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "diverg-failed-raise-5mbljavv"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Security-scanning and on-chain investigation product seeking hiring and distribution funds. Pitch acknowledges heuristic blind spots and plans reliability work; source check is not validation of security efficacy.",
+      "followupSources": [
+        "https://x.com/divergsec"
+      ]
+    },
+    {
+      "name": "Bynomo",
+      "address": "2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "url": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "bynomo-failed-raise-2aj7mzsa"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Short-duration oracle-resolved binary trading using off-chain state and on-chain settlement. Pitch distinguishes current treasury/custody paths from future P2P matching. Volume, wallets and community figures vary within the pitch and are unaudited; projected revenue is not realized revenue.",
+      "followupSources": [
+        "https://x.com/amaanbiz",
+        "https://github.com/AmaanSayyad",
+        "https://www.linkedin.com/in/amaan-sayyad-/",
+        "https://bynomo.fun/litepaper",
+        "https://youtu.be/t76ltZH9XSU"
+      ]
+    },
+    {
+      "name": "Solar",
+      "address": "5oyuNXQ8CpRn5oFGNszYGjrPknU1AMeQhuxwUdJpaMDT",
+      "url": "https://www.backable.biz/raises/5oyuNXQ8CpRn5oFGNszYGjrPknU1AMeQhuxwUdJpaMDT",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "solar-wallet-failed-raise-5oyunxq8"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "AI-command wallet extension with planned public mainnet launch, automated workflows and private transfers. Local-key and transaction-signing claims are not independently verified; roadmap dates do not establish shipment.",
+      "followupSources": [
+        "https://x.com/getsolarwallet"
+      ]
+    },
+    {
+      "name": "Nvision",
+      "address": "6e3Xz2CUmXabyhMEQ3QpJUgPKP65HVzXP8X5qtb5a2YZ",
+      "url": "https://www.backable.biz/raises/6e3Xz2CUmXabyhMEQ3QpJUgPKP65HVzXP8X5qtb5a2YZ",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "nvision-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Universal Revenue Service",
+      "address": "6LRN6j1EdbkXkjQybpKbpb4xWc84Ps7LPNHwtQqA7cGC",
+      "url": "https://www.backable.biz/raises/6LRN6j1EdbkXkjQybpKbpb4xWc84Ps7LPNHwtQqA7cGC",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "universal-revenue-service-failed-raise-6lrn6j1e"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "experimental proposal",
+      "reviewNote": "Experimental public-goods proposal claims awareness binds readers to a token-holding tax standard. This is issuer rhetoric, not established legal authority or an obligation on readers. No delivery or founder identity established.",
+      "followupSources": [
+        "https://x.com/URS_main"
+      ]
+    },
+    {
+      "name": "Quantum Waffle",
+      "address": "4Wm4NFVy9MKgSJe3ZT8aKwbL3dc5XxvnWdPhvC4Sinow",
+      "url": "https://www.backable.biz/raises/4Wm4NFVy9MKgSJe3ZT8aKwbL3dc5XxvnWdPhvC4Sinow",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "quantum-waffle-failed-raise-4wm4nfvy"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "satirical game proposal",
+      "reviewNote": "Explicitly humorous Flappy Bird-style game pitch satirizing quantum branding. Joke partnership and listing claims are not actual partnerships or completed milestones.",
+      "followupSources": [
+        "https://x.com/QuantumWaffleQW"
+      ]
+    },
+    {
+      "name": "Valgrid",
+      "address": "BY1uzGNg8Yb5kPEhXrXA9VA4geHSpEdzBcTvPt7qWnpY",
+      "url": "https://www.backable.biz/raises/BY1uzGNg8Yb5kPEhXrXA9VA4geHSpEdzBcTvPt7qWnpY",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "valgrid-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "NFA.space",
+      "address": "FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "url": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "nfa-space-failed-raise-ffpgtna1"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Physical-art marketplace and proposed art governance. Sales, revenue and artist counts are self-reported; token rights, authenticity, shipping and future vaults are not independently verified. Roadmap and historical metrics remain separate.",
+      "followupSources": [
+        "https://x.com/Bogdex",
+        "https://x.com/WictorijaNFA",
+        "https://www.nfa.space/blog",
+        "https://www.nfa.space/post/the-new-future-for-the-fine-arts-industry-at-nft-space-concerning-collectors",
+        "https://www.nfa.space/post/art-3-0-second-year-so-far-so-good",
+        "https://www.nfa.space/post/empowering-our-holders-introducing-revenue-sharing-at-nfa-space",
+        "https://www.youtube.com/@nfaspace"
+      ]
+    },
+    {
+      "name": "ShopsBuilder AI",
+      "address": "6qtygHxrFzF3tucXcy6EzbwZJBRbiuZAZrsXapXZLxE3",
+      "url": "https://www.backable.biz/raises/6qtygHxrFzF3tucXcy6EzbwZJBRbiuZAZrsXapXZLxE3",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "shopsbuilder-ai-failed-raise-6qtyghxr"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Chat-commerce and agent payment infrastructure. Reported 100,000 customers are not 100,000 active merchants; the $25M revenue scenario is a projection. Shopify and other integrations are roadmap, not verified partnerships.",
+      "followupSources": [
+        "https://x.com/shopsbuilder"
+      ]
+    },
+    {
+      "name": "Git3",
+      "address": "6JSEvdUfQuo8rh3M18Wex5xmSacUuBozz9uQEgFC81pX",
+      "url": "https://www.backable.biz/raises/6JSEvdUfQuo8rh3M18Wex5xmSacUuBozz9uQEgFC81pX",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "git3-failed-raise-6jsevduf"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Later lower-target Git repository storage and monetization attempt. Pitch retains 2025 roadmap labels; these do not establish 2026 delivery. On-chain repository NFTs do not by themselves prove legal copyright ownership.",
+      "followupSources": [
+        "https://www.git3.io/docs",
+        "https://x.com/TryGit3"
+      ]
+    },
+    {
+      "name": "Mycorealms",
+      "address": "zwVfLheTvbXN5Vn2tZxTc8KaaVnLoBFgbZzskdFnPUb",
+      "url": "https://www.backable.biz/raises/zwVfLheTvbXN5Vn2tZxTc8KaaVnLoBFgbZzskdFnPUb",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "mycorealms-second-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Etnl.io",
+      "address": "4oiZeLhoDB9jGTFd28kJDKBYheL1Yg1XwR3qPTa69Rx9",
+      "url": "https://www.backable.biz/raises/4oiZeLhoDB9jGTFd28kJDKBYheL1Yg1XwR3qPTa69Rx9",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "etnl-failed-raise-4oizelho"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Secure-Enclave mobile-wallet pitch. Core integration, closed beta and independent audits are still planned. Assertions that attack vectors are eliminated are not adopted as verified security guarantees.",
+      "followupSources": [
+        "https://docs.etnl.io/",
+        "https://x.com/etnl_io"
+      ]
+    },
+    {
+      "name": "Seeker Vault",
+      "address": "7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "url": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "seeker-vault-failed-raise-7amzzd3j"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Encrypted storage using Walrus and Seal with future creator vaults and marketplace. Pitch repeatedly says dApp Store listing is under review despite a checked milestone icon. Device shipment estimates are not users; revenue and privacy claims remain unverified.",
+      "followupSources": [
+        "https://x.com/gbflarcos",
+        "https://x.com/Beardkoda",
+        "https://x.com/seekervaultxyz",
+        "https://seekervault.xyz/assets/pdf%20preview%20seekervault.mp4",
+        "https://seekervault.xyz/assets/video%20demo%20seekervault.mp4",
+        "https://seekervault.xyz/assets/Picture%20upload%20seekervault.mp4"
+      ]
+    },
+    {
+      "name": "NexID",
+      "address": "9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+      "url": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "nexid-failed-raise-9dik9jwj"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Interactive education, credentials and identity-domain platform. Pitch claims a live MVP but first protocol campaigns remain next milestone. Synthesia use is not investment or endorsement; campaign pricing and future revenue are not realized sales.",
+      "followupSources": [
+        "https://docs.nexid.fun/",
+        "https://x.com/UseNexID",
+        "https://academy.nexid.fun/academy/campaign/4",
+        "https://academy.nexid.fun/academy/campaign/3"
+      ]
+    },
+    {
+      "name": "Areal",
+      "address": "4mgSftMwb86RKe4P73b7iY1YzyNwGPtW8EmyGJyACykG",
+      "url": "https://www.backable.biz/raises/4mgSftMwb86RKe4P73b7iY1YzyNwGPtW8EmyGJyACykG",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "areal-finance-failed-raise-4mgsftmw"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Additional distinct Areal attempt at address 4mgS..., not the already cataloged H6x... attempt. Pitch reports a Dubai car pilot; yield and contracts remain issuer claims. Proposed Thai retreat is explicitly unlaunched. Failed raise is separate from later funded launch.",
+      "followupSources": [
+        "https://docs.areal.finance/",
+        "https://github.com/arealfinance"
+      ]
+    },
+    {
+      "name": "LobsterFutarchy",
+      "address": "2d9RAui8BGYh8Jt7dc49WSFTuXVRT4nNE4Sy2mUtALNZ",
+      "url": "https://www.backable.biz/raises/2d9RAui8BGYh8Jt7dc49WSFTuXVRT4nNE4Sy2mUtALNZ",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "lobsterfutarchy-failed-raise-2d9raui8"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Proposed policy-controlled financial-agent infrastructure. Displayed $500K goal differs from $480K pitch; $45K monthly burn also does not support a full 12-month runway from that amount. Safety and autonomous execution are roadmap claims, not verified deployed safeguards.",
+      "followupSources": [
+        "https://x.com/lobster"
+      ]
+    },
+    {
+      "name": "Ludex AI",
+      "address": "95HNkVuqzStFe7B6Aw32sgkbwkHEyEsA818izKKTz776",
+      "url": "https://www.backable.biz/raises/95HNkVuqzStFe7B6Aw32sgkbwkHEyEsA818izKKTz776",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "ludex-ai-failed-raise-95hnkvuq"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Prompt-to-game creator platform. Pitch claims playable prototypes and community integrations; public livestreams, partner statements and monetization delivery remain separate sources to verify.",
+      "followupSources": [
+        "https://ludexai.gitbook.io/ludexai/",
+        "https://x.com/LudexAI_io"
+      ]
+    },
+    {
+      "name": "You Get Nothing",
+      "address": "4xAEV1JHuNSLLdMCa8tiC6CdVYpEXttuZ8U9izv9ALjp",
+      "url": "https://www.backable.biz/raises/4xAEV1JHuNSLLdMCa8tiC6CdVYpEXttuZ8U9izv9ALjp",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [],
+      "reviewStatus": "reviewed-not-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "non-substantive joke listing",
+      "reviewNote": "Explicit no-product joke text with placeholder 404 links. Preserve attempt in review inventory; do not promote as operating company or infer a founder.",
+      "followupSources": []
+    },
+    {
+      "name": "FUTARDIO Boat",
+      "address": "rFdgjcZYHgcsGy44iyvN95JRjB3Yr8APps437cd2HEL",
+      "url": "https://www.backable.biz/raises/rFdgjcZYHgcsGy44iyvN95JRjB3Yr8APps437cd2HEL",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "futardio-boat-failed-raise-rfdgjczy"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Community marketing proposal for a leased Amsterdam canal boat. Pitch uses EUR while platform goal is dollar-denominated; lease differs from boat ownership. Official-channel claims, permits, lease execution and branded affiliation remain unverified.",
+      "followupSources": [
+        "https://x.com/futardioboat"
+      ]
+    },
+    {
+      "name": "Launchpet",
+      "address": "BWeT96hGV245sm6Ua4EhLPL8GngcBV2aKS2uvkaEkjBi",
+      "url": "https://www.backable.biz/raises/BWeT96hGV245sm6Ua4EhLPL8GngcBV2aKS2uvkaEkjBi",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "launchpet-failed-raise-bwet96hg"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Pet-token mobile launchpad. Pitch marks frontend complete but backend, contracts, beta and public launch as future phases. Proposed animal-welfare fee split is not evidence of donations or charity agreements.",
+      "followupSources": [
+        "https://x.com/launchpet"
+      ]
+    },
+    {
+      "name": "BlockRock",
+      "address": "J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+      "url": "https://www.backable.biz/raises/J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "blockrock-failed-raise-j7cmlqfm"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Proposed market-governed liquid-asset fund; AI agents propose rather than execute. Not affiliated with BlackRock by name similarity. Its mtnCapital wind-down narrative is third-party commentary and does not close the missing primary-source gap or prove refunds.",
+      "followupSources": [
+        "https://blockrock.fund/charter",
+        "https://x.com/blockrockfund"
+      ]
+    },
+    {
+      "name": "Phonon Studio AI",
+      "address": "x1yqPH8mutuiqkrz66DPwFw1ykQqT4v5KyUUtUzBgPA",
+      "url": "https://www.backable.biz/raises/x1yqPH8mutuiqkrz66DPwFw1ykQqT4v5KyUUtUzBgPA",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "phonon-studio-failed-raise-x1yqph8m"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "AI-music and artist-token launchpad. Song-generation count is self-reported, not revenue. Creator trading royalties are separate from pitch disclaimer against guaranteed DAO-token yield or revenue sharing; post-raise authority transfers remain prospective.",
+      "followupSources": [
+        "https://x.com/Phonon_Studio"
+      ]
+    },
+    {
+      "name": "Areal Finance",
+      "address": "H6xSaDsnq9yUKpoLi3svozYGkRKbfKm4peX98CzDtmqp",
+      "url": "https://www.backable.biz/raises/H6xSaDsnq9yUKpoLi3svozYGkRKbfKm4peX98CzDtmqp",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "areal-failed-50k-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "RunBookAI",
+      "address": "9DfNVpcDm6x1GXUa8wik8YVZhiw7dTmmhefVBWVZuAg8",
+      "url": "https://www.backable.biz/raises/9DfNVpcDm6x1GXUa8wik8YVZhiw7dTmmhefVBWVZuAg8",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "runbookai-failed-raise-9dfnvpcd"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Proposed rentable DeFi-agent strategies with immutable logic and TEE execution. Creator backoffice, verification and marketplace are roadmap stages; no profitable live strategy or security guarantee established.",
+      "followupSources": [
+        "https://docs.runbookai.xyz/"
+      ]
+    },
+    {
+      "name": "Insert Coin labs",
+      "address": "62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "url": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "insert-coin-labs-failed-raise-62yxd8gl"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Gaming studio pitch distinguishes claimed Domin8 mainnet from Rabbit Royal devnet. Reported games, volume, house result and audit require separate corroboration. Studio ownership/revenue wording is not proof of legal equity or distributions.",
+      "followupSources": [
+        "https://twitter.com/x0lpeko",
+        "https://twitter.com/Excalead",
+        "https://domin8.fun/",
+        "https://www.rabbit-royale.com/",
+        "https://x.com/iclabsdotfun"
+      ]
+    },
+    {
+      "name": "Seyf",
+      "address": "2TK2hDtyNAY2hbV3yHDoVaAPSfaod2sHX7PtWPz8QfmQ",
+      "url": "https://www.backable.biz/raises/2TK2hDtyNAY2hbV3yHDoVaAPSfaod2sHX7PtWPz8QfmQ",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "seyf-failed-raise-2tk2hdty"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "AI-wallet roadmap with explicit transaction confirmation and future automation. Pitch budget assumes a $500K raise while displayed goal is $300K. User and volume figures are targets, not traction; security assertions are unverified.",
+      "followupSources": [
+        "https://x.com/SeyfWallet"
+      ]
+    },
+    {
+      "name": "Torch Market",
+      "address": "5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "url": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "torch-market-failed-raise-5ocdhgwh"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Token-2022 launchpad and DeFi pitch claims devnet/mainnet operation and Kani mathematical verification. Local-validator tests, proof harnesses and linked audit are different evidence types; none was independently assessed here.",
+      "followupSources": [
+        "https://torch.market/whitepaper",
+        "https://torch.market/verification.md",
+        "https://torch.market/audit.md",
+        "https://github.com/mrsirg97-rgb",
+        "https://x.com/torch_market"
+      ]
+    },
+    {
+      "name": "TriDash",
+      "address": "5jK8akFVVkM9JAJKps6M9eECCBoSLM7meR2Kf5Kc47f7",
+      "url": "https://www.backable.biz/raises/5jK8akFVVkM9JAJKps6M9eECCBoSLM7meR2Kf5Kc47f7",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "tridash-failed-raise-5jk8akfv"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Short-round asset prediction game with pool and house modes. House liquidity introduces treasury exposure; audits and funding plans do not establish security or profitable operation.",
+      "followupSources": [
+        "https://x.com/tridashgame"
+      ]
+    },
+    {
+      "name": "Git3",
+      "address": "HKRDmghovXSCMobiRCZ7BBdHopEizyKmnhJKywjk3vUa",
+      "url": "https://www.backable.biz/raises/HKRDmghovXSCMobiRCZ7BBdHopEizyKmnhJKywjk3vUa",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "git3-failed-raise-hkrdmgho"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Earlier distinct Git3 attempt, retained separately from $50K March 14 attempt. Pitch includes 2025 roadmap labels; feature completion, Irys backing and repository ownership claims remain attributed.",
+      "followupSources": [
+        "https://www.git3.io/manifesto.pdf",
+        "https://x.com/TryGit3"
+      ]
+    },
+    {
+      "name": "BitFuTard",
+      "address": "3jDrz2B6aDgjKSArkJPkqQPnYXqtihjAtGHf7tRohjj2",
+      "url": "https://www.backable.biz/raises/3jDrz2B6aDgjKSArkJPkqQPnYXqtihjAtGHf7tRohjj2",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "bitfutard-failed-raise-3jdrz2b6"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "experimental proposal",
+      "reviewNote": "Experimental Bitcoin/futarchy proposal. Short pitch supplies no deployment, named team or implementation evidence. It is not an official Bitcoin upgrade or established automatic governance system.",
+      "followupSources": [
+        "https://x.com/BitFuTard"
+      ]
+    },
+    {
+      "name": "Send Arcade",
+      "address": "ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+      "url": "https://www.backable.biz/raises/ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "send-arcade-failed-raise-actreslu"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Gaming studio says it became independent after SEND token sunset. Play counts, ARR, deployments and audit/security implications remain self-reported. Token sunset link is a primary lead to review separately; failed ARCADE raise is not successful financing.",
+      "followupSources": [
+        "https://x.com/yashhsm/status/2009698779902169135",
+        "https://github.com/SendArcade",
+        "https://x.com/sendarcadefun"
+      ]
+    },
+    {
+      "name": "Island",
+      "address": "FpFytak8JZwVntqDh9G95zqXXVJNXMxRFUYY959AXeZj",
+      "url": "https://www.backable.biz/raises/FpFytak8JZwVntqDh9G95zqXXVJNXMxRFUYY959AXeZj",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "island-failed-raise-fpfytak8"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "DeFi loyalty and hotel-booking concept. Pitch lists MVP development and hotel partnerships as future phases. Rewards, discounts and participation raffle are promises, not evidence of bookings, partner contracts or delivered prizes.",
+      "followupSources": [
+        "https://x.com/xpmaxxer",
+        "https://x.com/islandYield"
+      ]
+    },
+    {
+      "name": "i.rich",
+      "address": "87ZWGbregxaa7TMD3TgYg6n2ADdTN1vqXpVCtSvKjEjw",
+      "url": "https://www.backable.biz/raises/87ZWGbregxaa7TMD3TgYg6n2ADdTN1vqXpVCtSvKjEjw",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "i-rich-failed-raise-87zwgbre"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Link-in-bio, Blinks and referral platform. Richnames is described as devnet beta; mainnet, analytics and fee rollout remain roadmap. NFT sales scenarios are projections, not actual revenue.",
+      "followupSources": [
+        "https://docs.i.rich/",
+        "https://x.com/idotrich"
+      ]
+    },
+    {
+      "name": "Pli — Crêperie Ambulante",
+      "address": "GmNzSXzQ3q6UCVRpBf8PkvEqoo454Qr6twWc9zuzJzBa",
+      "url": "https://www.backable.biz/raises/GmNzSXzQ3q6UCVRpBf8PkvEqoo454Qr6twWc9zuzJzBa",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "pli-creperie-failed-raise-gmnzsxzq"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "business proposal; identity unresolved",
+      "reviewNote": "Proposed Zurich creperie food truck, later restaurant and franchise. Site/social fields point to test.com; no operating business, permits or founder identity verified. Retained as a substantive business proposal with unresolved identity, not an operating company.",
+      "followupSources": []
+    },
+    {
+      "name": "Proph3T",
+      "address": "316rXWmR84ppwS4FKfZQWPmwqQCQi4NRWCbeVwYqDPna",
+      "url": "https://www.backable.biz/raises/316rXWmR84ppwS4FKfZQWPmwqQCQi4NRWCbeVwYqDPna",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [],
+      "reviewStatus": "reviewed-not-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "insufficient attribution; claimed affiliation unverified",
+      "reviewNote": "Minimal meme-token pitch invokes MetaDAO and proph3T without authenticating any affiliation. Do not attribute to MetaDAO's founder or treat the unrelated prophet.com link as identity proof.",
+      "followupSources": []
+    },
+    {
+      "name": "one of sick token",
+      "address": "Gdyb1kNw26gve1VqU3zRxwZJhwJd5nAQ4goKNvAQBv9K",
+      "url": "https://www.backable.biz/raises/Gdyb1kNw26gve1VqU3zRxwZJhwJd5nAQ4goKNvAQBv9K",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [],
+      "reviewStatus": "reviewed-not-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "non-substantive meme listing",
+      "reviewNote": "Repetitive meme phrase and X search links, with no substantive product or verifiable project identity. Preserve attempt in review inventory.",
+      "followupSources": []
+    },
+    {
+      "name": "SeekerVault",
+      "address": "7U7F3g1y81PJ97pQdA85moD732kctKGLizKgCHqnGW2d",
+      "url": "https://www.backable.biz/raises/7U7F3g1y81PJ97pQdA85moD732kctKGLizKgCHqnGW2d",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "seeker-vault-failed-raise-7u7f3g1y"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Earlier distinct SeekerVault attempt, separate from later $50K attempt. Seal/Sui permissions, device TEE privacy and subscription revenue sharing are issuer claims. dApp Store listing is explicitly under review, not approved.",
+      "followupSources": [
+        "https://x.com/seekervaultxyz"
+      ]
+    },
+    {
+      "name": "MONEY FOR STEAK",
+      "address": "ay6ZwDSGWma5AW9mnM69M8BbT9LNMimjbi7o4Uj4iVW",
+      "url": "https://www.backable.biz/raises/ay6ZwDSGWma5AW9mnM69M8BbT9LNMimjbi7o4Uj4iVW",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [],
+      "reviewStatus": "reviewed-not-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "personal-funding satire",
+      "reviewNote": "Explicit satirical personal steak-funding roadmap, including milestones labeled never. Not cataloged as an operating company; retained as historical permissionless listing.",
+      "followupSources": []
+    },
+    {
+      "name": "FUTARA",
+      "address": "Gt9eVcwmH8mNVyCWWRfL3K1CFxaVNpSJGKtUujwRjFU6",
+      "url": "https://www.backable.biz/raises/Gt9eVcwmH8mNVyCWWRfL3K1CFxaVNpSJGKtUujwRjFU6",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [],
+      "reviewStatus": "reviewed-not-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "personal support; identity unresolved",
+      "reviewNote": "Personal accommodation funding request with mascot label and no corroborating project links. No operating project or official mascot affiliation established.",
+      "followupSources": []
+    },
+    {
+      "name": "TEST",
+      "address": "9SzcHQzMbxBbCEtLyRsuUcQn8cMSzjxnDG9WuSZCMJM5",
+      "url": "https://www.backable.biz/raises/9SzcHQzMbxBbCEtLyRsuUcQn8cMSzjxnDG9WuSZCMJM5",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [],
+      "reviewStatus": "reviewed-not-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "explicit test listing",
+      "reviewNote": "Explicit TEST name, description and repeated TEST body; no substantive company disclosure.",
+      "followupSources": []
+    },
+    {
+      "name": "lososdao",
+      "address": "Aji1A3Fu6iBSh6kAysG9TR5o4cPB1RxzYwWqw8Xkbc5o",
+      "url": "https://www.backable.biz/raises/Aji1A3Fu6iBSh6kAysG9TR5o4cPB1RxzYwWqw8Xkbc5o",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [],
+      "reviewStatus": "reviewed-not-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "insufficient project disclosure",
+      "reviewNote": "Brief salary request followed by filler text, no project links or established identity. No relationship to Salmon Wallet inferred from name similarity.",
+      "followupSources": []
+    },
+    {
+      "name": "SizeMatters",
+      "address": "CtynMdGE4CwJuUSoYhRf4powwKwT8bWo5Dq2KiBVEiKm",
+      "url": "https://www.backable.biz/raises/CtynMdGE4CwJuUSoYhRf4powwKwT8bWo5Dq2KiBVEiKm",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "sizematters-failed-raise-ctynmdge"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Sexual-wellness prototype combining measurement, education and social markets. Pitch body asks $60K while displayed target is $75K. Medical effectiveness, measurement accuracy and privacy are unverified; synthetic training data and production rollout remain proposed.",
+      "followupSources": [
+        "https://x.com/sizemattersfun",
+        "https://x.com/sizemattersfun/status/2029149947405193560"
+      ]
+    },
+    {
+      "name": "XorraBet",
+      "address": "24fzAzy51sUFSnRf4qpTqSrrugiKcJ8uVh2TSnQrDdoY",
+      "url": "https://www.backable.biz/raises/24fzAzy51sUFSnRf4qpTqSrrugiKcJ8uVh2TSnQrDdoY",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "xorrabet-failed-raise-24fzazy5"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Prediction, sports-betting and xStocks platform pitch. Beta site is distinguished from planned contracts, audit and x402 integration. Token and budget descriptions remain issuer disclosures; regulatory planning is not authorization or completed compliance.",
+      "followupSources": [
+        "https://x.com/XorraBet"
+      ]
+    },
+    {
+      "name": "Futarchy Arena",
+      "address": "8UjuYsm1m8uNNVSeA1NSwvV6ch9G2QC14yKvpXjrRgw",
+      "url": "https://www.backable.biz/raises/8UjuYsm1m8uNNVSeA1NSwvV6ch9G2QC14yKvpXjrRgw",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "futarchy-arena-failed-raise-8ujuysm1"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "experimental game proposal",
+      "reviewNote": "Concept for competitive governance prediction rounds and leaderboards. No linked product, named founder, deployed market or executed rewards established by reviewed pitch.",
+      "followupSources": []
+    },
+    {
+      "name": "Vervepay",
+      "address": "CrRTdZWr8iectFdEXi2FdDGNFSLT3LEX3i1xVNiJqEpc",
+      "url": "https://www.backable.biz/raises/CrRTdZWr8iectFdEXi2FdDGNFSLT3LEX3i1xVNiJqEpc",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "vervepay-failed-raise-crrtdzwr"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Card and AI-broker prototype pitch. Audit, KYB and issuance are post-funding plans. Absolute privacy, automatic debt repayment and advertised yield are unverified; cited providers are not confirmed contracted partners.",
+      "followupSources": [
+        "https://x.com/vervepay"
+      ]
+    },
+    {
+      "name": "DigiFrens",
+      "address": "HTyjkYarxpf115vPqGXYpPpS9jFMXzLLjGNnVjEGWuBg",
+      "url": "https://www.backable.biz/raises/HTyjkYarxpf115vPqGXYpPpS9jFMXzLLjGNnVjEGWuBg",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "digifrens-failed-raise-htyjkyar"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "AI-companion app described as TestFlight beta. Public App Store release and photo-avatar pipeline remain roadmap. Privacy, memory and competitor comparison claims are not independently tested; beta is not public availability.",
+      "followupSources": [
+        "https://x.com/DigiFrens"
+      ]
+    },
+    {
+      "name": "Cloak",
+      "address": "9MqyiXXJUAXQ1Uy5j2EV8hq21UeR3ruukWkZ1XGNhg3R",
+      "url": "https://www.backable.biz/raises/9MqyiXXJUAXQ1Uy5j2EV8hq21UeR3ruukWkZ1XGNhg3R",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "cloak-failed-raise-9mqyixxj"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Private-DCA product claims mainnet private beta through Privacy.cash and Jupiter. Audit and public launch remain future. Unlinkability, MEV savings and integration claims are not verified; DAO authority and IP management are post-raise plans.",
+      "followupSources": [
+        "https://github.com/vaibhav0806/cloak-dca",
+        "https://x.com/cloakdefi"
+      ]
+    },
+    {
+      "name": "VERSUS",
+      "address": "97zmRbfpCR88KkFucJnUvMKEaFg5ay6GxQSWmyEsdi67",
+      "url": "https://www.backable.biz/raises/97zmRbfpCR88KkFucJnUvMKEaFg5ay6GxQSWmyEsdi67",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "versus-failed-raise-97zmrbfp"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "game proposal; identity unresolved",
+      "reviewNote": "AI-animated coinflip proposal with buy-and-burn mechanics and marketing-heavy budget. No website or founder identity established. Similarity to Coinflip's product is not sufficient to merge the projects or infer a rebrand.",
+      "followupSources": []
+    },
+    {
+      "name": "Manna Finance",
+      "address": "5whxoTjxW4oKeSN4C8yf5JUur7pcSChkPWgmhSZQ8oD5",
+      "url": "https://www.backable.biz/raises/5whxoTjxW4oKeSN4C8yf5JUur7pcSChkPWgmhSZQ8oD5",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "manna-finance-failed-raise-5whxotjx"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "SOL-collateralized stablecoin proposal. Pitch acknowledges unresolved oracle/redistribution issues and future devnet, audit and mainnet stages. Peg guarantees and competitor comparisons are not verified. Day-one futarchy wording differs from later DAO-transition roadmap.",
+      "followupSources": [
+        "https://x.com/MannaFinance"
+      ]
+    },
+    {
+      "name": "Open Music",
+      "address": "4R1peXdUehAS1aWCdnrBfLRevGktsKH2euvBLdsYXbWu",
+      "url": "https://www.backable.biz/raises/4R1peXdUehAS1aWCdnrBfLRevGktsKH2euvBLdsYXbWu",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "open-music-failed-raise-4r1pexdu"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Direct-listener subscription music platform claims live MVP. Payout comparisons and competitors' figures are unaudited. Pitch retains 2025 roadmap labels and unnamed developers; milestones are not assumed delivered in 2026.",
+      "followupSources": [
+        "https://x.com/openmusic_art"
+      ]
+    },
+    {
+      "name": "Milo AI Agent",
+      "address": "4EhLS9CWQ2dQQe1nexxvB6D3c5jGaRCirpQ5GJFS43nR",
+      "url": "https://www.backable.biz/raises/4EhLS9CWQ2dQQe1nexxvB6D3c5jGaRCirpQ5GJFS43nR",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "milo-ai-agent-failed-raise-4ehls9cw"
+      ],
+      "reviewStatus": "reviewed-cataloged",
+      "reviewedAt": "2026-10-12",
+      "classification": "substantive project pitch; failed raise",
+      "reviewNote": "Local South Carolina real-estate AI described as alpha with a 15-person waitlist. Subscription scenarios and penetration targets are projections. Zoning, legal-document accuracy and fraud detection are not validated by source review.",
+      "followupSources": []
+    },
+    {
+      "name": "Mycorealms",
+      "address": "A88sGec3GcVfyRXNXr9DyWN6wNEwSaCqeyzrmmakKFqf",
+      "url": "https://www.backable.biz/raises/A88sGec3GcVfyRXNXr9DyWN6wNEwSaCqeyzrmmakKFqf",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "mycorealms-first-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    },
+    {
+      "name": "Salmon Wallet",
+      "address": "Aakx1gdDoNQYqiv5uoqdXx56mGr6AbZh73SWpxHrk2qF",
+      "url": "https://www.backable.biz/raises/Aakx1gdDoNQYqiv5uoqdXx56mGr6AbZh73SWpxHrk2qF",
+      "observedStatus": "Claimable",
+      "catalogResourceIds": [
+        "salmon-failed-raise"
+      ],
+      "reviewStatus": "Exact attempt has catalog source; historical evidence retained"
+    }
+  ],
+  "continuation": {
+    "checkedAt": "2026-10-12",
+    "previouslyPending": 63,
+    "detailReviewsCompleted": 63,
+    "newCatalogRecords": 56,
+    "reviewedNotCataloged": 7,
+    "remainingUnreviewedAttempts": 0,
+    "boundary": "All previously pending outcome panels and available expanded pitches read. This closes the bounded 82-attempt inventory disposition, not linked-source bodies, personal archives, all historic ecosystem launches or refund execution."
+  }
+}

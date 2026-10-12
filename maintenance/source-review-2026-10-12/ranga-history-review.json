@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Founder historical archive",
+      "title": "Introducing Solomon",
+      "url": "https://blog.solomonlabs.org/p/introducing-solomon",
+      "status": "updated",
+      "resourceIds": [
+        "res-121"
+      ],
+      "method": "Complete publisher article text and founder byline",
+      "note": "Complete public publisher article body and individual Ranga C byline reviewed. Linked reports, contracts and onchain transactions were not independently audited. Original historical design must be read alongside the later USDv wind-down announcement.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder historical archive",
+      "title": "Solomon x MetaDAO",
+      "url": "https://blog.solomonlabs.org/p/solomon-metadao",
+      "status": "updated",
+      "resourceIds": [
+        "res-122"
+      ],
+      "method": "Complete publisher article text and founder byline",
+      "note": "Complete public publisher article body and individual Ranga C byline reviewed. Linked reports, contracts and onchain transactions were not independently audited. Original historical design must be read alongside the later USDv wind-down announcement.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder historical archive",
+      "title": "What's Next For Solomon?",
+      "url": "https://blog.solomonlabs.org/p/whats-next-for-solomon",
+      "status": "updated",
+      "resourceIds": [
+        "res-123"
+      ],
+      "method": "Complete publisher article text and founder byline",
+      "note": "Complete public publisher article body and individual Ranga C byline reviewed. Linked reports, contracts and onchain transactions were not independently audited. Original historical design must be read alongside the later USDv wind-down announcement.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder historical archive",
+      "title": "Solomon Lab Notes 01",
+      "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-01",
+      "status": "updated",
+      "resourceIds": [
+        "res-124"
+      ],
+      "method": "Complete publisher article text and founder byline",
+      "note": "Complete public publisher article body and individual Ranga C byline reviewed. Linked reports, contracts and onchain transactions were not independently audited. Original historical design must be read alongside the later USDv wind-down announcement.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder historical archive",
+      "title": "Solomon Lab Notes 02",
+      "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-02",
+      "status": "updated",
+      "resourceIds": [
+        "res-125"
+      ],
+      "method": "Complete publisher article text and founder byline",
+      "note": "Complete public publisher article body and individual Ranga C byline reviewed. Linked reports, contracts and onchain transactions were not independently audited. Original historical design must be read alongside the later USDv wind-down announcement.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder historical archive",
+      "title": "Solomon Lab Notes 03",
+      "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-03",
+      "status": "updated",
+      "resourceIds": [
+        "res-126"
+      ],
+      "method": "Complete publisher article text and founder byline",
+      "note": "Complete public publisher article body and individual Ranga C byline reviewed. Linked reports, contracts and onchain transactions were not independently audited. Original historical design must be read alongside the later USDv wind-down announcement.",
+      "checkedAt": "2026-10-12"
+    }
+  ]
+}

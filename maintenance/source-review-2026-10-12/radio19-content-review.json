@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1RJjppQezQQKw",
+  "resourceId": "ownership-radio-19-recording",
+  "audioSha256": "af7bd744c96e19bf09bf873acdd575fc7e496d0a00e4c4677fee187b1efebd7b",
+  "durationSeconds": 3279.7226875,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 609,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "Complete locally generated transcript read: 609 segments from 3279.72 seconds of recovered public audio. Approximate speech range 05:57–54:18. Transcript-based editorial review, not complete manual listening. Unclear amounts and names excluded; audit and launch assertions remain attributed. Date follows publisher replay post, not a guessed date from relative spoken timing. Announced guests are not presumed to have participated.",
+  "sections": [
+    {
+      "start": "05:57",
+      "topic": "Introduction"
+    },
+    {
+      "start": "10:00",
+      "topic": "Kimia introduction and connection interruption"
+    },
+    {
+      "start": "15:00",
+      "topic": "Funding-rate strategy, devnet and prospective launch"
+    },
+    {
+      "start": "24:20",
+      "topic": "Roadmap and proposed fee buybacks"
+    },
+    {
+      "start": "27:30",
+      "topic": "Host challenges buybacks versus treasury funding"
+    },
+    {
+      "start": "36:40",
+      "topic": "Planned raise and invitation to test devnet"
+    },
+    {
+      "start": "41:15",
+      "topic": "Yieldbay and Bountive unavailable; host discusses permissionless fundraising"
+    },
+    {
+      "start": "47:50",
+      "topic": "Futardio Cult marketing proposal and decision markets; execution not established"
+    },
+    {
+      "start": "52:32",
+      "topic": "Closing"
+    }
+  ]
+}

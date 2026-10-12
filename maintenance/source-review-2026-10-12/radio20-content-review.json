@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1dKrPPVbwDQJX",
+  "resourceId": "ownership-radio-20-recording",
+  "audioSha256": "f921d4cc44c1a490f7fd35782304e4db8cf4f03a9ec07362fa4179adfc861369",
+  "durationSeconds": 7150.357333,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 246,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 246 segments of the locally generated transcript read for 7150.36 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. One repetitive passage was re-transcribed in a 60-second window at 2740 seconds and read. ORDR describes a pre-audit rather than a completed full audit. RipCars corrects the host: its planned raise is permissionless. Proposed legal arrangements, shipping, revenue and fundraising are not completed outcomes.",
+  "sections": [
+    {
+      "start": "05:00",
+      "topic": "Ecosystem opening discussion"
+    },
+    {
+      "start": "15:00",
+      "topic": "ORDR engineering origins and team"
+    },
+    {
+      "start": "25:00",
+      "topic": "Maker accounts, quote updates and aggregator questions"
+    },
+    {
+      "start": "45:40",
+      "topic": "Community support; targeted ASR repair"
+    },
+    {
+      "start": "55:00",
+      "topic": "Pre-audit and prospective raise/runway"
+    },
+    {
+      "start": "65:00",
+      "topic": "RipCars origin, collectibles and inventory"
+    },
+    {
+      "start": "80:00",
+      "topic": "Gacha, buybacks and shipping plans"
+    },
+    {
+      "start": "95:00",
+      "topic": "Legal structure, allowance and permissionless launch"
+    },
+    {
+      "start": "115:00",
+      "topic": "Closing discussion"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1yKAPMjjwrgxb",
+  "resourceId": "ownership-radio-12-recording",
+  "audioSha256": "e38b869da15d4c59bf61ac1d038d513c6df4aec843b9a5d2cac63f9d27b19764",
+  "durationSeconds": 7171.84,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 1645,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 1645 segments of the locally generated transcript read for 7171.84 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Historical interviews contain unverified product, traction, yield and legal claims. Bench and the residency discussion do not establish completed ecosystem raises. Areal’s later launch terms must be distinguished from this earlier pitch. The advertised Epicentral guest was absent. Names and figures affected by ASR are excluded unless corroborated.",
+  "sections": [
+    {
+      "start": "10:00",
+      "topic": "Bench devnet alpha, private opportunity markets and advisory futarchy"
+    },
+    {
+      "start": "30:00",
+      "topic": "Bench funding considerations and product origins"
+    },
+    {
+      "start": "40:00",
+      "topic": "Kavex founder: risk detection, terminal roadmap and ongoing raise"
+    },
+    {
+      "start": "62:00",
+      "topic": "Epicentral guest absent; Bangalore founder residency proposal"
+    },
+    {
+      "start": "80:00",
+      "topic": "Areal: historical tokenization model, pilot claims and fundraising plans"
+    },
+    {
+      "start": "107:46",
+      "topic": "Vukan reports university outreach; planned video and education discussion"
+    },
+    {
+      "start": "117:00",
+      "topic": "Closing"
+    }
+  ]
+}

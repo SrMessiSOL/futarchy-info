@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-12",
+  "added": [
+    "hunter-working-hard-2024",
+    "hunter-working-hard-2023",
+    "hunter-risk-taking-2022",
+    "credible-distribution-thesis",
+    "credible-t0-settlement-loop",
+    "credible-july-capital-and-operations"
+  ],
+  "epicentral": {
+    "sourceUrl": "https://gist.github.com/TheLazySol/d4021fd467007ec365b363d83c18a914",
+    "identitySource": "https://gist.github.com/TheLazySol",
+    "method": "Complete proposal body and profile read",
+    "finding": "Founder profile identifies TheLazySol as Epicentral founder. Historical proposal seeks staking-based Realms voting; upgrade-authority transfer is conditional future work and unaudited staking/plugin risk is disclosed. Last-active date is not assumed publication or execution date.",
+    "catalogDecision": "Retained as background evidence; MetaDAO raise completion and later governance migration not established.",
+    "archiveLead": "https://gist.github.com/TheLazySol",
+    "podcastLead": "ownership-backfill-1",
+    "podcastBoundary": "Publisher notes only; dedicated Tony interview still awaits full transcript review."
+  },
+  "domainMismatch": {
+    "url": "https://epicentrallabs.com/",
+    "linkedFrom": "https://linktr.ee/EpicentralLabs",
+    "observation": "Old official-domain link currently returns unrelated gambling content. Excluded as current project source; cause and ownership of domain not established."
+  },
+  "remaining": [
+    "Epicentral pinned governance essay not yet recovered.",
+    "ReFi Hub later raise outcome needs primary confirmation; Crafts is not a MetaDAO launch.",
+    "Remaining 33 Credible indexed article bodies and wider founder archives remain open."
+  ],
+  "relatedReviewFiles": [
+    "radio10-followup.json",
+    "hunter-archive-index.json",
+    "credible-archive-index.json"
+  ]
+}

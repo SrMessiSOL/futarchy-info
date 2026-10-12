@@ -1,0 +1,766 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://huntermonk.com/",
+  "boundary": "Public homepage-linked archive inventory only. Cataloged sources have individual review boundaries; remaining bodies not inferred from titles. Not every historical technical or personal entry warrants library inclusion.",
+  "entries": [
+    {
+      "url": "https://huntermonk.com/2026/06/24/why-laso.html",
+      "title": "Why I'm building Laso Finance.",
+      "resourceId": "founder-hunter-monk-why-laso",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2025/10/28/money-bags-problem.html",
+      "title": "The money bags problem. 💰",
+      "resourceId": "founder-laso-finance-money-bags-problem",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2025/03/25/power-of-no-update.html",
+      "title": "The power of 'no update'.",
+      "resourceId": "founder-laso-finance-power-of-no-update",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2024/12/31/working-hard-success-back-to-back.html",
+      "title": "Working hard, back to back.",
+      "resourceId": "hunter-working-hard-2024",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2023/12/31/working-hard-success.html",
+      "title": "Working hard, success.",
+      "resourceId": "hunter-working-hard-2023",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2023/01/05/rate-arbitrage-narrow-miss.html",
+      "title": "Arbitrage strategy: barely averted.",
+      "resourceId": "founder-laso-finance-rate-arbitrage-narrow-miss",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2022/07/21/risk-taking.html",
+      "title": "Self-reinforcing cycles of risk taking.",
+      "resourceId": "hunter-risk-taking-2022",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2022/06/11/bear-airbnb.html",
+      "title": "The bear case for AirBnB. 🐻",
+      "resourceId": "hunter-mspaces-retrospective",
+      "status": "body-reviewed-cataloged",
+      "note": "Complete publisher body read; embedded media and linked financial records not independently reviewed. Historical claims and plans attributed; no execution, audit or legal assurance inferred."
+    },
+    {
+      "url": "https://huntermonk.com/2022/01/02/working-hard-final.html",
+      "title": "Working hard, final part.",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete body read. Short work-hours update overlaps later retrospectives; not selected separately."
+    },
+    {
+      "url": "https://huntermonk.com/2021/09/24/cryptopunkpool.html",
+      "title": "CryptoPunkPool. 🏊🏻‍♂️",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete body read. Historical NFT pooling invitation; no MetaDAO connection or completed purchase verified. Not selected for this ecosystem catalog."
+    },
+    {
+      "url": "https://huntermonk.com/2021/05/16/bot.html",
+      "title": "BTC arb bot. 🤖🦾",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/03/27/sell-huracan.html",
+      "title": "SellHuracan.com. 🏎",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/03/21/44k-trade.html",
+      "title": "What % of your stimulus check are you spending on Bitcoin?",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/03/19/working-hard-pt-3.html",
+      "title": "Working hard pt. 3. 📆",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/03/13/250k-trade.html",
+      "title": "I earned 4 BTC ($250,000) this week.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/03/07/bitcoin-rise-from-stimulus.html",
+      "title": "BTC rise from stimulus.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/03/03/corporate-language-pt-2.html",
+      "title": "Corporate language pt 2. 👎🏼",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/02/11/why-so-high.html",
+      "title": "Arbitrage strategy: Why interest rates so high. 🌴💨 (3/3)",
+      "resourceId": "founder-laso-finance-why-so-high",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2021/02/06/publish-interest-rate-performance.html",
+      "title": "Live-updating strategy performance. (2/3)",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/02/02/interest-rate-arbitrage.html",
+      "title": "Interest rate arbitrage. 💹 (1/3)",
+      "resourceId": "founder-laso-finance-interest-rate-arbitrage",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://huntermonk.com/2021/02/02/corporate-language.html",
+      "title": "Corporate language. 👎🏼",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/01/31/savings-lambo.html",
+      "title": "Savings. 💰",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/01/28/gme.html",
+      "title": "$GME. 🚀",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/01/20/working-hard-pt-2.html",
+      "title": "Working hard pt. 2. 💻",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/01/13/working-hard.html",
+      "title": "Working hard. ⏱",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2021/01/03/books-2020.html",
+      "title": "Books of 2020. 📚",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/11/13/unmute-and-laugh.html",
+      "title": "Unmute and laugh. 🎙",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/07/21/cs.html",
+      "title": "Learning Computer Science. 👨🏼‍💻🧪",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/06/25/choosing-what-to-work-on.html",
+      "title": "Choosing what to work on. 👎🏼",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/05/17/outco.html",
+      "title": "Outco. 👨🏼‍🏫",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/04/21/moving-to-la.html",
+      "title": "Moving to LA. 💫😇",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/03/01/how-the-internet-works.html",
+      "title": "Schools in Menlo Park: Pt. 2 (How The Internet Works) 🎓",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/01/25/schools.html",
+      "title": "Schools in Menlo Park. 🏫",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2020/01/02/2019-books.html",
+      "title": "2019 books. 📚",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/12/01/ev.html",
+      "title": "Incorrectly expressing Expected Value (EV).",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/11/06/one-decision-92k.html",
+      "title": "One decision. $92.7k. 💰",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/10/19/valuing-pre-tax-dollars.html",
+      "title": "Valuing pre-tax dollars.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/10/02/total-recall.html",
+      "title": "Total recall.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/09/22/bounced-wire.html",
+      "title": "Deals fall through.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/08/09/past-vs-present-vs-future.html",
+      "title": "Past vs. present vs. future self. 👶🏼👱🏼‍♂️👴🏼",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/08/06/hashed-post.html",
+      "title": "Hashed post #️⃣.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/06/19/looking-backward.html",
+      "title": "I'm a guest on Looking Backward. 👀",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/06/06/ubi-is-not-needed.html",
+      "title": "Universal Basic Income isn't needed. 👩🏼‍🌾",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/05/25/accountable.html",
+      "title": "Accountable. A new app. 👨🏼‍💻",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/05/02/so-far-at-fb.html",
+      "title": "My experience at Facebook: deleting Instagram's icons. 🤪",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/04/05/interview-studying.html",
+      "title": "Flashback: studying for FB. 🤓",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/03/20/how-to-complain.html",
+      "title": "How to complain. 💗",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/03/15/income-over-years.html",
+      "title": "My income and spending over the years. 💵",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/02/13/interviewing-part-4.html",
+      "title": "Interviewing, part 4️⃣. Facebook. 🔵",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/01/31/caffeine-second-order-effects.html",
+      "title": "Second-order effects of caffeine intake reduction. ☕️",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2019/01/29/always-ask.html",
+      "title": "Ask for what you want. What's the worst that can happen? 🤮",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/12/27/tic-tac-toe.html",
+      "title": "Tic-Tac-Toe. 👟",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/12/26/quicksort.html",
+      "title": "Quicksort. 🏃🏼‍♂️ 🔄",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/12/25/interviewing-part-3.html",
+      "title": "Interviewing, part 3️⃣. Offer from Uber.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/12/12/interviewing-part-2.html",
+      "title": "Interviewing, part 2️⃣. YZ + Triplebyte.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/12/10/interviewing-part-1.html",
+      "title": "Interviewing, part 1️⃣.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/12/04/ar-plus-live-video.html",
+      "title": "Augmented reality + live video = great checkout. ☺️",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/11/22/ancient-egyptian-multiplication.html",
+      "title": "Ancient Egyptian multiplication. ✖️🇪🇬",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/11/21/binary-search-closest-values.html",
+      "title": "Binary search, but it returns the closest value.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/11/14/queue-stack.html",
+      "title": "Queue + stack + fibonacci Swift Playground. ⚽️",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/11/01/interview-prep.html",
+      "title": "Prepping for interviews.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/10/25/property-observers-in-methods.html",
+      "title": "Property observers in methods.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/10/17/production-keypath-use.html",
+      "title": "KeyPath use in production. 🎉",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/10/10/add-constraint-in-place.html",
+      "title": "Interface Builder: Add constraints keeping view in place.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/06/04/growth-is-pain.html",
+      "title": "Pain isn't growth, but growth is pain.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/05/31/30-day-challenge-complete.html",
+      "title": "30 Day Office + Gym Challenge: Complete.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/05/16/dont-share-with-friends.html",
+      "title": "Don't share your new projects with friends.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/05/13/30-day-challenge-update.html",
+      "title": "30 Day Office + Gym Challenge: Update.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/05/10/2018-problem-with-books-revisted.html",
+      "title": "The problem with books, revisited. 📚",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/04/29/30-day-challenge.html",
+      "title": "30 Day Office + Gym Challenge.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/04/24/drugs.html",
+      "title": "The effects of recreational drugs, and ranges of happiness. 💊🌴❄️",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/04/19/problem-with-books.html",
+      "title": "The problem with books. 📚",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/03/16/screenless.html",
+      "title": "Screenless Computing",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/03/08/working-hard.html",
+      "title": "Working hard. [IN PROGRESS]",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/03/07/my-hologram.html",
+      "title": "My hologram.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/03/01/advice-is-bad.html",
+      "title": "Getting advice can be bad.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/02/15/flying.html",
+      "title": "iFly AR Game.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/02/11/purple.html",
+      "title": "(40H) Purple, video effects - 19.08h. 🍇",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/02/07/time.html",
+      "title": "Trading money for time. 💰⏱",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/02/05/chat.html",
+      "title": "Added chat.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/01/22/start-ios-contracting.html",
+      "title": "How to start iOS contracting.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2018/01/05/refactored-code.html",
+      "title": "Handling interruptions while coding.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/12/16/monochromatic-bug.html",
+      "title": "Monochromatic bug. 🔲🐞",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/12/11/radical-candor.html",
+      "title": "Radical candor.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/12/07/live-hologram.html",
+      "title": "Live Hologram.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/12/04/ar-moat.html",
+      "title": "Creating an AR Moat.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/11/30/40h-hologram-live.html",
+      "title": "(40H) Hologram, live - 61.67h",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/11/25/unpaid-invoices.html",
+      "title": "Unpaid invoices. 💲",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/11/18/150k.html",
+      "title": "$150k 💵.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/11/16/40-hour-projects.html",
+      "title": "40 hour projects.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/11/15/blade-runner.html",
+      "title": "I made the girl from Blade Runner.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/11/07/type-vs-cast.html",
+      "title": "Type annotations vs. initializers & numbers.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/11/03/october.html",
+      "title": "My best month, October. 🎃",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/10/30/business-cards.html",
+      "title": "Business cards 🙅🏼.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/10/28/sticker-pack-first-run.html",
+      "title": "Crash on iOS 11 sticker pack first run.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/09/28/ironman.html",
+      "title": "Iron Man + 💦.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/08/03/ternary.html",
+      "title": "Going 😖 with ternary operator.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/08/02/xcodebuild.html",
+      "title": "xcodebuild fails.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/07/11/zuckerberg.html",
+      "title": "Mark Zuckerberg, prolific.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/07/01/snapshots.html",
+      "title": "Drawing ✏️, now with 📷.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/06/22/layout-warnings.html",
+      "title": "⚠️ Layout warnings. ⚠️",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/06/20/ridiculous-line.html",
+      "title": "The most ridiculous line of code I've seen in production.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/06/17/drawing.html",
+      "title": "Drawing ✏️.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/06/05/ARKit.html",
+      "title": "Learning ARKit.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/05/26/only-the-best.html",
+      "title": "Andy Grove on only allowing the best of anything in your life.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/05/24/bounced-check.html",
+      "title": "Deals fall through.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/05/23/words-not-SHA.html",
+      "title": "Use words, not SHA ✔️sum.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/05/10/cost-of-low-performers.html",
+      "title": "Low-performers cost 💵.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/05/09/why-do-others-like-work.html",
+      "title": "Why do others like work?",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/05/05/bottom-up.html",
+      "title": "Bottom-up versus top-down 🕶.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/04/27/secondary-display.html",
+      "title": "Change connected 🖥 brightness.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/04/26/100k.html",
+      "title": "$100k 💵.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/04/20/15-minute-increments.html",
+      "title": "Billing in 15 minute increments.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/04/14/assistant-view.html",
+      "title": "Easier Xcode assistant view.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/04/12/json-parsing.html",
+      "title": "SPM has a JSON parser.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/04/10/airbnb.html",
+      "title": "AirBnB collects taxes.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/04/03/lattice.html",
+      "title": "Lattice of novel models.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/03/25/split-screen.html",
+      "title": "Split-screen on macOS.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/03/21/turn-off-party-parrot.html",
+      "title": "Turn off party parrot.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/03/15/full-size-shortcut.html",
+      "title": "Shortcut to full size window.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/02/23/rob-napier-remote-culture.html",
+      "title": "Rob Napier on remote culture.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/02/21/push-notifications.html",
+      "title": "Push notifications.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/02/15/facebook-username.html",
+      "title": "How to get Facebook username.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2017/02/01/storyboard-commits.html",
+      "title": "Storyboard commits.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2016/10/24/equity-only.html",
+      "title": "No 💸, only equity.",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    },
+    {
+      "url": "https://huntermonk.com/2016/07/20/initial-commit.html",
+      "title": "Initial commit!",
+      "resourceId": null,
+      "status": "discovered-body-review-pending"
+    }
+  ]
+}

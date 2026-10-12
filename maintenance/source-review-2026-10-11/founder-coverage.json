@@ -1,0 +1,3435 @@
+{
+  "asOf": "2026-10-12",
+  "scope": "All 32 registered projects plus historical mtnCapital supplement. Identity evidence does not imply exhaustive personal-archive coverage.",
+  "projects": [
+    {
+      "projectId": "ripcars",
+      "name": "Rip Cars",
+      "people": "David Khosroshvili; Ioseb Khutsishvili",
+      "identityEvidence": "Named in official company team section. David interview reviewed.",
+      "identitySource": "https://metadao.fi/companies/ripcars",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal writing archives not exhaustively located.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Rip Cars: The world’s first Hot Wheels gacha platform",
+          "url": "https://www.youtube.com/watch?v=m_GmB8nRDYs",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Ownership Radio #27: HiveBits, TokenFlow, Spark, Degen Terminal and Rip Cars",
+          "url": "https://x.com/i/spaces/1DxleVLLPegKL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #20: ORDR and RipCars founder plans",
+          "url": "https://x.com/i/spaces/1dKrPPVbwDQJX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://ripcars.io/"
+    },
+    {
+      "projectId": "credible",
+      "name": "Credible",
+      "people": "Shrikant (Shri) Bhalerao; Akshay Soam",
+      "identityEvidence": "CEO and CTO in company material; Shri presentation and launch panel reviewed.",
+      "identitySource": "https://metadao.fi/companies/credible",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "All 51 entries of the indexed company blog have body reviews or catalog evidence; 20 selected and 31 reviewed but not selected. Company authorship does not establish founder authorship. Wider personal/cofounder archives, independently verified licences and reconciled financial metrics remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Credible September 2026 Update ",
+          "url": "https://x.com/crediblefin/status/2108007066342449486",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Credible: The Open Payments Stack",
+          "url": "https://www.youtube.com/watch?v=tzsDNk-pz1Y",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Should We Launch This Way? — MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=00aBaKVY3uU",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Inside Credible: How We Processed $400M+ Using Stablecoin Infrastructure",
+          "url": "https://credible.finance/insights/inside-credible-400m-processed",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "The Infrastructure Stack Behind Instant Cross-Border Payments",
+          "url": "https://credible.finance/insights/infrastructure-stack-cross-border",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "Why Emerging Markets Need Open Payment Networks",
+          "url": "https://credible.finance/insights/emerging-markets-open-networks",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "The Rise of Stablecoin Treasury Management for Global Businesses",
+          "url": "https://credible.finance/insights/stablecoin-treasury-management",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "How AI Will Transform Payments Infrastructure",
+          "url": "https://credible.finance/insights/ai-transforms-payments",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "Stablecoins vs SWIFT: A Technical Breakdown of Cross-Border Settlement",
+          "url": "https://credible.finance/insights/stablecoins-vs-swift",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "Why Traditional Payment Gateways Fail Modern Internet Businesses",
+          "url": "https://credible.finance/insights/why-traditional-gateways-fail",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "PayFi Explained: How Pre-Funded Stablecoin Liquidity Enables Instant Payments",
+          "url": "https://credible.finance/insights/payfi-explained",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "Countries Locked Out of Stablecoin Payments Will Struggle to Keep Up",
+          "url": "https://credible.finance/insights/countries-locked-out-stablecoin-payments",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "The Future of Global Payments Will Run on Stablecoins",
+          "url": "https://credible.finance/insights/future-global-payments-stablecoins",
+          "method": "Full company article; no individual founder attribution"
+        },
+        {
+          "title": "Ownership Podcast S1 E11: Shrii (Credible)",
+          "url": "https://solana.com/podcasts/ownership/episodes/ownership-podcast-s1-e11-shrii-credible-e3m1tcq",
+          "method": "Complete locally generated transcript"
+        },
+        {
+          "title": "Akshay Soam — self-described Credible cofounder and CTO",
+          "url": "https://colosseum.com/arena/profiles/akshaycredible",
+          "method": "Complete public Colosseum profile text"
+        },
+        {
+          "title": "Distribution is the Only Thing That Matters",
+          "url": "https://blog.credible.finance/blog/supply-is-a-lie-distribution-is-truth",
+          "method": "Complete publisher article body"
+        },
+        {
+          "title": "The T+0 Microsecond: What Actually Happens When Modern Money Moves Across Borders",
+          "url": "https://blog.credible.finance/blog/inside-the-t0-settlement-loop",
+          "method": "Complete publisher article body"
+        },
+        {
+          "title": "Inside the PayFi Juggernaut Processing $844M+ on T+0 Rails",
+          "url": "https://blog.credible.finance/blog/decentralized-stripe-payfi-844m-volume",
+          "method": "Complete publisher article body"
+        },
+        {
+          "title": "Credible’s Open Network: Payments Without Permission",
+          "url": "https://blog.credible.finance/blog/credible-opens-payments",
+          "method": "Complete publisher body read"
+        },
+        {
+          "title": "Settlement in Seconds: How Polygon is Powering $150M+ in Real-World Scale",
+          "url": "https://blog.credible.finance/blog/polygon-150m-stablecoin-settlement",
+          "method": "Complete publisher body read"
+        },
+        {
+          "title": "Credible: settlement latency and treasury-value thesis",
+          "url": "https://blog.credible.finance/blog/settlement-latency-emerging-markets-payfi",
+          "method": "Complete company-authored article body"
+        },
+        {
+          "title": "Credible: building the Open Payment Stack",
+          "url": "https://blog.credible.finance/blog/zero-to-six-hundred-million",
+          "method": "Complete company-authored article body"
+        },
+        {
+          "title": "Credible: reported $641 million payment-volume milestone",
+          "url": "https://blog.credible.finance/blog/641m-open-payment-stack",
+          "method": "Complete company-authored article body"
+        },
+        {
+          "title": "Credible: payment-flow financing and advertised yield",
+          "url": "https://blog.credible.finance/blog/open-payments-stack-16-percent-apy",
+          "method": "Complete company-authored article body"
+        },
+        {
+          "title": "Credible Manifesto",
+          "url": "https://blog.credible.finance/blog/credible-the-next-gen-gateway",
+          "method": "Complete company-authored article body"
+        },
+        {
+          "title": "Credible: liquidity abstraction and PayFi risk categories",
+          "url": "https://blog.credible.finance/blog/payments-without-waiting",
+          "method": "Complete company-authored article body"
+        },
+        {
+          "title": "Credible: stablecoin settlement and January licensing claims",
+          "url": "https://blog.credible.finance/blog/beyond-routing-the-future-of-payments-is-instant",
+          "method": "Complete company-authored article body"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://credible.finance/"
+    },
+    {
+      "projectId": "laso-finance",
+      "name": "Laso Finance",
+      "people": "Hunter Monk",
+      "identityEvidence": "Founder essays, interview and conference talk reviewed.",
+      "identitySource": "https://metadao.fi/companies/laso-finance",
+      "checkedAt": "2026-10-12",
+      "coverage": "Expanded founder background; not exhaustive",
+      "gaps": "Public homepage inventory saved: 126 posts, 10 cataloged and 2 further bodies read but not selected; 114 indexed bodies pending. All homepage-linked posts dated 2022–2026 now have body reviews or existing catalog evidence. Earlier technical/personal archive and remaining recordings still incomplete; linked media not all reviewed.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Laso Finance July 2026 Recap ",
+          "url": "https://x.com/LasoFinance/status/2085841473665204626",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance Week in Review:  24th July - 30th July ",
+          "url": "https://x.com/LasoFinance/status/2083266489340354905",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance Week in Review: July 17th - 23rd ",
+          "url": "https://x.com/LasoFinance/status/2080754399144739012",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance Week in Review: July 31st - August 6th ",
+          "url": "https://x.com/LasoFinance/status/2086551322564645343",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance: Week in Review Aug 28th - Sep 3rd",
+          "url": "https://x.com/LasoFinance/status/2096211553905246372",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance: Week in Review August 21st - 27th",
+          "url": "https://x.com/LasoFinance/status/2094543682645131424",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance: Week in Review August 7th - 13th",
+          "url": "https://x.com/LasoFinance/status/2088751651611951564",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance: Week in Review September 11th - 17th",
+          "url": "https://x.com/LasoFinance/status/2101734716093219227",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance: Week in Review September 18th - 24th",
+          "url": "https://x.com/LasoFinance/status/2104590526242550151",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Laso Finance: Week in Review September 4th - 10th",
+          "url": "https://x.com/LasoFinance/status/2099183498422857803",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Week in Review: Jul 3 - Jul 9",
+          "url": "https://x.com/LasoFinance/status/2076064539414835335",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Week in Review: July 10th - 16th",
+          "url": "https://x.com/LasoFinance/status/2079324279162728792",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Human + Agentic: How Both Verticals Grow Together",
+          "url": "https://x.com/huntermmonk/status/2087964670133232012",
+          "method": "Full mirrored article text"
+        },
+        {
+          "title": "The Agentic Commerce Landscape.",
+          "url": "https://x.com/huntermmonk/status/2100339117586551014",
+          "method": "Full mirrored article text"
+        },
+        {
+          "title": "Privacy for Humans, Frictionless for Agents — Hunter | MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=fBSNEYKksxc",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Laso Finance: private crypto spending today, agentic payments tomorrow",
+          "url": "https://www.youtube.com/watch?v=7f-Z2zcXyII",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Ownership Panel — MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=3jjiamzCqpI",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "The money bags problem",
+          "url": "https://huntermonk.com/2025/10/28/money-bags-problem.html",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "The power of ‘no update’",
+          "url": "https://huntermonk.com/2025/03/25/power-of-no-update.html",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "Arbitrage strategy barely averted",
+          "url": "https://huntermonk.com/2023/01/05/rate-arbitrage-narrow-miss.html",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "Interest rate arbitrage",
+          "url": "https://huntermonk.com/2021/02/02/interest-rate-arbitrage.html",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "Why so high?",
+          "url": "https://huntermonk.com/2021/02/11/why-so-high.html",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "Working hard, back to back.",
+          "url": "https://huntermonk.com/2024/12/31/working-hard-success-back-to-back.html",
+          "method": "Complete publisher article body"
+        },
+        {
+          "title": "Working hard, success.",
+          "url": "https://huntermonk.com/2023/12/31/working-hard-success.html",
+          "method": "Complete publisher article body"
+        },
+        {
+          "title": "Self-reinforcing cycles of risk taking.",
+          "url": "https://huntermonk.com/2022/07/21/risk-taking.html",
+          "method": "Complete publisher article body"
+        },
+        {
+          "title": "The bear case for AirBnB.",
+          "url": "https://huntermonk.com/2022/06/11/bear-airbnb.html",
+          "method": "Complete publisher body read"
+        },
+        {
+          "title": "Ownership Radio #17: Ryvo, Cesto, Backyard and Potbot",
+          "url": "https://x.com/i/spaces/1qKDzzQNPaoJV",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://laso.finance/"
+    },
+    {
+      "projectId": "avici",
+      "name": "Avici",
+      "people": "Ram; Abhishek Tiwari (@0xatiwari)",
+      "identityEvidence": "MetaDAO homepage names Ram as cofounder. Ram’s October 22, 2025 origin post explicitly calls @0xatiwari his cofounder. No full-name inference. The personal X profile displays Abhishek Tiwari at the same handle explicitly named by Ram as his cofounder.",
+      "identitySource": "https://metadao.fi/",
+      "checkedAt": "2026-10-12",
+      "coverage": "12 visible X Articles reviewed; broader personal archive partial",
+      "gaps": "Ram’s visible article archive is reviewed. The cofounder profile /articles route exposed Posts and no Articles tab on inspection; that is not evidence that no long-form writing exists. Broader historical posts remain incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Avici: Future of Internet Banking on Solana ",
+          "url": "https://x.com/avici/status/1977834732160418013",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "The illusion of ownership. Real freedom needs no gatekeeper.",
+          "url": "https://x.com/avici/status/1943706943681400840",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Why self-custody with crypto card matters: lessons from BlockFi’s collapse",
+          "url": "https://x.com/avici/status/1888992057777348741",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Aligning Avici Core Builders",
+          "url": "https://x.com/RamXBT/status/2008237203688964231",
+          "method": "Full mirrored article text"
+        },
+        {
+          "title": "Avici manifesto",
+          "url": "https://aviciii.notion.site/Avici-manifesto-9d9ac6de848a4e318249bec238d14b8e",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "rebuilding",
+          "url": "https://x.com/RamXBT/status/2099938444621570516",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "chewing glass",
+          "url": "https://x.com/RamXBT/status/2089411116858544210",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "back to masterplan",
+          "url": "https://x.com/RamXBT/status/2077095166318682517",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "founding mode on",
+          "url": "https://x.com/RamXBT/status/2065512372953919790",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "almost back on track",
+          "url": "https://x.com/RamXBT/status/2054272019638657219",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "not good enough",
+          "url": "https://x.com/RamXBT/status/2043762348973011190",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Begning the Private Era",
+          "url": "https://x.com/RamXBT/status/2032175196220899538",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Building through the noise",
+          "url": "https://x.com/RamXBT/status/2021289253884526845",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Need gas to cook",
+          "url": "https://x.com/RamXBT/status/2010772443670192310",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "its all about the long term",
+          "url": "https://x.com/RamXBT/status/1998075111803617295",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Marching towards giga scale",
+          "url": "https://x.com/RamXBT/status/1986118163109675353",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Ownership Radio #2: Valgrid, Lotus, Inkwell and Conviction Labs",
+          "url": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #6: Jurassic Finance, Seedplex, P2P and Superclaw",
+          "url": "https://x.com/i/spaces/1nxeLywQRkLJX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #8: Umbra, Seedless, HiDEX and governance tradeoffs",
+          "url": "https://x.com/i/spaces/1mxPaLbEjrnKN",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://avici.money/"
+    },
+    {
+      "projectId": "umbra",
+      "name": "Umbra",
+      "people": "Abbas Shaikh; Kru; Cal (@typi_cal_)",
+      "identityEvidence": "Reviewed panel: Abbas joined around ICO after advising Kru. CEO and original founder are distinct roles. Lightspeed’s March 24 publisher page explicitly identifies Kru and Cal as cofounders and links their handles; no full name inferred for Cal. Abbas’s current public X bio identifies him as co-founder and COO; older interview roles remain historical.",
+      "identitySource": "https://metadao.fi/companies/umbra",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Lightspeed March 24 interview complete available captions now read. Broader personal posts and other interviews remain incomplete; historical MPC/Arcium design is qualified by later V2 sources.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Umbra V2: The Sovereign Chapter Begins ",
+          "url": "https://x.com/UmbraPrivacy/status/2085468782273982946",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "The Future of Umbra — Abbas | MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=pQg4nuFKJNA",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Ownership Panel — MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=3jjiamzCqpI",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "#05 - Fifth Gear",
+          "url": "https://x.com/kru_tweets/status/2094837269035401608",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "#04 - Fourward Motion",
+          "url": "https://x.com/kru_tweets/status/2082696417865298339",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "#03 - Three's the charm",
+          "url": "https://x.com/kru_tweets/status/2037515949084233827",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Two for the Show",
+          "url": "https://x.com/kru_tweets/status/2024907193020273018",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "#01 - One for the Road",
+          "url": "https://x.com/kru_tweets/status/1987420528920174939",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Privacy Is the Future of Solana — Kru Shah of Umbra Explains Why",
+          "url": "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why",
+          "method": "Complete publisher transcript"
+        },
+        {
+          "title": "Light in the Shadow #1: ETAs and the Mixer Pool",
+          "url": "https://x.com/typi_cal_/status/2013207016127508862",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Light in the Shadow #2: The Hybrid Model and Selective Transparency",
+          "url": "https://x.com/pranay_design/status/2015085470200312069",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Light in the Shadow #3: Reclaiming the Envelope",
+          "url": "https://x.com/0xPata/status/2017260645322719732",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Light in the Shadow #4: The Four Keys",
+          "url": "https://x.com/typi_cal_/status/2020151699957076241",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Light in the Shadow #5: What Breaks, What Holds",
+          "url": "https://x.com/pranay_design/status/2023442484718674355",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Light in the Shadow #6-7: The Cryptography",
+          "url": "https://x.com/typi_cal_/status/2028905006972436712",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "On v2 Launch Date, Token, and just a rant",
+          "url": "https://x.com/Abbasshaikh/status/2096611907348447468",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Building Umbra // 01: v2 vision, payroll, metrics, revenue, & growth",
+          "url": "https://x.com/Abbasshaikh/status/2087894361799631346",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Let's talk about Umbra",
+          "url": "https://x.com/Abbasshaikh/status/2038325566303314046",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Introducing the Umbra Hub",
+          "url": "https://x.com/Abbasshaikh/status/2002791295652421947",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Ownership S1E3: Kru (Umbra)",
+          "url": "https://solana.com/podcasts/ownership/episodes/ownership-s1e3-kru-umbra-e3fuqkg",
+          "method": "Complete locally generated transcript"
+        },
+        {
+          "title": "Ownership Radio #8: Umbra, Seedless, HiDEX and governance tradeoffs",
+          "url": "https://x.com/i/spaces/1mxPaLbEjrnKN",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #10: Umbra, Realms/Ride, Futardio Cult and Pulsar Spaces",
+          "url": "https://x.com/i/spaces/1RJZzjLyRrDJB",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Umbra founders Kru and Cal: Making Privacy the Default",
+          "url": "https://www.youtube.com/watch?v=wneRrwMw61Y",
+          "method": "Complete available auto-generated captions"
+        }
+      ],
+      "episodeLeads": [
+        {
+          "title": "Making Privacy the Default | Kru & Cal",
+          "url": "https://blockworks.com/podcast/lightspeed/c86bbe00-2725-11f1-a8d8-37b9ec7200f5",
+          "status": "Publisher metadata and identity reviewed; full interview not reviewed"
+        }
+      ],
+      "projectWebsite": "https://www.umbraprivacy.com/",
+      "identitySources": [
+        "https://metadao.fi/companies/umbra",
+        "https://blockworks.com/podcast/lightspeed/c86bbe00-2725-11f1-a8d8-37b9ec7200f5",
+        "https://x.com/Abbasshaikh"
+      ]
+    },
+    {
+      "projectId": "solomon",
+      "name": "Solomon",
+      "people": "Ranga",
+      "identityEvidence": "Self-identifies as cofounder in reviewed presentation and founder panel.",
+      "identitySource": "https://metadao.fi/companies/solomon",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Complete Ownership interview generated transcript and nine bylined publisher articles reviewed. Wider personal archives and subsequent execution of interview plans remain unresolved.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Solomon Announces Backing from Colosseum, Theia, DBA and Anagram ",
+          "url": "https://x.com/solomon_labs/status/2107501773082513491",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "USDv Surpasses $7 Million Productive Supply as Solomon’s Ecosystem Expands",
+          "url": "https://x.com/solomon_labs/status/2106086237157167232",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Building the Dollar Layer for Solana — Solomon Labs — Ranga | MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=LfGws61qYpA",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Ownership Panel — MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=3jjiamzCqpI",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Introducing Solomon",
+          "url": "https://blog.solomonlabs.org/p/introducing-solomon",
+          "method": "Complete publisher article text and founder byline"
+        },
+        {
+          "title": "Solomon x MetaDAO",
+          "url": "https://blog.solomonlabs.org/p/solomon-metadao",
+          "method": "Complete publisher article text and founder byline"
+        },
+        {
+          "title": "What's Next For Solomon?",
+          "url": "https://blog.solomonlabs.org/p/whats-next-for-solomon",
+          "method": "Complete publisher article text and founder byline"
+        },
+        {
+          "title": "Solomon Lab Notes 01",
+          "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-01",
+          "method": "Complete publisher article text and founder byline"
+        },
+        {
+          "title": "Solomon Lab Notes 02",
+          "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-02",
+          "method": "Complete publisher article text and founder byline"
+        },
+        {
+          "title": "Solomon Lab Notes 03",
+          "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-03",
+          "method": "Complete publisher article text and founder byline"
+        },
+        {
+          "title": "Solomon Lab Notes 04",
+          "url": "https://blog.solomonlabs.org/p/solomon-lab-notes-04",
+          "method": "Complete publisher article reread"
+        },
+        {
+          "title": "Lab Notes 05",
+          "url": "https://blog.solomonlabs.org/p/lab-notes-05",
+          "method": "Complete publisher article reread"
+        },
+        {
+          "title": "Solomon x Avici",
+          "url": "https://blog.solomonlabs.org/p/avici-and-solomon-labs-partner-to",
+          "method": "Complete publisher article reread"
+        },
+        {
+          "title": "Solomon Lab Notes 04",
+          "url": "https://x.com/oxranga/status/2014073369235267854",
+          "method": "Full X and publisher editions compared"
+        },
+        {
+          "title": "Ownership Podcast S1 E10: Ranga (Solomon Labs)",
+          "url": "https://solana.com/podcasts/ownership/episodes/ownership-podcast-s1-e10-ranga-solomon-labs-e3m1s3b",
+          "method": "Complete locally generated transcript"
+        },
+        {
+          "title": "Ownership Radio #1: recovered segment with MycoRealms and Futardio Cult",
+          "url": "https://x.com/i/spaces/1nKOLEgNDdQGR",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #8: Umbra, Seedless, HiDEX and governance tradeoffs",
+          "url": "https://x.com/i/spaces/1mxPaLbEjrnKN",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://solomonlabs.org/"
+    },
+    {
+      "projectId": "p2p-protocol",
+      "name": "P2P Protocol",
+      "people": "Sheldon; Bytes",
+      "identityEvidence": "Official company page explicitly names Sheldon CEO/cofounder and Bytes CTO/cofounder. Other executive titles are not automatically founder roles.",
+      "identitySource": "https://metadao.fi/companies/p2p-protocol",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Full Seed Club public video caption track now read, replacing the former 8:37 preview-only gap. Personal founder writing and Bytes’s archive remain incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Ownership Podcast S1E5: Sheldon (P2P.me)",
+          "url": "https://solana.com/podcasts/ownership/episodes/ownership-podcast-s1-e5-sheldon-p2p-me-e3gs8a3",
+          "method": "Complete locally generated transcript"
+        },
+        {
+          "title": "Ownership Radio #2: Valgrid, Lotus, Inkwell and Conviction Labs",
+          "url": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #6: Jurassic Finance, Seedplex, P2P and Superclaw",
+          "url": "https://x.com/i/spaces/1nxeLywQRkLJX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio 14: P2P expansion, Jurassic plans, GeSIM and Epicentral",
+          "url": "https://x.com/i/spaces/1PKqrrlavRMGb",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #25: GameByts, Konta, Motion Markets, Veilo and Aeonian",
+          "url": "https://x.com/i/spaces/1MJgNbWqPDMGL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "P2P founder Sheldon: Seed Club pre-raise interview",
+          "url": "https://www.youtube.com/watch?v=1x-cSsjFgt0",
+          "method": "Complete available auto-generated captions"
+        }
+      ],
+      "episodeLeads": [
+        {
+          "title": "Ownership Podcast S1 E5: Sheldon (P2P.me)",
+          "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E5-Sheldon-P2P-me-e3gs8a3"
+        },
+        {
+          "title": "Ownership Podcast S1 E5: Sheldon (P2P)",
+          "url": "https://www.youtube.com/watch?v=zud5XE2LQkY"
+        }
+      ],
+      "projectWebsite": "https://t.co/zTXUOaG0vy"
+    },
+    {
+      "projectId": "omnipair",
+      "name": "Omnipair",
+      "people": "Rakka",
+      "identityEvidence": "MetaDAO homepage explicitly identifies Rakka as founder.",
+      "identitySource": "https://metadao.fi/",
+      "checkedAt": "2026-10-12",
+      "coverage": "Five surfaced X Articles reviewed; podcast gap remains",
+      "gaps": "Complete Ownership interview generated transcript reviewed, alongside five surfaced full X articles. Broader personal posts and additional interviews remain incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Capital That Never Sits Still",
+          "url": "https://x.com/omnipair/status/1994081660585795686",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Omnipair 101: Leveraged LP ",
+          "url": "https://x.com/omnipair/status/2108537527569158149",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Omnipair Dusk V2: Spot Margin and Leveraged LP ",
+          "url": "https://x.com/omnipair/status/2092690781098152185",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Permissionless leverage for every asset on Solana ",
+          "url": "https://x.com/omnipair/status/2039024760416276638",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "From Dawn to Dusk, Third update",
+          "url": "https://x.com/rakka_sol/status/2097827607119302673",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "The Einstein generation of DeFi",
+          "url": "https://x.com/rakka_sol/status/2096678690138812739",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Finding the floor of real growth, Second update",
+          "url": "https://x.com/rakka_sol/status/2064359767158747235",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "The demon block problem",
+          "url": "https://x.com/rakka_sol/status/2055925517753446675",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "We launched Omnipair, 1st monthly",
+          "url": "https://x.com/rakka_sol/status/2031649901940216254",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Ownership S1E2: rakka (Omnipair)",
+          "url": "https://solana.com/podcasts/ownership/episodes/ownership-s1e2-rakka-omnipair-e3fmoq2",
+          "method": "Complete locally generated transcript"
+        },
+        {
+          "title": "Ownership Radio #18: Omnipair, Keystone Finance, Kimia and Heirloom",
+          "url": "https://x.com/i/spaces/1dGYllAwDWLKX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [
+        {
+          "title": "Ownership S1E2: rakka (Omnipair)",
+          "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E2-rakka-Omnipair-e3fmoq2"
+        },
+        {
+          "title": "Ownership S1E2: rakka (Omnipair)",
+          "url": "https://www.youtube.com/watch?v=S3x2WELHB2I"
+        }
+      ],
+      "projectWebsite": "https://www.omnipair.fi/"
+    },
+    {
+      "projectId": "jurassic-finance",
+      "name": "Jurassic Finance",
+      "people": "Sora; Vukan",
+      "identityEvidence": "Company introduction, three founder essays, Vukan talk and founder panel reviewed.",
+      "identitySource": "https://metadao.fi/companies/jurassic-finance",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Further personal posts and specimen-SPV changes require ongoing tracking.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Monthly Recap: September 2026",
+          "url": "https://x.com/JurassicFi/status/2106055813127090625",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "What's Next for Jurassic Finance",
+          "url": "https://x.com/JurassicFi/status/2056390710002155800",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Fossil Safekeeping",
+          "url": "https://x.com/Sora_i_guess/status/2047318087280550114",
+          "method": "Full mirrored article text"
+        },
+        {
+          "title": "How Jurassic Finance Makes Money",
+          "url": "https://x.com/vukan0x/status/2046275979014975663",
+          "method": "Full mirrored article text"
+        },
+        {
+          "title": "JurassicFi: Putting Dinosaurs on the Blockchain — Vukan | MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=9oKvB28HksU",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Ownership Panel — MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=3jjiamzCqpI",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Jurassic Finance Explained",
+          "url": "https://x.com/Sora_i_guess/status/2045174833982382498",
+          "method": "Full mirrored article text"
+        },
+        {
+          "title": "Ownership Radio #6: Jurassic Finance, Seedplex, P2P and Superclaw",
+          "url": "https://x.com/i/spaces/1nxeLywQRkLJX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #10: Umbra, Realms/Ride, Futardio Cult and Pulsar Spaces",
+          "url": "https://x.com/i/spaces/1RJZzjLyRrDJB",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #11: Jurassic plans, Futardio content and Epicentral devnet",
+          "url": "https://x.com/i/spaces/1oKMvRwmBBoGQ",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio 12: Bench, Kavex and Areal founder discussions",
+          "url": "https://x.com/i/spaces/1yKAPMjjwrgxb",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio 14: P2P expansion, Jurassic plans, GeSIM and Epicentral",
+          "url": "https://x.com/i/spaces/1PKqrrlavRMGb",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #17: Ryvo, Cesto, Backyard and Potbot",
+          "url": "https://x.com/i/spaces/1qKDzzQNPaoJV",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://app.jurassic.finance/"
+    },
+    {
+      "projectId": "ordr",
+      "name": "Ordr",
+      "people": "Vinaya; Avhi; Manu; Arjun",
+      "identityEvidence": "Company updates identify CEO, CTO, CIO and COO respectively. Titles alone do not prove every person is a founder.",
+      "identitySource": "https://metadao.fi/companies/ordr",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Current homepage corroborates CEO/CTO/CIO/COO roles; titles do not prove all four are founders. Personal writing beyond company updates and independent technical verification remain incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Long Live Futarchy",
+          "url": "https://x.com/ordrtrade/status/2076552689853575598",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ordr - September Updates",
+          "url": "https://x.com/ordrtrade/status/2108101368443707481",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ordr - Week of Aug 14 - Aug 20",
+          "url": "https://x.com/ordrtrade/status/2090307811389649082",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ordr - Week of Aug 7 - Aug 13",
+          "url": "https://x.com/ordrtrade/status/2087789360452133354",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ordr - Week of July 31 - Aug 6",
+          "url": "https://x.com/ordrtrade/status/2085229570236846587",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ordr: The OpenMM Paradigm",
+          "url": "https://x.com/ordrtrade/status/2052350867307999623",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Road to Ownership",
+          "url": "https://x.com/ordrtrade/status/2080627148675793022",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Why Ordr ?",
+          "url": "https://x.com/ordrtrade/status/2036062267704484229",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "ORDR team and protocol homepage",
+          "url": "https://www.ordr.trade/",
+          "method": "Full primary homepage read"
+        },
+        {
+          "title": "Ownership Radio #20: ORDR and RipCars founder plans",
+          "url": "https://x.com/i/spaces/1dKrPPVbwDQJX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.ordrtrade.com/"
+    },
+    {
+      "projectId": "kimia",
+      "name": "Kimia",
+      "people": "Tanmay; Debanjan; Abhirup",
+      "identityEvidence": "Reviewed team introduction attributes engineering, product and operations roles; later contributors kept distinct.",
+      "identitySource": "https://metadao.fi/companies/kimia",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Radio18,19 and32 complete generated transcripts reviewed. July completed-audit claim remains unreconciled with current scheduled/TBA audit scopes and unaudited-devnet documentation. Scope/version evidence, individual personal archives, deployed governance and execution proof remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "If yield becomes tradable, the risk engine becomes the product. ",
+          "url": "https://x.com/KimiaProtocol/status/2055564185879060811",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Kimia Joins the Futarchy",
+          "url": "https://x.com/KimiaProtocol/status/2082133304694968723?s=20",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "KIP-01: Programmable Stablecoins and the Case for T+1 Settlement ",
+          "url": "https://x.com/KimiaProtocol/status/2046165722825715764?s=20",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Permissionless Markets Need Permissionless Yield",
+          "url": "https://x.com/KimiaProtocol/status/2079553715024089262?s=20",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Pricing Time On-Chain",
+          "url": "https://x.com/KimiaProtocol/status/2075575279893033041?s=20",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "State of Kimia #1 : August 2026",
+          "url": "https://x.com/KimiaProtocol/status/2094489460037890143",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "THE ORDERBOOK LIE ",
+          "url": "https://x.com/KimiaProtocol/status/2047667045790335022",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "What's Next for Kimia Protocol ",
+          "url": "https://x.com/KimiaProtocol/status/2076322583428116672",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ownership Radio #32: Kimia and Kaboom",
+          "url": "https://x.com/i/spaces/1MJgNbpvWayGL",
+          "method": "Complete locally generated transcript; participant personal identity unresolved"
+        },
+        {
+          "title": "Ownership Radio #19: Kimia launch plans and Futardio Cult governance",
+          "url": "https://x.com/i/spaces/1RJjppQezQQKw",
+          "method": "Complete locally generated transcript"
+        },
+        {
+          "title": "Ownership Radio #18: Omnipair, Keystone Finance, Kimia and Heirloom",
+          "url": "https://x.com/i/spaces/1dGYllAwDWLKX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Kimia audit status and mainnet release conditions",
+          "url": "https://docs.kimia.live/resources/audits",
+          "method": "Complete primary documentation page read; publisher disclosure, not independent audit"
+        },
+        {
+          "title": "Kimia risk disclosures and V1 administrative controls",
+          "url": "https://docs.kimia.live/resources/risks",
+          "method": "Complete primary documentation page read; publisher disclosure, not independent audit"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://kimia.live/"
+    },
+    {
+      "projectId": "futardio-cult",
+      "name": "Futardio Cult",
+      "people": "Not established",
+      "identityEvidence": "No founder identity established by this pass.",
+      "identitySource": "https://metadao.fi/companies/futardio-cult",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Radio 1 recovered segment includes a first-person project participant describing launch motivation. Personal identity remains unestablished; governance execution and wider archives remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "A Futardedly Big Summer (Q3 2026 Growth Recap)",
+          "url": "https://x.com/thefutardiocult/status/2104631692166136257",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Crypto is cooked. The futards are here to save it.",
+          "url": "https://x.com/thefutardiocult/status/2061873439934128148",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Futardio Cult x Blockformer, First Month (18/5/26 - 21/6/26)",
+          "url": "https://x.com/thefutardiocult/status/2068669594319900674",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ownership Radio #1: recovered segment with MycoRealms and Futardio Cult",
+          "url": "https://x.com/i/spaces/1nKOLEgNDdQGR",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #10: Umbra, Realms/Ride, Futardio Cult and Pulsar Spaces",
+          "url": "https://x.com/i/spaces/1RJZzjLyRrDJB",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #11: Jurassic plans, Futardio content and Epicentral devnet",
+          "url": "https://x.com/i/spaces/1oKMvRwmBBoGQ",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": null
+    },
+    {
+      "projectId": "gesim",
+      "name": "GeSIM",
+      "people": "Charchit Kumawat; Hrishique Munshi",
+      "identityEvidence": "Official company source explicitly identifies CEO/cofounder and CTO/cofounder.",
+      "identitySource": "https://metadao.fi/companies/gesim",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Both founders’ origin/architecture posts and GeSIM forum exchange reviewed. Roadshow recording and broader personal archives remain incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "2nd June 10 pm UTC. 658+ users, 240+ paying, live on your phone",
+          "url": "https://x.com/gesimxyz/status/2061527667405660312",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "The Biggest Lie In Crypto Privacy ",
+          "url": "https://x.com/gesimxyz/status/2066525060115108044",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "GeSIM: The Coordination Layer for Global Telecom",
+          "url": "https://www.linkedin.com/posts/charchit-kumawat-blockchain_fact-cross-border-mobile-data-is-broken-activity-7373413285066563584-Xzvx",
+          "method": "Full primary publisher text"
+        },
+        {
+          "title": "GeSIM privacy trust model — Devcon forum discussion",
+          "url": "https://forum.devcon.org/t/devcon-8-india-sovereign-infrastructure-hub/8813",
+          "method": "Full primary publisher text"
+        },
+        {
+          "title": "Building GeSIM — early proof of concept and telecom integrations",
+          "url": "https://www.linkedin.com/posts/hrishique_gesim-web3-esim-activity-7381336557498245120-cTsH",
+          "method": "Full primary publisher text"
+        },
+        {
+          "title": "Ownership Radio 14: P2P expansion, Jurassic plans, GeSIM and Epicentral",
+          "url": "https://x.com/i/spaces/1PKqrrlavRMGb",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio 29: GeSIM runway, Finagotchi, Polybaskets and Sash",
+          "url": "https://x.com/i/spaces/1nJOLQoPXArxR",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.gesim.xyz/"
+    },
+    {
+      "projectId": "loyal",
+      "name": "Loyal",
+      "people": "Chris (founder); Rodion (separate article author)",
+      "identityEvidence": "Two official blog bylines identify Chris as founder. Podcast publisher links Chris to @candyflipline; no identity equivalence with Rodion.",
+      "identitySource": "https://askloyal.com/blog/july-no-kings-or-gods-just-dogs",
+      "checkedAt": "2026-10-12",
+      "coverage": "Visible Chris X Articles checked; broader archives partial",
+      "gaps": "Lightspeed May 12 interview complete available captions now read. Broader personal posts and Rodion’s separate author archive remain incomplete. Chris and Rodion are not assumed identical.",
+      "reviewedSourceLinks": [
+        {
+          "title": "july: no kings or gods, just dogs",
+          "url": "https://askloyal.com/blog/july-no-kings-or-gods-just-dogs",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "Ginormous June",
+          "url": "https://askloyal.com/blog/ginormous-june",
+          "method": "Full publisher article text"
+        },
+        {
+          "title": "The future is whimsical",
+          "url": "https://x.com/candyflipline/status/2009181007954768164",
+          "method": "Full mirrored article text; canonical publisher URL retained; embedded media and linked documents not reviewed"
+        },
+        {
+          "title": "Ownership S1E4: Chris (Loyal)",
+          "url": "https://solana.com/podcasts/ownership/episodes/ownership-s1-e4-chris-loyal-e3ghnna",
+          "method": "Complete locally generated transcript"
+        },
+        {
+          "title": "Loyal founder Chris: Agentic Finance for Everyday Users",
+          "url": "https://www.youtube.com/watch?v=bx_n34xGYfQ",
+          "method": "Complete available auto-generated captions"
+        }
+      ],
+      "episodeLeads": [
+        {
+          "title": "Ownership S1 E4: Chris (Loyal)",
+          "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E4-Chris-Loyal-e3ghnna"
+        },
+        {
+          "title": "Ownership S1 E4: Chris (Loyal)",
+          "url": "https://www.youtube.com/watch?v=fRIkPP4uano"
+        }
+      ],
+      "projectWebsite": "https://askloyal.com/"
+    },
+    {
+      "projectId": "hivebits",
+      "name": "HiveBits",
+      "people": "Nemanja Šćepanović; Siniša Kezić",
+      "identityEvidence": "Official company source names CEO/beekeeper and COO/chief beekeeper. Ownership’s primary interview excerpt explicitly identifies founder Nemanja and tags @0xBeeSmart; excerpt text read, video not reviewed.",
+      "identitySource": "https://metadao.fi/companies/hivebits",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "October 7 Startit founder interview read in full; identities and reported procurement plans added. Dedicated Ownership interview, personal founder archives and Siniša’s wider archive remain incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "From Beehives to Blockchain: How HiveBits Turns Real Hives into DePIN Nodes",
+          "url": "https://x.com/hivebits_io/status/2043663275267657959",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Introducing HivePulse 🐝 ",
+          "url": "https://x.com/hivebits_io/status/2069814926760099953",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Own the Hive: $NECTAR",
+          "url": "https://x.com/hivebits_io/status/2095197356215947345",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ownership Radio 27: complete HiveBits guest segment",
+          "url": "https://x.com/i/spaces/1DxleVLLPegKL",
+          "method": "Generated transcript approx07:20–44:10 read; not full episode or manual listening. Metrics and medical/biological claims unverified."
+        },
+        {
+          "title": "Ownership Radio #27: HiveBits, TokenFlow, Spark, Degen Terminal and Rip Cars",
+          "url": "https://x.com/i/spaces/1DxleVLLPegKL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #26: Experiences.fun, HiveBits and NYSA Finance",
+          "url": "https://x.com/i/spaces/1dGYlakDRXvKX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "HiveBits founders: fundraising, beekeeping origins and equipment plans",
+          "url": "https://startit.rs/pcelari-iz-svilosa-skupili-140-000-za-27-sati-za-farmu-od-300-pametnih-kosnica-najvaznije-je-bilo-dobiti-podrsku-zajednice/",
+          "method": "Complete written interview"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": null,
+      "identitySources": [
+        "https://x.com/ownershipfm/status/2100405464995614920"
+      ]
+    },
+    {
+      "projectId": "basket",
+      "name": "Basket",
+      "people": "Unnamed first-person builder",
+      "identityEvidence": "Company source describes a builder and Spark history without establishing a personal identity.",
+      "identitySource": "https://metadao.fi/companies/basket",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Do not label Spark promoters as the appointed builder; identity remains open.",
+      "reviewedSourceLinks": [],
+      "episodeLeads": [],
+      "projectWebsite": "https://basketsolana.xyz/"
+    },
+    {
+      "projectId": "lfown",
+      "name": "LFOwn",
+      "people": "Mathis (@Mathis_btc); Ewan (@Ewan_btc), representing Spark as core contributor",
+      "identityEvidence": "LFOWN-001 explicitly names these representatives. Contributor recognition does not establish them as original founders of the idea-funded project.",
+      "identitySource": "https://metadao.fi/decisions/lfown-001",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Core contributor identities and complete Radio 28 generated transcript reviewed. Wider personal writing archives and proposal execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "LFOWN-001: Spark contributor recognition",
+          "url": "https://metadao.fi/decisions/lfown-001",
+          "method": "Primary proposal body and platform outcome; no execution claim"
+        },
+        {
+          "title": "Ownership Radio #28: Spark/LFOwn, ZeroFiat and Milker",
+          "url": "https://x.com/i/spaces/1jxXgBvMRBzJZ",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": null
+    },
+    {
+      "projectId": "areal-finance",
+      "name": "Areal Finance",
+      "people": "Artsiom Hnatiuk — co-founder/CEO; Evgenii Solomein — co-founder/CTO",
+      "identityEvidence": "Named roles in historical $20,000 launch disclosure; Radio speaker and contributing wallet identities not inferred.",
+      "identitySource": "https://www.futard.io/launch/BBHFc6prZ55DuvXcWSPG2uu816cjHCCzKZDcNMvt5oCP",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Four distinct unsuccessful raises and one funded raise now represented; Radio12 complete generated transcript reviewed. Wider founder archives, pilot metrics, legal execution and completed refunds remain unresolved.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Ownership Radio 12: Bench, Kavex and Areal founder discussions",
+          "url": "https://x.com/i/spaces/1yKAPMjjwrgxb",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Areal Finance: unsuccessful $20,000 raise",
+          "url": "https://www.futard.io/launch/BBHFc6prZ55DuvXcWSPG2uu816cjHCCzKZDcNMvt5oCP",
+          "method": "Rendered overview and team disclosure reviewed. Pilot yield and legal ownership statements are issuer claims; prospective IP-transfer language and existing-SPC boilerplate differ. Team disclosure names Artsiom Hnatiuk, co-founder/CEO, and Evgenii Solomein, co-founder/CTO."
+        },
+        {
+          "title": "Areal Finance: unsuccessful $10,000 raise",
+          "url": "https://www.futard.io/launch/8tT1npieq27dySTKFWJiMBRg5FbZRTuscYRq4wR4oLZo",
+          "method": "Funding panel and introduction reviewed. The introduction retains a conflicting $50,000 hard-cap statement; discrepancy unresolved."
+        },
+        {
+          "title": "Areal Finance: unsuccessful $50,000 raise",
+          "url": "https://www.futard.io/launch/H6xSaDsnq9yUKpoLi3svozYGkRKbfKm4peX98CzDtmqp",
+          "method": "Funding panel and introduction reviewed. Older product and legal milestones remain plans."
+        },
+        {
+          "title": "Areal Finance: funded raise and current token disclosures",
+          "url": "https://www.backable.biz/raises/DGRgqaGL2sQnGM6WzBmvXTT5XhnEkTdKecGmF1mswtL5",
+          "method": "Full current pitch and terms reviewed. Radio 12 revenue-sharing discussion is historical and does not override later disclosures. A single contributor is not identified as the founder. Buybacks and business acquisitions are proposed mechanisms, not verified execution."
+        },
+        {
+          "title": "Areal: unsuccessful $50,000 raise (Mar 8)",
+          "url": "https://www.backable.biz/raises/4mgSftMwb86RKe4P73b7iY1YzyNwGPtW8EmyGJyACykG",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Areal Finance: RWT and stRWT documentation introduction",
+          "url": "https://docs.areal.finance/",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Areal Finance: architecture and test-validator deployment disclosure",
+          "url": "https://github.com/ArealFinance/areal",
+          "method": "complete-readme-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://areal.finance/",
+      "discoverySourceLinks": [
+        "https://docs.areal.finance/",
+        "https://github.com/arealfinance"
+      ]
+    },
+    {
+      "projectId": "accrue",
+      "name": "ACCRUE",
+      "people": "No appointed team in reviewed pitch",
+      "identityEvidence": "Spark competition pitch explicitly says there is no team yet.",
+      "identitySource": "https://metadao.fi/companies/accrue",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Check subsequent decision markets for appointments before assigning founders.",
+      "reviewedSourceLinks": [],
+      "episodeLeads": [],
+      "projectWebsite": null
+    },
+    {
+      "projectId": "superclaw",
+      "name": "Superclaw",
+      "people": "Not established",
+      "identityEvidence": "No founder identity established by this pass.",
+      "identitySource": "https://metadao.fi/companies/superclaw",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Radio 6 representative interview read in full, including pivot and proposed incentive change. Guest introduced as Rash; direct biography, founder status and personal identity remain unestablished. Later SUPER-002 Passed status checked; execution not independently verified. Broader personal archives remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Ownership Radio #6: Jurassic Finance, Seedplex, P2P and Superclaw",
+          "url": "https://x.com/i/spaces/1nxeLywQRkLJX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Superclaw: Burn 2M Team Performance Package + Approve Q2 Roadmap",
+          "url": "https://metadao.fi/decisions/super-002",
+          "method": "Complete primary governance proposal and outcome"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://superclaw.org/"
+    },
+    {
+      "projectId": "predict",
+      "name": "PREDICT",
+      "people": "Contributors; no appointed operating team in pitch",
+      "identityEvidence": "Official company text distinguishes existing code contributors from a future team selected through decision markets.",
+      "identitySource": "https://metadao.fi/companies/predict",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Check later appointments; do not call every contributor or Spark promoter a founder.",
+      "reviewedSourceLinks": [],
+      "episodeLeads": [],
+      "projectWebsite": null
+    },
+    {
+      "projectId": "paystream",
+      "name": "Paystream",
+      "people": "Maushish Yadav",
+      "identityEvidence": "Founder-signed company articles and wind-down discussion reviewed.",
+      "identitySource": "https://metadao.fi/companies/paystream",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Initial product and raise articles, Week 1–7 updates, founder static-analysis report and wind-down article reviewed across passes. Personal Substack writing, full Ownership audio and broader archive remain incomplete. Static analysis is not a manual audit; wind-down announcement does not prove redemption execution.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Week #4: Stability Phase",
+          "url": "https://x.com/Paystreamlabs/status/1994491734836088934",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Week #5 & #6: Optimization",
+          "url": "https://x.com/Paystreamlabs/status/2000530395570348040",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Week #7: Getting close",
+          "url": "https://x.com/Paystreamlabs/status/2003901610188210216",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Week#2: Integrations and Bugs",
+          "url": "https://x.com/Paystreamlabs/status/1988973826764578863",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Week#3: Re-iteration",
+          "url": "https://x.com/Paystreamlabs/status/1991990177116635496",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Winding down Paystream",
+          "url": "https://x.com/Paystreamlabs/status/2088486027304550883",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "What is Paystream?",
+          "url": "https://x.com/Paystreamlabs/status/1974428141276856821",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Paystream: Building the Liquidity Optimizer of Solana",
+          "url": "https://x.com/Paystreamlabs/status/1980173375935742010",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Week #1: Building the LLP Terminal",
+          "url": "https://x.com/Paystreamlabs/status/1986069666591129960",
+          "method": "Full X article text via public mirror"
+        },
+        {
+          "title": "Paystream — founder-authored static analysis report",
+          "url": "https://docs.paystream.finance/audits",
+          "method": "Full primary documentation text"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://paystream.finance/"
+    },
+    {
+      "projectId": "ranger",
+      "name": "Ranger",
+      "people": "Coby / Fibullnacci; Fathur",
+      "identityEvidence": "Publisher-hosted founder interviews reviewed; investor-publisher affiliation disclosed.",
+      "identitySource": "https://metadao.fi/companies/ranger",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Full personal archives and later founder commentary remain incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "5 Reasons You Should Never Fade Onchain Data",
+          "url": "https://x.com/ranger_finance/status/1938519325897560316",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Fully Embedded Wallets Are Coming: What You Need to Know",
+          "url": "https://x.com/ranger_finance/status/2016925310584049774",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ranger ICO",
+          "url": "https://x.com/ranger_finance/status/2007140827081089086",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ranger: Building a Unified Market ",
+          "url": "https://x.com/ranger_finance/status/1990807074796695666",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ranger: January 2026 Update",
+          "url": "https://x.com/ranger_finance/status/2018370848881799531",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Ranger: Post-ICO Update",
+          "url": "https://x.com/ranger_finance/status/2010773370124845501",
+          "method": "Full article text through public FixTweet mirror; embedded images/media not reviewed"
+        },
+        {
+          "title": "Advancing Perp Trading On Solana: A Q&A With Ranger Finance",
+          "url": "https://www.rockawayx.com/insights/advancing-perp-trading-on-solana-a-q-a-with-ranger-finance",
+          "method": "Publisher article text"
+        },
+        {
+          "title": "Coby, Ranger Finance: TradFi background, competitive cheerleading, and unifying DeFi",
+          "url": "https://www.prestolabs.io/research/founder-interview-series-coby-ranger-finance",
+          "method": "Publisher article text"
+        },
+        {
+          "title": "Ownership Radio #1: recovered segment with MycoRealms and Futardio Cult",
+          "url": "https://x.com/i/spaces/1nKOLEgNDdQGR",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #2: Valgrid, Lotus, Inkwell and Conviction Labs",
+          "url": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://ranger.finance/"
+    },
+    {
+      "projectId": "zklsol",
+      "name": "ZKLSOL / ZKFG",
+      "people": "Not established",
+      "identityEvidence": "Legacy company source retains ZKLSOL/ZKFG history and migration decisions.",
+      "identitySource": "https://metadao.fi/companies/zklsol",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Founder identity and personal archive remain unresolved; preserve legacy history.",
+      "reviewedSourceLinks": [],
+      "episodeLeads": [],
+      "projectWebsite": "https://zklsol.org/"
+    },
+    {
+      "projectId": "hurupay",
+      "name": "Hurupay",
+      "people": "Philip Mburu; Allan Okoth; James Mugambi",
+      "identityEvidence": "Company team identifies CEO, CTO and COO; Philip’s Kolan rebrand panel reviewed. Allan linked post is only a promotional caption.",
+      "identitySource": "https://metadao.fi/companies/hurupay",
+      "checkedAt": "2026-10-11",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "2023 direct founder interview, founder origin reflection and Kolan rebrand announcement reviewed. Broader cofounder archives, full 2026 interview and later delivery remain incomplete; failed MetaDAO raise retained. March 2026 TechCabal interview now reviewed; incident and financial figures remain attributed, with broader personal archives still incomplete.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Should We Launch This Way? — MetaDAO Inaugural Ownership Meeting",
+          "url": "https://www.youtube.com/watch?v=00aBaKVY3uU",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Kolan rebrand announcement",
+          "url": "https://www.linkedin.com/posts/kolanapp_18-months-100m-processed-thousands-activity-7483810415068774400-NZuE",
+          "method": "Full company post and displayed short transcript"
+        },
+        {
+          "title": "Philip Mburu on Hurupay’s origins and early stablecoin payments",
+          "url": "https://disruptafrica.com/2023/11/03/ghanas-hurupay-tackles-currency-fluctuations-with-stablecoin-based-payments-platform/",
+          "method": "Complete article or visible founder post"
+        },
+        {
+          "title": "Philip Mburu reflects on the origins of Hurupay",
+          "url": "https://www.linkedin.com/posts/philip-mburu-3436991a2_here-is-a-story-that-i-believe-inspires-and-activity-7158430290728632320-jbdQ",
+          "method": "Complete article or visible founder post"
+        },
+        {
+          "title": "Hurupay founders on the freelancer-payments pivot, fraud and banking dependencies",
+          "url": "https://techcabal.com/2026/03/18/hurupay-crosses-50m-processing-freelancer-payments/",
+          "method": "Complete interview with all three named founders"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": null
+    },
+    {
+      "projectId": "historical-mtncapital",
+      "name": "mtnCapital — historical coverage supplement",
+      "people": "Edgar; Barrett (reviewed interview participants)",
+      "identityEvidence": "Two complete available founder-interview caption tracks reviewed. No assumed equivalence between Barrett and other Ranger founders.",
+      "identitySource": "https://www.youtube.com/watch?v=Lm-4fJ9l8WE",
+      "checkedAt": "2026-10-11",
+      "coverage": "Historical supplement outside the 25-project registry; not a verified current company listing",
+      "gaps": "Archived raise/proposal records and resolved wind-down evidence remain to be recovered. Secondary unwind reporting is a lead, not verified execution.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Prelaunch Edgar interview",
+          "url": "https://www.youtube.com/watch?v=wXwj9UtLMVQ",
+          "method": "Complete available auto-generated caption track"
+        },
+        {
+          "title": "Edgar and Barrett interview",
+          "url": "https://www.youtube.com/watch?v=Lm-4fJ9l8WE",
+          "method": "Complete available auto-generated caption track"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": null
+    },
+    {
+      "projectId": "mycorealms",
+      "name": "MycoRealms",
+      "people": "crypticmeta (@crypticmetadev), founder/operator; Ram, operations",
+      "identityEvidence": "Project-supplied B1 and launch pitch distinguish founder/operator and farm operations roles. Do not identify this Ram as Avici’s founder.",
+      "identitySource": "https://www.futard.io/launch/A88sGec3GcVfyRXNXr9DyWN6wNEwSaCqeyzrmmakKFqf",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — failed permissionless raises",
+      "gaps": "Recovered Radio 1 second segment reviewed; first failed Space remains missing. Three unsuccessful launch records reviewed; broader founder writing, cultivation records and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "MycoRealms: unsuccessful $200K Futardio raise",
+          "url": "https://www.futard.io/launch/A88sGec3GcVfyRXNXr9DyWN6wNEwSaCqeyzrmmakKFqf",
+          "method": "Primary launch status, team and pitch sections"
+        },
+        {
+          "title": "MycoRealms: Cordyceps pivot and unsuccessful $70K raise",
+          "url": "https://www.futard.io/launch/8cJavsmirre12VUvajmcT4UXqqfM25ShZ9ZMPCcnVSB5",
+          "method": "Primary launch status, team and pitch sections"
+        },
+        {
+          "title": "Ownership Radio #1: recovered segment with MycoRealms and Futardio Cult",
+          "url": "https://x.com/i/spaces/1nKOLEgNDdQGR",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "MycoRealms: unsuccessful $125K Futardio raise",
+          "url": "https://www.futard.io/launch/zwVfLheTvbXN5Vn2tZxTc8KaaVnLoBFgbZzskdFnPUb",
+          "method": "Primary launch outcome and pitch sections"
+        },
+        {
+          "title": "Ownership Radio #2: Valgrid, Lotus, Inkwell and Conviction Labs",
+          "url": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #22: Yieldbay, MycoRealms, Bountive and Veilo",
+          "url": "https://x.com/i/spaces/1AxRnnOnXerxl",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://mycorealms.com/"
+    },
+    {
+      "projectId": "valgrid",
+      "name": "Valgrid",
+      "people": "Martin and Gates, cofounders; Asad, lead developer; Mo.nur, frontend developer",
+      "identityEvidence": "Project-supplied launch disclosure; team role claims attributed.",
+      "identitySource": "https://www.futard.io/launch/BY1uzGNg8Yb5kPEhXrXA9VA4geHSpEdzBcTvPt7qWnpY",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — failed permissionless raise",
+      "gaps": "Radio 2 Gates interview read in full and cofounder role corroborated by the primary launch disclosure. Broader personal writing, product execution and completed refunds remain unverified.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Valgrid: grid-trading platform and unsuccessful Futardio raise",
+          "url": "https://www.futard.io/launch/BY1uzGNg8Yb5kPEhXrXA9VA4geHSpEdzBcTvPt7qWnpY",
+          "method": "Primary launch disclosure"
+        },
+        {
+          "title": "Ownership Radio #2: Valgrid, Lotus, Inkwell and Conviction Labs",
+          "url": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://valgrid.co/"
+    },
+    {
+      "projectId": "nvision",
+      "name": "NVISION",
+      "people": "Conviction Labs team; individual founder identity unresolved",
+      "identityEvidence": "Project-supplied launch disclosure; team role claims attributed.",
+      "identitySource": "https://www.futard.io/launch/6e3Xz2CUmXabyhMEQ3QpJUgPKP65HVzXP8X5qtb5a2YZ",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — failed permissionless raise",
+      "gaps": "Radio 2 Conviction Labs segment read in full and linked to the NVISION launch record. Speaker personal identity remains unclear in ASR; broader writing, product delivery and completed refunds remain unverified.",
+      "reviewedSourceLinks": [
+        {
+          "title": "NVISION / Conviction Markets: unsuccessful Futardio raise",
+          "url": "https://www.futard.io/launch/6e3Xz2CUmXabyhMEQ3QpJUgPKP65HVzXP8X5qtb5a2YZ",
+          "method": "Primary launch disclosure"
+        },
+        {
+          "title": "Ownership Radio #2: Valgrid, Lotus, Inkwell and Conviction Labs",
+          "url": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://nvision.convictionlabs.org/"
+    },
+    {
+      "projectId": "kavex",
+      "name": "Kavex",
+      "people": "Shashwata — founder; H.B. — lead developer; Noorjahan — growth manager",
+      "identityEvidence": "Roles explicitly listed in project-supplied launch disclosure; no expanded legal identities inferred.",
+      "identitySource": "https://www.futard.io/launch/GkhJz5pRUd3vYc6K3MFYGaoomCVzLdrcGgwuLpnHMKcy",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — unsuccessful permissionless raise",
+      "gaps": "Radio 12 complete generated transcript reviewed; product demonstration video, wider founder archives, security claims and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Kavex: unsuccessful Futardio raise",
+          "url": "https://www.futard.io/launch/GkhJz5pRUd3vYc6K3MFYGaoomCVzLdrcGgwuLpnHMKcy",
+          "method": "Complete primary launch disclosure"
+        },
+        {
+          "title": "Ownership Radio 12: Bench, Kavex and Areal founder discussions",
+          "url": "https://x.com/i/spaces/1yKAPMjjwrgxb",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [
+        {
+          "title": "Kavex product demonstration",
+          "url": "https://www.youtube.com/watch?v=h9IHKuNtOM4",
+          "status": "not-yet-reviewed"
+        }
+      ],
+      "projectWebsite": "https://www.kavex.trade/"
+    },
+    {
+      "projectId": "the-syndicate",
+      "name": "The Syndicate",
+      "people": "Timothy Williams — founder; Jon Williams and Joseph Williams — cofounders",
+      "identityEvidence": "Named directly in the primary company disclosure; linked X profiles recorded without inferring additional identities.",
+      "identitySource": "https://www.backable.biz/raises/EFUKEM6oaUMdCtVvgaqeV2E9baZ1ikkLng1kTakvjU7k",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — funded permissionless raise",
+      "gaps": "Founder video and personal archives pending. Reported revenue, users, retention and NFT volume are not audited; mobile roadmap delivery unverified. The primary linked 2:13 YouTube video (wPmO7QKf1EY) had no transcript available through the normal browser export; video content remains unreviewed.",
+      "reviewedSourceLinks": [
+        {
+          "title": "The Syndicate: funded Backable raise and founder disclosure",
+          "url": "https://www.backable.biz/raises/EFUKEM6oaUMdCtVvgaqeV2E9baZ1ikkLng1kTakvjU7k",
+          "method": "Full primary company disclosure"
+        }
+      ],
+      "episodeLeads": [
+        {
+          "title": "Founder video linked by Backable",
+          "url": "https://www.youtube.com/watch?v=wPmO7QKf1EY",
+          "status": "not-yet-reviewed"
+        }
+      ],
+      "projectWebsite": "https://thesyndicate.games/"
+    },
+    {
+      "projectId": "salmon-wallet",
+      "name": "Salmon Wallet",
+      "people": "Personal speaker identity not established",
+      "identityEvidence": "Radio 16 features a project representative; no personal identity inferred from voice or unnamed company disclosures.",
+      "identitySource": "https://www.futard.io/launch/Aakx1gdDoNQYqiv5uoqdXx56mGr6AbZh73SWpxHrk2qF",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder identity and archives, exact launch date and refund execution remain open. Current docs supersede the historical web-wallet plan.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Salmon Wallet: unsuccessful Futardio raise",
+          "url": "https://www.futard.io/launch/Aakx1gdDoNQYqiv5uoqdXx56mGr6AbZh73SWpxHrk2qF",
+          "method": "Primary source sections read"
+        },
+        {
+          "title": "Salmon Wallet: supported platforms and networks",
+          "url": "https://docs.salmonwallet.io/getting-started/introduction",
+          "method": "Primary source sections read"
+        },
+        {
+          "title": "Ownership Radio #16: Bento, Salmon, Thaler and governance boundaries",
+          "url": "https://x.com/i/spaces/1aKbddqvZzoJX",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.salmonwallet.io/"
+    },
+    {
+      "projectId": "spark",
+      "name": "Spark",
+      "people": "Mathis (@Mathis_btc); Ewan (@Ewan_btc), Spark representatives named in LFOWN-001",
+      "identityEvidence": "Primary LFOWN-001 names representatives; this does not establish legal founder titles. Radio27 includes Mathis describing the Spark pivot and planned platform-token raise.",
+      "identitySource": "https://metadao.fi/decisions/lfown-001",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Radio27 complete available generated transcript read; personal archives and precise founder titles remain unresolved. Failed platform raise is separate from successful idea projects.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Spark: unsuccessful platform-token raise",
+          "url": "https://www.futard.io/launch/2SGPL7DSLX35WuBm4458xwctrSEHzUpe5884aoXL68WY",
+          "method": "Primary launch record read"
+        },
+        {
+          "title": "Ownership Radio28: Spark and LFOWN",
+          "url": "https://x.com/i/spaces/1jxXgBvMRBzJZ",
+          "method": "Complete generated transcript reviewed in prior continuation"
+        },
+        {
+          "title": "Radio27: complete Spark guest segment",
+          "url": "https://x.com/i/spaces/1DxleVLLPegKL",
+          "method": "Generated transcript approx87–129min and targeted repairs read; whole episode incomplete. Business model and fee-sharing plans remain unresolved."
+        },
+        {
+          "title": "Ownership Radio #27: HiveBits, TokenFlow, Spark, Degen Terminal and Rip Cars",
+          "url": "https://x.com/i/spaces/1DxleVLLPegKL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://justspark.fun/"
+    },
+    {
+      "projectId": "bountive",
+      "name": "Bountive",
+      "people": "J. Omar Montilla",
+      "identityEvidence": "Launch About and B1 identify CEO and founder.",
+      "identitySource": "https://www.futard.io/launch/DaBxHyopVqt52zzCPpxNiK6stDwdv6Zf9Ep9hndBPEE7",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Two distinct $12K attempts now represented ($800 and approximately $3K committed). Personal archive, linked founder video, refunds and inconsistent IP/control disclosures remain unresolved; historical Radio22 snapshot still not assigned to an attempt.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Bountive: unsuccessful Futardio raise and ownership disclosures",
+          "url": "https://www.futard.io/launch/DaBxHyopVqt52zzCPpxNiK6stDwdv6Zf9Ep9hndBPEE7",
+          "method": "Primary launch sections read from indexed snapshot"
+        },
+        {
+          "title": "Ownership Radio #22: Yieldbay, MycoRealms, Bountive and Veilo",
+          "url": "https://x.com/i/spaces/1AxRnnOnXerxl",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Ownership Radio #25: GameByts, Konta, Motion Markets, Veilo and Aeonian",
+          "url": "https://x.com/i/spaces/1MJgNbWqPDMGL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        },
+        {
+          "title": "Bountive: unsuccessful $12,000 raise (Aug 3)",
+          "url": "https://www.backable.biz/raises/6YJbUyYug9nnj6ga83KSNBSNk46tpvxnAprQb1DPAoVp",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Bountive: founder Futardio pitch",
+          "url": "https://www.youtube.com/watch?v=IUQ8MUXy2Ng",
+          "method": "complete-available-captions-reviewed"
+        }
+      ],
+      "episodeLeads": [
+        "https://www.youtube.com/watch?v=IUQ8MUXy2Ng"
+      ],
+      "projectWebsite": "https://bountive.xyz",
+      "discoverySourceLinks": [
+        "https://www.youtube.com/watch?v=IUQ8MUXy2Ng",
+        "https://x.com/BountiveXYZ"
+      ]
+    },
+    {
+      "projectId": "gamebyts",
+      "name": "GameByts",
+      "people": "Mihai Chitafes (founder/CEO); Tudor Sandru (CTO); Alexandru Neagoe (engineering)",
+      "identityEvidence": "Expanded primary archived raise pitch and team section where present; interview roles kept separate.",
+      "identitySource": "https://www.backable.biz/raises/FfadyEpRPJEbJHDvQ9ZeCBzkBjX1GZtEVNgMFogsfdq8",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder writing, financial corroboration and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "GameByts: unsuccessful $250,000 raise",
+          "url": "https://www.backable.biz/raises/FfadyEpRPJEbJHDvQ9ZeCBzkBjX1GZtEVNgMFogsfdq8",
+          "method": "Primary outcome and expanded archived product pitch read"
+        },
+        {
+          "title": "Ownership Radio #25: GameByts, Konta, Motion Markets, Veilo and Aeonian",
+          "url": "https://x.com/i/spaces/1MJgNbWqPDMGL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://gamebyts.com/"
+    },
+    {
+      "projectId": "aeonian",
+      "name": "Aeonian",
+      "people": "Juntdoe (@juntdoe), founder and lead developer; Radio25 guest describes a business-development role, not founder status",
+      "identityEvidence": "Expanded primary archived raise pitch and team section where present; interview roles kept separate.",
+      "identitySource": "https://www.backable.biz/raises/Bw4TNjEEf8WChwYJTQBZMCKZx9ErGeQLNr8hBzDpeDHG",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Founder X archive, dated mainnet transition, public metrics, audit and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Aeonian: unsuccessful $50,000 raise",
+          "url": "https://www.backable.biz/raises/Bw4TNjEEf8WChwYJTQBZMCKZx9ErGeQLNr8hBzDpeDHG",
+          "method": "Primary outcome and expanded archived product pitch read"
+        },
+        {
+          "title": "Ownership Radio #25: GameByts, Konta, Motion Markets, Veilo and Aeonian",
+          "url": "https://x.com/i/spaces/1MJgNbWqPDMGL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://aeonian.trade"
+    },
+    {
+      "projectId": "digg",
+      "name": "Digg",
+      "people": "Not established; @karthikdigg is a contact in the pitch, not sufficient proof of founder title",
+      "identityEvidence": "Expanded primary archived raise pitch and team section where present; interview roles kept separate.",
+      "identitySource": "https://www.backable.biz/raises/4bTzczBeysUL9MtHxXbQ9Xefd2MJHoMNRm8B6tg5hHUe",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Founder identity, personal archive, privacy implementation, customers and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Digg: unsuccessful $80,000 raise",
+          "url": "https://www.backable.biz/raises/4bTzczBeysUL9MtHxXbQ9Xefd2MJHoMNRm8B6tg5hHUe",
+          "method": "Primary outcome and expanded archived product pitch read"
+        },
+        {
+          "title": "Ownership Radio #23: Cognius, Corin, Digg and SuperPumped",
+          "url": "https://x.com/i/spaces/1DxleeAlAqoKL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "http://digg.sh"
+    },
+    {
+      "projectId": "ryvo-network",
+      "name": "Ryvo Network",
+      "people": "Luka Matcharadze, solo founder named in the pitch",
+      "identityEvidence": "Expanded primary archived raise pitch and team section where present; interview roles kept separate.",
+      "identitySource": "https://www.backable.biz/raises/9EVNa5SukB5szKECdWVWssfFtsQmjiijukyXztK6PbrY",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Founder personal archive, deployment and audit evidence, entity/IP execution and refunds remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Ryvo Network: unsuccessful $150,000 raise",
+          "url": "https://www.backable.biz/raises/9EVNa5SukB5szKECdWVWssfFtsQmjiijukyXztK6PbrY",
+          "method": "Primary outcome and expanded archived product pitch read"
+        },
+        {
+          "title": "Ownership Radio #21: Ryvo, Malibu, Opta and HIIE",
+          "url": "https://x.com/i/spaces/1wGWjjzzLWnKQ",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://ryvo.network"
+    },
+    {
+      "projectId": "hiie",
+      "name": "HIIE, from Arthur Labs",
+      "people": "W LR (founder/CEO in pitch; Radio21 speaker self-identifies as Watson); Marko Ruble named as founding member; JE and GT retain published initials",
+      "identityEvidence": "Expanded primary archived raise pitch and team section where present; interview roles kept separate.",
+      "identitySource": "https://www.backable.biz/raises/9oFattEBT5A34JHaCz4BJQHtSJuL8Wzaj2AszWxx3khW",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Arthur Labs Medium archive, precise entity scope, previous-token migration, founder archives and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "HIIE, from Arthur Labs: unsuccessful $250,000 raise",
+          "url": "https://www.backable.biz/raises/9oFattEBT5A34JHaCz4BJQHtSJuL8Wzaj2AszWxx3khW",
+          "method": "Primary outcome and expanded archived product pitch read"
+        },
+        {
+          "title": "Ownership Radio #21: Ryvo, Malibu, Opta and HIIE",
+          "url": "https://x.com/i/spaces/1wGWjjzzLWnKQ",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://hiie.arthurlabs.net"
+    },
+    {
+      "projectId": "superpumped",
+      "name": "SuperPumped",
+      "people": "No named founder established from reviewed pitch; Radio23 guest attribution remains limited",
+      "identityEvidence": "Expanded primary archived raise pitch and team section where present; interview roles kept separate.",
+      "identitySource": "https://www.backable.biz/raises/Cdc9b9AuwkbfjBWqYC8xkcoyMacF6G55wsdUK2gpPuzS",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Founder identity and archives, complete audit, live deployment and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "SuperPumped: unsuccessful $200,000 raise",
+          "url": "https://www.backable.biz/raises/Cdc9b9AuwkbfjBWqYC8xkcoyMacF6G55wsdUK2gpPuzS",
+          "method": "Primary outcome and expanded archived product pitch read"
+        },
+        {
+          "title": "Ownership Radio #23: Cognius, Corin, Digg and SuperPumped",
+          "url": "https://x.com/i/spaces/1DxleeAlAqoKL",
+          "method": "Complete recovered segment generated transcript; speaker claims attributed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://superpumped.pro"
+    },
+    {
+      "projectId": "degen-terminal",
+      "name": "Degen Terminal",
+      "people": "Kelvin Alkorogie, founder named in Team section",
+      "identityEvidence": "Expanded primary archived raise pitch and team section where present; interview roles kept separate.",
+      "identitySource": "https://www.backable.biz/raises/83fAjVrKqN3KN8UAFPunRNygTHMmkRRGd3KUKgeSXKx7",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Kelvin’s personal archive, previous-token distribution, platform usage, safety implementation and refund execution remain open.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Degen Terminal: unsuccessful $20,000 raise",
+          "url": "https://www.backable.biz/raises/83fAjVrKqN3KN8UAFPunRNygTHMmkRRGd3KUKgeSXKx7",
+          "method": "Primary outcome and expanded archived product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://dgnterminal.com"
+    },
+    {
+      "projectId": "markov",
+      "name": "Markov",
+      "people": "Kunal (@kunaldrall_), engineering; Daksh (@dralldaksh), agents/product; Monalika Walia (@monalikawalia), growth/operations. Team roles, not independently verified founder titles.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Markov: unsuccessful $35,000 raise (Aug 23)",
+          "url": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Markov: mandate layer and Float litepaper v0.7",
+          "url": "https://markovhq.com/litepaper",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://markov.fyi",
+      "discoverySourceLinks": [
+        "https://markov.fyi/litepaper",
+        "https://x.com/kunaldrall_",
+        "https://x.com/dralldaksh",
+        "https://x.com/monalikawalia"
+      ]
+    },
+    {
+      "projectId": "coinflip",
+      "name": "Coinflip",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/7wiwmSgdVXhYyiMWdUz6vUxTjoiCPupFwvmGNzhPJvV9",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Coinflip: unsuccessful $100,000 raise (Aug 4)",
+          "url": "https://www.backable.biz/raises/7wiwmSgdVXhYyiMWdUz6vUxTjoiCPupFwvmGNzhPJvV9",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Coinflip: current investor relations and Pump.fun launch disclosure",
+          "url": "https://ir.coinflip.to/",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://coinflip.to/",
+      "discoverySourceLinks": [
+        "https://ir.coinflip.to/",
+        "https://x.com/CoinflipTO"
+      ]
+    },
+    {
+      "projectId": "carrylend",
+      "name": "CarryLend",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/86cSK16y9FZBggdLcmZiPUCaBjB9TWyGdEzjmJoNe4tn",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "CarryLend: unsuccessful $100,000 raise (Aug 5)",
+          "url": "https://www.backable.biz/raises/86cSK16y9FZBggdLcmZiPUCaBjB9TWyGdEzjmJoNe4tn",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "CarryLend: force-staked borrowing implementation and raise thesis",
+          "url": "https://github.com/klend-fork/klend-staked-borrow",
+          "method": "complete-readme-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://carrylabs.dev/",
+      "discoverySourceLinks": [
+        "https://github.com/klend-fork/klend-staked-borrow"
+      ]
+    },
+    {
+      "projectId": "collector-suite",
+      "name": "The collector suite",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/Eyq92APYDt5tEsvmsSHuCtX3KFJuKgmhLiry3EUaScuh",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "The collector suite: unsuccessful $50,000 raise (Aug 5)",
+          "url": "https://www.backable.biz/raises/Eyq92APYDt5tEsvmsSHuCtX3KFJuKgmhLiry3EUaScuh",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.thecollectorsuite.com/",
+      "discoverySourceLinks": [
+        "https://x.com/aCollectorSuite"
+      ]
+    },
+    {
+      "projectId": "clytheriq-chain",
+      "name": "Clytheriq Chain",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/BawJPh331hYBctANtrnky3Rof1jYtSE4ckoYLqQvmGd7",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Clytheriq Chain: unsuccessful $500,000 raise (Aug 17)",
+          "url": "https://www.backable.biz/raises/BawJPh331hYBctANtrnky3Rof1jYtSE4ckoYLqQvmGd7",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://clytheriq.com/",
+      "discoverySourceLinks": [
+        "https://x.com/clytheriq"
+      ]
+    },
+    {
+      "projectId": "gardendao",
+      "name": "GardenDAO",
+      "people": "Pitch names Rob Petrozzo (Rally) and Tzvi Wiesel (BAXUS) as collaborators; not verified GardenDAO founders.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/HLCNhF5rsrcWJLTLJYuGaYDQXJSPorMERm3ZcQz17R29",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "GardenDAO: unsuccessful $2,000,000 raise (Jun 30)",
+          "url": "https://www.backable.biz/raises/HLCNhF5rsrcWJLTLJYuGaYDQXJSPorMERm3ZcQz17R29",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://gardendao.com/",
+      "discoverySourceLinks": [
+        "https://x.com/thegardendao"
+      ]
+    },
+    {
+      "projectId": "prism-protocol",
+      "name": "PRISM Protocol",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "PRISM Protocol: unsuccessful $20,000 raise (Jun 4)",
+          "url": "https://www.backable.biz/raises/AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "PRISM: structured credit documentation introduction",
+          "url": "https://docs.prismprotocol.dev/",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "PRISM: programmable credit risk thesis",
+          "url": "https://www.prismprotocol.dev/blog/the-100t-market-that-doesnt-trade",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "PRISM: credit market design on Solana",
+          "url": "https://www.prismprotocol.dev/blog/solana-fixed-speed-not-credit",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "PRISM: IKA collateral attestation design",
+          "url": "https://www.prismprotocol.dev/blog/cross-chain-collateral-ika",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "PRISM: encrypted default attestations",
+          "url": "https://www.prismprotocol.dev/blog/fhe-default-without-disclosure",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "PRISM: legacy rails and programmable credit thesis",
+          "url": "https://www.prismprotocol.dev/blog/dodo-payments-why-prism",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "PRISM: confidential yield payout attestation design",
+          "url": "https://www.prismprotocol.dev/blog/cloak-private-yield-payouts",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "PRISM: analytics and Dune SIM integration essay",
+          "url": "https://www.prismprotocol.dev/blog/dune-sim-real-time-credit-analytics",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.prismprotocol.dev/",
+      "discoverySourceLinks": [
+        "https://docs.prismprotocol.dev/",
+        "https://www.prismprotocol.dev/blog",
+        "https://x.com/prismsolana"
+      ]
+    },
+    {
+      "projectId": "talaria",
+      "name": "Talaria",
+      "people": "Titouan, CYNIC engineering; Ragnar-no-sleep, Blitz & Chill. Roles as published.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Talaria: unsuccessful $50,000 raise (Jun 8)",
+          "url": "https://www.backable.biz/raises/D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Talaria-linked CYNIC: current runtime overview",
+          "url": "https://github.com/zeyxx/CYNIC",
+          "method": "complete-readme-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://talaria.build",
+      "discoverySourceLinks": [
+        "https://x.com/CynicOracle",
+        "https://github.com/zeyxx/CYNIC",
+        "https://github.com/Ragnar-no-sleep/blitz-and-chill"
+      ]
+    },
+    {
+      "projectId": "arcade-cafe",
+      "name": "Arcade Cafe",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/1AEZZsShFCnC8UUetqk9hGby66Q5mgyszDHdXjAmdYe",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Arcade Cafe: unsuccessful $200,000 raise (Jun 8)",
+          "url": "https://www.backable.biz/raises/1AEZZsShFCnC8UUetqk9hGby66Q5mgyszDHdXjAmdYe",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://arcade.cafe/",
+      "discoverySourceLinks": [
+        "https://x.com/arcadecafeok"
+      ]
+    },
+    {
+      "projectId": "privatedao",
+      "name": "PrivateDAO",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "PrivateDAO: unsuccessful $50,000 raise (Jun 1)",
+          "url": "https://www.backable.biz/raises/9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "PrivateDAO: current runtime and network evidence overview",
+          "url": "https://github.com/x-pact-pro/PrivateDAO",
+          "method": "complete-readme-reviewed"
+        },
+        {
+          "title": "PrivateDAO: Testnet proof center and degraded evidence boundaries",
+          "url": "https://privatedao.org/proof/",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://privatedao.org/",
+      "discoverySourceLinks": [
+        "https://github.com/X-PACT/PrivateDAO",
+        "https://x.com/privateDAOOS",
+        "https://privatedao.org/proof/"
+      ]
+    },
+    {
+      "projectId": "rugpull-club",
+      "name": "Rugpull Club",
+      "people": "Lukas Falk, founder/backend developer; Marek Petrov, frontend developer.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/5S3bKMvxMhixAowK6WkdH5iRapmhd2PiKHt2bBSNxDha",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Rugpull Club: unsuccessful $10,000 raise (Jun 2)",
+          "url": "https://www.backable.biz/raises/5S3bKMvxMhixAowK6WkdH5iRapmhd2PiKHt2bBSNxDha",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Rugpull Club: unsuccessful $10,000 raise (May 25)",
+          "url": "https://www.backable.biz/raises/yyBEsbz9q3L1i5423kxUVTfGBK42KptRt6Jq6FngDix",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://rugpull.club/",
+      "discoverySourceLinks": [
+        "https://x.com/rugpull_club"
+      ]
+    },
+    {
+      "projectId": "tributary",
+      "name": "Tributary",
+      "people": "Fabian Schuh, solo builder identified in team section; prior roles and track record remain self-reported.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "All ten bodies in inspected Medium index and all five surfaced X Article bodies read. Eleven written sources selected, four not selected. Two historical demo/pitch caption tracks read; three videos lack retrieved transcripts and the newer replacement pitch remains pending. Current execution depends on gateway signers per June 2026 founder article. Wider posts and archives, audited security, on-chain outcomes and refunds unresolved.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Tributary: unsuccessful $176,000 raise (May 25)",
+          "url": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Tributary: pull-payment protocol documentation overview",
+          "url": "https://docs.tributary.so/",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Why Tributary Is Raising on Futarchy",
+          "url": "https://medium.com/@xeroc/why-tributary-is-raising-on-futarchy-5cf228b3c9e9",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Tributary development: referrals, fees and x402 v2",
+          "url": "https://medium.com/@xeroc/tributary-development-update-referral-program-custom-fees-and-x402-v2-1cdeb7a31baa",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Tributary: signed JWT payment claims and facilitator model",
+          "url": "https://medium.com/@xeroc/proving-payments-without-a-backend-how-tributary-uses-jwt-d3605b23add9",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Tributary: recurring payments with React hooks",
+          "url": "https://medium.com/@xeroc/accepting-recurring-solana-payments-in-react-without-losing-your-mind-652583e8c91d",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Tributary: delegated payments versus team multisig",
+          "url": "https://medium.com/@xeroc/squads-vs-tributary-right-tools-for-different-jobs-29b75c173a69",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Tributary: token delegation and recurring-payment control",
+          "url": "https://medium.com/@xeroc/understanding-token-delegation-the-magic-behind-tributarys-automatic-payments-aaac32a0e4af",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Fabian Schuh: security bootcamp and Tributary development reflection",
+          "url": "https://medium.com/@xeroc/rektoff-solana-rust-security-bootcamp-review-76eb7e812e73",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Two Roads to Recurring Payments on Solana",
+          "url": "https://x.com/xer0c/status/2062897371508248991",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Decision or verdict: decision markets and arbitration",
+          "url": "https://x.com/xer0c/status/2085113127641981089",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Uncertainty, Ambiguity, and the Failure of Token Voting",
+          "url": "https://x.com/xer0c/status/2086840730178523598",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Agent transaction building and isolated signing keys",
+          "url": "https://x.com/xer0c/status/2085415469423718757",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Tributary: original Cypherpunk pitch",
+          "url": "https://www.youtube.com/watch?v=HwulPezwCSQ",
+          "method": "complete-available-captions-reviewed"
+        },
+        {
+          "title": "Tributary: Cypherpunk technical demo narration",
+          "url": "https://www.youtube.com/watch?v=94tAF2PvMpw",
+          "method": "complete-available-captions-reviewed"
+        },
+        {
+          "title": "Tributary: current payment policies and validation-enforcement limitation",
+          "url": "https://github.com/tributary-so/tributary",
+          "method": "complete-readme-reviewed"
+        },
+        {
+          "title": "Tributary: Fabian Schuh recurring-payment rails pitch",
+          "url": "https://www.youtube.com/watch?v=JSKsIdD1zhY",
+          "method": "complete-available-captions-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://tributary.so/",
+      "discoverySourceLinks": [
+        "https://medium.com/@xeroc",
+        "https://x.com/xer0c",
+        "https://docs.tributary.so/",
+        "https://github.com/tributary-so",
+        "https://youtu.be/KwRowt-9448",
+        "https://youtu.be/GHR2WmTtRAQ",
+        "https://youtu.be/HwulPezwCSQ",
+        "https://youtu.be/0irXnJaL_Rs",
+        "https://youtu.be/94tAF2PvMpw"
+      ]
+    },
+    {
+      "projectId": "sanctum-permissionless-fork",
+      "name": "sanctum done right fork",
+      "people": "STACCoverflow account linked; legal founder identity unestablished.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/3SWD1jNDe6C1qbuDefXng6DQA2DnM8WKPpgH6nL7cuDg",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "sanctum done right fork: unsuccessful $1,200,000 raise (May 19)",
+          "url": "https://www.backable.biz/raises/3SWD1jNDe6C1qbuDefXng6DQA2DnM8WKPpgH6nL7cuDg",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Sanctum permissionless dispute: proposal author account",
+          "url": "https://x.com/STACCoverflow/status/1897696471216005149",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Sanctum: official clarification of permissionless proposal access",
+          "url": "https://x.com/sanctumso/status/1897154497417502801",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://stacsol.app/",
+      "discoverySourceLinks": [
+        "https://x.com/STACCoverflow/status/1897696471216005149"
+      ]
+    },
+    {
+      "projectId": "boltick",
+      "name": "Boltick",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/p3f1RW1uWTjraL99dCmqQ3uCtSTfKhSWdRxxKoAoaWx",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Boltick: unsuccessful $200,000 raise (May 15)",
+          "url": "https://www.backable.biz/raises/p3f1RW1uWTjraL99dCmqQ3uCtSTfKhSWdRxxKoAoaWx",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://boltick.com.ar/",
+      "discoverySourceLinks": [
+        "https://x.com/BoltickWeb3"
+      ]
+    },
+    {
+      "projectId": "diverg",
+      "name": "Diverg",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/5mbLJavVEu9hRgEd9Sg2GCQSNMjRWc9t6ZzjamndU64q",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Diverg: unsuccessful $25,000 raise (Apr 21)",
+          "url": "https://www.backable.biz/raises/5mbLJavVEu9hRgEd9Sg2GCQSNMjRWc9t6ZzjamndU64q",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://divergsec.com/",
+      "discoverySourceLinks": [
+        "https://x.com/divergsec"
+      ]
+    },
+    {
+      "projectId": "bynomo",
+      "name": "Bynomo",
+      "people": "Amaan Sayyad, CEO; Cankat Polat, Head of Tech; Abhishek Singh, Head of Business; other published contributors not inferred founders.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Bynomo: unsuccessful $50,000 raise (Apr 20)",
+          "url": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Bynomo: hybrid architecture litepaper v1.3.0",
+          "url": "https://bynomo.fun/litepaper",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Bynomo founder Amaan Sayyad: portfolio and company-role disclosure",
+          "url": "https://amaansayyad.com",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://bynomo.fun/",
+      "discoverySourceLinks": [
+        "https://x.com/amaanbiz",
+        "https://github.com/AmaanSayyad",
+        "https://www.linkedin.com/in/amaan-sayyad-/",
+        "https://bynomo.fun/litepaper",
+        "https://youtu.be/t76ltZH9XSU"
+      ]
+    },
+    {
+      "projectId": "solar-wallet",
+      "name": "Solar",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/5oyuNXQ8CpRn5oFGNszYGjrPknU1AMeQhuxwUdJpaMDT",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Solar: unsuccessful $150,000 raise (Apr 18)",
+          "url": "https://www.backable.biz/raises/5oyuNXQ8CpRn5oFGNszYGjrPknU1AMeQhuxwUdJpaMDT",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://yourwallet.solar/",
+      "discoverySourceLinks": [
+        "https://x.com/getsolarwallet"
+      ]
+    },
+    {
+      "projectId": "universal-revenue-service",
+      "name": "Universal Revenue Service",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/6LRN6j1EdbkXkjQybpKbpb4xWc84Ps7LPNHwtQqA7cGC",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Universal Revenue Service: unsuccessful $50,000 raise (Mar 24)",
+          "url": "https://www.backable.biz/raises/6LRN6j1EdbkXkjQybpKbpb4xWc84Ps7LPNHwtQqA7cGC",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://universalrevenueservice.com/",
+      "discoverySourceLinks": [
+        "https://x.com/URS_main"
+      ]
+    },
+    {
+      "projectId": "quantum-waffle",
+      "name": "Quantum Waffle",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/4Wm4NFVy9MKgSJe3ZT8aKwbL3dc5XxvnWdPhvC4Sinow",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Quantum Waffle: unsuccessful $50,000 raise (Apr 2)",
+          "url": "https://www.backable.biz/raises/4Wm4NFVy9MKgSJe3ZT8aKwbL3dc5XxvnWdPhvC4Sinow",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://quantumwaffle.xyz/",
+      "discoverySourceLinks": [
+        "https://x.com/QuantumWaffleQW"
+      ]
+    },
+    {
+      "projectId": "nfa-space",
+      "name": "NFA.space",
+      "people": "Bogdan Dmitriyev (@Bogdex) and Wiktoria Malacka (@WictorijaNFA), founder links supplied by pitch.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Seven company/cofounder article bodies reviewed, including Wiktoria full X Article and linked company thesis. COO/cofounder role corroborated by public bio. Five Bogdex X Article bodies inventoried but unread. Offer agreement, embedded visuals, YouTube archive and wider posts unresolved.",
+      "reviewedSourceLinks": [
+        {
+          "title": "NFA.space: unsuccessful $125,000 raise (Mar 17)",
+          "url": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "NFA.space: historical NFT-holder revenue sharing",
+          "url": "https://www.nfa.space/post/empowering-our-holders-introducing-revenue-sharing-at-nfa-space",
+          "method": "Complete available written body read"
+        },
+        {
+          "title": "NFA.space: second-year retrospective",
+          "url": "https://www.nfa.space/post/art-3-0-second-year-so-far-so-good",
+          "method": "Complete available written body read"
+        },
+        {
+          "title": "NFA.space: Futardio ICO plan",
+          "url": "https://www.nfa.space/post/nfa-token-ico-on-futardio",
+          "method": "Complete available written body read"
+        },
+        {
+          "title": "NFA.space: physical art ownership and platform history",
+          "url": "https://www.nfa.space/post/nfa-space-building-the-future-of-art-ownership-one-artwork-at-a-time",
+          "method": "Complete available written body read"
+        },
+        {
+          "title": "NFA.space: original collector and NFT thesis",
+          "url": "https://www.nfa.space/post/the-new-future-for-the-fine-arts-industry-at-nft-space-concerning-collectors",
+          "method": "Complete available written body read"
+        },
+        {
+          "title": "When Art Starts Smiling Back: participatory collecting",
+          "url": "https://x.com/WictorijaNFA/status/2039737589507211767",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "NFA.space: community-driven ownership and art governance",
+          "url": "https://www.nfa.space/post/when-art-smiles-back-equally-why-futarchy-could-redefine-the-future-of-art",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.nfa.space/",
+      "discoverySourceLinks": [
+        "https://x.com/Bogdex",
+        "https://x.com/WictorijaNFA",
+        "https://www.nfa.space/blog",
+        "https://www.nfa.space/post/the-new-future-for-the-fine-arts-industry-at-nft-space-concerning-collectors",
+        "https://www.nfa.space/post/art-3-0-second-year-so-far-so-good",
+        "https://www.nfa.space/post/empowering-our-holders-introducing-revenue-sharing-at-nfa-space",
+        "https://www.youtube.com/@nfaspace"
+      ]
+    },
+    {
+      "projectId": "shopsbuilder-ai",
+      "name": "ShopsBuilder AI",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/6qtygHxrFzF3tucXcy6EzbwZJBRbiuZAZrsXapXZLxE3",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "ShopsBuilder AI: unsuccessful $420,000 raise (Mar 15)",
+          "url": "https://www.backable.biz/raises/6qtygHxrFzF3tucXcy6EzbwZJBRbiuZAZrsXapXZLxE3",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://shopsbuilder.app/",
+      "discoverySourceLinks": [
+        "https://x.com/shopsbuilder"
+      ]
+    },
+    {
+      "projectId": "git3",
+      "name": "Git3",
+      "people": "Ion Spinu, founder named in Team section.",
+      "identityEvidence": "Roles explicitly published in primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/HKRDmghovXSCMobiRCZ7BBdHopEizyKmnhJKywjk3vUa",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Git3: unsuccessful $50,000 raise (Mar 14)",
+          "url": "https://www.backable.biz/raises/6JSEvdUfQuo8rh3M18Wex5xmSacUuBozz9uQEgFC81pX",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Git3: unsuccessful $100,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/HKRDmghovXSCMobiRCZ7BBdHopEizyKmnhJKywjk3vUa",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Git3: repository importer technical overview",
+          "url": "https://www.git3.io/docs",
+          "method": "complete-written-body-reviewed"
+        },
+        {
+          "title": "Git3: code ownership manifesto and revenue model",
+          "url": "https://www.git3.io/manifesto.pdf",
+          "method": "complete-extracted-text-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://git3.io/",
+      "discoverySourceLinks": [
+        "https://www.git3.io/docs",
+        "https://x.com/TryGit3",
+        "https://www.git3.io/manifesto.pdf"
+      ]
+    },
+    {
+      "projectId": "etnl",
+      "name": "Etnl.io",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/4oiZeLhoDB9jGTFd28kJDKBYheL1Yg1XwR3qPTa69Rx9",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Etnl.io: unsuccessful $500,000 raise (Mar 10)",
+          "url": "https://www.backable.biz/raises/4oiZeLhoDB9jGTFd28kJDKBYheL1Yg1XwR3qPTa69Rx9",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "ETNL: smartphone hardware custody introduction",
+          "url": "https://docs.etnl.io/",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://etnl.io/",
+      "discoverySourceLinks": [
+        "https://docs.etnl.io/",
+        "https://x.com/etnl_io"
+      ]
+    },
+    {
+      "projectId": "seeker-vault",
+      "name": "Seeker Vault",
+      "people": "@gbflarcos and @Beardkoda, two builders named in Team section.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Seeker Vault: unsuccessful $50,000 raise (Mar 9)",
+          "url": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "SeekerVault: unsuccessful $75,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/7U7F3g1y81PJ97pQdA85moD732kctKGLizKgCHqnGW2d",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://seekervault.xyz/",
+      "discoverySourceLinks": [
+        "https://x.com/gbflarcos",
+        "https://x.com/Beardkoda",
+        "https://x.com/seekervaultxyz",
+        "https://seekervault.xyz/assets/pdf%20preview%20seekervault.mp4",
+        "https://seekervault.xyz/assets/video%20demo%20seekervault.mp4",
+        "https://seekervault.xyz/assets/Picture%20upload%20seekervault.mp4"
+      ]
+    },
+    {
+      "projectId": "nexid",
+      "name": "NexID",
+      "people": "Unnamed two-person founding team; prior educational experience claimed without named attribution.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "NexID: unsuccessful $50,000 raise (Mar 8)",
+          "url": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://nexid.fun/",
+      "discoverySourceLinks": [
+        "https://docs.nexid.fun/",
+        "https://x.com/UseNexID",
+        "https://academy.nexid.fun/academy/campaign/4",
+        "https://academy.nexid.fun/academy/campaign/3"
+      ]
+    },
+    {
+      "projectId": "lobsterfutarchy",
+      "name": "LobsterFutarchy",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/2d9RAui8BGYh8Jt7dc49WSFTuXVRT4nNE4Sy2mUtALNZ",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "LobsterFutarchy: unsuccessful $500,000 raise (Mar 7)",
+          "url": "https://www.backable.biz/raises/2d9RAui8BGYh8Jt7dc49WSFTuXVRT4nNE4Sy2mUtALNZ",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://lobsterfutarchy.com/",
+      "discoverySourceLinks": [
+        "https://x.com/lobster"
+      ]
+    },
+    {
+      "projectId": "ludex-ai",
+      "name": "Ludex AI",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/95HNkVuqzStFe7B6Aw32sgkbwkHEyEsA818izKKTz776",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Ludex AI: unsuccessful $500,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/95HNkVuqzStFe7B6Aw32sgkbwkHEyEsA818izKKTz776",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Ludex AI: game generation whitepaper introduction",
+          "url": "https://ludexai.gitbook.io/ludexai/",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.ludexai.io/",
+      "discoverySourceLinks": [
+        "https://ludexai.gitbook.io/ludexai/",
+        "https://x.com/LudexAI_io"
+      ]
+    },
+    {
+      "projectId": "futardio-boat",
+      "name": "FUTARDIO Boat",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/rFdgjcZYHgcsGy44iyvN95JRjB3Yr8APps437cd2HEL",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "FUTARDIO Boat: unsuccessful $150,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/rFdgjcZYHgcsGy44iyvN95JRjB3Yr8APps437cd2HEL",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://futardio.boats/",
+      "discoverySourceLinks": [
+        "https://x.com/futardioboat"
+      ]
+    },
+    {
+      "projectId": "launchpet",
+      "name": "Launchpet",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/BWeT96hGV245sm6Ua4EhLPL8GngcBV2aKS2uvkaEkjBi",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Launchpet: unsuccessful $60,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/BWeT96hGV245sm6Ua4EhLPL8GngcBV2aKS2uvkaEkjBi",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://launchpet.com/",
+      "discoverySourceLinks": [
+        "https://x.com/launchpet"
+      ]
+    },
+    {
+      "projectId": "blockrock",
+      "name": "BlockRock",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "BlockRock: unsuccessful $500,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "BlockRock: ownership fund charter",
+          "url": "https://www.blockrock.fund/charter",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://blockrock.fund/",
+      "discoverySourceLinks": [
+        "https://blockrock.fund/charter",
+        "https://x.com/blockrockfund"
+      ]
+    },
+    {
+      "projectId": "phonon-studio",
+      "name": "Phonon Studio AI",
+      "people": "9owls, founder named in pitch.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/x1yqPH8mutuiqkrz66DPwFw1ykQqT4v5KyUUtUzBgPA",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Phonon Studio AI: unsuccessful $88,888 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/x1yqPH8mutuiqkrz66DPwFw1ykQqT4v5KyUUtUzBgPA",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://phonon.studio/",
+      "discoverySourceLinks": [
+        "https://x.com/Phonon_Studio"
+      ]
+    },
+    {
+      "projectId": "runbookai",
+      "name": "RunBookAI",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/9DfNVpcDm6x1GXUa8wik8YVZhiw7dTmmhefVBWVZuAg8",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "RunBookAI: unsuccessful $350,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/9DfNVpcDm6x1GXUa8wik8YVZhiw7dTmmhefVBWVZuAg8",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "RunBook AI: strategy marketplace introduction",
+          "url": "https://docs.runbookai.xyz/",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.runbookai.xyz/",
+      "discoverySourceLinks": [
+        "https://docs.runbookai.xyz/"
+      ]
+    },
+    {
+      "projectId": "insert-coin-labs",
+      "name": "Insert Coin labs",
+      "people": "@x0lpeko identified as build-in-public account, not sufficient proof of legal founder title.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Insert Coin labs: unsuccessful $50,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Insert Coin Labs: current arcade interface at domin8.fun",
+          "url": "https://domin8.fun/",
+          "method": "product-interface-reviewed"
+        },
+        {
+          "title": "Insert Coin Labs-linked Rabbit Royale: current product and roadmap",
+          "url": "https://www.rabbit-royale.com/",
+          "method": "product-interface-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.iclabs.fun/",
+      "discoverySourceLinks": [
+        "https://twitter.com/x0lpeko",
+        "https://twitter.com/Excalead",
+        "https://domin8.fun/",
+        "https://www.rabbit-royale.com/",
+        "https://x.com/iclabsdotfun"
+      ]
+    },
+    {
+      "projectId": "seyf",
+      "name": "Seyf",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/2TK2hDtyNAY2hbV3yHDoVaAPSfaod2sHX7PtWPz8QfmQ",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Seyf: unsuccessful $300,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/2TK2hDtyNAY2hbV3yHDoVaAPSfaod2sHX7PtWPz8QfmQ",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://seyf.app/",
+      "discoverySourceLinks": [
+        "https://x.com/SeyfWallet"
+      ]
+    },
+    {
+      "projectId": "torch-market",
+      "name": "Torch Market",
+      "people": "GitHub account mrsirg97-rgb linked, legal founder identity unestablished.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Torch Market: unsuccessful $75,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Torch market: token-native margin whitepaper",
+          "url": "https://torch.market/whitepaper",
+          "method": "complete-written-body-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://torch.market/",
+      "discoverySourceLinks": [
+        "https://torch.market/whitepaper",
+        "https://torch.market/verification.md",
+        "https://torch.market/audit.md",
+        "https://github.com/mrsirg97-rgb",
+        "https://x.com/torch_market"
+      ]
+    },
+    {
+      "projectId": "tridash",
+      "name": "TriDash",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/5jK8akFVVkM9JAJKps6M9eECCBoSLM7meR2Kf5Kc47f7",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "TriDash: unsuccessful $50,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/5jK8akFVVkM9JAJKps6M9eECCBoSLM7meR2Kf5Kc47f7",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.tridash.xyz/",
+      "discoverySourceLinks": [
+        "https://x.com/tridashgame"
+      ]
+    },
+    {
+      "projectId": "bitfutard",
+      "name": "BitFuTard",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/3jDrz2B6aDgjKSArkJPkqQPnYXqtihjAtGHf7tRohjj2",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "BitFuTard: unsuccessful $100,000 raise (Mar 6)",
+          "url": "https://www.backable.biz/raises/3jDrz2B6aDgjKSArkJPkqQPnYXqtihjAtGHf7tRohjj2",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://bitfutard.com/",
+      "discoverySourceLinks": [
+        "https://x.com/BitFuTard"
+      ]
+    },
+    {
+      "projectId": "send-arcade",
+      "name": "Send Arcade",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "SEND sunset post fully read; future allocation eligibility is not guaranteed payment and wind-down completion is not proven. Arcade-specific founder attribution, wider archives and execution remain unresolved.",
+      "reviewedSourceLinks": [
+        {
+          "title": "Send Arcade: unsuccessful $288,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "SEND sunset and Send Arcade independence",
+          "url": "https://x.com/yashhsm/status/2009698779902169135",
+          "method": "Complete available written body read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://www.sendarcade.fun/",
+      "discoverySourceLinks": [
+        "https://x.com/yashhsm/status/2009698779902169135",
+        "https://github.com/SendArcade",
+        "https://x.com/sendarcadefun"
+      ]
+    },
+    {
+      "projectId": "island",
+      "name": "Island",
+      "people": "@xpmaxxer, founder account explicitly identified in pitch.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/FpFytak8JZwVntqDh9G95zqXXVJNXMxRFUYY959AXeZj",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Island: unsuccessful $50,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/FpFytak8JZwVntqDh9G95zqXXVJNXMxRFUYY959AXeZj",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "http://island.ag/",
+      "discoverySourceLinks": [
+        "https://x.com/xpmaxxer",
+        "https://x.com/islandYield"
+      ]
+    },
+    {
+      "projectId": "i-rich",
+      "name": "i.rich",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/87ZWGbregxaa7TMD3TgYg6n2ADdTN1vqXpVCtSvKjEjw",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "i.rich: unsuccessful $100,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/87ZWGbregxaa7TMD3TgYg6n2ADdTN1vqXpVCtSvKjEjw",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://i.rich/",
+      "discoverySourceLinks": [
+        "https://docs.i.rich/",
+        "https://x.com/idotrich"
+      ]
+    },
+    {
+      "projectId": "pli-creperie",
+      "name": "Pli — Crêperie Ambulante",
+      "people": "Unnamed Zurich-based solutions architect, self-described; no identity inferred.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/GmNzSXzQ3q6UCVRpBf8PkvEqoo454Qr6twWc9zuzJzBa",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Pli — Crêperie Ambulante: unsuccessful $350,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/GmNzSXzQ3q6UCVRpBf8PkvEqoo454Qr6twWc9zuzJzBa",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "discoverySourceLinks": []
+    },
+    {
+      "projectId": "sizematters",
+      "name": "SizeMatters",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/CtynMdGE4CwJuUSoYhRf4powwKwT8bWo5Dq2KiBVEiKm",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "SizeMatters: unsuccessful $75,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/CtynMdGE4CwJuUSoYhRf4powwKwT8bWo5Dq2KiBVEiKm",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://sizematters.fun/",
+      "discoverySourceLinks": [
+        "https://x.com/sizemattersfun",
+        "https://x.com/sizemattersfun/status/2029149947405193560"
+      ]
+    },
+    {
+      "projectId": "xorrabet",
+      "name": "XorraBet",
+      "people": "Zabizas, founder/lead designer; Nino, full-stack developer. Roles as published.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/24fzAzy51sUFSnRf4qpTqSrrugiKcJ8uVh2TSnQrDdoY",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "XorraBet: unsuccessful $410,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/24fzAzy51sUFSnRf4qpTqSrrugiKcJ8uVh2TSnQrDdoY",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://xorrabet.com/",
+      "discoverySourceLinks": [
+        "https://x.com/XorraBet"
+      ]
+    },
+    {
+      "projectId": "futarchy-arena",
+      "name": "Futarchy Arena",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/8UjuYsm1m8uNNVSeA1NSwvV6ch9G2QC14yKvpXjrRgw",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Futarchy Arena: unsuccessful $50,000 raise (Mar 5)",
+          "url": "https://www.backable.biz/raises/8UjuYsm1m8uNNVSeA1NSwvV6ch9G2QC14yKvpXjrRgw",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "discoverySourceLinks": []
+    },
+    {
+      "projectId": "vervepay",
+      "name": "Vervepay",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/CrRTdZWr8iectFdEXi2FdDGNFSLT3LEX3i1xVNiJqEpc",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Vervepay: unsuccessful $200,000 raise (Mar 4)",
+          "url": "https://www.backable.biz/raises/CrRTdZWr8iectFdEXi2FdDGNFSLT3LEX3i1xVNiJqEpc",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://vervepay.netlify.app/",
+      "discoverySourceLinks": [
+        "https://x.com/vervepay"
+      ]
+    },
+    {
+      "projectId": "digifrens",
+      "name": "DigiFrens",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/HTyjkYarxpf115vPqGXYpPpS9jFMXzLLjGNnVjEGWuBg",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "DigiFrens: unsuccessful $200,000 raise (Mar 4)",
+          "url": "https://www.backable.biz/raises/HTyjkYarxpf115vPqGXYpPpS9jFMXzLLjGNnVjEGWuBg",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://digifrens.app/",
+      "discoverySourceLinks": [
+        "https://x.com/DigiFrens"
+      ]
+    },
+    {
+      "projectId": "cloak",
+      "name": "Cloak",
+      "people": "Vaibhav and Prasad, cofounders explicitly named. Prior employment remains self-reported.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/9MqyiXXJUAXQ1Uy5j2EV8hq21UeR3ruukWkZ1XGNhg3R",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Cloak: unsuccessful $300,000 raise (Mar 4)",
+          "url": "https://www.backable.biz/raises/9MqyiXXJUAXQ1Uy5j2EV8hq21UeR3ruukWkZ1XGNhg3R",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        },
+        {
+          "title": "Cloak: historical privacy DCA hackathon README",
+          "url": "https://github.com/vaibhav0806/cloak-dca",
+          "method": "complete-readme-reviewed"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://usecloak.xyz/",
+      "discoverySourceLinks": [
+        "https://github.com/vaibhav0806/cloak-dca",
+        "https://x.com/cloakdefi"
+      ]
+    },
+    {
+      "projectId": "versus",
+      "name": "VERSUS",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/97zmRbfpCR88KkFucJnUvMKEaFg5ay6GxQSWmyEsdi67",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "VERSUS: unsuccessful $500,000 raise (Mar 4)",
+          "url": "https://www.backable.biz/raises/97zmRbfpCR88KkFucJnUvMKEaFg5ay6GxQSWmyEsdi67",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "discoverySourceLinks": []
+    },
+    {
+      "projectId": "manna-finance",
+      "name": "Manna Finance",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/5whxoTjxW4oKeSN4C8yf5JUur7pcSChkPWgmhSZQ8oD5",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Manna Finance: unsuccessful $120,000 raise (Mar 4)",
+          "url": "https://www.backable.biz/raises/5whxoTjxW4oKeSN4C8yf5JUur7pcSChkPWgmhSZQ8oD5",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://manna.finance/",
+      "discoverySourceLinks": [
+        "https://x.com/MannaFinance"
+      ]
+    },
+    {
+      "projectId": "open-music",
+      "name": "Open Music",
+      "people": "No named founder established from the reviewed pitch.",
+      "identityEvidence": "Reviewed pitch does not establish a named founder.",
+      "identitySource": "https://www.backable.biz/raises/4R1peXdUehAS1aWCdnrBfLRevGktsKH2euvBLdsYXbWu",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Open Music: unsuccessful $250,000 raise (Mar 4)",
+          "url": "https://www.backable.biz/raises/4R1peXdUehAS1aWCdnrBfLRevGktsKH2euvBLdsYXbWu",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://openmusic.art/",
+      "discoverySourceLinks": [
+        "https://x.com/openmusic_art"
+      ]
+    },
+    {
+      "projectId": "milo-ai-agent",
+      "name": "Milo AI Agent",
+      "people": "Nathan Wissing, founder explicitly named.",
+      "identityEvidence": "Roles and accounts as explicitly published in the primary pitch; not an independent biography.",
+      "identitySource": "https://www.backable.biz/raises/4EhLS9CWQ2dQQe1nexxvB6D3c5jGaRCirpQ5GJFS43nR",
+      "checkedAt": "2026-10-12",
+      "coverage": "partial — not a complete personal archive",
+      "gaps": "Personal founder archives, linked articles/videos, product delivery, security and refund execution remain unverified. ",
+      "reviewedSourceLinks": [
+        {
+          "title": "Milo AI Agent: unsuccessful $250,000 raise (Mar 4)",
+          "url": "https://www.backable.biz/raises/4EhLS9CWQ2dQQe1nexxvB6D3c5jGaRCirpQ5GJFS43nR",
+          "method": "Primary outcome and complete available expanded product pitch read"
+        }
+      ],
+      "episodeLeads": [],
+      "projectWebsite": "https://my-site-e8kzsy52-wissingnathan.wix-vibe.com/",
+      "discoverySourceLinks": []
+    }
+  ]
+}

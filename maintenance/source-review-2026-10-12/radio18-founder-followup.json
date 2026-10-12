@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": [
+    {
+      "url": "https://docs.kimia.live/resources/audits",
+      "status": "full-page-reviewed",
+      "finding": "Five scopes scheduled/TBA; V1 explicitly unaudited devnet. Completed-audit claim in July interview not corroborated. Different revisions or scope possible; do not infer deception."
+    },
+    {
+      "url": "https://docs.kimia.live/resources/risks",
+      "status": "full-page-reviewed",
+      "finding": "V1 team admin keys, prospective V2 governance transition; negative funding and other risks disclosed. No code or deployment audit performed."
+    },
+    {
+      "url": "https://docs.kimia.live/resources/faqs",
+      "status": "full-page-reviewed-not-separate-catalog-entry",
+      "finding": "Devnet stated; one generic audited-contract sentence conflicts with explicit audit-status page. Preserve discrepancy pending scope/version evidence."
+    },
+    {
+      "url": "https://kimia.live/blog",
+      "status": "index-reviewed",
+      "finding": "Seven visible article links. Most already cataloged; index excerpts do not substitute for unread bodies."
+    },
+    {
+      "url": "https://github.com/HISTORIAH/Heirloom-app",
+      "status": "complete-readme-reviewed",
+      "finding": "Links heirlm.xyz and @heirloom_app. Three listed program variants marked devnet. README audit assertion has not been independently verified. Distinct from other similarly named inheritance projects."
+    },
+    {
+      "url": "https://heirlm.xyz/blog",
+      "status": "web-reader-unavailable",
+      "finding": "Archive bodies not read. Browser attempt for documentation timed out; no protections bypassed."
+    }
+  ],
+  "remaining": [
+    "Kimia audit scope and version reconciliation; broader individual-founder identities and archives",
+    "Heirloom blog bodies and primary founder profiles",
+    "Keystone primary docs and individual-founder archive"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-10-12",
+  "episode": 11,
+  "decisions": [
+    {
+      "resourceId": "decision-rawr-001",
+      "sourceUrl": "https://metadao.fi/decisions/rawr-001",
+      "status": "updated",
+      "boundary": "Full primary proposal summary and live Instructions tab read on October 12. June 1 is creation, not execution date. The platform labels the transfer Executed; no independent transaction audit performed. Proposal describes missing SPV and token-holder linkage at creation. Its budget table contains inconsistent subtotals; no inferred revised budget. Funding does not prove completion of legal work."
+    },
+    {
+      "resourceId": "decision-metadao-038",
+      "sourceUrl": "https://metadao.fi/decisions/metadao-038",
+      "status": "added",
+      "boundary": "Read full live primary summary and Instructions tab. May 12 is proposal creation, not resolution or execution. The platform labels a 360,000 USDC transfer Executed. No independent transaction audit or assessment of security-service performance. Radio 11 captures discussion while the proposal was still trading."
+    }
+  ],
+  "fundraise": {
+    "sourceUrl": "https://www.futard.io/launch/F5A6BchpqGbbBABtgRycJZGkqy2i5AgVJP1VKW5AGotG",
+    "committedDisplayed": 15287173.3,
+    "raiseGoalDisplayed": 200000,
+    "companyRaisedDisplayed": 200000,
+    "boundary": "Public primary launch page and company directory distinguish total commitments from accepted raise. Different earlier figures in coverage may reflect snapshots, not necessarily factual errors."
+  },
+  "remaining": [
+    "Tony March founder reflection not yet recovered; no full-article review claimed.",
+    "Executed funding instruction does not establish SPV legal completion, fossil purchase or museum custody."
+  ],
+  "guestBoundary": "Epicentral, five-minute markets and token pre-market pitches do not establish completed MetaDAO raises; no automatic project-registry additions."
+}

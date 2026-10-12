@@ -1,0 +1,353 @@
+{
+  "checkedAt": "2026-10-12",
+  "reviews": [
+    {
+      "resourceId": "res-259",
+      "title": "Ownership Podcast S1E5: Sheldon (P2P.me)",
+      "sourceUrl": "https://solana.com/podcasts/ownership/episodes/ownership-podcast-s1-e5-sheldon-p2p-me-e3gs8a3",
+      "rssUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+      "audioSha256": "5bb5075f774438d5cb8cdc551de330ae517bc63147a696700811908cd52dcd28",
+      "audioDurationSeconds": 2845.7215625,
+      "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "generatedSegments": 700,
+      "firstSegmentSeconds": 11.7,
+      "lastSegmentSeconds": 2845.36,
+      "reviewStatus": "complete-generated-transcript-reviewed",
+      "sections": [
+        {
+          "start": "00:11",
+          "topic": "Introduction and forthcoming raise"
+        },
+        {
+          "start": "03:27",
+          "topic": "Founder’s regulatory and decentralization rationale"
+        },
+        {
+          "start": "10:14",
+          "topic": "Pragmatic view of futarchy and transition from VC flexibility"
+        },
+        {
+          "start": "15:20",
+          "topic": "Liquidation concerns, operating budget and investor reaction"
+        },
+        {
+          "start": "26:42",
+          "topic": "Local payment rails and merchant coordination"
+        },
+        {
+          "start": "31:00",
+          "topic": "Fraud screening, social-account verification and merchants"
+        },
+        {
+          "start": "35:00",
+          "topic": "Spread-based revenue and competition"
+        },
+        {
+          "start": "38:15",
+          "topic": "Planned use of raise proceeds"
+        },
+        {
+          "start": "41:21",
+          "topic": "Circles of Trust and future multichain plans"
+        },
+        {
+          "start": "45:33",
+          "topic": "Founder closing investment pitch; not endorsed"
+        }
+      ],
+      "boundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 700 generated segments; 2845.72 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Episode precedes the raise. Fundraising plans, token distribution and future expansion are not completed outcomes. Claims that decentralization resolves regulatory exposure or screening prevents all fraud are not adopted as facts."
+    },
+    {
+      "resourceId": "res-257",
+      "title": "Ownership S1E2: rakka (Omnipair)",
+      "sourceUrl": "https://solana.com/podcasts/ownership/episodes/ownership-s1e2-rakka-omnipair-e3fmoq2",
+      "rssUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+      "audioSha256": "76054ade3c5a1638f62fcbbb5fb879e8af17f5c5e6d9013af275f117ea97da23",
+      "audioDurationSeconds": 4192.804,
+      "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "generatedSegments": 1010,
+      "firstSegmentSeconds": 2.29,
+      "lastSegmentSeconds": 4190.8,
+      "reviewStatus": "complete-generated-transcript-reviewed",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Origins and MetaDAO fundraising"
+        },
+        {
+          "start": "20:00",
+          "topic": "Execution pressure and permissionless fundraising"
+        },
+        {
+          "start": "25:17",
+          "topic": "Liquidation concerns, buybacks and treasury ownership"
+        },
+        {
+          "start": "30:15",
+          "topic": "Audit-funding proposal and accountability"
+        },
+        {
+          "start": "35:17",
+          "topic": "Permissionless lending and long-tail assets"
+        },
+        {
+          "start": "41:54",
+          "topic": "Manipulation, isolated pools and dynamic collateral limits"
+        },
+        {
+          "start": "48:01",
+          "topic": "AMM design and capital efficiency"
+        },
+        {
+          "start": "55:00",
+          "topic": "Liquidations and pool-level bad debt"
+        },
+        {
+          "start": "65:14",
+          "topic": "Monitoring, integrations and future roadmap"
+        }
+      ],
+      "boundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1010 generated segments; 4192.80 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Founder explanation, not an audit or proof of safety. Rakka explicitly acknowledges possible bad debt and manipulation of thinly traded pools. Governance discussion does not independently establish proposal execution. Roadmap features remain historical plans."
+    },
+    {
+      "resourceId": "res-258",
+      "title": "Ownership S1E4: Chris (Loyal)",
+      "sourceUrl": "https://solana.com/podcasts/ownership/episodes/ownership-s1-e4-chris-loyal-e3ghnna",
+      "rssUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+      "audioSha256": "e04b8b87a46ad759cd913d772b409478c001d29d33934c179cc0d0787bf7d59e",
+      "audioDurationSeconds": 4085.1795,
+      "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "generatedSegments": 1079,
+      "firstSegmentSeconds": 3.12,
+      "lastSegmentSeconds": 4091.44,
+      "reviewStatus": "complete-generated-transcript-reviewed",
+      "sections": [
+        {
+          "start": "01:22",
+          "topic": "Telegram workflow origins and privacy rationale"
+        },
+        {
+          "start": "08:18",
+          "topic": "MetaDAO fundraising and streamed community building"
+        },
+        {
+          "start": "15:00",
+          "topic": "Token-holder pressure and feedback"
+        },
+        {
+          "start": "20:00",
+          "topic": "Angel funding and potential venture participation"
+        },
+        {
+          "start": "24:07",
+          "topic": "Governance friction and ecosystem confidence"
+        },
+        {
+          "start": "28:12",
+          "topic": "Buyback experience and prospective OTC raise"
+        },
+        {
+          "start": "35:00",
+          "topic": "Branding and user-facing privacy"
+        },
+        {
+          "start": "44:21",
+          "topic": "Payment features and MagicBlock explanation"
+        },
+        {
+          "start": "50:52",
+          "topic": "Squads/Grid plans and human-approved agent transactions"
+        },
+        {
+          "start": "55:22",
+          "topic": "Reasons for choosing Solana"
+        },
+        {
+          "start": "63:00",
+          "topic": "Long-term ambitions and closing"
+        }
+      ],
+      "boundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1079 generated segments; 4085.18 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Buyback figures and token concentration are the founder’s historical account, not reconciled on-chain balances. OTC fundraising, Squads/Grid distribution and agent trading are plans or tests. Claims of regulatory protection and technical security are not established guarantees. Transcript includes an apparent repeated-farewell hallucination near the 55-minute chunk boundary and imperfect timestamps; those passages are not used as evidence."
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "title": "Ownership Podcast S1 E11: Shrii (Credible)",
+      "sourceUrl": "https://solana.com/podcasts/ownership/episodes/ownership-podcast-s1-e11-shrii-credible-e3m1tcq",
+      "rssUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+      "audioSha256": "862b64e88bf4117ffd5058b72f123b93334b4ead753f1546827279c6bf11d2c5",
+      "audioDurationSeconds": 2338.0636875,
+      "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "generatedSegments": 576,
+      "firstSegmentSeconds": 2.29,
+      "lastSegmentSeconds": 2336.97,
+      "reviewStatus": "complete-generated-transcript-reviewed",
+      "sections": [
+        {
+          "start": "01:35",
+          "topic": "Founder background and previous businesses"
+        },
+        {
+          "start": "04:00",
+          "topic": "Trade finance, market pivot and product pivot"
+        },
+        {
+          "start": "07:54",
+          "topic": "Existing investors and MetaDAO rationale"
+        },
+        {
+          "start": "12:53",
+          "topic": "Payment settlement, liquidity fronting and risk underwriting"
+        },
+        {
+          "start": "20:00",
+          "topic": "Open payment stack and self-onboarding"
+        },
+        {
+          "start": "22:23",
+          "topic": "Solana, Polygon and possible additional chains"
+        },
+        {
+          "start": "24:35",
+          "topic": "US merchants and emerging-market access"
+        },
+        {
+          "start": "26:30",
+          "topic": "Claimed compliance structure and liquidity pool"
+        },
+        {
+          "start": "28:04",
+          "topic": "Processing role in an on-chain economy"
+        },
+        {
+          "start": "30:00",
+          "topic": "Creator payments and B2B strategy"
+        },
+        {
+          "start": "35:00",
+          "topic": "Price, settlement speed and closing"
+        }
+      ],
+      "boundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 576 generated segments; 2338.06 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Full recording concerns the forthcoming raise. Claimed registration, partner licences and compliance do not establish universal regulatory approval. Liquidity-pool yields are historical promotional claims, not assured returns. Processing volume is not revenue. Expansion and token-holder campaigns are plans."
+    },
+    {
+      "resourceId": "res-199",
+      "title": "Ownership S1E3: Kru (Umbra)",
+      "sourceUrl": "https://solana.com/podcasts/ownership/episodes/ownership-s1e3-kru-umbra-e3fuqkg",
+      "rssUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+      "audioSha256": "eba01c832ea3567faaf494d033966b074ebb37d697abc0829f0a40ef6eb9ecf3",
+      "audioDurationSeconds": 3699.4031875,
+      "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "generatedSegments": 748,
+      "firstSegmentSeconds": 0.56,
+      "lastSegmentSeconds": 3697.56,
+      "reviewStatus": "complete-generated-transcript-reviewed",
+      "sections": [
+        {
+          "start": "01:39",
+          "topic": "MetaDAO raise and discovery"
+        },
+        {
+          "start": "05:00",
+          "topic": "Liquid-token pressure and founder accountability"
+        },
+        {
+          "start": "10:00",
+          "topic": "Communication, deadlines and investor preparation"
+        },
+        {
+          "start": "13:56",
+          "topic": "Potential venture-capital participation"
+        },
+        {
+          "start": "19:06",
+          "topic": "Audit proposals and governance tradeoffs"
+        },
+        {
+          "start": "22:20",
+          "topic": "Team trading policy and planned transparency reporting"
+        },
+        {
+          "start": "25:08",
+          "topic": "Origins of the privacy product"
+        },
+        {
+          "start": "31:48",
+          "topic": "Design iterations and Arcium collaboration"
+        },
+        {
+          "start": "40:34",
+          "topic": "MPC/ZK architecture and restricted initial pools"
+        },
+        {
+          "start": "44:25",
+          "topic": "Personal privacy versus corporate transparency"
+        },
+        {
+          "start": "50:00",
+          "topic": "Screening and compliance claims"
+        },
+        {
+          "start": "52:43",
+          "topic": "Yield, Reflect and future integrations"
+        },
+        {
+          "start": "55:39",
+          "topic": "SDK, enterprise plans and founder lessons"
+        }
+      ],
+      "boundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 748 generated segments; 3699.40 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. The audio is an Umbra interview despite an erroneous Omnipair reference in one distributor description. Committed capital is not accepted proceeds. Privacy, screening and compliance assurances are founder claims, not guarantees. Transparency tooling and integrations are described partly as work in progress. Apparent chunk-boundary transcription hallucinations near five minutes were excluded from conclusions."
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "title": "Ownership Podcast S1 E10: Ranga (Solomon Labs)",
+      "sourceUrl": "https://solana.com/podcasts/ownership/episodes/ownership-podcast-s1-e10-ranga-solomon-labs-e3m1s3b",
+      "rssUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+      "audioSha256": "dc15c7fe8bcf418f1ef23dade7cc93e93a58f8628baf2e0ed31477f971ce45a9",
+      "audioDurationSeconds": 4809.6914375,
+      "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "generatedSegments": 1023,
+      "firstSegmentSeconds": 1.55,
+      "lastSegmentSeconds": 4808.76,
+      "reviewStatus": "complete-generated-transcript-reviewed",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Founder background and earlier startup"
+        },
+        {
+          "start": "06:00",
+          "topic": "MetaDAO alignment, raise commitments and governance experience"
+        },
+        {
+          "start": "18:00",
+          "topic": "Treasury proposals and participation tradeoffs"
+        },
+        {
+          "start": "32:28",
+          "topic": "USDv and yield-routing infrastructure"
+        },
+        {
+          "start": "41:29",
+          "topic": "Basis-yield compression and Treasury-backed design shift"
+        },
+        {
+          "start": "51:50",
+          "topic": "Treasury adoption, incentives and retention"
+        },
+        {
+          "start": "61:45",
+          "topic": "Founder views on legal policy controls; not legal validation"
+        },
+        {
+          "start": "65:00",
+          "topic": "Stablecoin adoption and monetary history"
+        },
+        {
+          "start": "76:18",
+          "topic": "Proposed permissions, guardrails and transparency"
+        }
+      ],
+      "boundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1023 generated segments; 4809.69 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Historical interview predates later developments. Fundraising commitments are not accepted proceeds. Legal interpretations and reserve/security assertions are not independently validated. A repeated-letter ASR artifact around 65 minutes was excluded."
+    }
+  ]
+}

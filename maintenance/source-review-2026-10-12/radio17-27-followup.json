@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-12",
+  "status": "Partial episodes; no additional full recording approved",
+  "sources": [
+    {
+      "url": "https://www.futard.io/launch/2SGPL7DSLX35WuBm4458xwctrSEHzUpe5884aoXL68WY",
+      "finding": "Spark’s own token raise missed its $10,000 target, with $330 committed by four funders. The page displays Refunding and a $1 monthly spending limit. This is separate from Spark-backed idea launches such as LFOwn."
+    },
+    {
+      "url": "https://metadao.fi/decisions/cars-002",
+      "finding": "Authorizes removal of the 18-month founder-package cliff, with the proposal specifying monthly sales before 18 months capped at either $100,000 or 5% of the total package. MetaDAO displays Passed; execution and actual founder sales are not established here."
+    },
+    {
+      "url": "https://in.linkedin.com/in/jasonrrodrigues",
+      "finding": "Self-profile names Jason Richard Rodrigues and Cesto. Personal website jasonr.org could not be retrieved through web reader; full writing archive not reviewed."
+    },
+    {
+      "url": "https://linktr.ee/tokenflow",
+      "finding": "Links @tokenflowtech to tokenflow.tech, disambiguating similarly named businesses."
+    },
+    {
+      "url": "https://www.tokenflow.tech/about",
+      "finding": "Company overview read; no named founder in available text. Do not expand the ASR speaker name into an uncorroborated personal identity."
+    },
+    {
+      "url": "https://www.futard.io/",
+      "finding": "Directory also surfaces Ryvo Network as refunding, around$25K committed/$150K goal. Exact launch record and founder attribution remain follow-up leads, not approved catalog entries."
+    }
+  ],
+  "boundaries": [
+    "Cesto future governed baskets are ideas, not existing futarchy deployment.",
+    "Backyard guest explicitly says it did not receive the honorable mention asserted by the host.",
+    "TokenFlow funding route is undecided in the recording; appearance does not establish a MetaDAO raise.",
+    "Spark low-risk and treasury-protection assertions remain speaker claims."
+  ]
+}

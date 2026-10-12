@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://www.backable.biz/",
+  "observedRedirect": "https://www.futard.io/ redirects to https://www.backable.biz/",
+  "fundedCountDisplayed": 13,
+  "fundedNames": [
+    "The Syndicate",
+    "Jurassic Finance",
+    "ordr.trade",
+    "HiveBits",
+    "Kimia",
+    "Futardio cult",
+    "Superclaw",
+    "GeSIM",
+    "PREDICT",
+    "ACCRUE",
+    "LFOWN",
+    "Basket",
+    "Areal Finance"
+  ],
+  "addedProject": "the-syndicate",
+  "otherFundedProjects": "All other 12 represented in registry",
+  "active": [
+    {
+      "name": "STACCIndex",
+      "url": "https://www.backable.biz/raises/6wot8WTk5WGoUQrSbFaTzMasUutYBfQDG3pNan3LG9sU",
+      "status": "live, not completed"
+    }
+  ],
+  "upcoming": [
+    {
+      "name": "Kaboom",
+      "url": "https://www.backable.biz/raises/GGTPQLuvzStq5J2Lj7jxig2jGTKiLRn5JDanq96zwsBo"
+    },
+    {
+      "name": "Soldex",
+      "url": "https://www.backable.biz/raises/E4P6QQHYXQSNrRvxY37rqwspima6gZN78oCgMLqEYQ3K"
+    },
+    {
+      "name": "Waldbier",
+      "url": "https://www.backable.biz/raises/BFLcc7zC8cxWCBGBtNfMsHU1g1dgVjzSSBqHHdP6gdGM"
+    }
+  ],
+  "founderArchiveLeads": [
+    "https://x.com/nftimm",
+    "https://x.com/theshendon",
+    "https://x.com/ThePompey_SOL"
+  ],
+  "boundary": "Live and upcoming launches are leads, not completed raises. This funded directory does not enumerate every historical unsuccessful attempt."
+}

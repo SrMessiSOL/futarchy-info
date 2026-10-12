@@ -2,7 +2,19 @@
 
 The primary scope is MetaDAO and the projects that raised in its ecosystem. Cover curated and permissionless/Spark raises, product updates, founder interviews, governance decisions, pivots, failed raises, and wind-downs. Keep general futarchy research as background. Use content/projects.json as the project checklist and exact project:<id> tags for navigation. Registry records are dated coverage observations, not proof that every historical project has been discovered. Prefer durable canonical documents and official proposal records. A project announcement is not evidence of completed execution. Attribute claims and avoid endorsing projects. Do not equate all ownership coins with legal equity.
 
+## Main library and historical attempts
+
+The main library and continuing founder research prioritize projects recorded as raise or historical-raise, along with MetaDAO governance and relevant futarchy research. Sources devoted only to failed-raise projects belong in the opt-in historical archive. Keep their IDs, provenance and engagement history intact. Mixed interviews that also cover raised projects stay in the main library. Failed attempts do not count toward raised-project totals. Do not describe committed funds as accepted proceeds.
+
+Defer wider founder archives for failed-raise projects unless new primary evidence changes their funding status or a narrow correction is needed. The active research checklist is maintenance/source-review-2026-10-12/raised-project-research-queue.json; the earlier linked-source queue is retained as historical research backlog, not a prerequisite for publishing the main update. General incomplete archives are disclosed coverage limits, not a claim that the library is exhaustive.
+
 ## Evidence and dates
+
+### Closed-project publication cutoff
+
+User override on October 12, 2026: restore all 37 records in the prior exclusion list. Their exact IDs are in content/publication-exceptions.json. This explicit approval takes precedence over the automatic cutoff below for those records, including mixed reports, closure evidence and sources with uncertain dates. Preserve date uncertainty labels. Closed companies stay outside active-project browsing and founder research; retaining an approved historical source is not promotion of an active business. Do not re-exclude these 37 during maintenance or infer blanket approval for new promotional updates.
+
+Do not publish material about a liquidating, wound-down or taken-private ownership project on or after its editorial cutoff. content/project-lifecycle.json stores dated primary evidence and distinguishes conservative proposal/announcement boundaries from unverified liquidation execution dates. Where no reliable primary cutoff is available, hold matching sources. Unverified or missing publication dates also remain held. Apply the rule to mixed reports and untagged mentions in titles, authors and descriptions; do not strip project tags to evade it. lib/publication-policy.ts enforces the public-view gate. Earlier verified sources belong in the historical archive, not active-project recommendations or continuing operational founder research. Preserve held records and original IDs internally. A product wind-down (for example Solomon USDv) is not automatically company liquidation.
 
 Historical records keep their unknown original addedAt date when verified. Every new resource needs sourceUrl, evidenceNote, checkedAt, addedAt, and verification:source-checked. Publication dates and event dates must be distinguished with dateKind. If no date is established, date:null and datePrecision:unknown are valid. Never use a crawl date as a publication date. Legacy uncertain dates retain their raw values for audit but show Date unverified in the UI and sort after dated entries. Other historical dates remain labeled Archive date until reviewed.
 

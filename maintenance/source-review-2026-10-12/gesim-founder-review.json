@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Founder archive",
+      "title": "GeSIM: The Coordination Layer for Global Telecom",
+      "url": "https://www.linkedin.com/posts/charchit-kumawat-blockchain_fact-cross-border-mobile-data-is-broken-activity-7373413285066563584-Xzvx",
+      "status": "added",
+      "resourceIds": [
+        "gesim-charchit-coordination-layer"
+      ],
+      "method": "Full primary publisher text",
+      "note": "Full public LinkedIn post read. Only a relative, edited publication label was available; exact date remains unknown. Embedded image not reviewed. Design and commercial aspirations are not independently validated.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "GeSIM privacy trust model — Devcon forum discussion",
+      "url": "https://forum.devcon.org/t/devcon-8-india-sovereign-infrastructure-hub/8813",
+      "status": "added",
+      "resourceIds": [
+        "gesim-devcon-trust-model-discussion"
+      ],
+      "method": "Full primary publisher text",
+      "note": "Full relevant exchange read: August 22 GeSIM introduction, August 25 questions and September 28 reply. Catalog date is the September 28 reply, not thread creation or the future event. Thread author and GeSIM participant remain distinct.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "Building GeSIM — early proof of concept and telecom integrations",
+      "url": "https://www.linkedin.com/posts/hrishique_gesim-web3-esim-activity-7381336557498245120-cTsH",
+      "status": "added",
+      "resourceIds": [
+        "gesim-hrishique-early-build"
+      ],
+      "method": "Full primary publisher text",
+      "note": "Complete public publisher post text reviewed, including the early-stage limitation. Relative publication labels varied between retrieved copies, so the date remains unknown. Planned capabilities are not treated as delivered integrations.",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "hivebitsIdentity": {
+    "url": "https://x.com/ownershipfm/status/2100405464995614920",
+    "method": "Publisher excerpt text through public FixTweet mirror; video not reviewed",
+    "account": "https://x.com/0xBeeSmart"
+  }
+}

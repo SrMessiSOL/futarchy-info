@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-12",
+  "method": "Targeted non-batched base.en re-transcription, 60 second window, beam 3; not manual listening",
+  "windows": [
+    {
+      "startSeconds": 2740,
+      "durationSeconds": 60,
+      "finding": "Repaired repeated text: conversational redirect followed by ORDR community-support discussion."
+    }
+  ],
+  "boundary": "All replacement text read; automatic recognition remains imperfect. Full transcript remains ignored."
+}

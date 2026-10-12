@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-10-12",
+  "sources": [
+    {
+      "id": "hanson-advisory-futarchy",
+      "title": "Advisory Futarchy",
+      "author": "Robin Hanson",
+      "date": "2025-05-11",
+      "url": "https://www.overcomingbias.com/p/advisory-futarchy",
+      "description": "Hanson considers decision markets that advise executives without binding them. He discusses selection bias, advance timing commitments and participation by informed decision makers as design conditions.",
+      "tags": [
+        "Futarchy",
+        "Robin Hanson",
+        "Decision Markets"
+      ],
+      "boundary": "Full public article body read. Theoretical design arguments are not empirical validation of Bench or MetaDAO. Comments are not attributed to Hanson."
+    },
+    {
+      "id": "paradigm-opportunity-markets",
+      "title": "Opportunity Markets",
+      "author": "Dave White and Matt Liston",
+      "date": "2025-08-18",
+      "url": "https://www.paradigm.xyz/writing/opportunity-markets",
+      "description": "Proposes sponsor-funded private markets to reward people who discover opportunities. Discusses delayed position visibility, collateral design and sponsor self-dealing risks; the design remains dependent on trust and reputation.",
+      "tags": [
+        "Decision Markets",
+        "Market Design"
+      ],
+      "boundary": "Full publisher article body read, including mechanism and exploitation limits. Original dated URL redirects to the canonical writing path. Conceptual background cited in Ownership Radio 12, not evidence of a MetaDAO raise."
+    },
+    {
+      "id": "arcium-bench-alpha",
+      "title": "Introducing Bench: Opportunity Markets for Private, High-Conviction Insight",
+      "author": "Arcium",
+      "date": "2026-04-27",
+      "url": "https://arcium.substack.com/p/introducing-bench-opportunity-markets",
+      "description": "Arcium introduces Bench’s Solana devnet alpha: participants stake on options and the market creator chooses useful signals for rewards. The article explains private information, proportional payouts and no slashing.",
+      "tags": [
+        "Decision Markets",
+        "Project Update"
+      ],
+      "boundary": "Full partner-publisher article body read. Privacy and first-of-kind claims are attributed, not independently audited. Explicitly a devnet launch; no completed MetaDAO fundraising established."
+    }
+  ],
+  "scope": "Background explicitly raised in Radio 12; does not imply full recording review or new ecosystem-project membership."
+}

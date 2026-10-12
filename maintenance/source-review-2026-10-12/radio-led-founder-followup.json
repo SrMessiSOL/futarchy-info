@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-12",
+  "added": [
+    "mycorealms-first-failed-raise",
+    "mycorealms-cordyceps-failed-raise",
+    "hurupay-philip-origin-interview",
+    "hurupay-philip-founder-reflection",
+    "mycorealms-second-failed-raise",
+    "valgrid-failed-raise",
+    "nvision-failed-raise",
+    "hurupay-founders-freelancer-pivot-interview"
+  ],
+  "sources": [
+    {
+      "url": "https://www.futard.io/launch/A88sGec3GcVfyRXNXr9DyWN6wNEwSaCqeyzrmmakKFqf",
+      "note": "Launch status, commitments, team, business plan and governance sections read. Unknown publication date retained. Roadmap, credentials and legal-structure statements are project assertions, not independent verification. Commitment amount is not successful funding."
+    },
+    {
+      "url": "https://www.futard.io/launch/8cJavsmirre12VUvajmcT4UXqqfM25ShZ9ZMPCcnVSB5",
+      "note": "Primary status, founder attribution, budget and pilot-stage sections read. Website and launch page give differing indicated values for the same stated 30 kg of orders; neither is adopted as realized revenue. Date remains unknown. This launch is separate from the earlier $200K attempt."
+    },
+    {
+      "url": "https://disruptafrica.com/2023/11/03/ghanas-hurupay-tackles-currency-fluctuations-with-stablecoin-based-payments-platform/",
+      "note": "Complete article body read, including direct founder interview statements. Historical 2023 product scope predates later pivots and Kolan branding. Stablecoins are not described here as risk-free; growth figures are not independently audited."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/philip-mburu-3436991a2_here-is-a-story-that-i-believe-inspires-and-activity-7158430290728632320-jbdQ",
+      "note": "Complete visible founder reflection and accompanying repost text read. Only relative, edited publication age is visible; date remains unknown. Reposted biography is not treated as wholly founder-authored writing."
+    },
+    {
+      "url": "https://www.futard.io/launch/zwVfLheTvbXN5Vn2tZxTc8KaaVnLoBFgbZzskdFnPUb",
+      "note": "Primary launch status, commitment total and business-plan sections read. Separate launch address preserved. Target, commitments and accepted proceeds are distinct; no individual refund execution confirmed."
+    },
+    {
+      "url": "https://www.futard.io/launch/BY1uzGNg8Yb5kPEhXrXA9VA4geHSpEdzBcTvPt7qWnpY",
+      "note": "Full retrieved launch text read, including status, product pitch, budget, roadmap, B1 team roles and disclaimers. Trading profit and low-risk language is promotional, not a guarantee. AI features and multi-chain plans were not independently tested; refund completion not confirmed."
+    },
+    {
+      "url": "https://www.futard.io/launch/6e3Xz2CUmXabyhMEQ3QpJUgPKP65HVzXP8X5qtb5a2YZ",
+      "note": "Retrieved primary launch status and proposal body read. Claims of fairer or manipulation-resistant markets are design assertions, not validated outcomes. No individual founder identity inferred from the company name; no refund completion verified."
+    },
+    {
+      "url": "https://techcabal.com/2026/03/18/hurupay-crosses-50m-processing-freelancer-payments/",
+      "note": "Complete visible article body read in a normal Chrome session after HTTP discovery returned 403. Publisher directly interviews the three founders and describes inspecting a dashboard. This is not our independent financial or incident audit. The article’s margin wording is internally inconsistent, so no precise margin is adopted. Future cards and payouts remain plans."
+    }
+  ],
+  "leads": []
+}

@@ -1,0 +1,361 @@
+{
+  "checkedAt": "2026-10-12",
+  "scope": "Active founder research only for raise registry entries; closed projects deferred, lifecycle cutoff policy applies.",
+  "projects": [
+    {
+      "projectId": "credible",
+      "name": "Credible",
+      "coverage": "raise",
+      "priority": "first",
+      "status": "research-pending",
+      "people": "Shrikant (Shri) Bhalerao; Akshay Soam",
+      "identitySources": "https://metadao.fi/companies/credible",
+      "gaps": "All 51 entries of the indexed company blog have body reviews or catalog evidence; 20 selected and 31 reviewed but not selected. Company authorship does not establish founder authorship. Wider personal/cofounder archives, independently verified licences and reconciled financial metrics remain open.",
+      "episodeLeads": [],
+      "website": "https://credible.finance/"
+    },
+    {
+      "projectId": "laso-finance",
+      "name": "Laso Finance",
+      "coverage": "raise",
+      "priority": "first",
+      "status": "research-pending",
+      "people": "Hunter Monk",
+      "identitySources": "https://metadao.fi/companies/laso-finance",
+      "gaps": "Public homepage inventory saved: 126 posts, 10 cataloged and 2 further bodies read but not selected; 114 indexed bodies pending. All homepage-linked posts dated 2022–2026 now have body reviews or existing catalog evidence. Earlier technical/personal archive and remaining recordings still incomplete; linked media not all reviewed.",
+      "episodeLeads": [],
+      "website": "https://laso.finance/"
+    },
+    {
+      "projectId": "avici",
+      "name": "Avici",
+      "coverage": "raise",
+      "priority": "first",
+      "status": "research-pending",
+      "people": "Ram; Abhishek Tiwari (@0xatiwari)",
+      "identitySources": "https://metadao.fi/",
+      "gaps": "Ram’s visible article archive is reviewed. The cofounder profile /articles route exposed Posts and no Articles tab on inspection; that is not evidence that no long-form writing exists. Broader historical posts remain incomplete.",
+      "episodeLeads": [],
+      "website": "https://avici.money/"
+    },
+    {
+      "projectId": "p2p-protocol",
+      "name": "P2P Protocol",
+      "coverage": "raise",
+      "priority": "first",
+      "status": "specific-interview-gap-closed-wider-archive-open",
+      "people": "Sheldon; Bytes",
+      "identitySources": "https://metadao.fi/companies/p2p-protocol",
+      "gaps": "Full Seed Club public video caption track now read, replacing the former 8:37 preview-only gap. Personal founder writing and Bytes’s archive remain incomplete.",
+      "episodeLeads": [
+        {
+          "title": "Ownership Podcast S1 E5: Sheldon (P2P.me)",
+          "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E5-Sheldon-P2P-me-e3gs8a3"
+        },
+        {
+          "title": "Ownership Podcast S1 E5: Sheldon (P2P)",
+          "url": "https://www.youtube.com/watch?v=zud5XE2LQkY"
+        }
+      ],
+      "website": "https://t.co/zTXUOaG0vy",
+      "latestReviewedSource": "https://www.youtube.com/watch?v=1x-cSsjFgt0",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "projectId": "gesim",
+      "name": "GeSIM",
+      "coverage": "raise",
+      "priority": "first",
+      "status": "research-pending",
+      "people": "Charchit Kumawat; Hrishique Munshi",
+      "identitySources": "https://metadao.fi/companies/gesim",
+      "gaps": "Both founders’ origin/architecture posts and GeSIM forum exchange reviewed. Roadshow recording and broader personal archives remain incomplete.",
+      "episodeLeads": [],
+      "website": "https://www.gesim.xyz/"
+    },
+    {
+      "projectId": "loyal",
+      "name": "Loyal",
+      "coverage": "raise",
+      "priority": "first",
+      "status": "specific-interview-gap-closed-wider-archive-open",
+      "people": "Chris (founder); Rodion (separate article author)",
+      "identitySources": "https://askloyal.com/blog/july-no-kings-or-gods-just-dogs",
+      "gaps": "Lightspeed May 12 interview complete available captions now read. Broader personal posts and Rodion’s separate author archive remain incomplete. Chris and Rodion are not assumed identical.",
+      "episodeLeads": [
+        {
+          "title": "Ownership S1 E4: Chris (Loyal)",
+          "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E4-Chris-Loyal-e3ghnna"
+        },
+        {
+          "title": "Ownership S1 E4: Chris (Loyal)",
+          "url": "https://www.youtube.com/watch?v=fRIkPP4uano"
+        }
+      ],
+      "website": "https://askloyal.com/",
+      "latestReviewedSource": "https://www.youtube.com/watch?v=bx_n34xGYfQ",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "projectId": "hivebits",
+      "name": "HiveBits",
+      "coverage": "raise",
+      "priority": "first",
+      "status": "specific-interview-gap-closed-wider-archive-open",
+      "people": "Nemanja Šćepanović; Siniša Kezić",
+      "identitySources": [
+        "https://x.com/ownershipfm/status/2100405464995614920"
+      ],
+      "gaps": "October 7 Startit founder interview read in full; identities and reported procurement plans added. Dedicated Ownership interview, personal founder archives and Siniša’s wider archive remain incomplete.",
+      "episodeLeads": [],
+      "website": null,
+      "latestReviewedSource": "https://startit.rs/pcelari-iz-svilosa-skupili-140-000-za-27-sati-za-farmu-od-300-pametnih-kosnica-najvaznije-je-bilo-dobiti-podrsku-zajednice/",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "projectId": "ripcars",
+      "name": "Rip Cars",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "David Khosroshvili; Ioseb Khutsishvili",
+      "identitySources": "https://metadao.fi/companies/ripcars",
+      "gaps": "Personal writing archives not exhaustively located.",
+      "episodeLeads": [],
+      "website": "https://ripcars.io/"
+    },
+    {
+      "projectId": "umbra",
+      "name": "Umbra",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "specific-interview-gap-closed-wider-archive-open",
+      "people": "Abbas Shaikh; Kru; Cal (@typi_cal_)",
+      "identitySources": [
+        "https://metadao.fi/companies/umbra",
+        "https://blockworks.com/podcast/lightspeed/c86bbe00-2725-11f1-a8d8-37b9ec7200f5",
+        "https://x.com/Abbasshaikh"
+      ],
+      "gaps": "Lightspeed March 24 interview complete available captions now read. Broader personal posts and other interviews remain incomplete; historical MPC/Arcium design is qualified by later V2 sources.",
+      "episodeLeads": [
+        {
+          "title": "Making Privacy the Default | Kru & Cal",
+          "url": "https://blockworks.com/podcast/lightspeed/c86bbe00-2725-11f1-a8d8-37b9ec7200f5",
+          "status": "Publisher metadata and identity reviewed; full interview not reviewed"
+        }
+      ],
+      "website": "https://www.umbraprivacy.com/",
+      "latestReviewedSource": "https://www.youtube.com/watch?v=wneRrwMw61Y",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "projectId": "solomon",
+      "name": "Solomon",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Ranga",
+      "identitySources": "https://metadao.fi/companies/solomon",
+      "gaps": "Complete Ownership interview generated transcript and nine bylined publisher articles reviewed. Wider personal archives and subsequent execution of interview plans remain unresolved.",
+      "episodeLeads": [],
+      "website": "https://solomonlabs.org/"
+    },
+    {
+      "projectId": "omnipair",
+      "name": "Omnipair",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Rakka",
+      "identitySources": "https://metadao.fi/",
+      "gaps": "Complete Ownership interview generated transcript reviewed, alongside five surfaced full X articles. Broader personal posts and additional interviews remain incomplete.",
+      "episodeLeads": [
+        {
+          "title": "Ownership S1E2: rakka (Omnipair)",
+          "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E2-rakka-Omnipair-e3fmoq2"
+        },
+        {
+          "title": "Ownership S1E2: rakka (Omnipair)",
+          "url": "https://www.youtube.com/watch?v=S3x2WELHB2I"
+        }
+      ],
+      "website": "https://www.omnipair.fi/"
+    },
+    {
+      "projectId": "jurassic-finance",
+      "name": "Jurassic Finance",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Sora; Vukan",
+      "identitySources": "https://metadao.fi/companies/jurassic-finance",
+      "gaps": "Further personal posts and specimen-SPV changes require ongoing tracking.",
+      "episodeLeads": [],
+      "website": "https://app.jurassic.finance/"
+    },
+    {
+      "projectId": "ordr",
+      "name": "Ordr",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Vinaya; Avhi; Manu; Arjun",
+      "identitySources": "https://metadao.fi/companies/ordr",
+      "gaps": "Current homepage corroborates CEO/CTO/CIO/COO roles; titles do not prove all four are founders. Personal writing beyond company updates and independent technical verification remain incomplete.",
+      "episodeLeads": [],
+      "website": "https://www.ordrtrade.com/"
+    },
+    {
+      "projectId": "kimia",
+      "name": "Kimia",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Tanmay; Debanjan; Abhirup",
+      "identitySources": "https://metadao.fi/companies/kimia",
+      "gaps": "Radio18,19 and32 complete generated transcripts reviewed. July completed-audit claim remains unreconciled with current scheduled/TBA audit scopes and unaudited-devnet documentation. Scope/version evidence, individual personal archives, deployed governance and execution proof remain open.",
+      "episodeLeads": [],
+      "website": "https://kimia.live/"
+    },
+    {
+      "projectId": "futardio-cult",
+      "name": "Futardio Cult",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Not established",
+      "identitySources": "https://metadao.fi/companies/futardio-cult",
+      "gaps": "Radio 1 recovered segment includes a first-person project participant describing launch motivation. Personal identity remains unestablished; governance execution and wider archives remain open.",
+      "episodeLeads": [],
+      "website": null
+    },
+    {
+      "projectId": "basket",
+      "name": "Basket",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Unnamed first-person builder",
+      "identitySources": "https://metadao.fi/companies/basket",
+      "gaps": "Do not label Spark promoters as the appointed builder; identity remains open.",
+      "episodeLeads": [],
+      "website": "https://basketsolana.xyz/"
+    },
+    {
+      "projectId": "lfown",
+      "name": "LFOwn",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Mathis (@Mathis_btc); Ewan (@Ewan_btc), representing Spark as core contributor",
+      "identitySources": "https://metadao.fi/decisions/lfown-001",
+      "gaps": "Core contributor identities and complete Radio 28 generated transcript reviewed. Wider personal writing archives and proposal execution remain open.",
+      "episodeLeads": [],
+      "website": null
+    },
+    {
+      "projectId": "areal-finance",
+      "name": "Areal Finance",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Artsiom Hnatiuk — co-founder/CEO; Evgenii Solomein — co-founder/CTO",
+      "identitySources": "https://www.futard.io/launch/BBHFc6prZ55DuvXcWSPG2uu816cjHCCzKZDcNMvt5oCP",
+      "gaps": "Four distinct unsuccessful raises and one funded raise now represented; Radio12 complete generated transcript reviewed. Wider founder archives, pilot metrics, legal execution and completed refunds remain unresolved.",
+      "episodeLeads": [],
+      "website": "https://areal.finance/"
+    },
+    {
+      "projectId": "accrue",
+      "name": "ACCRUE",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "No appointed team in reviewed pitch",
+      "identitySources": "https://metadao.fi/companies/accrue",
+      "gaps": "Check subsequent decision markets for appointments before assigning founders.",
+      "episodeLeads": [],
+      "website": null
+    },
+    {
+      "projectId": "superclaw",
+      "name": "Superclaw",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Not established",
+      "identitySources": "https://metadao.fi/companies/superclaw",
+      "gaps": "Radio 6 representative interview read in full, including pivot and proposed incentive change. Guest introduced as Rash; direct biography, founder status and personal identity remain unestablished. Later SUPER-002 Passed status checked; execution not independently verified. Broader personal archives remain open.",
+      "episodeLeads": [],
+      "website": "https://superclaw.org/"
+    },
+    {
+      "projectId": "predict",
+      "name": "PREDICT",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Contributors; no appointed operating team in pitch",
+      "identitySources": "https://metadao.fi/companies/predict",
+      "gaps": "Check later appointments; do not call every contributor or Spark promoter a founder.",
+      "episodeLeads": [],
+      "website": null
+    },
+    {
+      "projectId": "the-syndicate",
+      "name": "The Syndicate",
+      "coverage": "raise",
+      "priority": "normal",
+      "status": "research-pending",
+      "people": "Timothy Williams — founder; Jon Williams and Joseph Williams — cofounders",
+      "identitySources": "https://www.backable.biz/raises/EFUKEM6oaUMdCtVvgaqeV2E9baZ1ikkLng1kTakvjU7k",
+      "gaps": "Founder video and personal archives pending. Reported revenue, users, retention and NFT volume are not audited; mobile roadmap delivery unverified. The primary linked 2:13 YouTube video (wPmO7QKf1EY) had no transcript available through the normal browser export; video content remains unreviewed.",
+      "episodeLeads": [
+        {
+          "title": "Founder video linked by Backable",
+          "url": "https://www.youtube.com/watch?v=wPmO7QKf1EY",
+          "status": "not-yet-reviewed"
+        }
+      ],
+      "website": "https://thesyndicate.games/"
+    }
+  ],
+  "deferredClosedProjects": [
+    {
+      "projectId": "paystream",
+      "name": "Paystream",
+      "coverage": "historical-raise",
+      "priority": "first",
+      "status": "historical-deferred",
+      "people": "Maushish Yadav",
+      "identitySources": "https://metadao.fi/companies/paystream",
+      "gaps": "Initial product and raise articles, Week 1–7 updates, founder static-analysis report and wind-down article reviewed across passes. Personal Substack writing, full Ownership audio and broader archive remain incomplete. Static analysis is not a manual audit; wind-down announcement does not prove redemption execution.",
+      "episodeLeads": [],
+      "website": "https://paystream.finance/"
+    },
+    {
+      "projectId": "ranger",
+      "name": "Ranger",
+      "coverage": "historical-raise",
+      "priority": "normal",
+      "status": "historical-deferred",
+      "people": "Coby / Fibullnacci; Fathur",
+      "identitySources": "https://metadao.fi/companies/ranger",
+      "gaps": "Full personal archives and later founder commentary remain incomplete.",
+      "episodeLeads": [],
+      "website": "https://ranger.finance/"
+    },
+    {
+      "projectId": "zklsol",
+      "name": "ZKLSOL / ZKFG",
+      "coverage": "historical-raise",
+      "priority": "normal",
+      "status": "historical-deferred",
+      "people": "Not established",
+      "identitySources": "https://metadao.fi/companies/zklsol",
+      "gaps": "Founder identity and personal archive remain unresolved; preserve legacy history.",
+      "episodeLeads": [],
+      "website": "https://zklsol.org/"
+    }
+  ]
+}

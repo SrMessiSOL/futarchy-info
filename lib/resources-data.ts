@@ -1,4 +1,9 @@
 import data from '@/content/resources.json'
+import projects from '@/content/projects.json'
+import { selectProjectResources } from '@/lib/library-scope'
+import lifecycle from '@/content/project-lifecycle.json'
+import publicationExceptions from '@/content/publication-exceptions.json'
+import { publicationBlockReason } from '@/lib/publication-policy'
 
 export interface Resource {
   id: string
@@ -22,8 +27,9 @@ export interface Resource {
 
 // Keep legacy IDs in the catalog so stored engagement keys are never reassigned.
 export const catalog = data as Resource[]
-export const resources = catalog.filter(resource => !resource.duplicateOf)
-export const lastLibraryUpdate = resources.reduce((latest, r) => r.addedAt && r.addedAt > latest ? r.addedAt : latest, '')
+export const resources = catalog.filter(resource => !resource.duplicateOf && !publicationBlockReason(resource, lifecycle, publicationExceptions.resourceIds))
+export const mainResources = selectProjectResources(resources, projects, 'all')
+export const lastLibraryUpdate = mainResources.reduce((latest, r) => r.addedAt && r.addedAt > latest ? r.addedAt : latest, '')
 export function resourceTime(resource: Resource) {
   return resource.date && resource.datePrecision === 'day' ? Date.parse(resource.date + 'T00:00:00Z') : null
 }

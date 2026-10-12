@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1nKOLEgNDdQGR",
+  "resourceId": "ownership-radio-1-recording",
+  "audioSha256": "125f21ac891da6422378349ff534de228b67d864edbcd69059e64004fa9f01da",
+  "durationSeconds": 2650.9226875,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 552,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted.",
+  "sections": [
+    {
+      "start": "02:14",
+      "topic": "Restart after failed Space; Solomon buybacks, treasury and Ranger discussion"
+    },
+    {
+      "start": "10:00",
+      "topic": "MycoRealms introduction, unsuccessful raise and agricultural investment thesis"
+    },
+    {
+      "start": "17:05",
+      "topic": "Trust, off-chain production verification and proposed reporting"
+    },
+    {
+      "start": "20:00",
+      "topic": "No promised revenue share; treasury transparency discussion"
+    },
+    {
+      "start": "23:25",
+      "topic": "Raise budget, proposed lower target and future financing"
+    },
+    {
+      "start": "30:55",
+      "topic": "Futardio Cult participant discusses origins and community approach"
+    },
+    {
+      "start": "35:15",
+      "topic": "Potential revenue, reported passed burn proposal and pending execution"
+    },
+    {
+      "start": "40:00",
+      "topic": "Community art suggestions and closing; confirms two-part broadcast"
+    }
+  ]
+}

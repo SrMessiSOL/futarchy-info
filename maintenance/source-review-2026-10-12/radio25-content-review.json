@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1MJgNbWqPDMGL",
+  "resourceId": "ownership-radio-25-recording",
+  "audioSha256": "21a06e0b4468362c82f537fa64e42e3029b0d33163e9a464d02a50378f183f78",
+  "durationSeconds": 12865.344,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 470,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 470 segments of the locally generated transcript read for 12865.34 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus targeted 60-second repair read. Historical skins-marketplace revenue is separate from GameByts revenue. Konta guest describes prior P2P employment, not cofounder status; KYC/freezing limits qualify noncustodial language. Veilo follow-up clarifies interview claims, not code security. Aeonian guest is business development, not founder. Its current mutable pitch claims mainnet; Radio25 described devnet, with transition date unverified.",
+  "sections": [
+    {
+      "start": "04:52",
+      "topic": "Opening proposal discussions: Kimia liquidation and Solomon USDv are not proof of execution."
+    },
+    {
+      "start": "07:40",
+      "topic": "GameByts: rewards, battle passes, previous business metrics, planned $250K raise and sustainability questions."
+    },
+    {
+      "start": "42:40",
+      "topic": "Konta: PIX/BRL rails, stablecoin providers, KYC and account restrictions, prior P2P role and Bountive lead generation."
+    },
+    {
+      "start": "77:20",
+      "topic": "Motion Markets: devnet attention markets, oracle manipulation risks, liquidity and proposed private/public financing."
+    },
+    {
+      "start": "111:00",
+      "topic": "Veilo: Radio22 follow-up; funding unlinkability versus public application state, relayer information and proposed hardware alternatives."
+    },
+    {
+      "start": "181:30",
+      "topic": "Aeonian: devnet trading, future social layer, $50K raise and speculative streamer-financed lending."
+    }
+  ]
+}

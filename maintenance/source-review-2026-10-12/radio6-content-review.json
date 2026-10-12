@@ -1,0 +1,76 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1nxeLywQRkLJX",
+  "resourceId": "ownership-radio-6-recording",
+  "audioSha256": "b304f8da2e53fcb319cbf64caf749a24d1097be17a0b20c6b084df2c8e42355a",
+  "durationSeconds": 7201.28,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 1599,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 1599 segments of the locally generated transcript read for 7201.28 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Host says an initial Space failed; this replay contains the restarted show, not proof that every earlier utterance was recovered. Publisher announcement corroborates Sora/Jurassic Finance and Treggs/Seedplex. P2P speaker introduced as Don and Superclaw speaker as Rash; founder or legal identity not inferred. P2P buyback execution and proposed use of inventory remain attributed; a participant challenges whether incentives comply with the proposal. Superclaw burn was proposed at the time of this recording; a separate October 12 check of SUPER-002 confirms a later Passed label, not independently verified execution. Jurassic rights/custody structure was still under development. Seedplex legal conclusions are speaker assertions, not legal validation. Spend was mentioned/invited but no Spend interview occurs in the recovered transcript.",
+  "sections": [
+    {
+      "start": "08:28",
+      "topic": "Opening, Roadshow and event announcements"
+    },
+    {
+      "start": "15:11",
+      "topic": "Avici incentive proposal discussion; exact token-allocation figures not adopted"
+    },
+    {
+      "start": "20:01",
+      "topic": "Sora: Jurassic Finance acquisition thesis and unsettled ownership structure"
+    },
+    {
+      "start": "30:00",
+      "topic": "Sourcing, documentation, proposed advisers and museum custody"
+    },
+    {
+      "start": "38:17",
+      "topic": "Transport, minimum capital, maintenance costs and future DAO decisions"
+    },
+    {
+      "start": "46:01",
+      "topic": "Treggs: Seedplex venture-DAO model and comparison with MetaDAO"
+    },
+    {
+      "start": "55:34",
+      "topic": "Legal entity, membership, securities questions and limits of legal opinions"
+    },
+    {
+      "start": "67:57",
+      "topic": "Infrastructure versus launchpad plans and Metalex comparison"
+    },
+    {
+      "start": "74:11",
+      "topic": "P2P representative: buyback rationale and planned token incentives"
+    },
+    {
+      "start": "87:44",
+      "topic": "Participant challenges proposal restrictions and governance approval for incentives"
+    },
+    {
+      "start": "89:11",
+      "topic": "P2P growth strategy and country expansion; plans separated from claimed launches"
+    },
+    {
+      "start": "96:15",
+      "topic": "Superclaw representative: liquidation outcome, proposed team allocation burn and agent pivot"
+    },
+    {
+      "start": "104:54",
+      "topic": "Proposal sponsorship, product access and monetization debate"
+    },
+    {
+      "start": "115:00",
+      "topic": "Closing; host notes restarted Space after earlier technical failure"
+    }
+  ],
+  "followupSources": [
+    {
+      "url": "https://metadao.fi/decisions/super-002",
+      "resourceId": "decision-super-002",
+      "note": "Later primary Passed label checked; recording remains historical."
+    }
+  ]
+}

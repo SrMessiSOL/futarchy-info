@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1AxRnnOnXerxl",
+  "resourceId": "ownership-radio-22-recording",
+  "audioSha256": "bd7a10512f4cd9a411c33215d4d8edb867d8d18fec2509e48e51327b4338937b",
+  "durationSeconds": 7530.624,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 264,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 264 segments of the locally generated transcript read for 7530.62 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete available recovered transcript read, but the ending cuts off while the Veilo guest reconnects. No resolution of the relayer/key-custody debate inferred. MycoRealms cultivation and revenue forecasts are plans. Bountive’s spoken fundraising snapshot is not mapped to a specific launch attempt. Date is the publisher post date, not an inferred broadcast date. Later Radio25 contains a resumed Veilo discussion clarifying private account funding and relayer visibility; this does not retroactively fill the missing ending or validate the implementation.",
+  "sections": [
+    {
+      "start": "05:00",
+      "topic": "Yieldbay monitoring, aggregation and audit-dependent plans"
+    },
+    {
+      "start": "35:00",
+      "topic": "MycoRealms failed raises and lower-cost Cordyceps pilot"
+    },
+    {
+      "start": "50:00",
+      "topic": "Cultivation, sales and transparency forecasts"
+    },
+    {
+      "start": "60:00",
+      "topic": "Bountive AI ranking, bounty gaming and social leads"
+    },
+    {
+      "start": "80:00",
+      "topic": "Funding snapshot and development plans"
+    },
+    {
+      "start": "97:00",
+      "topic": "Veilo product and privacy claims"
+    },
+    {
+      "start": "110:00",
+      "topic": "Relayer, keys and trust questions; incomplete answer"
+    },
+    {
+      "start": "125:00",
+      "topic": "Reconnection attempt and abrupt recovered ending"
+    }
+  ]
+}

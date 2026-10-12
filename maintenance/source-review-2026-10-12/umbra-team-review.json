@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Umbra team archive",
+      "title": "Light in the Shadow #1: ETAs and the Mixer Pool",
+      "url": "https://x.com/typi_cal_/status/2013207016127508862",
+      "status": "updated",
+      "resourceIds": [
+        "res-183"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full text read via public FixTweet mirror. Canonical source linked directly in Kru’s February founder update. Embedded figures/media not reviewed. Historical team explanation, not validation of implementation, security guarantees or current architecture.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Umbra team archive",
+      "title": "Light in the Shadow #2: The Hybrid Model and Selective Transparency",
+      "url": "https://x.com/pranay_design/status/2015085470200312069",
+      "status": "added",
+      "resourceIds": [
+        "umbra-team-2015085470200312069"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full text read via public FixTweet mirror. Canonical source linked directly in Kru’s February founder update. Embedded figures/media not reviewed. Historical team explanation, not validation of implementation, security guarantees or current architecture.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Umbra team archive",
+      "title": "Light in the Shadow #3: Reclaiming the Envelope",
+      "url": "https://x.com/0xPata/status/2017260645322719732",
+      "status": "added",
+      "resourceIds": [
+        "umbra-team-2017260645322719732"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full text read via public FixTweet mirror. Canonical source linked directly in Kru’s February founder update. Embedded figures/media not reviewed. Historical team explanation, not validation of implementation, security guarantees or current architecture.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Umbra team archive",
+      "title": "Light in the Shadow #4: The Four Keys",
+      "url": "https://x.com/typi_cal_/status/2020151699957076241",
+      "status": "added",
+      "resourceIds": [
+        "umbra-team-2020151699957076241"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full text read via public FixTweet mirror. Canonical source linked directly in Kru’s February founder update. Embedded figures/media not reviewed. Historical team explanation, not validation of implementation, security guarantees or current architecture.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Umbra team archive",
+      "title": "Light in the Shadow #5: What Breaks, What Holds",
+      "url": "https://x.com/pranay_design/status/2023442484718674355",
+      "status": "added",
+      "resourceIds": [
+        "umbra-team-2023442484718674355"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full text read via public FixTweet mirror. Canonical source linked directly in Kru’s February founder update. Embedded figures/media not reviewed. Historical team explanation, not validation of implementation, security guarantees or current architecture.",
+      "checkedAt": "2026-10-12"
+    }
+  ]
+}

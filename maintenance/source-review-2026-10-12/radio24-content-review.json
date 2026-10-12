@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1aKbdEEnQeeJX",
+  "resourceId": "ownership-radio-24-recording",
+  "audioSha256": "eb3bf7a39616d02c68c4db347ad3510d77a1e2502d90aab7a91b7685be09b085",
+  "durationSeconds": 10003.242667,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 375,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 375 segments of the locally generated transcript read for 10003.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus two targeted 60-second repairs read. Kaboom LP withdrawal cooldown appears in repaired passage; no safety or profit guarantee adopted. NFT-funded ICO allocations and game-versus-studio tokenization are brainstorms, not final terms. SolRobber was advertised but did not appear.",
+  "sections": [
+    {
+      "start": "22:00",
+      "topic": "Kaboom: game and LP-bankroll economics; historical $150K plan, withdrawal cooldown and unresolved regulatory assumptions."
+    },
+    {
+      "start": "62:40",
+      "topic": "BAGLAND: game/NFT model, future raise and speculative NFT-holder participation mechanics."
+    },
+    {
+      "start": "100:00",
+      "topic": "ChessOnChain: existing chess features, casino testnet and proposed subscriptions and infrastructure."
+    },
+    {
+      "start": "128:20",
+      "topic": "Proof of War: base-building game, off-chain gems, proposed seasons and recent clan-futarchy concept."
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://blog.credible.finance/",
+  "method": "All 51 bodies in this bounded homepage index now have reviewed catalog evidence or explicit full-body review decisions. This is not a claim of complete personal founder or historical website coverage.",
+  "identity": {
+    "url": "https://colosseum.com/arena/profiles/akshaycredible",
+    "person": "Akshay Soam",
+    "claim": "Self-described Credible cofounder and CTO; full profile text read.",
+    "boundary": "Profile handle is on Colosseum; it does not establish a matching X account."
+  },
+  "entries": [
+    {
+      "url": "https://blog.credible.finance/blog/56-percent-digital-wallet-shift-open-payment-stack",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete body read; company-authored general payments marketing overlaps existing stack coverage. Industry statistics and processing claims not independently checked; no individual founder byline."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/web3-fiat-api-onramp-offramp-credible",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/payment-localization-conversion-open-payment-stack",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete body read; company-authored general payments marketing overlaps existing stack coverage. Industry statistics and processing claims not independently checked; no individual founder byline."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/creator-economy-payouts-open-payment-stack",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/qr-code-payments-open-payment-stack",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/how-local-is-local-open-payment-stack",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/credible-july-2026-recap-record-volume",
+      "resourceId": "archive-credible-credible-july-2026-recap-record-volume",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/settlement-latency-emerging-markets-payfi",
+      "resourceId": "credible-settlement-latency-thesis",
+      "status": "body-reviewed-selected",
+      "note": "MSB status, hardcoded revenue routing and reported volume are company assertions, not independently established compliance or execution.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/decentralized-stripe-payfi-844m-volume",
+      "resourceId": "credible-july-capital-and-operations",
+      "status": "body-reviewed-cataloged",
+      "note": "Complete publisher article body read on October 12. Byline is Credible Team, not an individual founder. Commercial, operational and regulatory claims remain attributed and unverified."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/four-million-dollar-raise-payment-infrastructure",
+      "resourceId": "archive-credible-four-million-dollar-raise-payment-infrastructure",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/thirty-two-million-committed-metadao-ico",
+      "resourceId": "archive-credible-thirty-two-million-committed-metadao-ico",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/trade-finance-to-stablecoin-payments",
+      "resourceId": "archive-credible-trade-finance-to-stablecoin-payments",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/zero-to-six-hundred-million",
+      "resourceId": "credible-zero-to-six-hundred-million",
+      "status": "body-reviewed-selected",
+      "note": "Company byline, not an individually authored founder essay. Reported cumulative volume and live integrations are unaudited.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/modern-payments-for-modern-businesses",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/earning-yield-from-global-payment-flows",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/anatomy-of-the-five-layer-payment-stack",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/global-payments-no-sales-call",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/inside-the-t0-settlement-loop",
+      "resourceId": "credible-t0-settlement-loop",
+      "status": "body-reviewed-cataloged",
+      "note": "Complete publisher article body read on October 12. Byline is Credible Team, not an individual founder. Commercial, operational and regulatory claims remain attributed and unverified."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/polygon-150m-stablecoin-settlement",
+      "resourceId": "credible-polygon-settlement-2026",
+      "status": "body-reviewed-cataloged",
+      "note": "Complete publisher body read; embedded media and linked financial records not independently reviewed. Historical claims and plans attributed; no execution, audit or legal assurance inferred."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/beyond-chargebacks-creator-payout-rails",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/scale-without-flares-legacy-fraud",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/641m-open-payment-stack",
+      "resourceId": "credible-641m-volume",
+      "status": "body-reviewed-selected",
+      "note": "Volume is not revenue or profit. Other dated company posts use lower cumulative figures; inconsistent publication/body chronology is preserved rather than reconciled by assumption.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/why-cred-ownership-over-utility",
+      "resourceId": "archive-credible-why-cred-ownership-over-utility",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/stablecoins-400b-infrastructure-layer",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/150-trillion-cross-border-payments-boom-credible",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/open-payments-stack-16-percent-apy",
+      "resourceId": "credible-payment-flow-yield-claim",
+      "status": "body-reviewed-selected",
+      "note": "Promotional yield and safety claims are not guarantees or an independently validated risk assessment. The March 6 company article separately acknowledges settlement, liquidity, FX, stablecoin, regulatory, operational and concentration risks.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/open-payments-stack-4-step-guide",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/stablecoins-didnt-fix-payments-credible-did",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/money-must-flow",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete body read. Company-authored liquidity-network overview overlaps the more concrete settlement-loop article; no personal founder byline. Yield claims not independently established."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/high-risk-merchant-account-instant-settlement-comparison",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/new-global-treasury-stablecoins-credible",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/supply-is-a-lie-distribution-is-truth",
+      "resourceId": "credible-distribution-thesis",
+      "status": "body-reviewed-cataloged",
+      "note": "Complete publisher article body read on October 12. Byline is Credible Team, not an individual founder. Commercial, operational and regulatory claims remain attributed and unverified."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/stablecoins-claims-not-assets",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete body read. Displayed May 6, 2026 date conflicts with repeated forward-looking 2025 language. Broad legal-protection claims unsupported by linked contracts; retained as reviewed but not selected, not reliable current legal guidance."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/node-program-dead-money-back",
+      "resourceId": "archive-credible-node-program-dead-money-back",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/liquidity-is-eating-us",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/build-product-not-payment-rails",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/payments-that-dont-suck",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/the-roads-are-still-broken",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/credible-opens-payments",
+      "resourceId": "credible-open-network-2026",
+      "status": "body-reviewed-cataloged",
+      "note": "Complete publisher body read; embedded media and linked financial records not independently reviewed. Historical claims and plans attributed; no execution, audit or legal assurance inferred."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/march-roundup-credible-400m",
+      "resourceId": "archive-credible-march-roundup-credible-400m",
+      "status": "already-cataloged-see-entry-evidence"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/liquidity-without-limits",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete body read. General promotional copy; broad audited-code and custody assurances without linked supporting audits. No individual founder byline."
+    },
+    {
+      "url": "https://blog.credible.finance/blog/t0-payments-instant-settlement-architecture",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/credible-the-next-gen-gateway",
+      "resourceId": "credible-manifesto",
+      "status": "body-reviewed-selected",
+      "note": "Product and governance vision is not proof of executed legal ownership, treasury control or all claimed integrations.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/breaking-the-latency-of-money",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/payments-without-waiting",
+      "resourceId": "credible-liquidity-abstraction",
+      "status": "body-reviewed-selected",
+      "note": "Described controls and mitigation are issuer claims, not an audit; preserves risk context alongside later promotional yield articles.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/stop-bankster-prefunding",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/the-checkout-is-dead-long-live-the-agentic-rail",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/going-global-is-draining-your-cash",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/why-global-payments-are-still-slow",
+      "resourceId": null,
+      "status": "body-reviewed-not-selected",
+      "note": "Complete company-authored body read. Overlaps existing payment-stack coverage or general promotional commentary; not selected as a separate catalog entry. Industry figures, risk, compliance and performance claims not independently checked.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/beyond-routing-the-future-of-payments-is-instant",
+      "resourceId": "credible-stablecoin-orchestration-january",
+      "status": "body-reviewed-selected",
+      "note": "Licences, regulatory scope, yield and deployment claims are not independently verified. Publication date does not establish current licence status.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "url": "https://blog.credible.finance/blog/credible-2025-wrap-up-real-time-stablecoin-settlement-with-payfi",
+      "resourceId": "archive-credible-credible-2025-wrap-up-real-time-stablecoin-settlement-with-payfi",
+      "status": "already-cataloged-see-entry-evidence"
+    }
+  ],
+  "pendingBodies": 0
+}

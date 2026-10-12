@@ -1,0 +1,53 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1vKpPrDAXLLKE",
+  "resourceId": "ownership-radio-2-recording",
+  "audioSha256": "35ea05fcce427f4c4efa50a1b5a873ea23552035c4da6f337b3343ab1ca02b86",
+  "durationSeconds": 5268.736,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 956,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 956 segments of the locally generated transcript read for 5268.74 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Gates’s role is corroborated by Valgrid’s primary disclosure. Other personal names are not inferred from garbled ASR. Claims of risk-free trading, zero flight risk, manipulation-proof markets, partnerships and accelerator rejection motives are not independently established. A community speaker explicitly says he is not on Quantum Waffle’s team. Lotus and Inkwell are prospective-raise leads, not confirmed ecosystem raises.",
+  "sections": [
+    {
+      "start": "04:18",
+      "topic": "Opening, MycoRealms follow-up and forthcoming P2P raise"
+    },
+    {
+      "start": "08:07",
+      "topic": "Payments and QR adoption discussion; host experience and opinions"
+    },
+    {
+      "start": "16:40",
+      "topic": "Fundraising alignment and Ranger refund discussion; execution not verified"
+    },
+    {
+      "start": "24:14",
+      "topic": "Gates introduces Valgrid; grid trading, team and roadmap"
+    },
+    {
+      "start": "31:40",
+      "topic": "Host asks about OpenClaw; answer does not clearly confirm advertised AI integration"
+    },
+    {
+      "start": "38:08",
+      "topic": "Lotus: proposed cross-venue prediction-market routing; private beta and prospective raise"
+    },
+    {
+      "start": "47:23",
+      "topic": "Inkwell: policy-controlled credit and Ika dependency; devnet and future integrations"
+    },
+    {
+      "start": "61:28",
+      "topic": "Conviction Labs: NVISION time-weighted mechanism, proposed resolution and pre-MVP fundraising"
+    },
+    {
+      "start": "79:45",
+      "topic": "Brief P2P reaction and community comments on Quantum Waffle and Avici"
+    },
+    {
+      "start": "85:45",
+      "topic": "Closing"
+    }
+  ]
+}

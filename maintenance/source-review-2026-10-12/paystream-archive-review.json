@@ -1,0 +1,65 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Founder and company archive",
+      "title": "What is Paystream?",
+      "url": "https://x.com/Paystreamlabs/status/1974428141276856821",
+      "status": "updated",
+      "resourceIds": [
+        "res-135"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Complete historical X Article text read via public FixTweet mirror. Embedded diagrams and transaction screenshots not reviewed. Publication date is distinct from proposed launch timing. Claims of returns, liquidity, security and governance remain publisher statements; later wind-down history is retained.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder and company archive",
+      "title": "Paystream: Building the Liquidity Optimizer of Solana",
+      "url": "https://x.com/Paystreamlabs/status/1980173375935742010",
+      "status": "updated",
+      "resourceIds": [
+        "res-136"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Complete historical X Article text read via public FixTweet mirror. Embedded diagrams and transaction screenshots not reviewed. Publication date is distinct from proposed launch timing. Claims of returns, liquidity, security and governance remain publisher statements; later wind-down history is retained.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder and company archive",
+      "title": "Week #1: Building the LLP Terminal",
+      "url": "https://x.com/Paystreamlabs/status/1986069666591129960",
+      "status": "updated",
+      "resourceIds": [
+        "res-137"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Complete historical X Article text read via public FixTweet mirror. Embedded diagrams and transaction screenshots not reviewed. Publication date is distinct from proposed launch timing. Claims of returns, liquidity, security and governance remain publisher statements; later wind-down history is retained.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "Paystream — founder-authored static analysis report",
+      "url": "https://docs.paystream.finance/audits",
+      "status": "added",
+      "resourceIds": [
+        "paystream-founder-static-analysis"
+      ],
+      "method": "Full primary documentation text",
+      "note": "Complete primary documentation report read, including its static-analysis disclaimer. No publication date or exact reviewed code revision established. Findings are author/tool reports, not independently reproduced exploits. No inference about current deployed code or remediation.",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "leads": [
+    {
+      "url": "https://maushish.substack.com/p/all-about-bitcoin",
+      "status": "discovered-not-reviewed",
+      "note": "General Bitcoin primer; lower priority than project history."
+    },
+    {
+      "url": "https://www.paystream.finance/whitepaper.pdf",
+      "status": "discovered-not-reviewed",
+      "note": "Historical V1 whitepaper; body not fully reviewed in this pass."
+    }
+  ]
+}

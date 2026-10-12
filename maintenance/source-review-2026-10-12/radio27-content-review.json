@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1DxleVLLPegKL",
+  "resourceId": "ownership-radio-27-recording",
+  "audioSha256": "6c039b5011fddf01a25550a1c58acf8abade7f26df38463739784f167217ab42",
+  "durationSeconds": 12115.242667,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 442,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 442 segments of the locally generated transcript read for 12115.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Full recovered transcript read, including targeted re-transcriptions at 6000,6060,6120,6300 and6360 seconds documented in radio27-asr-recheck.json. David joins late: an earlier mid-episode absence must not be interpreted as nonattendance. His three-month/2x unlock explanation and September14 launch are speaker statements, not instruction-level verification or proof of launch. CARS-002 primary page rechecked: Passed, execution unverified. Proposed exclusion of team tokens from liquidation distributions is a future idea, not enacted policy. Degen Terminal token snapshot/migration, partnerships, revenue model and runway are self-reports; execution and identity remain uncorroborated. TokenFlow fundraising route and Spark fee-sharing remain unresolved; no agreement inferred. Beekeeping, medical, security and financial claims are not independently verified. Final additional guest deferred, not interviewed.",
+  "sections": [
+    {
+      "start": "00:00",
+      "topic": "Governance roundup"
+    },
+    {
+      "start": "07:20",
+      "topic": "HiveBits: beehives, hardware, funding and commercial claims"
+    },
+    {
+      "start": "45:40",
+      "topic": "TokenFlow: analytics, indexing costs and prospective financing"
+    },
+    {
+      "start": "87:00",
+      "topic": "Spark: idea funding, existing Futardio infrastructure and unsettled business model"
+    },
+    {
+      "start": "135:00",
+      "topic": "Degen Terminal: product, earlier token and proposed migration"
+    },
+    {
+      "start": "150:00",
+      "topic": "Snapshot and community transition statements; no completed migration verified"
+    },
+    {
+      "start": "160:00",
+      "topic": "AI research assistant, privacy integration claims and prospective expansion"
+    },
+    {
+      "start": "165:00",
+      "topic": "Runway, trading-fee model and host questions on launchpad focus"
+    },
+    {
+      "start": "176:00",
+      "topic": "Rip Cars founder David joins and explains vesting proposal rationale"
+    },
+    {
+      "start": "185:00",
+      "topic": "Liquidation distribution exclusion discussed as prospective safeguard"
+    },
+    {
+      "start": "190:00",
+      "topic": "Founder ownership, unlock explanation and planned September14 product launch"
+    },
+    {
+      "start": "199:00",
+      "topic": "Additional guest deferred and closing"
+    }
+  ]
+}

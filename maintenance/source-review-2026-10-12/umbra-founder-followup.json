@@ -1,0 +1,71 @@
+{
+  "checkedAt": "2026-10-12",
+  "decisions": [
+    {
+      "group": "Founder archive",
+      "title": "Light in the Shadow #6-7: The Cryptography",
+      "url": "https://x.com/typi_cal_/status/2028905006972436712",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2028905006972436712"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read via public FixTweet mirror after primary X Articles index discovery. Embedded media not reviewed. Historical product, architecture, financial and security statements remain attributed; plans are distinguished from execution.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "On v2 Launch Date, Token, and just a rant",
+      "url": "https://x.com/Abbasshaikh/status/2096611907348447468",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2096611907348447468"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read via public FixTweet mirror after primary X Articles index discovery. Embedded media not reviewed. Historical product, architecture, financial and security statements remain attributed; plans are distinguished from execution.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "Building Umbra // 01: v2 vision, payroll, metrics, revenue, & growth",
+      "url": "https://x.com/Abbasshaikh/status/2087894361799631346",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2087894361799631346"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read via public FixTweet mirror after primary X Articles index discovery. Embedded media not reviewed. Historical product, architecture, financial and security statements remain attributed; plans are distinguished from execution.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "Let's talk about Umbra",
+      "url": "https://x.com/Abbasshaikh/status/2038325566303314046",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2038325566303314046"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read via public FixTweet mirror after primary X Articles index discovery. Embedded media not reviewed. Historical product, architecture, financial and security statements remain attributed; plans are distinguished from execution.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "group": "Founder archive",
+      "title": "Introducing the Umbra Hub",
+      "url": "https://x.com/Abbasshaikh/status/2002791295652421947",
+      "status": "added",
+      "resourceIds": [
+        "founder-umbra-2002791295652421947"
+      ],
+      "method": "Full X article text via public mirror",
+      "note": "Full article text read via public FixTweet mirror after primary X Articles index discovery. Embedded media not reviewed. Historical product, architecture, financial and security statements remain attributed; plans are distinguished from execution.",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "archiveCounts": {
+    "Kru": 5,
+    "Cal": 3,
+    "Abbas": 4
+  },
+  "boundary": "Bounded visible X Article indices. No claim that all historical posts or external writing were located."
+}

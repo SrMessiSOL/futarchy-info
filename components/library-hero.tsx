@@ -4,7 +4,7 @@ import { Search } from "lucide-react"
 import { Input } from "@/components/ui/input"
 import { ModeToggle } from "@/components/mode-toggle"
 import { Badge } from "@/components/ui/badge"
-import { resources, lastLibraryUpdate } from "@/lib/resources-data"
+import { mainResources as resources, lastLibraryUpdate } from "@/lib/resources-data"
 
 import projects from "@/content/projects.json"
 
@@ -15,7 +15,7 @@ interface LibraryHeroProps {
 
 export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
   const totalResources = resources.length
-  const projectCount = projects.filter(p => p.coverage !== "failed-raise").length
+  const projectCount = projects.filter(p => p.coverage === "raise").length
   const mediaCount = resources.filter((resource) => ["podcast", "video", "news"].includes(resource.type)).length
 
   return (
@@ -58,7 +58,7 @@ export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
             </div>
             <div className="border-l-2 border-primary bg-card/70 p-4">
               <p className="text-3xl font-semibold">{projectCount}</p>
-              <p className="text-sm text-muted-foreground">raised projects tracked</p>
+              <p className="text-sm text-muted-foreground">active raised projects tracked</p>
             </div>
             <div className="border-l-2 border-primary bg-card/70 p-4">
               <p className="text-3xl font-semibold">{mediaCount}</p>

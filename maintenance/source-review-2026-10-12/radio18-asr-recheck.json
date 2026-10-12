@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-12",
+  "method": "Targeted non-batched base.en re-transcription, 60 second chunks, beam 3; not manual listening",
+  "windows": [
+    {
+      "startSeconds": 810,
+      "durationSeconds": 60,
+      "finding": "Repaired repetition: discussion of academic research career constraints."
+    },
+    {
+      "startSeconds": 2400,
+      "durationSeconds": 60,
+      "finding": "Repaired repetition: prioritize shipping, transparency and avoiding overpromising."
+    },
+    {
+      "startSeconds": 8640,
+      "durationSeconds": 60,
+      "finding": "Host brainstorms a wearable heartbeat device; hypothetical suggestion, not a shipped Heirloom feature."
+    }
+  ],
+  "boundary": "All targeted replacement segments read. ASR remains imperfect; not manual listening. Raw text remains local and ignored."
+}

@@ -228,7 +228,8 @@
     "name": "Areal Finance",
     "aliases": [
       "Areal Finance",
-      "areal-finance"
+      "areal-finance",
+      "Areal"
     ],
     "companyUrl": "https://metadao.fi/companies/areal-finance",
     "resourceId": "company-areal-finance",
@@ -329,5 +330,810 @@
     "coverage": "failed-raise",
     "checkedAt": "2026-10-08",
     "website": null
+  },
+  {
+    "id": "mycorealms",
+    "name": "MycoRealms",
+    "aliases": [
+      "MycoRealms",
+      "Mycorealms",
+      "MYCO"
+    ],
+    "companyUrl": "https://www.futard.io/launch/8cJavsmirre12VUvajmcT4UXqqfM25ShZ9ZMPCcnVSB5",
+    "resourceId": "mycorealms-cordyceps-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://mycorealms.com/"
+  },
+  {
+    "id": "valgrid",
+    "name": "Valgrid",
+    "aliases": [
+      "Valgrid",
+      "GRID"
+    ],
+    "companyUrl": "https://www.futard.io/launch/BY1uzGNg8Yb5kPEhXrXA9VA4geHSpEdzBcTvPt7qWnpY",
+    "resourceId": "valgrid-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://valgrid.co/"
+  },
+  {
+    "id": "nvision",
+    "name": "NVISION",
+    "aliases": [
+      "NVISION",
+      "Nvision",
+      "Conviction Markets",
+      "Conviction Labs"
+    ],
+    "companyUrl": "https://www.futard.io/launch/6e3Xz2CUmXabyhMEQ3QpJUgPKP65HVzXP8X5qtb5a2YZ",
+    "resourceId": "nvision-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://nvision.convictionlabs.org/"
+  },
+  {
+    "id": "kavex",
+    "name": "Kavex",
+    "aliases": [
+      "Kavex",
+      "KAVEX",
+      "KVX"
+    ],
+    "companyUrl": "https://www.futard.io/launch/GkhJz5pRUd3vYc6K3MFYGaoomCVzLdrcGgwuLpnHMKcy",
+    "resourceId": "kavex-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.kavex.trade/"
+  },
+  {
+    "id": "the-syndicate",
+    "name": "The Syndicate",
+    "aliases": [
+      "The Syndicate",
+      "Syndicate",
+      "GANG"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/EFUKEM6oaUMdCtVvgaqeV2E9baZ1ikkLng1kTakvjU7k",
+    "resourceId": "syndicate-backable-raise",
+    "coverage": "raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://thesyndicate.games/"
+  },
+  {
+    "id": "salmon-wallet",
+    "name": "Salmon Wallet",
+    "aliases": [
+      "Salmon Wallet",
+      "Salmon",
+      "SALMON"
+    ],
+    "companyUrl": "https://www.futard.io/launch/Aakx1gdDoNQYqiv5uoqdXx56mGr6AbZh73SWpxHrk2qF",
+    "resourceId": "salmon-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.salmonwallet.io/"
+  },
+  {
+    "id": "spark",
+    "name": "Spark",
+    "aliases": [
+      "Spark",
+      "SPARK",
+      "JustSparkIdeas"
+    ],
+    "companyUrl": "https://www.futard.io/launch/2SGPL7DSLX35WuBm4458xwctrSEHzUpe5884aoXL68WY",
+    "resourceId": "spark-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://justspark.fun/"
+  },
+  {
+    "id": "bountive",
+    "name": "Bountive",
+    "aliases": [
+      "Bountive",
+      "BTV"
+    ],
+    "companyUrl": "https://www.futard.io/launch/DaBxHyopVqt52zzCPpxNiK6stDwdv6Zf9Ep9hndBPEE7",
+    "resourceId": "bountive-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://bountive.xyz"
+  },
+  {
+    "id": "gamebyts",
+    "name": "GameByts",
+    "aliases": [
+      "GameByts"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/FfadyEpRPJEbJHDvQ9ZeCBzkBjX1GZtEVNgMFogsfdq8",
+    "resourceId": "gamebyts-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://gamebyts.com/"
+  },
+  {
+    "id": "aeonian",
+    "name": "Aeonian",
+    "aliases": [
+      "Aeonian"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/Bw4TNjEEf8WChwYJTQBZMCKZx9ErGeQLNr8hBzDpeDHG",
+    "resourceId": "aeonian-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://aeonian.trade"
+  },
+  {
+    "id": "digg",
+    "name": "Digg",
+    "aliases": [
+      "Digg"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/4bTzczBeysUL9MtHxXbQ9Xefd2MJHoMNRm8B6tg5hHUe",
+    "resourceId": "digg-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "http://digg.sh"
+  },
+  {
+    "id": "ryvo-network",
+    "name": "Ryvo Network",
+    "aliases": [
+      "Ryvo Network"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/9EVNa5SukB5szKECdWVWssfFtsQmjiijukyXztK6PbrY",
+    "resourceId": "ryvo-network-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://ryvo.network"
+  },
+  {
+    "id": "hiie",
+    "name": "HIIE, from Arthur Labs",
+    "aliases": [
+      "HIIE, from Arthur Labs"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/9oFattEBT5A34JHaCz4BJQHtSJuL8Wzaj2AszWxx3khW",
+    "resourceId": "hiie-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://hiie.arthurlabs.net"
+  },
+  {
+    "id": "superpumped",
+    "name": "SuperPumped",
+    "aliases": [
+      "SuperPumped"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/Cdc9b9AuwkbfjBWqYC8xkcoyMacF6G55wsdUK2gpPuzS",
+    "resourceId": "superpumped-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://superpumped.pro"
+  },
+  {
+    "id": "degen-terminal",
+    "name": "Degen Terminal",
+    "aliases": [
+      "Degen Terminal"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/83fAjVrKqN3KN8UAFPunRNygTHMmkRRGd3KUKgeSXKx7",
+    "resourceId": "degen-terminal-failed-raise",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://dgnterminal.com"
+  },
+  {
+    "id": "markov",
+    "name": "Markov",
+    "aliases": [
+      "Markov"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/F8FPTKDGdTFvqXX3Ff9sirYod5jWNQzJKbc5VXLzWjKc",
+    "resourceId": "markov-failed-raise-f8fptkdg",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://markov.fyi"
+  },
+  {
+    "id": "coinflip",
+    "name": "Coinflip",
+    "aliases": [
+      "Coinflip"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/7wiwmSgdVXhYyiMWdUz6vUxTjoiCPupFwvmGNzhPJvV9",
+    "resourceId": "coinflip-failed-raise-7wiwmsgd",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://coinflip.to/"
+  },
+  {
+    "id": "carrylend",
+    "name": "CarryLend",
+    "aliases": [
+      "CarryLend"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/86cSK16y9FZBggdLcmZiPUCaBjB9TWyGdEzjmJoNe4tn",
+    "resourceId": "carrylend-failed-raise-86csk16y",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://carrylabs.dev/"
+  },
+  {
+    "id": "collector-suite",
+    "name": "The collector suite",
+    "aliases": [
+      "The collector suite"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/Eyq92APYDt5tEsvmsSHuCtX3KFJuKgmhLiry3EUaScuh",
+    "resourceId": "collector-suite-failed-raise-eyq92apy",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.thecollectorsuite.com/"
+  },
+  {
+    "id": "clytheriq-chain",
+    "name": "Clytheriq Chain",
+    "aliases": [
+      "Clytheriq Chain"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/BawJPh331hYBctANtrnky3Rof1jYtSE4ckoYLqQvmGd7",
+    "resourceId": "clytheriq-chain-failed-raise-bawjph33",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://clytheriq.com/"
+  },
+  {
+    "id": "gardendao",
+    "name": "GardenDAO",
+    "aliases": [
+      "GardenDAO"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/HLCNhF5rsrcWJLTLJYuGaYDQXJSPorMERm3ZcQz17R29",
+    "resourceId": "gardendao-failed-raise-hlcnhf5r",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://gardendao.com/"
+  },
+  {
+    "id": "prism-protocol",
+    "name": "PRISM Protocol",
+    "aliases": [
+      "PRISM Protocol"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/AJa28KvLBXjqiGzbVgeQZxn7bAnwZ2thscx8V3wvejWc",
+    "resourceId": "prism-protocol-failed-raise-aja28kvl",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.prismprotocol.dev/"
+  },
+  {
+    "id": "talaria",
+    "name": "Talaria",
+    "aliases": [
+      "Talaria"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/D1zRtkZ8c5JajdkSDPvatpALf74KNQZtfjZvmh1sLZjc",
+    "resourceId": "talaria-failed-raise-d1zrtkz8",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://talaria.build"
+  },
+  {
+    "id": "arcade-cafe",
+    "name": "Arcade Cafe",
+    "aliases": [
+      "Arcade Cafe"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/1AEZZsShFCnC8UUetqk9hGby66Q5mgyszDHdXjAmdYe",
+    "resourceId": "arcade-cafe-failed-raise-1aezzssh",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://arcade.cafe/"
+  },
+  {
+    "id": "privatedao",
+    "name": "PrivateDAO",
+    "aliases": [
+      "PrivateDAO"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/9zmeFEbtf5hLi7YtMckskfNffajdCq5FeSi5pNfVN361",
+    "resourceId": "privatedao-failed-raise-9zmefebt",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://privatedao.org/"
+  },
+  {
+    "id": "rugpull-club",
+    "name": "Rugpull Club",
+    "aliases": [
+      "Rugpull Club"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/5S3bKMvxMhixAowK6WkdH5iRapmhd2PiKHt2bBSNxDha",
+    "resourceId": "rugpull-club-failed-raise-5s3bkmvx",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://rugpull.club/"
+  },
+  {
+    "id": "tributary",
+    "name": "Tributary",
+    "aliases": [
+      "Tributary"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/99vD3p7e5p4vStrn4mX5Uzrqg9A4bica3wisAUQygG6B",
+    "resourceId": "tributary-failed-raise-99vd3p7e",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://tributary.so/"
+  },
+  {
+    "id": "sanctum-permissionless-fork",
+    "name": "sanctum done right fork",
+    "aliases": [
+      "sanctum done right fork"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/3SWD1jNDe6C1qbuDefXng6DQA2DnM8WKPpgH6nL7cuDg",
+    "resourceId": "sanctum-permissionless-fork-failed-raise-3swd1jnd",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://stacsol.app/"
+  },
+  {
+    "id": "boltick",
+    "name": "Boltick",
+    "aliases": [
+      "Boltick"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/p3f1RW1uWTjraL99dCmqQ3uCtSTfKhSWdRxxKoAoaWx",
+    "resourceId": "boltick-failed-raise-p3f1rw1u",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://boltick.com.ar/"
+  },
+  {
+    "id": "diverg",
+    "name": "Diverg",
+    "aliases": [
+      "Diverg"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/5mbLJavVEu9hRgEd9Sg2GCQSNMjRWc9t6ZzjamndU64q",
+    "resourceId": "diverg-failed-raise-5mbljavv",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://divergsec.com/"
+  },
+  {
+    "id": "bynomo",
+    "name": "Bynomo",
+    "aliases": [
+      "Bynomo"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/2aJ7mzSagAVYr1hYFgJAYHCoDLbvkjTtRRe44knWidRc",
+    "resourceId": "bynomo-failed-raise-2aj7mzsa",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://bynomo.fun/"
+  },
+  {
+    "id": "solar-wallet",
+    "name": "Solar",
+    "aliases": [
+      "Solar"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/5oyuNXQ8CpRn5oFGNszYGjrPknU1AMeQhuxwUdJpaMDT",
+    "resourceId": "solar-wallet-failed-raise-5oyunxq8",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://yourwallet.solar/"
+  },
+  {
+    "id": "universal-revenue-service",
+    "name": "Universal Revenue Service",
+    "aliases": [
+      "Universal Revenue Service"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/6LRN6j1EdbkXkjQybpKbpb4xWc84Ps7LPNHwtQqA7cGC",
+    "resourceId": "universal-revenue-service-failed-raise-6lrn6j1e",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://universalrevenueservice.com/"
+  },
+  {
+    "id": "quantum-waffle",
+    "name": "Quantum Waffle",
+    "aliases": [
+      "Quantum Waffle"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/4Wm4NFVy9MKgSJe3ZT8aKwbL3dc5XxvnWdPhvC4Sinow",
+    "resourceId": "quantum-waffle-failed-raise-4wm4nfvy",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://quantumwaffle.xyz/"
+  },
+  {
+    "id": "nfa-space",
+    "name": "NFA.space",
+    "aliases": [
+      "NFA.space"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/FfPgTna1xXJJ43S7YkwgspJJMMnvTphMjotnczgegUgV",
+    "resourceId": "nfa-space-failed-raise-ffpgtna1",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.nfa.space/"
+  },
+  {
+    "id": "shopsbuilder-ai",
+    "name": "ShopsBuilder AI",
+    "aliases": [
+      "ShopsBuilder AI"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/6qtygHxrFzF3tucXcy6EzbwZJBRbiuZAZrsXapXZLxE3",
+    "resourceId": "shopsbuilder-ai-failed-raise-6qtyghxr",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://shopsbuilder.app/"
+  },
+  {
+    "id": "git3",
+    "name": "Git3",
+    "aliases": [
+      "Git3"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/6JSEvdUfQuo8rh3M18Wex5xmSacUuBozz9uQEgFC81pX",
+    "resourceId": "git3-failed-raise-6jsevduf",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://git3.io/"
+  },
+  {
+    "id": "etnl",
+    "name": "Etnl.io",
+    "aliases": [
+      "Etnl.io"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/4oiZeLhoDB9jGTFd28kJDKBYheL1Yg1XwR3qPTa69Rx9",
+    "resourceId": "etnl-failed-raise-4oizelho",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://etnl.io/"
+  },
+  {
+    "id": "seeker-vault",
+    "name": "Seeker Vault",
+    "aliases": [
+      "Seeker Vault",
+      "SeekerVault"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/7AMzZD3JZ15FCX2eoC17KgJD5Ywum9J5i7E9BAbgc2vi",
+    "resourceId": "seeker-vault-failed-raise-7amzzd3j",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://seekervault.xyz/"
+  },
+  {
+    "id": "nexid",
+    "name": "NexID",
+    "aliases": [
+      "NexID"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/9diK9jWj4vEbCw6mKaSekdn2vw2R62jFDhCgYerCo8jK",
+    "resourceId": "nexid-failed-raise-9dik9jwj",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://nexid.fun/"
+  },
+  {
+    "id": "lobsterfutarchy",
+    "name": "LobsterFutarchy",
+    "aliases": [
+      "LobsterFutarchy"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/2d9RAui8BGYh8Jt7dc49WSFTuXVRT4nNE4Sy2mUtALNZ",
+    "resourceId": "lobsterfutarchy-failed-raise-2d9raui8",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://lobsterfutarchy.com/"
+  },
+  {
+    "id": "ludex-ai",
+    "name": "Ludex AI",
+    "aliases": [
+      "Ludex AI"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/95HNkVuqzStFe7B6Aw32sgkbwkHEyEsA818izKKTz776",
+    "resourceId": "ludex-ai-failed-raise-95hnkvuq",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.ludexai.io/"
+  },
+  {
+    "id": "futardio-boat",
+    "name": "FUTARDIO Boat",
+    "aliases": [
+      "FUTARDIO Boat"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/rFdgjcZYHgcsGy44iyvN95JRjB3Yr8APps437cd2HEL",
+    "resourceId": "futardio-boat-failed-raise-rfdgjczy",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://futardio.boats/"
+  },
+  {
+    "id": "launchpet",
+    "name": "Launchpet",
+    "aliases": [
+      "Launchpet"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/BWeT96hGV245sm6Ua4EhLPL8GngcBV2aKS2uvkaEkjBi",
+    "resourceId": "launchpet-failed-raise-bwet96hg",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://launchpet.com/"
+  },
+  {
+    "id": "blockrock",
+    "name": "BlockRock",
+    "aliases": [
+      "BlockRock"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/J7CmLqfMLVq67swRQa6xCWn7VcyfpyhFSiQdJYNwkP8k",
+    "resourceId": "blockrock-failed-raise-j7cmlqfm",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://blockrock.fund/"
+  },
+  {
+    "id": "phonon-studio",
+    "name": "Phonon Studio AI",
+    "aliases": [
+      "Phonon Studio AI"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/x1yqPH8mutuiqkrz66DPwFw1ykQqT4v5KyUUtUzBgPA",
+    "resourceId": "phonon-studio-failed-raise-x1yqph8m",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://phonon.studio/"
+  },
+  {
+    "id": "runbookai",
+    "name": "RunBookAI",
+    "aliases": [
+      "RunBookAI"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/9DfNVpcDm6x1GXUa8wik8YVZhiw7dTmmhefVBWVZuAg8",
+    "resourceId": "runbookai-failed-raise-9dfnvpcd",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.runbookai.xyz/"
+  },
+  {
+    "id": "insert-coin-labs",
+    "name": "Insert Coin labs",
+    "aliases": [
+      "Insert Coin labs"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/62Yxd8gLQ2YYmY2TifhChJG4tVdf4b1oAHcMfwTL2WUu",
+    "resourceId": "insert-coin-labs-failed-raise-62yxd8gl",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.iclabs.fun/"
+  },
+  {
+    "id": "seyf",
+    "name": "Seyf",
+    "aliases": [
+      "Seyf"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/2TK2hDtyNAY2hbV3yHDoVaAPSfaod2sHX7PtWPz8QfmQ",
+    "resourceId": "seyf-failed-raise-2tk2hdty",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://seyf.app/"
+  },
+  {
+    "id": "torch-market",
+    "name": "Torch Market",
+    "aliases": [
+      "Torch Market"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/5ocdHgwhMwVDzUbE7ctjdkBmP4fauPsVfb2mfUsSmhRD",
+    "resourceId": "torch-market-failed-raise-5ocdhgwh",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://torch.market/"
+  },
+  {
+    "id": "tridash",
+    "name": "TriDash",
+    "aliases": [
+      "TriDash"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/5jK8akFVVkM9JAJKps6M9eECCBoSLM7meR2Kf5Kc47f7",
+    "resourceId": "tridash-failed-raise-5jk8akfv",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.tridash.xyz/"
+  },
+  {
+    "id": "bitfutard",
+    "name": "BitFuTard",
+    "aliases": [
+      "BitFuTard"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/3jDrz2B6aDgjKSArkJPkqQPnYXqtihjAtGHf7tRohjj2",
+    "resourceId": "bitfutard-failed-raise-3jdrz2b6",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://bitfutard.com/"
+  },
+  {
+    "id": "send-arcade",
+    "name": "Send Arcade",
+    "aliases": [
+      "Send Arcade"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/ActRESLUCdMzU4BnEE5VtMM2JG5ghZuKWkjXfiB5GdS7",
+    "resourceId": "send-arcade-failed-raise-actreslu",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://www.sendarcade.fun/"
+  },
+  {
+    "id": "island",
+    "name": "Island",
+    "aliases": [
+      "Island"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/FpFytak8JZwVntqDh9G95zqXXVJNXMxRFUYY959AXeZj",
+    "resourceId": "island-failed-raise-fpfytak8",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "http://island.ag/"
+  },
+  {
+    "id": "i-rich",
+    "name": "i.rich",
+    "aliases": [
+      "i.rich"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/87ZWGbregxaa7TMD3TgYg6n2ADdTN1vqXpVCtSvKjEjw",
+    "resourceId": "i-rich-failed-raise-87zwgbre",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://i.rich/"
+  },
+  {
+    "id": "pli-creperie",
+    "name": "Pli — Crêperie Ambulante",
+    "aliases": [
+      "Pli — Crêperie Ambulante"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/GmNzSXzQ3q6UCVRpBf8PkvEqoo454Qr6twWc9zuzJzBa",
+    "resourceId": "pli-creperie-failed-raise-gmnzsxzq",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "sizematters",
+    "name": "SizeMatters",
+    "aliases": [
+      "SizeMatters"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/CtynMdGE4CwJuUSoYhRf4powwKwT8bWo5Dq2KiBVEiKm",
+    "resourceId": "sizematters-failed-raise-ctynmdge",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://sizematters.fun/"
+  },
+  {
+    "id": "xorrabet",
+    "name": "XorraBet",
+    "aliases": [
+      "XorraBet"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/24fzAzy51sUFSnRf4qpTqSrrugiKcJ8uVh2TSnQrDdoY",
+    "resourceId": "xorrabet-failed-raise-24fzazy5",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://xorrabet.com/"
+  },
+  {
+    "id": "futarchy-arena",
+    "name": "Futarchy Arena",
+    "aliases": [
+      "Futarchy Arena"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/8UjuYsm1m8uNNVSeA1NSwvV6ch9G2QC14yKvpXjrRgw",
+    "resourceId": "futarchy-arena-failed-raise-8ujuysm1",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "vervepay",
+    "name": "Vervepay",
+    "aliases": [
+      "Vervepay"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/CrRTdZWr8iectFdEXi2FdDGNFSLT3LEX3i1xVNiJqEpc",
+    "resourceId": "vervepay-failed-raise-crrtdzwr",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://vervepay.netlify.app/"
+  },
+  {
+    "id": "digifrens",
+    "name": "DigiFrens",
+    "aliases": [
+      "DigiFrens"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/HTyjkYarxpf115vPqGXYpPpS9jFMXzLLjGNnVjEGWuBg",
+    "resourceId": "digifrens-failed-raise-htyjkyar",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://digifrens.app/"
+  },
+  {
+    "id": "cloak",
+    "name": "Cloak",
+    "aliases": [
+      "Cloak"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/9MqyiXXJUAXQ1Uy5j2EV8hq21UeR3ruukWkZ1XGNhg3R",
+    "resourceId": "cloak-failed-raise-9mqyixxj",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://usecloak.xyz/"
+  },
+  {
+    "id": "versus",
+    "name": "VERSUS",
+    "aliases": [
+      "VERSUS"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/97zmRbfpCR88KkFucJnUvMKEaFg5ay6GxQSWmyEsdi67",
+    "resourceId": "versus-failed-raise-97zmrbfp",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "manna-finance",
+    "name": "Manna Finance",
+    "aliases": [
+      "Manna Finance"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/5whxoTjxW4oKeSN4C8yf5JUur7pcSChkPWgmhSZQ8oD5",
+    "resourceId": "manna-finance-failed-raise-5whxotjx",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://manna.finance/"
+  },
+  {
+    "id": "open-music",
+    "name": "Open Music",
+    "aliases": [
+      "Open Music"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/4R1peXdUehAS1aWCdnrBfLRevGktsKH2euvBLdsYXbWu",
+    "resourceId": "open-music-failed-raise-4r1pexdu",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://openmusic.art/"
+  },
+  {
+    "id": "milo-ai-agent",
+    "name": "Milo AI Agent",
+    "aliases": [
+      "Milo AI Agent"
+    ],
+    "companyUrl": "https://www.backable.biz/raises/4EhLS9CWQ2dQQe1nexxvB6D3c5jGaRCirpQ5GJFS43nR",
+    "resourceId": "milo-ai-agent-failed-raise-4ehls9cw",
+    "coverage": "failed-raise",
+    "checkedAt": "2026-10-12",
+    "website": "https://my-site-e8kzsy52-wissingnathan.wix-vibe.com/"
   }
 ]

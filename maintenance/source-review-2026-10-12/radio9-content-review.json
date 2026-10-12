@@ -1,0 +1,73 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1RKZzjAYRvwKB",
+  "resourceId": "ownership-radio-9-recording",
+  "audioSha256": "8a93ceb1caa6aa6e560b6fb941529f062c64a4ccfb65aed5149740638ec5f000",
+  "durationSeconds": 8952.6613125,
+  "transcriptModel": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+  "generatedSegments": 2208,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 2208 segments of the locally generated transcript read for 8952.66 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Crafts and ReFi Hub are alternative-platform context, not evidence of MetaDAO raises. Epicentral incubation and a prospective MetaDAO/Futardio raise are plans, not completed funding. Devnet launch is announced for the following day, not verified deployment. Speaker legal, yield, lender-safety and market-size claims are not independently established. Telebux does not appear. Uncertain guest names excluded.",
+  "sections": [
+    {
+      "start": "04:12",
+      "topic": "Opening and Radio 9 introduction"
+    },
+    {
+      "start": "07:48",
+      "topic": "Crafts: partial tokenization, sealed bids, clearing price and planned mock raise"
+    },
+    {
+      "start": "18:44",
+      "topic": "Founder ownership, later financing and treasury governance"
+    },
+    {
+      "start": "30:38",
+      "topic": "SPV/SAFE structure and limits of direct acquisition rights; prospective raises"
+    },
+    {
+      "start": "37:33",
+      "topic": "ReFi Hub: energy project revenue sharing and reasons for choosing Crafts"
+    },
+    {
+      "start": "50:46",
+      "topic": "Operating-asset diligence, contract enforcement and collateral claims"
+    },
+    {
+      "start": "57:42",
+      "topic": "Planned secondary trading and diversified vaults; yield and jurisdiction discussion"
+    },
+    {
+      "start": "76:27",
+      "topic": "Ownership incubation announcement and planned Epicentral raise"
+    },
+    {
+      "start": "81:00",
+      "topic": "Tony: prior governance participation difficulties and options product background"
+    },
+    {
+      "start": "87:20",
+      "topic": "Options basics, tokenized positions, collateral and pool pricing"
+    },
+    {
+      "start": "103:28",
+      "topic": "Devnet launch planned for following day; American-style exercise and manipulation questions"
+    },
+    {
+      "start": "110:00",
+      "topic": "Option Greeks, implied volatility model and composability"
+    },
+    {
+      "start": "121:29",
+      "topic": "Questions on regulatory and technical barriers; founder opinions only"
+    },
+    {
+      "start": "139:40",
+      "topic": "Bootstrapping and unresolved capital-efficient liquidity design"
+    },
+    {
+      "start": "143:20",
+      "topic": "Closing, incubation and future fundraising; Telebux appearance postponed"
+    }
+  ]
+}

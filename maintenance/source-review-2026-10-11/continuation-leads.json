@@ -1,0 +1,78 @@
+{
+  "asOf": "2026-10-12",
+  "scope": "Supplement to the original 611-link snapshot; not approved catalog additions",
+  "links": [
+    {
+      "title": "Avici cofounder origin post",
+      "url": "https://x.com/RamXBT/status/1980959197023056211",
+      "status": "full-short-post-read",
+      "note": "Ram names @0xatiwari as cofounder; identity evidence, not a full article.",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Avici Visa DAO post",
+      "url": "https://x.com/RamXBT/status/1871080450489205021",
+      "status": "full-short-post-read",
+      "note": "Short promotional post; excluded as a long-form article.",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Sheldon on Seed Club",
+      "url": "https://podscan.fm/podcasts/11am-w-seed-club/episodes/sheldon-co-founder-of-p2pme-on-11am-w-seed-club",
+      "status": "complete-public-video-captions-reviewed",
+      "note": "Full public YouTube caption track reviewed; Podscan remains a truncated preview and is not the full evidence source.",
+      "checkedAt": "2026-10-12",
+      "resolvedUrl": "https://www.youtube.com/watch?v=1x-cSsjFgt0"
+    },
+    {
+      "title": "Ownership — Sheldon",
+      "url": "https://solana.com/podcasts/ownership/episodes/ownership-podcast-s1-e5-sheldon-p2p-me-e3gs8a3",
+      "status": "metadata-only",
+      "note": "Alternative publisher distribution, not an additional reviewed interview.",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Ownership — Rakka",
+      "url": "https://solana.com/podcasts/ownership/episodes/ownership-s1e2-rakka-omnipair-e3fmoq2",
+      "status": "metadata-only",
+      "note": "Recording body not reviewed.",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Ownership — Chris",
+      "url": "https://solana.com/podcasts/ownership/episodes/ownership-s1-e4-chris-loyal-e3ghnna",
+      "status": "metadata-only",
+      "note": "Publisher identifies founder and personal X account; recording body unread.",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "Agentic Finance for Everyday Users — Chris",
+      "url": "https://podcasts.apple.com/ca/podcast/agentic-finance-for-everyday-users-chris/id1697548240?i=1000767383993",
+      "status": "complete-public-video-captions-reviewed",
+      "note": "Complete public video captions read. Historical rollout plans and financial/security claims qualified.",
+      "checkedAt": "2026-10-12",
+      "resolvedUrl": "https://www.youtube.com/watch?v=bx_n34xGYfQ"
+    },
+    {
+      "title": "Rakka article discovery",
+      "url": "https://community.twstalker.com/rakka_sol",
+      "status": "resolved-through-primary-articles",
+      "note": "All five surfaced canonical Rakka X articles were recovered and fully read in the October 12 pass. This old mirror is no longer the evidence source; see founder-decisions.json.",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "title": "mtnCapital historical app",
+      "url": "https://v1.metadao.fi/mtncapital",
+      "status": "access-unavailable",
+      "note": "Historical outlink failed in this pass; not proof the project ceased operating.",
+      "checkedAt": "2026-10-11"
+    },
+    {
+      "title": "mtnCapital unwind secondary lead",
+      "url": "https://meme-insider.com/en/article/mtncapital-unwind-proposal-highlights-metadao-safety-features/",
+      "status": "secondary-lead",
+      "note": "Secondary body read; primary linked post not recovered. Proposal and claimed redemption are not independently verified.",
+      "checkedAt": "2026-10-11"
+    }
+  ]
+}

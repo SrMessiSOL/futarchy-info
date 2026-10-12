@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1DxleVLLPegKL",
+  "method": "Non-batched base.en beam3, five one-minute chunks; all resulting text read, not manual listening",
+  "windows": [
+    6000,
+    6060,
+    6120,
+    6300,
+    6360
+  ],
+  "findings": [
+    "Spark describes using existing Futardio launch infrastructure, not a fork.",
+    "Host requests clearer project-description workflow.",
+    "Claims of no risk are speaker rhetoric, not endorsed."
+  ],
+  "boundary": "Approximate recognition still uncertain; full Radio27 review remains incomplete."
+}

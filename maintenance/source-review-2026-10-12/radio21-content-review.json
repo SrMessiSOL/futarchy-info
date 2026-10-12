@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1wGWjjzzLWnKQ",
+  "resourceId": "ownership-radio-21-recording",
+  "audioSha256": "2e1f92890632402db647ca725d07251f4ff6cf5e2cf90bc95e4401f62a729e07",
+  "durationSeconds": 12492.757333,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 449,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 449 segments of the locally generated transcript read for 12492.76 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Ryvo and Opta explicitly describe devnet work; Malibu is pre-beta. HIIE migration, compute support and IP transfer are prospective; Arthur Labs agency is separate. Unclear ASR names omitted. Publisher post date is not an inferred broadcast date.",
+  "sections": [
+    {
+      "start": "06:30",
+      "topic": "Ryvo: gateway versus native SDK, batched settlement, devnet agents and float risks."
+    },
+    {
+      "start": "41:00",
+      "topic": "Malibu: Mac inference closed pre-beta, miner incentives and unfinished privacy design."
+    },
+    {
+      "start": "82:50",
+      "topic": "Opta: devnet options, Token-2022 extensions, collateral limits, oracle risks and audit/mainnet roadmap."
+    },
+    {
+      "start": "147:30",
+      "topic": "HIIE: invention workflow, Arthur Labs separation, proposed token migration and fundraising; compute application is not award."
+    }
+  ]
+}

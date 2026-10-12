@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-12",
+  "sourceUrl": "https://x.com/i/spaces/1jxXgBvMRBzJZ",
+  "resourceId": "ownership-radio-28-recording",
+  "audioSha256": "aa274040b493d32a4cd62f37ac3897e08736aae11e4ff6dae4dd2d21c1ec7672",
+  "durationSeconds": 8490.538667,
+  "transcriptModel": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+  "generatedSegments": 301,
+  "reviewStatus": "complete-generated-transcript-reviewed",
+  "boundary": "All 301 segments of the locally generated transcript read for 8490.54 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. LFOWN-001 corroborates Mathis and Ewan as Spark representatives; it does not make them original founders of the funded idea. Revenue and user metrics are self-reported. ZeroFiat explicitly says it had not listed a Futardio raise. Milker remains a devnet description with prospective financing; house-edge safety and licensing assertions are not endorsed. Advertised Polybaskets interview did not occur. Two repetitive ASR passages were re-transcribed in five one-minute non-batched chunks and read; approximate names/numbers remain excluded.",
+  "sections": [
+    {
+      "start": "00:00",
+      "topic": "Spark idea funding and LFOwn contributors"
+    },
+    {
+      "start": "15:00",
+      "topic": "LFOwn fee split and future community treasuries"
+    },
+    {
+      "start": "42:00",
+      "topic": "Host corrects token-performance anecdote: Basket, not LFOwn"
+    },
+    {
+      "start": "45:00",
+      "topic": "ZeroFiat checkout architecture, gift cards and merchant-account dependencies"
+    },
+    {
+      "start": "75:00",
+      "topic": "Privacy and regulatory questions; claims remain attributed"
+    },
+    {
+      "start": "81:00",
+      "topic": "ZeroFiat corrects host: no Futardio raise listed"
+    },
+    {
+      "start": "90:00",
+      "topic": "Polybaskets absent; transition to Milker"
+    },
+    {
+      "start": "95:00",
+      "topic": "Milker devnet, bankroll shares and operator model"
+    },
+    {
+      "start": "110:00",
+      "topic": "Randomness, locked bet liabilities and partial withdrawals"
+    },
+    {
+      "start": "120:00",
+      "topic": "Operator onboarding and unresolved regulatory assumptions"
+    },
+    {
+      "start": "130:00",
+      "topic": "Prospective raise, audit/licensing budget and closing"
+    }
+  ]
+}

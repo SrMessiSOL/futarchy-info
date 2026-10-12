@@ -5,6 +5,15 @@ import {mergeCandidates} from './discover.mjs';
 import {extractLinks,publicAddress} from './network.mjs';
 import {validateProposal} from './validate-proposal.mjs';
 const entry={id:'example',title:'Example report',author:'Publisher',date:'2026-01-01',type:'article',url:'https://example.org/report',sourceUrl:'https://example.org/report',dateKind:'publication',datePrecision:'day',verification:'source-checked',addedAt:'2026-01-02',checkedAt:'2026-01-02',evidenceNote:'Title and publication date checked against the publisher page.'};
+test('event reminders can be superseded by a different recording URL without weakening URL deduplication',()=>{
+  const show={...entry,id:'show',type:'podcast',url:'https://example.org/show'};
+  const reminder={...entry,catalogOnly:true,supersededBy:'show'};
+  assert.equal(validateCatalog([reminder,show]).length,2);
+  assert.throws(()=>validateCatalog([{...reminder,catalogOnly:false},show]));
+  assert.throws(()=>validateCatalog([{...reminder,supersededBy:'missing'},show]));
+  assert.throws(()=>validateCatalog([reminder,{...show,catalogOnly:true}]));
+  assert.throws(()=>validateCatalog([{...entry,duplicateOf:'show'},show]));
+});
 test('verifying a legacy record preserves its unknown original addition date',()=>{
   assert.equal(validateCatalog([{...entry,addedAt:null}],['example']).length,1);
   assert.throws(()=>validateCatalog([{...entry,addedAt:null}]));

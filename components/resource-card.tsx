@@ -5,6 +5,7 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { formatResourceDate, type Resource } from "@/lib/resources-data"
+import { mediaNote } from "@/lib/agent-media"
 
 interface ResourceCardProps {
   resource: Resource
@@ -16,6 +17,7 @@ interface ResourceCardProps {
 
 export function ResourceCard({ resource, viewCount, score, onView, onVote }: ResourceCardProps) {
   const formattedDate = formatResourceDate(resource)
+  const transcript = mediaNote(resource.id)?.transcript
 
   const typeLabel = {
     paper: "Paper",
@@ -120,6 +122,8 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
             Source
             <ExternalLink className="ml-2 h-4 w-4" />
           </Button>
+          {mediaNote(resource.id) && <a className="text-sm font-medium text-primary underline underline-offset-4" href={`/api/library/${resource.id}`} target="_blank" rel="noopener noreferrer">Reading notes</a>}
+          {transcript?.status === 'available' && <a className="text-sm font-medium text-primary underline underline-offset-4" href={transcript.textUrl} target="_blank" rel="noopener noreferrer">Transcript (machine)</a>}
         </div>
       </CardFooter>
     </Card>

@@ -2,6 +2,14 @@
 
 An independent research library for futarchy, decision markets, and ownership coins. Built with Next.js; content lives in `content/resources.json`.
 
+## Agent access
+
+`/llms.txt` describes `/api/library` (main), `?scope=historical` and `?scope=everything`. Reviewed media exposes `/api/library/[id]` in Markdown or `?format=json`, with summaries, review limits and timestamped topic guides where recorded. Cards link to Reading notes.
+
+The 32 available OwnershipFM transcripts are published with explicit team permission: `/api/transcripts/[id]` serves text; `?format=json` serves timed segments, provenance and permission metadata. Cards label them Transcript (machine). These are uncorrected machine outputs, not verified quotations. Partial recovered recordings retain their coverage limits. Other publishers have notes only until transcript permission is established. Public APIs use the same lifecycle, reminder and duplicate filters as the website.
+
+`scripts/prepare-media-notes.mjs` regenerates original notes from review records and permissioned transcripts from locally retained research evidence. It requires the ignored `work/deep-review` files to rebuild full OwnershipFM transcripts. CI consumes the committed validated outputs and does not download or transcribe media.
+
 ## Run locally
 
 Use Node.js 22.15 or newer and npm:

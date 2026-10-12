@@ -13,6 +13,7 @@ export const resourceSchema = z.object({
   type: z.enum(['paper', 'article', 'podcast', 'video', 'news']), url,
   description: z.string().max(1200).optional(), tags: z.array(z.string()).optional(),
   featured: z.boolean().optional(), duplicateOf: z.string().optional(),
+  supersededBy: z.string().optional(), catalogOnly: z.boolean().optional(),
   dateKind: z.enum(['publication', 'event', 'unknown']),
   datePrecision: z.enum(['day', 'unverified', 'unknown']),
   verification: z.enum(['legacy', 'source-checked']), sourceUrl: url,
@@ -45,6 +46,10 @@ export function validateCatalog(input, legacyIds = [], today = new Date().toISOS
       const key = canonicalUrl(r.url); const previous = urls.get(key);
       if (previous) errors.push(`${r.id}: URL duplicates ${previous}`);
       urls.set(key, r.id);
+    }
+    if (r.supersededBy) {
+      const target = rows.find(x => x.id === r.supersededBy);
+      if (!r.catalogOnly || !target || target.catalogOnly || target.duplicateOf || target.id === r.id || !['podcast', 'video'].includes(target.type)) errors.push(`${r.id}: invalid show replacement`);
     }
   }
   for (const id of legacy) if (!ids.has(id)) errors.push(`Legacy ID removed: ${id}`);

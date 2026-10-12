@@ -31,6 +31,11 @@ test('living references keep publication unknown and raise dates are explicitly 
   assert.throws(()=>validateCatalog([{...entry,undatedReference:true}]));
   assert.equal(validateCatalog([{...entry,dateKind:'event',dateBasis:'raise-start'}]).length,1);
   assert.throws(()=>validateCatalog([{...entry,dateBasis:'raise-start'}]));
+  for (const dateBasis of ['trading-live','source-update']) {
+    assert.equal(validateCatalog([{...entry,dateKind:'event',dateBasis}]).length,1);
+    assert.throws(()=>validateCatalog([{...entry,dateBasis}]));
+    assert.throws(()=>validateCatalog([{...entry,date:null,datePrecision:'unknown',dateKind:'event',dateBasis}]));
+  }
 });
 test('new entries cannot inherit legacy verification',()=>{
   assert.throws(()=>validateCatalog([{...entry,verification:'legacy'}]));

@@ -14,7 +14,7 @@ export const resourceSchema = z.object({
   description: z.string().max(1200).optional(), tags: z.array(z.string()).optional(),
   featured: z.boolean().optional(), duplicateOf: z.string().optional(),
   supersededBy: z.string().optional(), catalogOnly: z.boolean().optional(),
-  undatedReference: z.boolean().optional(), sourceUpdatedAt: day.optional(), dateBasis: z.enum(['raise-start']).optional(),
+  undatedReference: z.boolean().optional(), sourceUpdatedAt: day.optional(), dateBasis: z.enum(['raise-start', 'trading-live', 'source-update']).optional(),
   dateKind: z.enum(['publication', 'event', 'unknown']),
   datePrecision: z.enum(['day', 'unverified', 'unknown']),
   verification: z.enum(['legacy', 'source-checked']), sourceUrl: url,
@@ -39,6 +39,7 @@ export function validateCatalog(input, legacyIds = [], today = new Date().toISOS
     if (!r.date && r.datePrecision !== 'unknown') errors.push(`${r.id}: null date must have unknown precision`);
     if (r.undatedReference && r.date) errors.push(`${r.id}: undated reference must not have a publication date`);
     if (r.dateBasis === 'raise-start' && (r.dateKind !== 'event' || r.datePrecision !== 'day')) errors.push(`${r.id}: raise-start date must be an exact event date`);
+    if (['trading-live','source-update'].includes(r.dateBasis) && (r.dateKind !== 'event' || r.datePrecision !== 'day')) errors.push(`${r.id}: event date basis needs an exact event date`);
     if (r.sourceUpdatedAt && r.sourceUpdatedAt > today) errors.push(`${r.id}: future source update`);
     if (r.verification === 'source-checked' && (!r.checkedAt || (!legacy.has(r.id) && !r.addedAt) || !r.evidenceNote || r.evidenceNote.length < 25 || (r.date && r.dateKind === 'unknown'))) errors.push(`${r.id}: missing verification evidence or date kind`);
     for (const key of ['date', 'addedAt', 'checkedAt']) if (r[key] && r[key] > today) errors.push(`${r.id}: future ${key}`);

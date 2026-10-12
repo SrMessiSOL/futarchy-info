@@ -3972,7 +3972,9 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2030025269826761145",
     "addedAt": null,
     "checkedAt": "2026-10-12",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording is separately cataloged as ownership-radio-1-recording after complete available generated-transcript review on October 12; see that record for recovery and ASR limits."
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording is separately cataloged as ownership-radio-1-recording after complete available generated-transcript review on October 12; see that record for recovery and ASR limits.",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-1-recording"
   },
   {
     "id": "res-201",
@@ -4040,7 +4042,9 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2032848755829915871",
     "addedAt": null,
     "checkedAt": "2026-10-12",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording is separately cataloged as ownership-radio-2-recording after complete available generated-transcript review on October 12; see that record for recovery and ASR limits."
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording is separately cataloged as ownership-radio-2-recording after complete available generated-transcript review on October 12; see that record for recovery and ASR limits.",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-2-recording"
   },
   {
     "id": "res-204",
@@ -4062,7 +4066,8 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2034341877885907133",
     "addedAt": null,
     "checkedAt": "2026-10-11",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved."
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved.",
+    "catalogOnly": true
   },
   {
     "id": "res-205",
@@ -4108,7 +4113,9 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2043127308001710408",
     "addedAt": null,
     "checkedAt": "2026-10-12",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording is separately cataloged as ownership-radio-6-recording after complete available generated-transcript review on October 12; see that record for recovery and ASR limits."
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording is separately cataloged as ownership-radio-6-recording after complete available generated-transcript review on October 12; see that record for recovery and ASR limits.",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-6-recording"
   },
   {
     "id": "res-207",
@@ -4130,7 +4137,8 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2045263522343391527",
     "addedAt": null,
     "checkedAt": "2026-10-11",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved."
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved.",
+    "catalogOnly": true
   },
   {
     "id": "res-218",
@@ -4341,7 +4349,7 @@
     "date": "2025-10-10",
     "type": "news",
     "url": "https://www.theblock.co/post/373997/solana-arcium-privacy-protocol-umbra-ico-metadao",
-    "description": "News coverage of Umbra's MetaDAO ICO, reporting roughly $155M in commitments and more than 10,000 participants.",
+    "description": "The Block reports roughly $155 million in Umbra ICO commitments but a $3 million accepted cap, with excess commitments scheduled for refund. Arcium-based privacy integrations and a Zcash bridge are historical roadmap plans, qualified by later Umbra V2 sources. Refund execution and security are not independently verified.",
     "tags": [
       "Umbra",
       "MetaDAO",
@@ -4350,13 +4358,14 @@
       "News",
       "project:umbra"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.theblock.co/post/373997/solana-arcium-privacy-protocol-umbra-ico-metadao",
     "addedAt": null,
-    "checkedAt": null,
-    "duplicateOf": "res-62"
+    "checkedAt": "2026-10-12",
+    "duplicateOf": "res-62",
+    "evidenceNote": "Read the complete available publisher article, byline and publication timestamp. Commitments distinguished from capped accepted proceeds; publisher roadmap statements are prospective. Original ID and link retained despite publisher redirect."
   },
   {
     "id": "res-232",
@@ -4740,30 +4749,29 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2039420300379525182",
     "addedAt": null,
     "checkedAt": "2026-10-11",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved."
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved.",
+    "catalogOnly": true
   },
   {
     "id": "res-252",
-    "title": "Ownership Roadshow #1",
-    "author": "Ownership FM",
+    "title": "Ownership Roadshow #1: recording",
+    "author": "OwnershipFM",
     "date": "2026-04-10",
-    "type": "podcast",
-    "url": "https://mobile.twstalker.com/yieldbayfi",
-    "description": "Ownership's Shark Tank-style live pitch format for Solana builders, sponsored by Umbra, featuring teams such as SP3ND, Hobba, and Yieldbay.",
+    "type": "video",
+    "url": "https://x.com/i/broadcasts/1dKrPEmYpDYJX",
+    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
     "tags": [
-      "Ownership FM",
-      "Roadshow",
-      "Umbra",
-      "Solana Builders",
-      "Pitch",
-      "project:umbra"
+      "MetaDAO",
+      "OwnershipFM",
+      "Ownership Roadshow"
     ],
-    "dateKind": "unknown",
+    "dateKind": "event",
     "datePrecision": "day",
-    "verification": "legacy",
-    "sourceUrl": "https://mobile.twstalker.com/yieldbayfi",
-    "addedAt": null,
-    "checkedAt": null
+    "verification": "source-checked",
+    "sourceUrl": "https://x.com/ownershipfm/status/2085061816535932946",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Replay linked by OwnershipFM’s own archive post. Full recording content has not been reviewed. Direct replay title and Ended Apr 10, 2026 independently read on X on October 12."
   },
   {
     "id": "res-253",
@@ -8776,7 +8784,8 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true
   },
   {
     "id": "ownership-radio-8-announcement",
@@ -8798,7 +8807,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-12",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-8-recording"
   },
   {
     "id": "ownership-radio-9-announcement",
@@ -8820,7 +8831,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-12",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-9-recording"
   },
   {
     "id": "ownership-radio-10-announcement",
@@ -8842,7 +8855,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-12",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-10-recording"
   },
   {
     "id": "ownership-radio-11-announcement",
@@ -8864,7 +8879,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-11-recording"
   },
   {
     "id": "ownership-radio-12-announcement",
@@ -8886,7 +8903,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-12-recording"
   },
   {
     "id": "ownership-radio-13-announcement",
@@ -8908,7 +8927,8 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true
   },
   {
     "id": "ownership-radio-14-announcement",
@@ -8930,7 +8950,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-14-recording"
   },
   {
     "id": "ownership-radio-15-announcement",
@@ -8952,7 +8974,8 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true
   },
   {
     "id": "ownership-radio-16-announcement",
@@ -8974,7 +8997,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-16-recording"
   },
   {
     "id": "ownership-radio-17-announcement",
@@ -8996,7 +9021,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-17-recording"
   },
   {
     "id": "ownership-radio-18-announcement",
@@ -9018,7 +9045,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-18-recording"
   },
   {
     "id": "ownership-radio-19-announcement",
@@ -9040,7 +9069,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-19-recording"
   },
   {
     "id": "ownership-radio-20-announcement",
@@ -9062,7 +9093,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-20-recording"
   },
   {
     "id": "ownership-radio-21-announcement",
@@ -9084,7 +9117,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-21-recording"
   },
   {
     "id": "ownership-radio-22-announcement",
@@ -9106,7 +9141,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-22-recording"
   },
   {
     "id": "ownership-radio-23-announcement",
@@ -9128,7 +9165,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-23-recording"
   },
   {
     "id": "ownership-radio-24-announcement",
@@ -9150,7 +9189,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-24-recording"
   },
   {
     "id": "ownership-radio-25-announcement",
@@ -9172,7 +9213,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-25-recording"
   },
   {
     "id": "ownership-radio-26-announcement",
@@ -9194,7 +9237,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-26-recording"
   },
   {
     "id": "ownership-radio-27-announcement",
@@ -9216,7 +9261,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-27-recording"
   },
   {
     "id": "ownership-radio-28-announcement",
@@ -9238,7 +9285,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-28-recording"
   },
   {
     "id": "ownership-radio-29-announcement",
@@ -9260,7 +9309,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-29-recording"
   },
   {
     "id": "ownership-radio-30-announcement",
@@ -9282,7 +9333,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-30-recording"
   },
   {
     "id": "ownership-radio-31-announcement",
@@ -9304,7 +9357,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-12",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-31-recording"
   },
   {
     "id": "ownership-radio-32-announcement",
@@ -9326,7 +9381,9 @@
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
-    "datePrecision": "day"
+    "datePrecision": "day",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-32-recording"
   },
   {
     "id": "x-article-2044516128194809955",
@@ -16447,5 +16504,195 @@
     "checkedAt": "2026-10-12",
     "verification": "source-checked",
     "evidenceNote": "Complete available Serbian written interview read. Publication date and byline explicit. Publisher discloses AI-assisted writing reviewed by a human. Embedded images, linked posts, contracts and supplier arrangements not independently reviewed."
+  },
+  {
+    "id": "blockworks-metadao-governance-2025",
+    "title": "Futarchy needs one great success: MetaDAO governance adoption",
+    "author": "Jack Kubinec / Blockworks",
+    "date": "2025-02-03",
+    "type": "news",
+    "url": "https://blockworks.com/news/metadao-solana-governance-platform",
+    "description": "Reporting on Sanctum adopting MetaDAO governance and founder interviews about adoption friction. The forecast that MetaDAO could become Solana’s default platform is historical opinion, not a confirmed outcome. Governance adoption does not establish fundraising through MetaDAO.",
+    "tags": [
+      "MetaDAO",
+      "External Media",
+      "Governance"
+    ],
+    "evidenceNote": "Read publisher article and dated byline, including founder interviews. No new funded-project status inferred from governance integrations.",
+    "sourceUrl": "https://blockworks.com/news/metadao-solana-governance-platform",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "blockworks-metadao-government-2024",
+    "title": "MetaDAO is making markets into its government",
+    "author": "Jack Kubinec, Jeff Albus and Michael McSweeney / Blockworks",
+    "date": "2024-06-07",
+    "type": "news",
+    "url": "https://blockworks.com/news/metadao-is-making-markets-into-its-government",
+    "description": "Historical reporting introduces pass/fail decision markets and Proph3t’s account of building MetaDAO. It describes the rejected Pantera token-purchase proposal and early Solana governance experiments; later platform changes are not inferred from this 2024 explanation.",
+    "tags": [
+      "MetaDAO",
+      "External Media",
+      "Governance"
+    ],
+    "evidenceNote": "Read the MetaDAO section of the original publisher newsletter and explicit publication date. Unrelated newsletter sections are outside the catalog summary.",
+    "sourceUrl": "https://blockworks.com/news/metadao-is-making-markets-into-its-government",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "jito-jip10-metadao-forum",
+    "title": "Jito JIP-10: authorizing a MetaDAO decision market for TipRouter",
+    "author": "metaproph3t / Jito Foundation forum",
+    "date": "2024-11-21",
+    "type": "article",
+    "url": "https://forum.jito.network/t/jip-10-decision-market-on-whether-to-adopt-jto-in-the-tiprouter-ncn-protocol-development/463",
+    "description": "Proposal specifies a MetaDAO decision market for adding JTO staking to TipRouter, with subsequent implementation conditional on governance and market outcomes. Replies discuss reward dilution and timing. This is governance integration evidence, not a MetaDAO fundraising record or proof of execution.",
+    "tags": [
+      "MetaDAO",
+      "Forum",
+      "Governance"
+    ],
+    "evidenceNote": "Read complete available initial proposal and displayed replies. Date is initial forum publication; January 2025 replies and market launch are later milestones. No outcome or execution inferred.",
+    "sourceUrl": "https://forum.jito.network/t/jip-10-decision-market-on-whether-to-adopt-jto-in-the-tiprouter-ncn-protocol-development/463",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "zcash-metadao-futarchy-critique",
+    "title": "Zcash forum: liquidity, subsidies and implementation concerns around futarchy",
+    "author": "thowar2 / Zcash Community Forum",
+    "date": "2025-11-30",
+    "type": "article",
+    "url": "https://forum.zcashcommunity.com/t/coinholder-voting-is-currently-not-production-ready-and-a-whale-oligarchy/53554/27",
+    "description": "A participant considers MetaDAO’s futarchy experiment while criticizing subsidy requirements, liquidity, price oracles and implementation costs for Zcash governance. These are dated community arguments, not a confirmed flaw report or evidence that Zcash adopted MetaDAO.",
+    "tags": [
+      "MetaDAO",
+      "Forum",
+      "Critique"
+    ],
+    "evidenceNote": "Read the complete individual forum reply and its explicit November 30, 2025 timestamp. The surrounding thread and linked discussions are not claimed fully reviewed.",
+    "sourceUrl": "https://forum.zcashcommunity.com/t/coinholder-voting-is-currently-not-production-ready-and-a-whale-oligarchy/53554/27",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "blockworks-metadao-ttf-june2025",
+    "title": "MetaDAO Token Transparency Framework: June 2025 report",
+    "author": "Kollan House / Blockworks Token Transparency Framework",
+    "date": "2025-06-30",
+    "type": "article",
+    "url": "https://impressive-horses-5641a8b530.media.strapiapp.com/Meta_DAO_Token_Transparency_Framework_Report_06_30_25_45152032fe.pdf",
+    "description": "Dated disclosure report records MetaDAO’s submitted governance, token-allocation and financial-disclosure responses and the publisher’s transparency score. Transparency scoring is distinct from a smart-contract security audit, legal equity rights or verification of later business results.",
+    "tags": [
+      "MetaDAO",
+      "Report",
+      "Token Transparency"
+    ],
+    "evidenceNote": "Read the report methodology and dated MetaDAO disclosure sections. Date of audit printed as June 30, 2025; preparer Kollan House. Selected sections reviewed, not a new independent audit or exhaustive PDF review.",
+    "sourceUrl": "https://impressive-horses-5641a8b530.media.strapiapp.com/Meta_DAO_Token_Transparency_Framework_Report_06_30_25_45152032fe.pdf",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12"
+  },
+  {
+    "id": "ownership-roadshow-2-recording",
+    "title": "Ownership Roadshow #2: recording",
+    "author": "OwnershipFM",
+    "date": "2026-05-08",
+    "type": "video",
+    "url": "https://x.com/i/broadcasts/1qxoNejmAeyJv",
+    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "tags": [
+      "MetaDAO",
+      "OwnershipFM",
+      "Ownership Roadshow",
+      "project:gesim"
+    ],
+    "sourceUrl": "https://x.com/ownershipfm/status/2053928820600721550",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "verification": "source-checked",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "evidenceNote": "Direct replay title and Ended May 8, 2026 read on X. Later May 11 winner excerpt identifies GeSIM’s Charchit; the company page’s May 12 reference is not used as broadcast date."
+  },
+  {
+    "id": "ownership-roadshow-3-recording",
+    "title": "Ownership Roadshow #3: recording",
+    "author": "OwnershipFM",
+    "date": "2026-06-26",
+    "type": "video",
+    "url": "https://x.com/i/broadcasts/1mxPaaNXpLbKN",
+    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "tags": [
+      "MetaDAO",
+      "OwnershipFM",
+      "Ownership Roadshow"
+    ],
+    "sourceUrl": "https://x.com/ownershipfm/status/2070582697932784017",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "verification": "source-checked",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "evidenceNote": "Publisher replay post dated June 26 links directly to this broadcast. Full recording content has not been reviewed."
+  },
+  {
+    "id": "ownership-roadshow-4-recording",
+    "title": "Ownership Roadshow #4: recording",
+    "author": "OwnershipFM",
+    "date": "2026-08-28",
+    "type": "video",
+    "url": "https://x.com/i/broadcasts/1jxXgBDnXEEJZ",
+    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "tags": [
+      "MetaDAO",
+      "OwnershipFM",
+      "Ownership Roadshow"
+    ],
+    "sourceUrl": "https://x.com/ownershipfm/status/2093412944411578739",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "verification": "source-checked",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "evidenceNote": "Publisher August 28 replay post reviewed; title identifies MetaDAO and Umbra sponsorship. Full recording content has not been reviewed."
+  },
+  {
+    "id": "ownership-roadshow-5-recording",
+    "title": "Ownership Roadshow #5: recording",
+    "author": "OwnershipFM",
+    "date": "2026-10-02",
+    "type": "video",
+    "url": "https://x.com/i/broadcasts/1DGLdZrPbeMGm",
+    "description": "OwnershipFM’s live builder-pitch show with Superteam Balkan, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "tags": [
+      "MetaDAO",
+      "OwnershipFM",
+      "Ownership Roadshow"
+    ],
+    "sourceUrl": "https://x.com/ownershipfm/status/2106096335690908010",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "verification": "source-checked",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "evidenceNote": "Publisher October 2 replay post reviewed; Superteam Balkan edition, MetaDAO powered, replay card 1h48m34s. Recap differs on participant count, so no exact count adopted. Full recording content has not been reviewed."
   }
 ]

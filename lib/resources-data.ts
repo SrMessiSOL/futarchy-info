@@ -23,11 +23,13 @@ export interface Resource {
   checkedAt: string | null
   evidenceNote?: string
   duplicateOf?: string
+  supersededBy?: string
+  catalogOnly?: boolean
 }
 
 // Keep legacy IDs in the catalog so stored engagement keys are never reassigned.
 export const catalog = data as Resource[]
-export const resources = catalog.filter(resource => !resource.duplicateOf && !publicationBlockReason(resource, lifecycle, publicationExceptions.resourceIds))
+export const resources = catalog.filter(resource => !resource.catalogOnly && !resource.duplicateOf && !publicationBlockReason(resource, lifecycle, publicationExceptions.resourceIds))
 export const mainResources = selectProjectResources(resources, projects, 'all')
 export const lastLibraryUpdate = mainResources.reduce((latest, r) => r.addedAt && r.addedAt > latest ? r.addedAt : latest, '')
 export function resourceTime(resource: Resource) {

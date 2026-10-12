@@ -28,6 +28,14 @@ The weekly run fetches at most 15 candidates and proposes at most 10 additions. 
 
 ## Review and publication
 
+### Recordings, reminders and agent access
+
+On October 12, 2026 the user requested shows instead of duplicate event reminders. Keep the 32 Radio announcement IDs internally with catalogOnly; link available recordings through supersededBy. Six unavailable episodes remain research gaps, not visible substitutes for a recording. duplicateOf remains reserved for identical canonical URLs.
+
+OwnershipFM transcript permission: the user explicitly identified as part of OwnershipFM and authorized publication of transcripts we already have. content/transcripts.json contains 26 recovered Radio transcripts and six Ownership founder-podcast transcripts, each with source, model, audio hash, research transcript hash, permission scope and review boundaries. This permission does not extend to Lightspeed, Seed Club or other publishers. Generated words are uncorrected and may include hallucinations. An overrun end timestamp is clipped to measured audio duration with originalEnd retained; segments wholly beyond duration are omitted and counted.
+
+Agent discovery is public/llms.txt; /api/library returns the main catalog with original notes and transcript access metadata, and scope=historical or scope=everything exposes the other public scopes. /api/library/[id] offers Markdown notes or format=json. /api/transcripts/[id] offers text or format=json. All handlers apply the same publication gate as the UI; do not publish transcript assets independently of that gate. Use Reading notes and Transcript (machine) labels, never call editorial notes a full transcript. Only report media content reviewed at the documented boundary. Roadshow replay discovery is not full recording review.
+
 One draft PR at a time. A pending PR blocks further editorial runs until reviewed. A trusted job validates the proposed data using unchanged scripts from main, checks evidence provenance, builds the site, and then a separate job with write permissions creates the PR. Only catalog and editorial-report files are imported. No automatic merging. Empty updates leave no PR.
 
 GitHub's default workflow token does not trigger another PR workflow when it creates a PR; the editorial workflow therefore runs validation and the production build before creating it. If branch protection requires the separate Validate library check, configure a narrowly scoped GitHub App token for PR creation or run the required checks through an approved maintainer workflow before merging. Never bypass branch protections.

@@ -1,5 +1,19 @@
 # Source review update — 2026-10-12
 
+## Media cleanup and agent access — follow-up to deployed PR #10
+
+PR #10 was merged and its reviewed tree deployed to futarchy.info on October 12. The following changes are a new follow-up for review; previous checkpoints below describe their original state.
+
+- Retain all 32 Radio announcement IDs internally, hide them from browsing and agent discovery, and link 26 to their actual recordings. Six unavailable recordings remain gaps. None of the 37 user-approved restoration IDs is hidden by this cleanup.
+- Publish 32 available OwnershipFM machine transcripts (26 Radio recordings and six founder podcasts) under explicit OwnershipFM team permission provided in this chat. Timed text and JSON include provenance, warnings and coverage boundaries. One Chris transcript end time exceeded measured audio duration; clipped with originalEnd retained. No transcript permission inferred for other media publishers.
+- Expose original reading notes for 83 reviewed media records and add agent discovery plus scoped catalog/individual-note/transcript endpoints. Public APIs follow website visibility gates.
+- Replace Roadshow #1’s mirror account link with its publisher replay; add direct replays for #2–#5. Full Roadshow content and transcripts remain unreviewed. Replay #2 says ended May 8, distinct from the winner excerpt posted May 11 and company-page May 12 reference.
+- Add two Blockworks reports/news articles, its June 2025 MetaDAO disclosure PDF, Jito JIP-10 forum and a Zcash forum critique. Recheck The Block’s Umbra article and distinguish commitments from the accepted cap. Existing 01Resolved reports, GeSIM Devcon discussion, CoinDesk Solomon research and founder/media interviews remain available.
+
+Validation: 767 catalog records, 729 public records (547 main / 182 historical), 603 source-checked. All 31 tests, TypeScript and production build pass. Production preview endpoints return JSON, plain-text transcripts and Markdown notes; Radio #32 has 818 timed segments, and an announcement transcript URL returns 404. Browser preview shows transcript and notes links. Coverage evidence: maintenance/media-access-2026-10-12/coverage.json. Existing personal archives and external-media coverage remain non-exhaustive.
+
+## Previous PR #10 preparation checkpoint
+
 **Local editorial draft; not published. Main scope revised on user request.** Nothing pushed, merged, published or deployed. PR #3 was already merged; these findings extend that earlier update locally. Personal archives and recording coverage remain incomplete.
 
 ## Latest funded-founder pass and PR preparation

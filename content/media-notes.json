@@ -1,0 +1,2467 @@
+[
+  {
+    "resourceId": "bountive-archive-0925a353fb",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "complete-available-captions-reviewed",
+    "reviewBoundary": "Complete available English auto-generated captions (0:00–2:07 of a 2:14 video) read. Name and token recognition errors qualified using title and primary pitch; no full manual audio or visual review. Publication date from expanded publisher description. Source-checked is editorial review, not independent audit.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "founder-loyal-b0bb0d6dd8",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "Complete available public English auto-generated captions",
+    "reviewBoundary": "Complete available English auto-generated captions read from 0:00–57:34 of a 57:41 recording. Apple publisher metadata dates the episode May 12, 2026. No full manual listening or visual review. Founder claims about investor protection, legal insulation and execution remain attributed.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "ffa2bd99819c416e395c2648982495bb65b7f1bc38f79ed5588261bd1799bbe8"
+    }
+  },
+  {
+    "resourceId": "founder-p2p-protocol-7878ba6454",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "Complete available public English auto-generated captions",
+    "reviewBoundary": "Complete available English auto-generated captions read from 0:00–33:34 of a 33:45–33:46 recording. Expanded YouTube description gives March 25; podcast distributor gives March 26, a separate distribution date. Auto-dub label concerns other audio tracks; reviewed exported caption track is English. No full manual listening or visual review. Legal conclusions, financial forecasts and fraud-prevention absolutes not independently verified.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "62d454f439c3228a756b38c99d66f6a329dff061c4c10a50c9cde271fdedc9ca"
+    }
+  },
+  {
+    "resourceId": "founder-umbra-bb0441e8e2",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "Complete available public English auto-generated captions",
+    "reviewBoundary": "Complete available English auto-generated captions read from 0:00–42:31 of a 42:48 recording; publisher episode page establishes date and founder identities. No full manual listening or visual review. Audit, security, adoption and compliance claims not independently verified; transcription errors excluded.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "ff911c4f6f68953faef2cbb3a53d831cadf368cc88d21d0f9b74be02c9d64eaa"
+    }
+  },
+  {
+    "resourceId": "ownership-backfill-2",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 576 generated segments; 2338.06 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Full recording concerns the forthcoming raise. Claimed registration, partner licences and compliance do not establish universal regulatory approval. Liquidity-pool yields are historical promotional claims, not assured returns. Processing volume is not revenue. Expansion and token-holder campaigns are plans.",
+    "sections": [
+      {
+        "start": "01:35",
+        "topic": "Founder background and previous businesses"
+      },
+      {
+        "start": "04:00",
+        "topic": "Trade finance, market pivot and product pivot"
+      },
+      {
+        "start": "07:54",
+        "topic": "Existing investors and MetaDAO rationale"
+      },
+      {
+        "start": "12:53",
+        "topic": "Payment settlement, liquidity fronting and risk underwriting"
+      },
+      {
+        "start": "20:00",
+        "topic": "Open payment stack and self-onboarding"
+      },
+      {
+        "start": "22:23",
+        "topic": "Solana, Polygon and possible additional chains"
+      },
+      {
+        "start": "24:35",
+        "topic": "US merchants and emerging-market access"
+      },
+      {
+        "start": "26:30",
+        "topic": "Claimed compliance structure and liquidity pool"
+      },
+      {
+        "start": "28:04",
+        "topic": "Processing role in an on-chain economy"
+      },
+      {
+        "start": "30:00",
+        "topic": "Creator payments and B2B strategy"
+      },
+      {
+        "start": "35:00",
+        "topic": "Price, settlement speed and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "c2de5b1e509960462f63d7f946db3073beee8dffd959a2ad385b18394d91b348",
+      "jsonUrl": "/api/transcripts/ownership-backfill-2?format=json",
+      "textUrl": "/api/transcripts/ownership-backfill-2"
+    }
+  },
+  {
+    "resourceId": "ownership-backfill-3",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1023 generated segments; 4809.69 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Historical interview predates later developments. Fundraising commitments are not accepted proceeds. Legal interpretations and reserve/security assertions are not independently validated. A repeated-letter ASR artifact around 65 minutes was excluded.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Founder background and earlier startup"
+      },
+      {
+        "start": "06:00",
+        "topic": "MetaDAO alignment, raise commitments and governance experience"
+      },
+      {
+        "start": "18:00",
+        "topic": "Treasury proposals and participation tradeoffs"
+      },
+      {
+        "start": "32:28",
+        "topic": "USDv and yield-routing infrastructure"
+      },
+      {
+        "start": "41:29",
+        "topic": "Basis-yield compression and Treasury-backed design shift"
+      },
+      {
+        "start": "51:50",
+        "topic": "Treasury adoption, incentives and retention"
+      },
+      {
+        "start": "61:45",
+        "topic": "Founder views on legal policy controls; not legal validation"
+      },
+      {
+        "start": "65:00",
+        "topic": "Stablecoin adoption and monetary history"
+      },
+      {
+        "start": "76:18",
+        "topic": "Proposed permissions, guardrails and transparency"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "ec2de5707a0bd2efa5c7d5149e151fa64c9a9ba06db891939a0da78311119f16",
+      "jsonUrl": "/api/transcripts/ownership-backfill-3?format=json",
+      "textUrl": "/api/transcripts/ownership-backfill-3"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-1-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted.",
+    "sections": [
+      {
+        "start": "02:14",
+        "topic": "Restart after failed Space; Solomon buybacks, treasury and Ranger discussion"
+      },
+      {
+        "start": "10:00",
+        "topic": "MycoRealms introduction, unsuccessful raise and agricultural investment thesis"
+      },
+      {
+        "start": "17:05",
+        "topic": "Trust, off-chain production verification and proposed reporting"
+      },
+      {
+        "start": "20:00",
+        "topic": "No promised revenue share; treasury transparency discussion"
+      },
+      {
+        "start": "23:25",
+        "topic": "Raise budget, proposed lower target and future financing"
+      },
+      {
+        "start": "30:55",
+        "topic": "Futardio Cult participant discusses origins and community approach"
+      },
+      {
+        "start": "35:15",
+        "topic": "Potential revenue, reported passed burn proposal and pending execution"
+      },
+      {
+        "start": "40:00",
+        "topic": "Community art suggestions and closing; confirms two-part broadcast"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "19fb4c4fc9e865e9ed8117791268f38c3dc72402ecf258a3ced653eebd8a106e",
+      "jsonUrl": "/api/transcripts/ownership-radio-1-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-1-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-10-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 1691 segments of the locally generated transcript read for 7062.70 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Umbra OTC round is not described as fully closed. Ride treasury downside can exceed caller bonds; liquidation controls are prospective and performance claims unverified. Futardio Cult’s $11.4M refers to commitments, not accepted proceeds (primary launch shows $50K raise). FUTARDIO-004 was awaiting stake during the show; later primary inspection shows Passed with a Memo instruction, not proof of payment. Vukan’s Jurassic/Blockformer role is distinguished from Futardio Cult’s participant. Pulsar Spaces is not established as a MetaDAO raise; Julian explicitly says no token is planned. Personal identity beyond clear first names and external source confirmation is not inferred. Privacy, safety and investment claims remain attributed.",
+    "sections": [
+      {
+        "start": "04:00",
+        "topic": "Opening; sponsorship and host interests disclosed"
+      },
+      {
+        "start": "08:06",
+        "topic": "Umbra SDK support, builder integrations and shielded transfers"
+      },
+      {
+        "start": "13:15",
+        "topic": "Umbra OTC proposal design, price volatility and remaining closing window"
+      },
+      {
+        "start": "20:37",
+        "topic": "Umbra team size and reported burn; figures are speaker claims"
+      },
+      {
+        "start": "23:38",
+        "topic": "Dean and Adrian introduce Realms, SPL Governance and planned decentralization"
+      },
+      {
+        "start": "29:36",
+        "topic": "Ride operational futarchy; IslandCapital comparison and retrospective mtnCapital claims"
+      },
+      {
+        "start": "35:37",
+        "topic": "Profit KPI, caller bonds, treasury trade sizing and payout parameters"
+      },
+      {
+        "start": "41:32",
+        "topic": "Treasury loss can exceed bond; planned liquidation mechanism and small trial claims"
+      },
+      {
+        "start": "47:41",
+        "topic": "Ride implementation described as closed source at the time; no Ride token planned"
+      },
+      {
+        "start": "53:30",
+        "topic": "David discusses Solana events, hackathon and ownership funding interest"
+      },
+      {
+        "start": "60:40",
+        "topic": "Futardio Cult content proposal still awaiting stake; founder account of launch origins"
+      },
+      {
+        "start": "66:43",
+        "topic": "Vukan explains Blockformer, Ownership and proposed Futardio Cult engagement"
+      },
+      {
+        "start": "72:18",
+        "topic": "Commitments versus small target; distribution and marketing discussion"
+      },
+      {
+        "start": "81:36",
+        "topic": "Liquid venture allocations and unresolved ecosystem-success thesis"
+      },
+      {
+        "start": "91:15",
+        "topic": "Julian introduces Pulsar Spaces productivity workspace and Solana integrations"
+      },
+      {
+        "start": "99:21",
+        "topic": "Fundraising exploration, no planned token and proposed governance NFTs"
+      },
+      {
+        "start": "104:07",
+        "topic": "Agentic workspace roadmap, developer background, privacy claims and storage tradeoffs"
+      },
+      {
+        "start": "113:15",
+        "topic": "Planned version-two update and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "45281001b1c517e98405b7bf8571889595856d43373a1a61df930a4370477326",
+      "jsonUrl": "/api/transcripts/ownership-radio-10-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-10-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-11-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 2082 segments of the locally generated transcript read for 8752.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript read. Jurassic commitments are distinct from funds raised; SPV formation, acquisition and museum arrangements are prospective. Epicentral trade counts and notional volume explicitly concern devnet test funds, not mainnet revenue or adoption. An intended raise is not a completed ecosystem raise. Guest regulatory views are opinions, not established legal conclusions. Groom Lake is discussed during trading, not as an executed decision. Later guest names are uncertain in ASR and are not assigned founder identities.",
+    "sections": [
+      {
+        "start": "05:00",
+        "topic": "Futardio content proposal and ongoing MetaDAO security-proposal trading"
+      },
+      {
+        "start": "10:00",
+        "topic": "Sora: Jurassic fundraising correction, runway and future specimen plans"
+      },
+      {
+        "start": "15:00",
+        "topic": "Prospective SPV proposal, fossil acquisition and excavation risks"
+      },
+      {
+        "start": "25:00",
+        "topic": "Museum custody and onboarding remain future work"
+      },
+      {
+        "start": "35:00",
+        "topic": "Futardio and Blockformer content trial; reporting and renewal plans"
+      },
+      {
+        "start": "60:00",
+        "topic": "Tony: Epicentral devnet beta; test-fund metrics and technical approach"
+      },
+      {
+        "start": "70:00",
+        "topic": "Founder background, earlier governance experience and planned raise"
+      },
+      {
+        "start": "80:00",
+        "topic": "Regulatory and product-design questions; no legal conclusions verified"
+      },
+      {
+        "start": "105:00",
+        "topic": "Five-minute prediction-market devnet pitch and funding intentions"
+      },
+      {
+        "start": "115:00",
+        "topic": "Token pre-market pitch; unresolved integration and product-demand questions"
+      },
+      {
+        "start": "140:00",
+        "topic": "Founder feedback and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "48f7ab7fbfc59a630e6fd92599d09931fa0fe92b77aa625eccac2206e0ec2340",
+      "jsonUrl": "/api/transcripts/ownership-radio-11-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-11-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-12-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 1645 segments of the locally generated transcript read for 7171.84 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Historical interviews contain unverified product, traction, yield and legal claims. Bench and the residency discussion do not establish completed ecosystem raises. Areal’s later launch terms must be distinguished from this earlier pitch. The advertised Epicentral guest was absent. Names and figures affected by ASR are excluded unless corroborated.",
+    "sections": [
+      {
+        "start": "10:00",
+        "topic": "Bench devnet alpha, private opportunity markets and advisory futarchy"
+      },
+      {
+        "start": "30:00",
+        "topic": "Bench funding considerations and product origins"
+      },
+      {
+        "start": "40:00",
+        "topic": "Kavex founder: risk detection, terminal roadmap and ongoing raise"
+      },
+      {
+        "start": "62:00",
+        "topic": "Epicentral guest absent; Bangalore founder residency proposal"
+      },
+      {
+        "start": "80:00",
+        "topic": "Areal: historical tokenization model, pilot claims and fundraising plans"
+      },
+      {
+        "start": "107:46",
+        "topic": "Vukan reports university outreach; planned video and education discussion"
+      },
+      {
+        "start": "117:00",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "489ed01b89e23fd99b5ae54c7bb47d40617e466c5fb94ba079b966319aaebf27",
+      "jsonUrl": "/api/transcripts/ownership-radio-12-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-12-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-14-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 1737 segments of the locally generated transcript read for 6879.68 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Self-reported usage, revenue, privacy and financial-model claims are not audited. GeSIM’s raise was still ongoing during this conversation; commitments are not accepted proceeds. Jurassic’s fossil purchase, liquidity support and SPV arrangements were plans. Epicentral metrics explicitly describe devnet paper trading, not real-money trading or a completed ecosystem raise. Hedging comparisons and competitor claims are speaker opinions.",
+    "sections": [
+      {
+        "start": "04:34",
+        "topic": "Opening"
+      },
+      {
+        "start": "07:00",
+        "topic": "Sheldon: P2P checkout, applications, merchant network and small market experiments"
+      },
+      {
+        "start": "24:09",
+        "topic": "Sora: Jurassic legal budget, advisors and proposed first fossil"
+      },
+      {
+        "start": "32:18",
+        "topic": "Jurassic liquidity, fees, tokenization service and resale governance plans"
+      },
+      {
+        "start": "42:44",
+        "topic": "GeSIM initial raise, UI improvements, backend incident and staged rollout"
+      },
+      {
+        "start": "55:30",
+        "topic": "GeSIM privacy architecture claims and future product bundle"
+      },
+      {
+        "start": "61:02",
+        "topic": "Tony: Epicentral devnet options and simplified buying interface"
+      },
+      {
+        "start": "65:00",
+        "topic": "Options versus perpetual hedging discussion; illustrative speaker claims"
+      },
+      {
+        "start": "79:00",
+        "topic": "Options minting, oracle and probability-display plans"
+      },
+      {
+        "start": "85:00",
+        "topic": "Market-making usability, liquidity formation and institutional feedback"
+      },
+      {
+        "start": "98:00",
+        "topic": "Explicit devnet usage figures and asset-expansion constraints"
+      },
+      {
+        "start": "110:00",
+        "topic": "Competitive positioning and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "348174059c3646e94874f5a46bf3cf69ed38c2e2b6a844f2a88be50d89aa8126",
+      "jsonUrl": "/api/transcripts/ownership-radio-14-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-14-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-16-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 965 segments of the locally generated transcript read for 7993.90 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Bento signing-authority questions remain unresolved. Buyout criticism and legal/IP interpretations are participant opinions, not independently established misconduct or legal findings. Salmon’s roughly $100K anecdote is qualified by the launch record: $97,535 committed against $375K, unsuccessful. Thaler describes an unaudited private mainnet beta; safety, equity linkage and commitments are claims/plans, not verified guarantees or a completed raise.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Opening and Bento agent-wallet security discussion"
+      },
+      {
+        "start": "30:00",
+        "topic": "JerkTerror: proposed FusionCore stablecoin and future governance"
+      },
+      {
+        "start": "40:00",
+        "topic": "zkFG/Zinc buyout debate, revenue, IP and market incentives"
+      },
+      {
+        "start": "78:00",
+        "topic": "Salmon open-wallet history, platforms and community-ownership plans"
+      },
+      {
+        "start": "100:00",
+        "topic": "Salmon unsuccessful raise, proposed retry and validator"
+      },
+      {
+        "start": "108:00",
+        "topic": "Thaler private-beta vaults, security policies and financing plans"
+      },
+      {
+        "start": "125:00",
+        "topic": "Launch timing, testing and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "e6458cfad52e2e869709ca97fb824b010e9928a5b050d5507905b352cd4bd753",
+      "jsonUrl": "/api/transcripts/ownership-radio-16-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-16-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-17-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 320 segments of the locally generated transcript read for 8941.27 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Ryvo describes a devnet protocol and a limited mainnet plan; Cesto retains underlying assets rather than issuing tokenized baskets at the time. Backyard explicitly corrects the host: no Colosseum honorable mention, and a MetaDAO raise remained undecided. Its guest represents growth, not a confirmed founder role. Potbot fundraising and token design remain prospective. Legal-equity, yield, safety and zkFG buyout assertions are attributed opinions, not independently established facts. Cesto spelling and Jason Richard Rodrigues are corroborated by his public self-profile; uncertain speaker names excluded.",
+    "sections": [
+      {
+        "start": "05:00",
+        "topic": "Opening, technical difficulties and builder introductions"
+      },
+      {
+        "start": "15:00",
+        "topic": "Ryvo micropayments, compression and planned launch"
+      },
+      {
+        "start": "20:00",
+        "topic": "Ownership, zkFG controversy and participant responsibility debate"
+      },
+      {
+        "start": "40:00",
+        "topic": "Cesto baskets, underlying asset ownership, rebalancing and curator fees"
+      },
+      {
+        "start": "70:00",
+        "topic": "Prospective market-governed baskets and creator distribution"
+      },
+      {
+        "start": "82:00",
+        "topic": "Backyard yield management, product stage and undecided fundraising route"
+      },
+      {
+        "start": "106:00",
+        "topic": "Potbot vault infrastructure, token utility and onboarding plans"
+      },
+      {
+        "start": "126:00",
+        "topic": "Venture rounds versus public fundraising; equity and treasury distinctions"
+      },
+      {
+        "start": "140:00",
+        "topic": "Builder collaboration and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "d0cbd66ddde6539807347a8ab921bcd31be7c0580a6158aa15c67d3b025918b7",
+      "jsonUrl": "/api/transcripts/ownership-radio-17-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-17-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-18-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 360 segments of the locally generated transcript read for 10204.27 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read, with targeted re-transcriptions at810,2400 and8640 seconds. Omnipair V2/leverage audits and launch were future work; revenue-routing claims not independently audited. Keystone is explicitly pre-product, with no agreed governance token or MetaDAO raise. Kimia July completed-audit claim is not corroborated by current documentation, which lists scheduled/TBA audits and unaudited devnet; scope/version reconciliation remains open. Proposed60% fee buybacks are not an executed governance decision. Heirloom is public-devnet in the interview, with external audit and mainnet planned; candidate60–80K raise and revenue model remain tentative. Privacy limitations acknowledged. Founder backgrounds, partnership claims and investment analogies are attributed, not independently verified. No legal inheritance efficacy, risk-free yield or token-equity rights inferred.",
+    "sections": [
+      {
+        "start": "05:00",
+        "topic": "Opening; Rakka background and Omnipair origin"
+      },
+      {
+        "start": "15:00",
+        "topic": "Permissionless borrowing motivation and AMM design"
+      },
+      {
+        "start": "20:00",
+        "topic": "V1 lessons; proposed V2 efficiency, deposits and leverage"
+      },
+      {
+        "start": "30:00",
+        "topic": "Revenue generation, transparent routing and verification"
+      },
+      {
+        "start": "40:00",
+        "topic": "Founder advice and planned combined V2/leverage audit"
+      },
+      {
+        "start": "50:00",
+        "topic": "Keystone: carry coordination and early-stage thesis"
+      },
+      {
+        "start": "65:00",
+        "topic": "Capacity constraints, compounded risks and strategy critique"
+      },
+      {
+        "start": "80:00",
+        "topic": "No current governance token; prospective audited beta"
+      },
+      {
+        "start": "90:00",
+        "topic": "Kimia: funding-rate strategy and self-built perps"
+      },
+      {
+        "start": "105:00",
+        "topic": "Audit assertion, proposed raise, buybacks and governance discussion"
+      },
+      {
+        "start": "120:00",
+        "topic": "Heirloom: inheritance vaults and heartbeat mechanism"
+      },
+      {
+        "start": "130:00",
+        "topic": "Vault operations, public data and IKA integration discussion"
+      },
+      {
+        "start": "140:00",
+        "topic": "Devnet, planned audit and possible future fundraising"
+      },
+      {
+        "start": "155:00",
+        "topic": "Founder backgrounds and revenue-model discussion"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "59f2f633ea3b0ad11ff81aa1e854db0f3964c9705f2ce2c18d4eb2087bfc1dd3",
+      "jsonUrl": "/api/transcripts/ownership-radio-18-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-18-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-19-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated transcript read: 609 segments from 3279.72 seconds of recovered public audio. Approximate speech range 05:57–54:18. Transcript-based editorial review, not complete manual listening. Unclear amounts and names excluded; audit and launch assertions remain attributed. Date follows publisher replay post, not a guessed date from relative spoken timing. Announced guests are not presumed to have participated.",
+    "sections": [
+      {
+        "start": "05:57",
+        "topic": "Introduction"
+      },
+      {
+        "start": "10:00",
+        "topic": "Kimia introduction and connection interruption"
+      },
+      {
+        "start": "15:00",
+        "topic": "Funding-rate strategy, devnet and prospective launch"
+      },
+      {
+        "start": "24:20",
+        "topic": "Roadmap and proposed fee buybacks"
+      },
+      {
+        "start": "27:30",
+        "topic": "Host challenges buybacks versus treasury funding"
+      },
+      {
+        "start": "36:40",
+        "topic": "Planned raise and invitation to test devnet"
+      },
+      {
+        "start": "41:15",
+        "topic": "Yieldbay and Bountive unavailable; host discusses permissionless fundraising"
+      },
+      {
+        "start": "47:50",
+        "topic": "Futardio Cult marketing proposal and decision markets; execution not established"
+      },
+      {
+        "start": "52:32",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "316517af760fa49b50acb0aea9ecd1c78f818915ac20d4d7293004d5f670e0c0",
+      "jsonUrl": "/api/transcripts/ownership-radio-19-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-19-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-2-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 956 segments of the locally generated transcript read for 5268.74 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Gates’s role is corroborated by Valgrid’s primary disclosure. Other personal names are not inferred from garbled ASR. Claims of risk-free trading, zero flight risk, manipulation-proof markets, partnerships and accelerator rejection motives are not independently established. A community speaker explicitly says he is not on Quantum Waffle’s team. Lotus and Inkwell are prospective-raise leads, not confirmed ecosystem raises.",
+    "sections": [
+      {
+        "start": "04:18",
+        "topic": "Opening, MycoRealms follow-up and forthcoming P2P raise"
+      },
+      {
+        "start": "08:07",
+        "topic": "Payments and QR adoption discussion; host experience and opinions"
+      },
+      {
+        "start": "16:40",
+        "topic": "Fundraising alignment and Ranger refund discussion; execution not verified"
+      },
+      {
+        "start": "24:14",
+        "topic": "Gates introduces Valgrid; grid trading, team and roadmap"
+      },
+      {
+        "start": "31:40",
+        "topic": "Host asks about OpenClaw; answer does not clearly confirm advertised AI integration"
+      },
+      {
+        "start": "38:08",
+        "topic": "Lotus: proposed cross-venue prediction-market routing; private beta and prospective raise"
+      },
+      {
+        "start": "47:23",
+        "topic": "Inkwell: policy-controlled credit and Ika dependency; devnet and future integrations"
+      },
+      {
+        "start": "61:28",
+        "topic": "Conviction Labs: NVISION time-weighted mechanism, proposed resolution and pre-MVP fundraising"
+      },
+      {
+        "start": "79:45",
+        "topic": "Brief P2P reaction and community comments on Quantum Waffle and Avici"
+      },
+      {
+        "start": "85:45",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "1f8899e5738f53cf2de7c873e3c1539fc0458c9b2212035df873d3e9735c2085",
+      "jsonUrl": "/api/transcripts/ownership-radio-2-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-2-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-20-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 246 segments of the locally generated transcript read for 7150.36 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. One repetitive passage was re-transcribed in a 60-second window at 2740 seconds and read. ORDR describes a pre-audit rather than a completed full audit. RipCars corrects the host: its planned raise is permissionless. Proposed legal arrangements, shipping, revenue and fundraising are not completed outcomes.",
+    "sections": [
+      {
+        "start": "05:00",
+        "topic": "Ecosystem opening discussion"
+      },
+      {
+        "start": "15:00",
+        "topic": "ORDR engineering origins and team"
+      },
+      {
+        "start": "25:00",
+        "topic": "Maker accounts, quote updates and aggregator questions"
+      },
+      {
+        "start": "45:40",
+        "topic": "Community support; targeted ASR repair"
+      },
+      {
+        "start": "55:00",
+        "topic": "Pre-audit and prospective raise/runway"
+      },
+      {
+        "start": "65:00",
+        "topic": "RipCars origin, collectibles and inventory"
+      },
+      {
+        "start": "80:00",
+        "topic": "Gacha, buybacks and shipping plans"
+      },
+      {
+        "start": "95:00",
+        "topic": "Legal structure, allowance and permissionless launch"
+      },
+      {
+        "start": "115:00",
+        "topic": "Closing discussion"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "dcd3aa4a3fd67a7a46ed3dc60c3f02319d4be80a85cf2897cf42ec9387ae95ff",
+      "jsonUrl": "/api/transcripts/ownership-radio-20-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-20-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-21-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 449 segments of the locally generated transcript read for 12492.76 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Ryvo and Opta explicitly describe devnet work; Malibu is pre-beta. HIIE migration, compute support and IP transfer are prospective; Arthur Labs agency is separate. Unclear ASR names omitted. Publisher post date is not an inferred broadcast date.",
+    "sections": [
+      {
+        "start": "06:30",
+        "topic": "Ryvo: gateway versus native SDK, batched settlement, devnet agents and float risks."
+      },
+      {
+        "start": "41:00",
+        "topic": "Malibu: Mac inference closed pre-beta, miner incentives and unfinished privacy design."
+      },
+      {
+        "start": "82:50",
+        "topic": "Opta: devnet options, Token-2022 extensions, collateral limits, oracle risks and audit/mainnet roadmap."
+      },
+      {
+        "start": "147:30",
+        "topic": "HIIE: invention workflow, Arthur Labs separation, proposed token migration and fundraising; compute application is not award."
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "96b5a17af967196e0ca05e8f35764ae0fc901fc12bbaaccea464dcd15bb1275f",
+      "jsonUrl": "/api/transcripts/ownership-radio-21-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-21-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-22-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 264 segments of the locally generated transcript read for 7530.62 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete available recovered transcript read, but the ending cuts off while the Veilo guest reconnects. No resolution of the relayer/key-custody debate inferred. MycoRealms cultivation and revenue forecasts are plans. Bountive’s spoken fundraising snapshot is not mapped to a specific launch attempt. Date is the publisher post date, not an inferred broadcast date. Later Radio25 contains a resumed Veilo discussion clarifying private account funding and relayer visibility; this does not retroactively fill the missing ending or validate the implementation.",
+    "sections": [
+      {
+        "start": "05:00",
+        "topic": "Yieldbay monitoring, aggregation and audit-dependent plans"
+      },
+      {
+        "start": "35:00",
+        "topic": "MycoRealms failed raises and lower-cost Cordyceps pilot"
+      },
+      {
+        "start": "50:00",
+        "topic": "Cultivation, sales and transparency forecasts"
+      },
+      {
+        "start": "60:00",
+        "topic": "Bountive AI ranking, bounty gaming and social leads"
+      },
+      {
+        "start": "80:00",
+        "topic": "Funding snapshot and development plans"
+      },
+      {
+        "start": "97:00",
+        "topic": "Veilo product and privacy claims"
+      },
+      {
+        "start": "110:00",
+        "topic": "Relayer, keys and trust questions; incomplete answer"
+      },
+      {
+        "start": "125:00",
+        "topic": "Reconnection attempt and abrupt recovered ending"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "08dea1356b5db8d64aff04cd454851e688f0df954a3bfd1812807e685e04037a",
+      "jsonUrl": "/api/transcripts/ownership-radio-22-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-22-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-23-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 391 segments of the locally generated transcript read for 10915.80 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Cognius credits are not an official tradable token. Corin’s proposed Ika integration is not implemented evidence. Digg interviews/introductions are not customer contracts. SuperPumped’s selective research accuracy is not investment performance. No Veilo follow-up occurs in this episode.",
+    "sections": [
+      {
+        "start": "14:40",
+        "topic": "Cognius: closed-beta education marketplace, nontransferable credits and no official tradable token."
+      },
+      {
+        "start": "49:00",
+        "topic": "Corin: agent trading, hosted runtime/Privy custody debate, local tooling versus future desktop and proposed raise."
+      },
+      {
+        "start": "88:50",
+        "topic": "Digg: consent, redaction and contributor economics; data pilots and $60K raise remain plans."
+      },
+      {
+        "start": "123:30",
+        "topic": "SuperPumped: leveraged prediction markets, vault liquidity, audits, custody, historical accuracy and privacy roadmap."
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "8759f361ca162f5cd6f03df8363dd97119700004c452737c2429e6a6a83b6325",
+      "jsonUrl": "/api/transcripts/ownership-radio-23-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-23-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-24-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 375 segments of the locally generated transcript read for 10003.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus two targeted 60-second repairs read. Kaboom LP withdrawal cooldown appears in repaired passage; no safety or profit guarantee adopted. NFT-funded ICO allocations and game-versus-studio tokenization are brainstorms, not final terms. SolRobber was advertised but did not appear.",
+    "sections": [
+      {
+        "start": "22:00",
+        "topic": "Kaboom: game and LP-bankroll economics; historical $150K plan, withdrawal cooldown and unresolved regulatory assumptions."
+      },
+      {
+        "start": "62:40",
+        "topic": "BAGLAND: game/NFT model, future raise and speculative NFT-holder participation mechanics."
+      },
+      {
+        "start": "100:00",
+        "topic": "ChessOnChain: existing chess features, casino testnet and proposed subscriptions and infrastructure."
+      },
+      {
+        "start": "128:20",
+        "topic": "Proof of War: base-building game, off-chain gems, proposed seasons and recent clan-futarchy concept."
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "10e3252b3d020024436522bd254111c82f4f82e45fe1fdd802fa12d4ddb139d9",
+      "jsonUrl": "/api/transcripts/ownership-radio-24-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-24-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-25-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 470 segments of the locally generated transcript read for 12865.34 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus targeted 60-second repair read. Historical skins-marketplace revenue is separate from GameByts revenue. Konta guest describes prior P2P employment, not cofounder status; KYC/freezing limits qualify noncustodial language. Veilo follow-up clarifies interview claims, not code security. Aeonian guest is business development, not founder. Its current mutable pitch claims mainnet; Radio25 described devnet, with transition date unverified.",
+    "sections": [
+      {
+        "start": "04:52",
+        "topic": "Opening proposal discussions: Kimia liquidation and Solomon USDv are not proof of execution."
+      },
+      {
+        "start": "07:40",
+        "topic": "GameByts: rewards, battle passes, previous business metrics, planned $250K raise and sustainability questions."
+      },
+      {
+        "start": "42:40",
+        "topic": "Konta: PIX/BRL rails, stablecoin providers, KYC and account restrictions, prior P2P role and Bountive lead generation."
+      },
+      {
+        "start": "77:20",
+        "topic": "Motion Markets: devnet attention markets, oracle manipulation risks, liquidity and proposed private/public financing."
+      },
+      {
+        "start": "111:00",
+        "topic": "Veilo: Radio22 follow-up; funding unlinkability versus public application state, relayer information and proposed hardware alternatives."
+      },
+      {
+        "start": "181:30",
+        "topic": "Aeonian: devnet trading, future social layer, $50K raise and speculative streamer-financed lending."
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "9301335e86289db8d02200f514e3612d5158b947efe4b012e5a2359b62d5dc8a",
+      "jsonUrl": "/api/transcripts/ownership-radio-25-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-25-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-26-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 242 segments of the locally generated transcript read for 6901.80 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. All available generated segments read. Nali and NYSA speaker names are not expanded into uncorroborated identities. Experiences.fun MVP, regional network and revenue models remain plans. HiveBits representative says140K target; host repeats150K, which is not adopted. Seasonal revenue expected after winter setup, not immediate post-raise cash flow. Token-as-shares analogy is not legal equity proof. Medical, environmental, market-size and performance figures remain unverified speaker claims. NYSA distinguishes permissionless lending from permissioned borrowing and discusses third-party lending infrastructure; no completed MetaDAO/Futardio raise, integration or angel allocation agreement inferred. Host token-allocation suggestions are not enacted terms.",
+    "sections": [
+      {
+        "start": "05:00",
+        "topic": "Opening and introductions"
+      },
+      {
+        "start": "10:00",
+        "topic": "Experiences.fun: founder background and impact platform"
+      },
+      {
+        "start": "20:00",
+        "topic": "Regional pilot, community and prospective distribution"
+      },
+      {
+        "start": "25:00",
+        "topic": "Launchpad, subscriptions and data business-model ideas"
+      },
+      {
+        "start": "35:00",
+        "topic": "Potential fundraising and Q4 MVP target"
+      },
+      {
+        "start": "45:00",
+        "topic": "HiveBits: connected beehives and proposed ownership structure"
+      },
+      {
+        "start": "55:00",
+        "topic": "Own farm first; later beekeeper network and marketplace"
+      },
+      {
+        "start": "65:00",
+        "topic": "Raise plans, Superteam Balkans and transparency"
+      },
+      {
+        "start": "75:00",
+        "topic": "Seasonal farm setup and prospective next-season revenue"
+      },
+      {
+        "start": "78:00",
+        "topic": "NYSA Finance founder introduction and lending-market curation"
+      },
+      {
+        "start": "85:00",
+        "topic": "Closed testing, team and planned markets"
+      },
+      {
+        "start": "90:00",
+        "topic": "Permissioned borrowers, collateral assessment and infrastructure"
+      },
+      {
+        "start": "100:00",
+        "topic": "Borrower-fee model, angel discussions and potential later raise"
+      },
+      {
+        "start": "110:00",
+        "topic": "Go-to-market and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "8c82296f9d9200360f3f86a7cf0acf7af806a2445368aef0a1db4560708b8227",
+      "jsonUrl": "/api/transcripts/ownership-radio-26-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-26-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-27-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 442 segments of the locally generated transcript read for 12115.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Full recovered transcript read, including targeted re-transcriptions at 6000,6060,6120,6300 and6360 seconds documented in radio27-asr-recheck.json. David joins late: an earlier mid-episode absence must not be interpreted as nonattendance. His three-month/2x unlock explanation and September14 launch are speaker statements, not instruction-level verification or proof of launch. CARS-002 primary page rechecked: Passed, execution unverified. Proposed exclusion of team tokens from liquidation distributions is a future idea, not enacted policy. Degen Terminal token snapshot/migration, partnerships, revenue model and runway are self-reports; execution and identity remain uncorroborated. TokenFlow fundraising route and Spark fee-sharing remain unresolved; no agreement inferred. Beekeeping, medical, security and financial claims are not independently verified. Final additional guest deferred, not interviewed.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Governance roundup"
+      },
+      {
+        "start": "07:20",
+        "topic": "HiveBits: beehives, hardware, funding and commercial claims"
+      },
+      {
+        "start": "45:40",
+        "topic": "TokenFlow: analytics, indexing costs and prospective financing"
+      },
+      {
+        "start": "87:00",
+        "topic": "Spark: idea funding, existing Futardio infrastructure and unsettled business model"
+      },
+      {
+        "start": "135:00",
+        "topic": "Degen Terminal: product, earlier token and proposed migration"
+      },
+      {
+        "start": "150:00",
+        "topic": "Snapshot and community transition statements; no completed migration verified"
+      },
+      {
+        "start": "160:00",
+        "topic": "AI research assistant, privacy integration claims and prospective expansion"
+      },
+      {
+        "start": "165:00",
+        "topic": "Runway, trading-fee model and host questions on launchpad focus"
+      },
+      {
+        "start": "176:00",
+        "topic": "Rip Cars founder David joins and explains vesting proposal rationale"
+      },
+      {
+        "start": "185:00",
+        "topic": "Liquidation distribution exclusion discussed as prospective safeguard"
+      },
+      {
+        "start": "190:00",
+        "topic": "Founder ownership, unlock explanation and planned September14 product launch"
+      },
+      {
+        "start": "199:00",
+        "topic": "Additional guest deferred and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "d6c9e3e5101142295d13c2b64faca782b0b94ee2fc21bd493432aaa0000507b6",
+      "jsonUrl": "/api/transcripts/ownership-radio-27-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-27-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-28-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 301 segments of the locally generated transcript read for 8490.54 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. LFOWN-001 corroborates Mathis and Ewan as Spark representatives; it does not make them original founders of the funded idea. Revenue and user metrics are self-reported. ZeroFiat explicitly says it had not listed a Futardio raise. Milker remains a devnet description with prospective financing; house-edge safety and licensing assertions are not endorsed. Advertised Polybaskets interview did not occur. Two repetitive ASR passages were re-transcribed in five one-minute non-batched chunks and read; approximate names/numbers remain excluded.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Spark idea funding and LFOwn contributors"
+      },
+      {
+        "start": "15:00",
+        "topic": "LFOwn fee split and future community treasuries"
+      },
+      {
+        "start": "42:00",
+        "topic": "Host corrects token-performance anecdote: Basket, not LFOwn"
+      },
+      {
+        "start": "45:00",
+        "topic": "ZeroFiat checkout architecture, gift cards and merchant-account dependencies"
+      },
+      {
+        "start": "75:00",
+        "topic": "Privacy and regulatory questions; claims remain attributed"
+      },
+      {
+        "start": "81:00",
+        "topic": "ZeroFiat corrects host: no Futardio raise listed"
+      },
+      {
+        "start": "90:00",
+        "topic": "Polybaskets absent; transition to Milker"
+      },
+      {
+        "start": "95:00",
+        "topic": "Milker devnet, bankroll shares and operator model"
+      },
+      {
+        "start": "110:00",
+        "topic": "Randomness, locked bet liabilities and partial withdrawals"
+      },
+      {
+        "start": "120:00",
+        "topic": "Operator onboarding and unresolved regulatory assumptions"
+      },
+      {
+        "start": "130:00",
+        "topic": "Prospective raise, audit/licensing budget and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "367a8e3b847d12558e5b26b79a2cf2fdff2533e7896cc36f8b21560348d5fa58",
+      "jsonUrl": "/api/transcripts/ownership-radio-28-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-28-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-29-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper / CPU int8 / batch8 / five-minute decode chunks",
+    "reviewBoundary": "All 251 segments of the locally generated transcript read for 7161.62 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Product handles corroborated in the complete publisher announcement. GeSIM runway, revenue and proposed raise are speaker reports, not audited balances or executed financing. Finagotchi explicitly disclaims a points-based airdrop; its raise and hardware remain prospective. Polybaskets describes Vara activity and planned Solana integration; prediction-market baskets are not stock-token baskets. Sash is an early project with tentative partnerships, not a verified funded company. Riprap did not present. Repeated ASR passages at 600–720, 4800–4920 and 6300–6420 seconds were re-transcribed and read; uncertain token names and amounts are excluded.",
+    "sections": [
+      {
+        "start": "04:16",
+        "topic": "Opening and historical governance recap; proposal outcomes require primary records"
+      },
+      {
+        "start": "12:59",
+        "topic": "GeSIM: product origins, private connectivity bundle and app testing"
+      },
+      {
+        "start": "29:45",
+        "topic": "GeSIM: reported runway, traction and proposed follow-on financing"
+      },
+      {
+        "start": "38:20",
+        "topic": "Finagotchi: savings companion, protocol quests, hardware and business model"
+      },
+      {
+        "start": "58:40",
+        "topic": "Finagotchi points explicitly do not promise an airdrop"
+      },
+      {
+        "start": "65:29",
+        "topic": "Solo founder and agent-assisted development"
+      },
+      {
+        "start": "67:00",
+        "topic": "Polybaskets: thematic prediction-market indexes, Vara and prospective Solana raise"
+      },
+      {
+        "start": "90:00",
+        "topic": "Clarification: prediction-market baskets, not token portfolios"
+      },
+      {
+        "start": "95:00",
+        "topic": "Sash: physical-attention marketplace, verification challenges and early partnerships"
+      },
+      {
+        "start": "115:00",
+        "topic": "Closing; advertised additional guest unavailable"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "29828e43b693257eeabcbca9f9e8483dd20db2cd25658530bcf7a0628477d072",
+      "jsonUrl": "/api/transcripts/ownership-radio-29-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-29-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-30-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / batch 8 / 5 minute chunks",
+    "reviewBoundary": "All 321 segments of the locally generated transcript read for 8841.11 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. MoveX, Kaching, Solkombat and TrustVault handles corroborated against the complete publisher announcement. Prospective fundraising is not a completed MetaDAO raise. Traction, licensing, security and deployment statements are speaker claims. Suggested Ika collaboration is not proof of an integration. An opening ASR repetition was separately re-transcribed; no uncertain detail used.",
+    "sections": [
+      {
+        "start": "04:38",
+        "topic": "Opening"
+      },
+      {
+        "start": "11:00",
+        "topic": "MoveX devnet volatility markets and prospective fundraising"
+      },
+      {
+        "start": "44:00",
+        "topic": "Kaching prize draws, reported traction and licensing plans"
+      },
+      {
+        "start": "73:00",
+        "topic": "Gaming pitch, points versus tokens and studio ownership discussion"
+      },
+      {
+        "start": "110:00",
+        "topic": "TrustVault MVP: inheritance, recovery, upgrade authority and Ika feedback"
+      },
+      {
+        "start": "140:00",
+        "topic": "Fundraising readiness, ecosystem collaboration and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "b3d9e220fbc3ef11055885ca033ba50b063c55d93648909e45ad42c3c5092f28",
+      "jsonUrl": "/api/transcripts/ownership-radio-30-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-30-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-31-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / batch 8 / 5 minute chunks",
+    "reviewBoundary": "All 336 segments of the locally generated transcript read for 9364.07 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. All generated segments of the complete recovered recording read. Publisher announcement identifies Styx and Pairs; Aikido is heard in the actual recording. None is registered as a completed ecosystem raise from this appearance. Styx performance/security claims were not tested: V2 devnet, external audit and authority arrangements remained future work. Pairs audio is intermittently unclear; precise metrics excluded. Aikido admits cloud-provider privacy limits and calls its product an early beta. ASR repetition around 127:00 and 129:12 was reprocessed with non-batched 60-second chunks and the resulting text read in full. This recovered the Finagotchi participant introduction and AI-eyewear discussion; unclear names and technical claims remain excluded. This is still generated-text review, not manual listening. Hardware/inference figures, predictions and allegations about third parties are not adopted as verified facts.",
+    "sections": [
+      {
+        "start": "04:58",
+        "topic": "Opening and guest introductions"
+      },
+      {
+        "start": "15:00",
+        "topic": "Styx: Protocol 01 rebrand, private transfers and subscriptions"
+      },
+      {
+        "start": "20:00",
+        "topic": "Post-quantum thesis and limitations of the underlying chain"
+      },
+      {
+        "start": "25:29",
+        "topic": "Technical questions on proof size, verification cost and reported performance"
+      },
+      {
+        "start": "36:42",
+        "topic": "V2 devnet plans, audit requirement and prospective fundraising"
+      },
+      {
+        "start": "45:00",
+        "topic": "Upgrade authority and unresolved trust/governance arrangements"
+      },
+      {
+        "start": "57:22",
+        "topic": "Custom cryptography implementation; participant urges specialist cryptographic review"
+      },
+      {
+        "start": "63:11",
+        "topic": "Pairs: stock-basket token launch experiment and product feedback"
+      },
+      {
+        "start": "73:02",
+        "topic": "Reported mainnet testing, liquidity needs and pre-raise traction discussion"
+      },
+      {
+        "start": "85:00",
+        "topic": "Aikido: hosted agents, planned payment controls and founder workflows"
+      },
+      {
+        "start": "93:22",
+        "topic": "Spending mandates, permissions and custody approach under development"
+      },
+      {
+        "start": "100:24",
+        "topic": "Cloud privacy limits, inference economics and business-model debate"
+      },
+      {
+        "start": "125:00",
+        "topic": "AI devices and hardware discussion; targeted ASR repair recovers Finagotchi participant introduction"
+      },
+      {
+        "start": "140:00",
+        "topic": "Aikido explicitly says a Backable raise is premature; validation first"
+      },
+      {
+        "start": "145:55",
+        "topic": "Late inference-infrastructure guest; operating and cost claims unverified"
+      },
+      {
+        "start": "151:27",
+        "topic": "Early-beta caveat, waitlist and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "0ae780add82281d06fd1cdf6ada7472fd82283b53e74d717f8b792e10e9b94a6",
+      "jsonUrl": "/api/transcripts/ownership-radio-31-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-31-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-32-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated machine transcript read after downloading the public X Space recording (3940.05 seconds). All 818 generated segments reviewed; detected speech runs approximately 04:57–65:08. ASR includes name errors, poor passages and speaker dropouts; no verbatim quotes, precise financial claims or personal identity inferred from unclear speech. This is transcript-based editorial review, not full manual listening, security validation or proof of executed raises.",
+    "sections": [
+      {
+        "start": "05:00",
+        "topic": "Introduction; Backable and MetaDAO governance discussion"
+      },
+      {
+        "start": "13:00",
+        "topic": "Kimia beta preparation and waitlist"
+      },
+      {
+        "start": "18:22",
+        "topic": "Kaboom product and planned raise"
+      },
+      {
+        "start": "27:01",
+        "topic": "Kimia runway and possible follow-on funding"
+      },
+      {
+        "start": "40:00",
+        "topic": "Security and audit plans; neither independent audit completion nor absence of vulnerabilities established"
+      },
+      {
+        "start": "54:07",
+        "topic": "Kaboom clarifies gameplay paused ahead of raise"
+      },
+      {
+        "start": "57:03",
+        "topic": "Kimia closing beta invitation plans; speaker connection interruptions"
+      },
+      {
+        "start": "60:20",
+        "topic": "Community participation and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "62f98c6acbb91b3a76d5c77afa7698fa0c835af2590a57d40c7e713128c20cd3",
+      "jsonUrl": "/api/transcripts/ownership-radio-32-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-32-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-6-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 1599 segments of the locally generated transcript read for 7201.28 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Host says an initial Space failed; this replay contains the restarted show, not proof that every earlier utterance was recovered. Publisher announcement corroborates Sora/Jurassic Finance and Treggs/Seedplex. P2P speaker introduced as Don and Superclaw speaker as Rash; founder or legal identity not inferred. P2P buyback execution and proposed use of inventory remain attributed; a participant challenges whether incentives comply with the proposal. Superclaw burn was proposed at the time of this recording; a separate October 12 check of SUPER-002 confirms a later Passed label, not independently verified execution. Jurassic rights/custody structure was still under development. Seedplex legal conclusions are speaker assertions, not legal validation. Spend was mentioned/invited but no Spend interview occurs in the recovered transcript.",
+    "sections": [
+      {
+        "start": "08:28",
+        "topic": "Opening, Roadshow and event announcements"
+      },
+      {
+        "start": "15:11",
+        "topic": "Avici incentive proposal discussion; exact token-allocation figures not adopted"
+      },
+      {
+        "start": "20:01",
+        "topic": "Sora: Jurassic Finance acquisition thesis and unsettled ownership structure"
+      },
+      {
+        "start": "30:00",
+        "topic": "Sourcing, documentation, proposed advisers and museum custody"
+      },
+      {
+        "start": "38:17",
+        "topic": "Transport, minimum capital, maintenance costs and future DAO decisions"
+      },
+      {
+        "start": "46:01",
+        "topic": "Treggs: Seedplex venture-DAO model and comparison with MetaDAO"
+      },
+      {
+        "start": "55:34",
+        "topic": "Legal entity, membership, securities questions and limits of legal opinions"
+      },
+      {
+        "start": "67:57",
+        "topic": "Infrastructure versus launchpad plans and Metalex comparison"
+      },
+      {
+        "start": "74:11",
+        "topic": "P2P representative: buyback rationale and planned token incentives"
+      },
+      {
+        "start": "87:44",
+        "topic": "Participant challenges proposal restrictions and governance approval for incentives"
+      },
+      {
+        "start": "89:11",
+        "topic": "P2P growth strategy and country expansion; plans separated from claimed launches"
+      },
+      {
+        "start": "96:15",
+        "topic": "Superclaw representative: liquidation outcome, proposed team allocation burn and agent pivot"
+      },
+      {
+        "start": "104:54",
+        "topic": "Proposal sponsorship, product access and monetization debate"
+      },
+      {
+        "start": "115:00",
+        "topic": "Closing; host notes restarted Space after earlier technical failure"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "a9bf73d9ed91d7e8d139e589612446eab6915a3929dbeea1495eef63e4337c8f",
+      "jsonUrl": "/api/transcripts/ownership-radio-6-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-6-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-8-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 1683 segments of the locally generated transcript read for 7063.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Publisher announcement corroborates Abbas and @francis_codex; Seedless and HiDEX product maturity and security claims remain attributed. Seedless describes an existing Bags token and a preferred future Start.fun raise, with MetaDAO/Futardio only an alternative. HiDEX says Identity is still on devnet. Neither appearance establishes an ecosystem raise. Advertised Bench and Spend interviews did not occur; no substantive Telebux interview is present. Umbra architecture and integration comments are historical and should be read with later architecture updates. Host opinions about governance success, alleged incidents and financial outcomes are not independently established; no exact Hanson funding figure adopted from the uncertain recollection.",
+    "sections": [
+      {
+        "start": "05:34",
+        "topic": "Opening and lineup changes"
+      },
+      {
+        "start": "09:47",
+        "topic": "Solomon Gigabus proposal: treasury, legal structure and governance flexibility discussion"
+      },
+      {
+        "start": "18:32",
+        "topic": "Abbas responds to the Solomon proposal and discusses Umbra/Ownership partnership"
+      },
+      {
+        "start": "28:02",
+        "topic": "Umbra developer support, SDK use cases and prospective integrations"
+      },
+      {
+        "start": "37:13",
+        "topic": "Seedless builder: passkeys, onboarding and product origins"
+      },
+      {
+        "start": "42:00",
+        "topic": "Lazorkit dependency, devnet testing and Umbra integration"
+      },
+      {
+        "start": "49:00",
+        "topic": "Existing Bags token and prospective Start.fun funding; MetaDAO/Futardio considered as alternative"
+      },
+      {
+        "start": "62:27",
+        "topic": "Bench and Spend unavailable; lineup changes"
+      },
+      {
+        "start": "65:14",
+        "topic": "HiDEX builder: Identity, domain-linked privacy and routing design"
+      },
+      {
+        "start": "70:16",
+        "topic": "HiDEX devnet status, existing validator/LST business and exploratory funding"
+      },
+      {
+        "start": "75:26",
+        "topic": "Governance participation, complexity and market-manipulation concerns"
+      },
+      {
+        "start": "92:18",
+        "topic": "Short-term versus long-term incentives; host acknowledges limited evidence"
+      },
+      {
+        "start": "100:01",
+        "topic": "HiDEX privacy-routing mechanism and metadata-leakage questions"
+      },
+      {
+        "start": "105:00",
+        "topic": "Anonmesh participants and broader privacy/governance discussion"
+      },
+      {
+        "start": "115:00",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "e212aba9e16f18c1b42b3972520e94cb50d6bd35e38595c8c5656613a7c63704",
+      "jsonUrl": "/api/transcripts/ownership-radio-8-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-8-recording"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-9-recording",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "All 2208 segments of the locally generated transcript read for 8952.66 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Crafts and ReFi Hub are alternative-platform context, not evidence of MetaDAO raises. Epicentral incubation and a prospective MetaDAO/Futardio raise are plans, not completed funding. Devnet launch is announced for the following day, not verified deployment. Speaker legal, yield, lender-safety and market-size claims are not independently established. Telebux does not appear. Uncertain guest names excluded.",
+    "sections": [
+      {
+        "start": "04:12",
+        "topic": "Opening and Radio 9 introduction"
+      },
+      {
+        "start": "07:48",
+        "topic": "Crafts: partial tokenization, sealed bids, clearing price and planned mock raise"
+      },
+      {
+        "start": "18:44",
+        "topic": "Founder ownership, later financing and treasury governance"
+      },
+      {
+        "start": "30:38",
+        "topic": "SPV/SAFE structure and limits of direct acquisition rights; prospective raises"
+      },
+      {
+        "start": "37:33",
+        "topic": "ReFi Hub: energy project revenue sharing and reasons for choosing Crafts"
+      },
+      {
+        "start": "50:46",
+        "topic": "Operating-asset diligence, contract enforcement and collateral claims"
+      },
+      {
+        "start": "57:42",
+        "topic": "Planned secondary trading and diversified vaults; yield and jurisdiction discussion"
+      },
+      {
+        "start": "76:27",
+        "topic": "Ownership incubation announcement and planned Epicentral raise"
+      },
+      {
+        "start": "81:00",
+        "topic": "Tony: prior governance participation difficulties and options product background"
+      },
+      {
+        "start": "87:20",
+        "topic": "Options basics, tokenized positions, collateral and pool pricing"
+      },
+      {
+        "start": "103:28",
+        "topic": "Devnet launch planned for following day; American-style exercise and manipulation questions"
+      },
+      {
+        "start": "110:00",
+        "topic": "Option Greeks, implied volatility model and composability"
+      },
+      {
+        "start": "121:29",
+        "topic": "Questions on regulatory and technical barriers; founder opinions only"
+      },
+      {
+        "start": "139:40",
+        "topic": "Bootstrapping and unresolved capital-efficient liquidity design"
+      },
+      {
+        "start": "143:20",
+        "topic": "Closing, incubation and future fundraising; Telebux appearance postponed"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "c2878cb54fdaebb7adb0bae4029b2a5254ed44f7222fe655291fe43bad7555a1",
+      "jsonUrl": "/api/transcripts/ownership-radio-9-recording?format=json",
+      "textUrl": "/api/transcripts/ownership-radio-9-recording"
+    }
+  },
+  {
+    "resourceId": "res-199",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 748 generated segments; 3699.40 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. The audio is an Umbra interview despite an erroneous Omnipair reference in one distributor description. Committed capital is not accepted proceeds. Privacy, screening and compliance assurances are founder claims, not guarantees. Transparency tooling and integrations are described partly as work in progress. Apparent chunk-boundary transcription hallucinations near five minutes were excluded from conclusions.",
+    "sections": [
+      {
+        "start": "01:39",
+        "topic": "MetaDAO raise and discovery"
+      },
+      {
+        "start": "05:00",
+        "topic": "Liquid-token pressure and founder accountability"
+      },
+      {
+        "start": "10:00",
+        "topic": "Communication, deadlines and investor preparation"
+      },
+      {
+        "start": "13:56",
+        "topic": "Potential venture-capital participation"
+      },
+      {
+        "start": "19:06",
+        "topic": "Audit proposals and governance tradeoffs"
+      },
+      {
+        "start": "22:20",
+        "topic": "Team trading policy and planned transparency reporting"
+      },
+      {
+        "start": "25:08",
+        "topic": "Origins of the privacy product"
+      },
+      {
+        "start": "31:48",
+        "topic": "Design iterations and Arcium collaboration"
+      },
+      {
+        "start": "40:34",
+        "topic": "MPC/ZK architecture and restricted initial pools"
+      },
+      {
+        "start": "44:25",
+        "topic": "Personal privacy versus corporate transparency"
+      },
+      {
+        "start": "50:00",
+        "topic": "Screening and compliance claims"
+      },
+      {
+        "start": "52:43",
+        "topic": "Yield, Reflect and future integrations"
+      },
+      {
+        "start": "55:39",
+        "topic": "SDK, enterprise plans and founder lessons"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "f3e081be4f2d56b16b4fdd3b977d5ebe2b964bbab4d985573b87991678b3351d",
+      "jsonUrl": "/api/transcripts/res-199?format=json",
+      "textUrl": "/api/transcripts/res-199"
+    }
+  },
+  {
+    "resourceId": "res-257",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1010 generated segments; 4192.80 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Founder explanation, not an audit or proof of safety. Rakka explicitly acknowledges possible bad debt and manipulation of thinly traded pools. Governance discussion does not independently establish proposal execution. Roadmap features remain historical plans.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Origins and MetaDAO fundraising"
+      },
+      {
+        "start": "20:00",
+        "topic": "Execution pressure and permissionless fundraising"
+      },
+      {
+        "start": "25:17",
+        "topic": "Liquidation concerns, buybacks and treasury ownership"
+      },
+      {
+        "start": "30:15",
+        "topic": "Audit-funding proposal and accountability"
+      },
+      {
+        "start": "35:17",
+        "topic": "Permissionless lending and long-tail assets"
+      },
+      {
+        "start": "41:54",
+        "topic": "Manipulation, isolated pools and dynamic collateral limits"
+      },
+      {
+        "start": "48:01",
+        "topic": "AMM design and capital efficiency"
+      },
+      {
+        "start": "55:00",
+        "topic": "Liquidations and pool-level bad debt"
+      },
+      {
+        "start": "65:14",
+        "topic": "Monitoring, integrations and future roadmap"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "a78c156fcceb2ef9b5878555aacd581582e2dd4468051516504211458d12642b",
+      "jsonUrl": "/api/transcripts/res-257?format=json",
+      "textUrl": "/api/transcripts/res-257"
+    }
+  },
+  {
+    "resourceId": "res-258",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1079 generated segments; 4085.18 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Buyback figures and token concentration are the founder’s historical account, not reconciled on-chain balances. OTC fundraising, Squads/Grid distribution and agent trading are plans or tests. Claims of regulatory protection and technical security are not established guarantees. Transcript includes an apparent repeated-farewell hallucination near the 55-minute chunk boundary and imperfect timestamps; those passages are not used as evidence.",
+    "sections": [
+      {
+        "start": "01:22",
+        "topic": "Telegram workflow origins and privacy rationale"
+      },
+      {
+        "start": "08:18",
+        "topic": "MetaDAO fundraising and streamed community building"
+      },
+      {
+        "start": "15:00",
+        "topic": "Token-holder pressure and feedback"
+      },
+      {
+        "start": "20:00",
+        "topic": "Angel funding and potential venture participation"
+      },
+      {
+        "start": "24:07",
+        "topic": "Governance friction and ecosystem confidence"
+      },
+      {
+        "start": "28:12",
+        "topic": "Buyback experience and prospective OTC raise"
+      },
+      {
+        "start": "35:00",
+        "topic": "Branding and user-facing privacy"
+      },
+      {
+        "start": "44:21",
+        "topic": "Payment features and MagicBlock explanation"
+      },
+      {
+        "start": "50:52",
+        "topic": "Squads/Grid plans and human-approved agent transactions"
+      },
+      {
+        "start": "55:22",
+        "topic": "Reasons for choosing Solana"
+      },
+      {
+        "start": "63:00",
+        "topic": "Long-term ambitions and closing"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "130da7d65122e28486f53ca014d1bd7ed83c9b74d37fabf01a5e24ec2387720f",
+      "jsonUrl": "/api/transcripts/res-258?format=json",
+      "textUrl": "/api/transcripts/res-258"
+    }
+  },
+  {
+    "resourceId": "res-259",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 700 generated segments; 2845.72 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Episode precedes the raise. Fundraising plans, token distribution and future expansion are not completed outcomes. Claims that decentralization resolves regulatory exposure or screening prevents all fraud are not adopted as facts.",
+    "sections": [
+      {
+        "start": "00:11",
+        "topic": "Introduction and forthcoming raise"
+      },
+      {
+        "start": "03:27",
+        "topic": "Founder’s regulatory and decentralization rationale"
+      },
+      {
+        "start": "10:14",
+        "topic": "Pragmatic view of futarchy and transition from VC flexibility"
+      },
+      {
+        "start": "15:20",
+        "topic": "Liquidation concerns, operating budget and investor reaction"
+      },
+      {
+        "start": "26:42",
+        "topic": "Local payment rails and merchant coordination"
+      },
+      {
+        "start": "31:00",
+        "topic": "Fraud screening, social-account verification and merchants"
+      },
+      {
+        "start": "35:00",
+        "topic": "Spread-based revenue and competition"
+      },
+      {
+        "start": "38:15",
+        "topic": "Planned use of raise proceeds"
+      },
+      {
+        "start": "41:21",
+        "topic": "Circles of Trust and future multichain plans"
+      },
+      {
+        "start": "45:33",
+        "topic": "Founder closing investment pitch; not endorsed"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "permission": {
+        "grantedBy": "OwnershipFM team member in this chat",
+        "grantedAt": "2026-10-12",
+        "scope": "Existing OwnershipFM recordings and transcripts; excludes other publishers"
+      },
+      "sha256": "d9f8bd73f9b3dc4849074e58155355687cdc02cf8ccb835f1e2697c4f5d41a8e",
+      "jsonUrl": "/api/transcripts/res-259?format=json",
+      "textUrl": "/api/transcripts/res-259"
+    }
+  },
+  {
+    "resourceId": "res-262",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Complete available captions read. Video edition of the Scaling Theory interview already represented by res-262; Apple publisher listing confirms 23 October 2025. Existing podcast record upgraded instead of creating a duplicate interview.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "d1efe2add3f0dc86b6be0c97140dc5403a5b5df3c08fea34563508976590a94f"
+    }
+  },
+  {
+    "resourceId": "tributary-archive-19521722ff",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "complete-available-captions-reviewed",
+    "reviewBoundary": "Complete available English auto-generated captions, 0:00–2:21 of 2:25, read. Date and mainnet claim from expanded publisher description. No complete manual audio or visual review; current README qualifies historical feature and fee assertions. Source-checked is editorial review, not independent audit.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "tributary-archive-5ec2281509",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "complete-available-captions-reviewed",
+    "reviewBoundary": "Complete available English auto-generated captions (0:00–3:06 of 3:10) read. Initial export returned unavailable before loading; successful export supersedes that result. No complete manual audio/visual review; later June 2026 gateway-signer explanation qualifies automation claims. Source-checked is editorial review, not independent audit.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "tributary-archive-67aabeadbb",
+    "checkedAt": "2026-10-12",
+    "reviewMethod": "complete-available-captions-reviewed",
+    "reviewBoundary": "Complete available English auto-generated captions (0:00–2:55 of 2:58) read. Narration is distinct from independently verifying screen actions or live payments; security/custody claims remain attributed. Source-checked is editorial review, not independent audit.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "video-review-30306142614b5659337555",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Founders discuss when to launch a token, existing venture obligations, community expectations and governance tradeoffs. Shri describes Credible’s planned raise and points-program transition; Philip explains Hurupay’s Kolan rebrand. Panel participation is not evidence that every speaker completed a MetaDAO raise.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "f00666ba5c402030168055c7872a9303f489a555d2c49dbb3bfc78e52d9e5015"
+    }
+  },
+  {
+    "resourceId": "video-review-314c4b386f73764c346a67",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Kollan House and Seb Montgomery demonstrate the historical Jito decision-market interface, conditional trades and settlement. This records the first Jito proposal tutorial; its simplified pricing explanation and interface are not current trading instructions or a guarantee of returns.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "60a9b3b9bb7335d78f37ba95d3ca1b0b27fa76abc5786ff738cf1ca4d18fc587"
+    }
+  },
+  {
+    "resourceId": "video-review-326263677634504c6b4b4d",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Investors compare cash flow, founder quality, market size, valuation and ongoing disclosure when assessing ownership coins. The panel also discusses thin liquidity, activist involvement and the need to test governance under larger failures; investment claims remain attributed to the speakers.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "49f0ff6e909c71adc7479a55b2352c4cd9075a2611e648e8661654f132566109"
+    }
+  },
+  {
+    "resourceId": "video-review-3334695f66564159394759",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "8Bit explains Ownership's podcast, Radio, Roadshow, Forum and Report formats, and argues for sustained founder communication and public questioning before and after raises.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "ac72ce819221dc276603c1904d912e2e931baf7431b4043408d80c4fdd943c41"
+    }
+  },
+  {
+    "resourceId": "video-review-336a6a69616d7a43717049",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Abbas, Vukan, Ranga and Hunter discuss choosing MetaDAO, investor pressure, liquidation risk and proposal negotiations. Ranga recounts Solomon’s market-making treasury proposal; Abbas describes joining Umbra around the ICO after advising Kru. Claims that governance prevents every misuse remain the speakers’ opinions.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "3223d7d432a51c17e73720324ba71609a6fbc2f9c659201a540dbc92dbe5bcdb"
+    }
+  },
+  {
+    "resourceId": "video-review-35636b76576b5361685759",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "The third community call covers the early futarchy-as-a-service team, temporary delegated authority, program changes and Colosseum’s investment rationale. Participants also discuss the mistaken-price auction incident and cancellation, contributor incentives and limits on the temporary leadership mandate. These are historical accounts and plans, not current governance rules.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "64c61b51de1b06741db5f095c5d1d32dc5d284603fbf8f1d81c0dca9865d7ab4"
+    }
+  },
+  {
+    "resourceId": "video-review-36535f2d56554d4b38476b",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "David Khosroshvili explains Ownership Ventures' deal-sourcing and legal-structure work and the rationale for launching Rip Cars as an operating experiment. Potential sectors and fund deployments remain plans.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "630f2a993aff3096e7a2122edda355ba2efdd563e308d2856ed1f4d58f64b408"
+    }
+  },
+  {
+    "resourceId": "video-review-37662d5a327a6358794949",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Hunter Monk discusses Laso’s origins, private spending products and proposed agent-payment expansion with Proph3t. The interview distinguishes deposits from revenue and covers issuer, regulatory and adoption risks before the raise.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "582273ab40ad5fbd12a59b457f0871570937d2463a89367f284e117d606f70d9"
+    }
+  },
+  {
+    "resourceId": "video-review-396f4b76423238486b7355",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Vukan explains Jurassic Finance's labs and specimen structure, proposed revenue streams, adviser incentives and pre-commitment campaign. Fossil acquisitions, returns and future products are presented as plans and speaker claims.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "33c49574ecaf361dfeffd938098a33a12b49a302b79b284b352f0dd2db17c88e"
+    }
+  },
+  {
+    "resourceId": "video-review-424c53325458314b787a49",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson explains prediction and decision markets and argues for small organizational trials before wider governance adoption. The discussion covers political resistance and proposed sponsorship structures; historical statements about betting law are attributed and are not current legal guidance.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "78c29d2a487e4dd7cd749b36aba1c746280691f21e56c22de904454187bcea46"
+    }
+  },
+  {
+    "resourceId": "video-review-435a576b2d467277334d34",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson explains decision markets, organizational adoption barriers and unresolved design choices, emphasizing small-scale experimentation and MetaDAO-funded laboratory work before broader governance applications.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "07c205a556674b4ee502d4ed2c659346fa6039e5be22d26addcd22db9c6da5f3"
+    }
+  },
+  {
+    "resourceId": "video-review-453144366d554f42336141",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson discusses innovation, cultural evolution and cities, then explains conditional decision markets and why governance experiments should begin with smaller organizations. His suggestions for property-value or citizenship-based metrics and his demographic projections are theoretical positions, not evidence that such city-governance systems have been implemented.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "98ea0ce0e7fea94b652b98f08f90db8f0c0dbbe00842ec2019640bfa3f6d85c3"
+    }
+  },
+  {
+    "resourceId": "video-review-4857567059656b6c2d556f",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Proph3t and Kollan reflect on the inaugural meeting, describe MetaDAO as coordination infrastructure and outline their aspiration to shift future discussion toward the businesses using it.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "3b6932e16bbf39ee29dadf695ecc69605d06ccd301ac042e0441d1dd54d68751"
+    }
+  },
+  {
+    "resourceId": "video-review-497a715a74707242464251",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Proph3t explains an early MetaDAO launchpad model and his thesis for token-based founder and community alignment. Its seven-day sale and liquidity parameters are historical, not instructions for current raises.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "2585f7ec394fa81c84ff4cf718f597b881a9ed54ae171bf6cb7294aef138e665"
+    }
+  },
+  {
+    "resourceId": "video-review-4b66305747357973682d59",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "The sixth community call discusses fundraising, a shift toward full-time maintainers, conditional-market weaknesses and the rejected Drift/Artemis proposal. The team recounts a Dean’s List TWAP-cranking incident and compensation. Fundraising commitments, proposed safeguards and reported fixes are historical statements, not independently verified completion or current guarantees.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "147b56707dbce4552248286fa2acc686ef9107c86ba5f95a272febf9f1c825e2"
+    }
+  },
+  {
+    "resourceId": "video-review-4b766c304c72777445386b",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson explains conditional and combinatorial markets, discusses early MetaDAO and other governance experiments, and emphasizes organizational resistance and unresolved practical details. Historical adoption figures are his contemporary account, not current ecosystem totals.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "0a4865a3b6673109868c4bc6cdc5a29af5a55562e7aa4e061c3e91ba63f19ba3"
+    }
+  },
+  {
+    "resourceId": "video-review-4c66477773363171597041",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Ranga explains Solomon's yield-routing infrastructure, its changing launch strategy and a proposed USDv treasury use case with MetaDAO. Case-study yields and deployment statements are speaker-reported.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "b323130a40f07724f052fd64329e04eeb2762ad0aa8c83ca92d3bc206d5acaef"
+    }
+  },
+  {
+    "resourceId": "video-review-4c6d2d34664a396c385745",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Edgar and Barrett explain Mountain Capital’s early investment-DAO thesis, proposal sponsorship and liquidity costs, deal carry and uncertainty around price versus net asset value. Recorded after its first rejected proposal, this account precedes the later wind-down and is preserved as founder history rather than a current description of the fund.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "2601504bcdef37d3d322e2c7be5f48748493e528045c5ce0c04f299562810302"
+    }
+  },
+  {
+    "resourceId": "video-review-4d594b664c3441556c5859",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson surveys prediction-market history, combinatorial markets and futarchy experiments, then examines selection bias, liquidity subsidies, proposal incentives, bounded assets and managerial resistance. The audience discussion covers scientific funding, market manipulation, unequal resources and AI. Proposed design fixes and contemporary experiment counts are attributed claims; the available caption track ends during the final discussion.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "84f04b40cb7898c94d0fb009cbab5ede400dc2bd928b76e846752f4487bd2217"
+    }
+  },
+  {
+    "resourceId": "video-review-537264613041453034436b",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Clay Robbins traces changing venture-capital structures and argues that ownership coins need strong operating businesses, public reporting and patient capital suited to liquid early-stage investments. This is an investment-framework argument, not proof that the model has solved venture funding.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "d42032d5b42183277edbeac188b237e99b4fcd8b4afabd62b9b5475907ac6b34"
+    }
+  },
+  {
+    "resourceId": "video-review-54622d36696b58644f7a45",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "This Foresight 2010 debate contrasts Robin Hanson’s case for incremental decision-market experiments with Mencius Moldbug’s objections about participant knowledge, outside incentives and sovereign-scale manipulation. Audience questions challenge liquidity, long-term strategy, outcome measurement and accountability. The exchange preserves competing arguments and proposed tests, not a demonstrated verdict on national governance.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "2bcc436d6e39a6787a0b004cafb86388231da3da45202d8b81ec484886d127b3"
+    }
+  },
+  {
+    "resourceId": "video-review-546d684c4b7139487a7873",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "The second community call examines Ben’s contested early proposal, liquidity and AMM tradeoffs, the proposed token auction, the DAO LLC and contributor coordination. Participants discuss risks from bundling decisions and from thin conditional markets. Legal protections and planned mechanisms are contemporary speaker claims, not independently verified or current guarantees.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "255a061154ff8e5b2f2771c4b1aa33427e0a73511a4b286964a29fb1020a10aa"
+    }
+  },
+  {
+    "resourceId": "video-review-547475756e625376703273",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Community call four covers early futarchy-as-a-service discussions with Drift, Dean’s List and other communities, a devnet interface demonstration and proposed contributor compensation. Development plans and reported partnerships are preserved as contemporary statements, not evidence of completed production integrations.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "1eb4f101998bedc2537d874a4374c1ff7650781233a49583ab860ca0c64efe79"
+    }
+  },
+  {
+    "resourceId": "video-review-556357467a30416b703545",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Kevin Heavey contrasts asset-price and KPI decision markets through completeness, legitimacy, trading demand and oracle resilience, and discusses limits of advisory markets. This is a critical argument, not consensus on futarchy design.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "a1535cbe6cb971bb65e545c5f255bc399ce583025cbef92de18f46b80caf4125"
+    }
+  },
+  {
+    "resourceId": "video-review-557a5a54477977785f7549",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson and Eli Goldfine discuss long-term goals, civilizational risks and the limits of choosing outcome metrics. They compare policy and leadership markets, research-funding incentives and gradual adoption, including barriers from incumbent managers. Futarchy does not itself resolve disagreements over values; demographic and AI scenarios are speculative, and the available captions end during the audience discussion.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "4a91828a02945e4ee1828f34fb54252087bea667cbc098367aecf4bf9a15effb"
+    }
+  },
+  {
+    "resourceId": "video-review-5676346c6b4d726d7a5838",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson and Alex Murshak explore small-scale decision-market experiments, hiring and CEO-replacement markets, liquidity incentives and organizational resistance. The interview distinguishes more accurate forecasts from better organizational performance and emphasizes that explicit outcome measures can encode the wrong goals. National applications and legal examples are proposals or historical commentary.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "e18af5ebdd688910b3f817ae6406176adead5abc7e46b8b9e00a1a36191e0581"
+    }
+  },
+  {
+    "resourceId": "video-review-613171536a6b4c585a3959",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson discusses liquidity subsidies, decision-selection bias and organizational barriers; Kelvin Santos demonstrates early Gnosis milestone markets. The demo is explicitly a small-liquidity beta with some proxy-contract audits still ongoing. This is background on a separate futarchy implementation, not a MetaDAO ecosystem raise or evidence of current deployment safety.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "f7375e53d28e862a8e25a181ec04569257e59dc98dd8369e79050c0cf4082f00"
+    }
+  },
+  {
+    "resourceId": "video-review-6642534e45594b6b737863",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Hunter describes Laso's private spending products and agent-payment roadmap, including optional identity verification for bank accounts. He corrects a slide to distinguish transaction volume from revenue; figures remain company-reported.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "5ae5a603e2b4176eac109ff64fa75fb1f0e7a29ade48f777fb94ebbea8f8e17e"
+    }
+  },
+  {
+    "resourceId": "video-review-675a784c487a6b3758784d",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson and James Hughes debate whether decision markets improve democratic competence or leave wealth and influence problems unresolved. Topics include expert accountability, advisory markets, AI intermediaries, information institutions and the distinction between choosing social goals and predicting policy effects. Their later policy and cultural disagreements remain attributed viewpoints rather than endorsed conclusions.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "505f7b05ea2b728b9f2678ad027f88ac7884252b5f249f0abb210e4a8c594cd0"
+    }
+  },
+  {
+    "resourceId": "video-review-694a41624d447130567659",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robert Burkhart explains Blockworks' disclosure thesis and how standardized information could complement MetaDAO's ownership structure. Regulatory comparisons and future adoption are the speaker's argument.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "e145c329a8273a02b84cefc010b7a4c0a65222a5cd35164f46ad5f31b6557e23"
+    }
+  },
+  {
+    "resourceId": "video-review-694a627442315a67535f30",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Robin Hanson outlines unresolved decision-market design issues, followed by Proph3t’s account of MetaDAO’s shift toward crowdfunding. The talk discusses Ranger allegations, Solomon and ZKFG disputes, buybacks and proposed investor/fund structures. Speaker interpretations and future plans are not independent findings or evidence of current configuration.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "bf1f34cc3dfd9330e37770f65ff490d028747d66ffeb37990e30254cfadcffc7"
+    }
+  },
+  {
+    "resourceId": "video-review-6a366f6f4e5672386e4145",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Proph3t outlines proposed changes to proposal thresholds, treasury buybacks and token sales, oversight and founder certainty. He explicitly says the changes still require decision markets; illustrative parameters are not current protocol rules.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "c6ce7d46f88d74bb21e4bb0bcb63f2c79913915c6bde9db4d1902b06ba4a08dd"
+    }
+  },
+  {
+    "resourceId": "video-review-6a425465556b4752434c4d",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "The fifth community call reviews the initial futarchy-as-a-service delivery, early Drift grants activity, founder compensation and a proposed optimistic-governance system. It distinguishes reported deployment from missing interface features, audit publication and further implementation work; contemporary cost and participation figures are attributed to the speakers.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "120629ba7408794a7cb6627337bebfb8c2384fe5cc2997aeaa7b57789c00f969"
+    }
+  },
+  {
+    "resourceId": "video-review-6b4868744a51345f546177",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Danning Sui uses prediction-market data to raise decision-market research questions about participation, information timing, outcome evaluation and manipulation. Suggested mechanisms are research proposals, not adopted MetaDAO rules.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "c0bbe86bab0de1dd546efffcfb39e8316abbac4f9ad4d4802b5cf9434942ddde"
+    }
+  },
+  {
+    "resourceId": "video-review-6c69626d736961695a426f",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Proph3t recounts MetaDAO's development, shift from DAO tooling to ICOs, difficult raises and liquidations, and plans for consumer founders and a more predictable process. This is a founder's retrospective and strategy presentation.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "d746f6d72a0d2edcd1255a39932763cb5b0f2adc8df27ec412de4275f032ebbf"
+    }
+  },
+  {
+    "resourceId": "video-review-6d5f476d42386e52445973",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "David and Proph3t discuss Rip Cars' planned $250,000 raise, inventory and advertising budget, collectible-market thesis and operating risks. Proposed fundraising and launch dates are not completion evidence.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "7c0aae07fed4cad72fca5621ddae69fe16554cd01ab0a05ec8a6527954f6be02"
+    }
+  },
+  {
+    "resourceId": "video-review-6e7a49376f57713952426f",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Connor King describes Novora's MetaDAO relationship, institutional roadshows, investor materials and launch support, with future capital-market ideas. Commitment and participation figures are speaker-reported.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "50658fe38e537d2e28b1ff80c0dffc3995b7de39f3361de247e322986d15d9bf"
+    }
+  },
+  {
+    "resourceId": "video-review-705167346e75464b4a4e41",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Abbas outlines Umbra's applications, enterprise privacy work and planned infrastructure expansion. Private pilots, forthcoming pools, cross-chain support and card products are distinguished from publicly available features.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "c26c9f6545b6a87245b5d19628966a796506a655cc81d441c7cc4fe465d40665"
+    }
+  },
+  {
+    "resourceId": "video-review-7441554b6e754572654730",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Felipe argues that liquid ownership coins could support a wider range of businesses than traditional venture funds and proposes tests based on investor and customer value. The published recording has cut audio; available captions were reviewed, but missing speech and slide calculations were not reconstructed or verified.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "b60ee5c6574ad1ba4d65efe80a2752307fe7fd4b430b62c33d4d2fc3127b4f30"
+    }
+  },
+  {
+    "resourceId": "video-review-744e656f4a456671644949",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "JJ describes 01Resolved's financial-data pipeline and proposed continuous books for ownership coins, using disputed ecosystem episodes to motivate better disclosure. Allegations in those examples are not treated as independently established facts.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "3f0b99b0ad038b68635198fb23dd20c2166e9fa7222c158a378101e85b9a8d62"
+    }
+  },
+  {
+    "resourceId": "video-review-747a73444e6b2d707a3159",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Shri explains Credible's shift from trade finance to payments, settlement-float economics, fraud exposure and licensing plans in a founder interview with Proph3t. Reported volumes, licenses and future customers are not independently verified.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "efc453296e88446509d172260ca486e849bc643c338397641d2bb2c14ef7bda4"
+    }
+  },
+  {
+    "resourceId": "video-review-7758776a3955744c4d5651",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "Edgar explains the origins of mtnDAO and the proposed mtnCapital investment fund, including its intended governance and relationship to the coworking community. This is historical pre-launch material, not evidence of the fund's subsequent success.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "2dba8ff2794bfe9b124b01030e65793d322ac355949b236102f84893d0dd2a66"
+    }
+  },
+  {
+    "resourceId": "video-review-795157494a6a4467646a6b",
+    "checkedAt": "2026-10-11",
+    "reviewMethod": "Complete available auto-generated caption track",
+    "reviewBoundary": "The first community call discusses early Marinade and Saber work, a proposed move from order books to AMMs, TWAP limitations and contribution compensation. Participants distinguish development approval from a later treasury-migration decision; this is historical planning, not current protocol behavior.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "eb6f2a4bc52a8da5dbad044e40c260a0f57510ac5450357120a9298672f8830f"
+    }
+  }
+]

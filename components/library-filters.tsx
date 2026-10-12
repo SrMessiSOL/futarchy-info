@@ -36,7 +36,7 @@ export function LibraryFilters({
 
   const scopedResources = selectProjectResources(resources, projects, project)
   const historical = project === 'historical' || projects.some(p => p.id === project && p.coverage !== 'raise')
-  const visibleProjects = projects.filter(p => historical ? p.coverage !== 'raise' : p.coverage === 'raise')
+  const visibleProjects = projects.filter(p => (historical ? p.coverage !== 'raise' : p.coverage === 'raise') && resources.some(r => r.tags?.includes('project:' + p.id)))
   const filterCategories = [
     { id: "papers", label: "Academic Papers", icon: FileText, count: scopedResources.filter((r) => r.type === "paper").length },
     { id: "articles", label: "Articles & Analysis", icon: BookOpen, count: scopedResources.filter((r) => r.type === "article").length },

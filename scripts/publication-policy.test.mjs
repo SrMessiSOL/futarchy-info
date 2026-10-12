@@ -10,13 +10,16 @@ test('closed-project cutoff rejects later sources and uncertain dates, including
   assert.ok(publicationBlockReason({...row,title:'mtnCapital interview',tags:[]},rules));
   assert.equal(publicationBlockReason({...row,title:'Omnipair liquidity pool liquidation mechanics',tags:['project:omnipair']},rules),null);
 });
-test('actual late Ranger and unknown founder sources are excluded without deleting records',()=>{
+test('actual late and undated closed-project sources are held, while newly dated historical evidence remains eligible',()=>{
   const catalog=JSON.parse(fs.readFileSync('content/resources.json'));
-  for(const id of ['res-260','res-261','founder-ranger-rockaway','paystream-founder-static-analysis','resolved-backfill-21'])assert.ok(publicationBlockReason(catalog.find(r=>r.id===id),rules),id);
+  for(const id of ['res-260','res-261','paystream-founder-static-analysis','resolved-backfill-21'])assert.ok(publicationBlockReason(catalog.find(r=>r.id===id),rules),id);
+  const interview=catalog.find(r=>r.id==='founder-ranger-rockaway');
+  assert.equal(interview.date,'2025-02-19');
+  assert.equal(publicationBlockReason(interview,rules),null);
   assert.equal(publicationBlockReason(catalog.find(r=>r.id==='x-article-2018370848881799531'),rules),null);
 });
 
-test('all 37 user-approved records are restored without disabling future cutoff review',()=>{
+test('37 cutoff exceptions remain independent of later browsing-scope restrictions',()=>{
   const catalog=JSON.parse(fs.readFileSync('content/resources.json'));
   const approved=JSON.parse(fs.readFileSync('content/publication-exceptions.json')).resourceIds;
   assert.equal(new Set(approved).size,37);

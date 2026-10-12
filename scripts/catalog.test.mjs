@@ -26,6 +26,12 @@ test('missing evidence and fabricated calendar dates are rejected',()=>{
 test('unknown publication date is allowed without inventing one',()=>{
   assert.equal(validateCatalog([{...entry,date:null,datePrecision:'unknown',dateKind:'unknown'}]).length,1);
 });
+test('living references keep publication unknown and raise dates are explicitly events',()=>{
+  assert.equal(validateCatalog([{...entry,date:null,datePrecision:'unknown',dateKind:'unknown',undatedReference:true,sourceUpdatedAt:'2026-01-01'}]).length,1);
+  assert.throws(()=>validateCatalog([{...entry,undatedReference:true}]));
+  assert.equal(validateCatalog([{...entry,dateKind:'event',dateBasis:'raise-start'}]).length,1);
+  assert.throws(()=>validateCatalog([{...entry,dateBasis:'raise-start'}]));
+});
 test('new entries cannot inherit legacy verification',()=>{
   assert.throws(()=>validateCatalog([{...entry,verification:'legacy'}]));
 });

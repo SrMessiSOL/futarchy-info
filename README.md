@@ -2,6 +2,8 @@
 
 An independent research library for futarchy, decision markets, and ownership coins. Built with Next.js; content lives in `content/resources.json`.
 
+The public archive retains failed-raise projects only when they actually appeared on Ownership Radio. Reviewed recording references live in `content/ownership-radio-projects.json`; excluded project records retain their IDs internally. Exact raise dates are labeled Raise start. Living profiles/documentation with no single publication date are labeled Undated reference; explicit source-update dates are kept separate.
+
 ## Agent access
 
 `/llms.txt` describes `/api/library` (main), `?scope=historical` and `?scope=everything`. Reviewed media exposes `/api/library/[id]` in Markdown or `?format=json`, with summaries, review limits and timestamped topic guides where recorded. Cards link to Reading notes.

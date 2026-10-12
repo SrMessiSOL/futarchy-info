@@ -1,5 +1,13 @@
 # Source review update — 2026-10-12
 
+## Latest scope and date corrections — PR #12
+
+The user confirms the 62 stored dates as verified. Date fields now accept that authority without upgrading source-body verification. The detailed date inventory and its generator were removed from the PR diff on request.
+
+Of the 186 formerly undated records, 87 belong to excluded projects and were skipped. All 99 retained sources received a date review: 43 exact YouTube publication dates, two original LinkedIn publication timestamps, the RockawayX Ranger interview date from its publisher archive, and 23 exact raise-start timestamps from primary platform pages. Thirty remaining sources are living references with no single publication date established: 24 MetaDAO company profiles and six documentation/repository references. Four reference pages have explicit lastModified/dateModified timestamps, recorded as sourceUpdatedAt rather than publication dates. Current labels distinguish Raise start and Undated reference. Video upload dates are separate from recording/event dates.
+
+Latest retention rule: failed-raise projects only remain publicly if they actually appeared on Ownership Radio. Fourteen such projects have reviewed recording references. Fifty-two other failed-raise projects and 115 standalone records are removed from public browsing and agent access, with original IDs retained internally. The new scope instruction supersedes the earlier restoration for two BlockRock records. Mixed sources with retained projects stay available. Announcement and Roadshow participation alone do not establish a Radio appearance. Previous counts and checkpoints below are historical.
+
 ## Media cleanup and agent access — follow-up to deployed PR #10
 
 PR #10 was merged and its reviewed tree deployed to futarchy.info on October 12. The following changes are a new follow-up for review; previous checkpoints below describe their original state.

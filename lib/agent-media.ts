@@ -1,5 +1,5 @@
 import notes from '@/content/media-notes.json'
-import { resources, type Resource } from '@/lib/resources-data'
+import { resources, formatResourceDate, type Resource } from '@/lib/resources-data'
 
 export interface MediaNote {
   resourceId: string
@@ -7,7 +7,7 @@ export interface MediaNote {
   reviewBoundary: string
   checkedAt: string
   sections: { start: string; topic: string }[]
-  transcript: { status: 'permission-required' | 'available'; sha256: string | null; jsonUrl?: string; textUrl?: string }
+  transcript: { status: 'permission-required' | 'available' | 'unavailable'; sha256: string | null; jsonUrl?: string; textUrl?: string }
 }
 
 const noteMap = new Map((notes as MediaNote[]).map(note => [note.resourceId, note]))
@@ -25,7 +25,7 @@ export function agentLibrary(scopeResources = resources) { return scopeResources
 export function mediaMarkdown(resource: Resource, note: MediaNote) {
   return [
     `# ${resource.title}`, '', `Source: ${resource.url}`, `Publisher: ${resource.author}`,
-    `Publication date: ${resource.datePrecision === 'day' ? resource.date : 'unverified'}`,
+    `Date: ${formatResourceDate(resource)}`,
     `Reviewed: ${note.checkedAt}`, '',
     '## Editorial reading notes', '', resource.description ?? '', '',
     'These are original editorial notes, not a verbatim transcript. Source claims are attributed, not independently audited.', '',
@@ -37,6 +37,8 @@ export function mediaMarkdown(resource: Resource, note: MediaNote) {
       `Full machine transcript (text): ${note.transcript.textUrl}`,
       `Timestamped segments (JSON): ${note.transcript.jsonUrl}`,
       'Published with OwnershipFM team permission. Uncorrected machine transcription may contain invented or repeated passages, name/number errors and inaccurate timestamps. Review boundaries above still apply.',
+    ] : note.transcript.status === 'unavailable' ? [
+      'No transcript was recovered from this publisher video. OwnershipFM permission is recorded, but metadata and chapter descriptions are not a full transcript. Consult the original recording and its publisher transcript controls.',
     ] : ['The full transcript was used for research but is not redistributed here. Publisher permission or a redistribution license is required before hosting it. Consult the original recording and its publisher caption/transcript controls.']),
     ...(note.transcript.sha256 ? ['', `Research transcript SHA-256: ${note.transcript.sha256}`] : []), '',
   ].join('\n')

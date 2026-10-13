@@ -6,7 +6,8 @@ import { createHash } from 'node:crypto'
 const read = file => JSON.parse(fs.readFileSync(file, 'utf8'))
 const catalog = read('content/resources.json')
 const byId = new Map(catalog.map(resource => [resource.id, resource]))
-const notes = new Map()
+// Preserve publisher metadata notes and captions recovered through the browser.
+const notes = new Map(read('content/media-notes.json').map(note => [note.resourceId, note]))
 function add(review) {
   const resource = byId.get(review.resourceId)
   if (!resource || !['podcast', 'video'].includes(resource.type)) return
@@ -33,7 +34,7 @@ for (const decision of read(`${directory}/funded-founder-final-pass.json`).decis
 }
 const permission = { grantedBy: 'OwnershipFM team member in this chat', grantedAt: '2026-10-12', scope: 'Existing OwnershipFM recordings and transcripts; excludes other publishers' }
 const podcastFiles = { 'res-259': 'Sheldon', 'res-257': 'rakka', 'res-258': 'Chris', 'ownership-backfill-2': 'Shrii', 'res-199': 'Kru', 'ownership-backfill-3': 'Ranga' }
-const transcripts = []
+const transcripts = read('content/transcripts.json')
 let published = 0
 for (const note of notes.values()) {
   const number = note.resourceId.match(/^ownership-radio-(\d+)-recording$/)?.[1]
@@ -58,11 +59,13 @@ for (const note of notes.values()) {
     omittedOutOfRangeSegments: transcript.segments.filter(s => s.start > transcript.duration).length,
     segments: transcript.segments.filter(s => s.start <= transcript.duration).map(({start, end, text}) => ({start, end: Math.min(end, transcript.duration), ...(end > transcript.duration ? {originalEnd: end} : {}), text})),
   }
-  transcripts.push(payload)
+  const existingIndex = transcripts.findIndex(transcript => transcript.resourceId === payload.resourceId)
+  if (existingIndex < 0) transcripts.push(payload)
+  else transcripts[existingIndex] = payload
   const base = `/api/transcripts/${resource.id}`
   note.transcript = { status: 'available', permission, sha256: payload.researchTranscriptSha256, jsonUrl: `${base}?format=json`, textUrl: base }
   published++
 }
 fs.writeFileSync('content/transcripts.json', JSON.stringify(transcripts, null, 2) + '\n')
 fs.writeFileSync('content/media-notes.json', JSON.stringify([...notes.values()].sort((a,b) => a.resourceId.localeCompare(b.resourceId)), null, 2) + '\n')
-console.log(`Prepared ${notes.size} media reading notes and ${published} permissioned OwnershipFM transcripts.`)
+console.log(`Prepared ${notes.size} media reading notes and ${transcripts.length} permissioned OwnershipFM transcripts (${published} rebuilt from research audio).`)

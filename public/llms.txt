@@ -2,11 +2,12 @@
 
 Independent research on MetaDAO and companies that raised through its ecosystem.
 
-- [Main library JSON](/api/library): Active funded projects, MetaDAO and relevant research.
+- [Main library JSON](/api/library): Active funded projects, MetaDAO, relevant research and six explicitly retained historical recordings.
 - [Historical archive JSON](/api/library?scope=historical): Closed companies and failed raises.
 - [All public records JSON](/api/library?scope=everything): Both scopes; excludes duplicates, event reminders and held sources.
 
 Each resource has a stable ID, source URL, publication-date precision and review evidence.
+Scopes overlap: approved historical recordings appear in both the main library and historical archive. Deduplicate by resource ID; the everything scope already contains each public record once. Main-library inclusion does not change a project's historical or failed-raise status.
 Reviewed recordings have a readingUrl returning Markdown editorial notes and, where available, timestamped topic guides. Append ?format=json for structured metadata.
 OwnershipFM recordings with team permission include full machine transcripts in text and timestamped JSON, linked in mediaReview.transcript. Generated text may contain hallucinations, repetition and inaccurate names, numbers or timestamps. Coverage can be partial where only part of a broadcast was recovered; read reviewBoundary.
 Publisher-auto-captions are recovered from OwnershipFM's YouTube versions. Their caption-source hash is recorded; no audio hash is claimed. End timestamps are inferred from the next segment and video duration. Recovery does not imply full editorial review. A transcript status of unavailable is an access gap, not a missing permission claim.

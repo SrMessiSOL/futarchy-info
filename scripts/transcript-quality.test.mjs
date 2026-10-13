@@ -7,6 +7,29 @@ import { execFileSync } from 'node:child_process'
 import { createHash } from 'node:crypto'
 import { auditTranscript, repetitionSignal } from './audit-transcripts.mjs'
 
+test('audio gap review covers all original intervals and preserves remaining uncertainty',()=>{
+ const ts=JSON.parse(fs.readFileSync('content/transcripts.json'))
+ const before=JSON.parse(fs.readFileSync('maintenance/transcript-quality-2026-10-12/after.json'))
+ const evidence=JSON.parse(fs.readFileSync('maintenance/audio-gap-review-2026-10-13/evidence.json'))
+ const original=before.transcripts.flatMap(t=>t.issues.filter(i=>i.type==='untranscribed-interval').map(i=>`${t.resourceId}:${i.start}:${i.end}`)).sort()
+ assert.deepEqual(evidence.intervals.map(i=>`${i.resourceId}:${i.start}:${i.end}`).sort(),original)
+ for(const r of evidence.intervals){
+  const t=ts.find(t=>t.resourceId===r.resourceId)
+  assert.equal(t.qualityAudit.audioGapReview.audioSha256,r.audioSha256)
+  if(t.audioSha256)assert.equal(t.audioSha256,r.audioSha256)
+  assert.ok(r.firstPassSha256.match(/^[a-f0-9]{64}$/));assert.ok(r.secondPassSha256.match(/^[a-f0-9]{64}$/))
+  assert.deepEqual(t.qualityAudit.untranscribedIntervals.map(({start,end})=>({start,end})),auditTranscript(t).issues.filter(i=>i.type==='untranscribed-interval').map(({start,end})=>({start,end})))
+ }
+ for(const c of evidence.changes){
+  const t=ts.find(t=>t.resourceId===c.resourceId)
+  assert.ok(t.segments.some(s=>JSON.stringify(s)===JSON.stringify(c.replacement)))
+  assert.ok(c.replacement.end>c.replacement.start)
+ }
+ const t29=ts.find(t=>t.resourceId==='ownership-radio-29-recording')
+ assert.equal(t29.editorialChecks[0].sources.length,4)
+ assert.ok(t29.editorialChecks.some(c=>c.status==='unverified-claim'))
+})
+
 test('published audit hashes and replacement evidence match the served segments',()=>{
  const ts=JSON.parse(fs.readFileSync('content/transcripts.json'))
  const hash=v=>createHash('sha256').update(JSON.stringify(v)).digest('hex')

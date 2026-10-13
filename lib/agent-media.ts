@@ -6,6 +6,7 @@ export interface MediaNote {
   reviewMethod: string
   reviewBoundary: string
   checkedAt: string
+  editorialChecks?: { start: number; end: number; status: string; note: string; sources: string[] }[]
   sections: { start: string; topic: string }[]
   transcript: { status: 'permission-required' | 'available' | 'unavailable'; sha256: string | null; jsonUrl?: string; textUrl?: string }
 }
@@ -30,6 +31,7 @@ export function mediaMarkdown(resource: Resource, note: MediaNote) {
     '## Editorial reading notes', '', resource.description ?? '', '',
     'These are original editorial notes, not a verbatim transcript. Source claims are attributed, not independently audited.', '',
     '## Review method and limits', '', note.reviewMethod, '', note.reviewBoundary, '',
+    ...(note.editorialChecks?.length ? ['## Editorial reference checks', '', ...note.editorialChecks.map(check => `- ${check.start}–${check.end}s (${check.status}): ${check.note}${check.sources.length ? ` Sources: ${check.sources.join(' ; ')}` : ''}`), ''] : []),
     '## Timestamped topic guide', '',
     ...(note.sections.length ? note.sections.map(section => `- ${section.start}: ${section.topic}`) : ['No timestamp guide was recorded for this review.']), '',
     '## Transcript access', '',

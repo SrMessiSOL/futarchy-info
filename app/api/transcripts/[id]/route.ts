@@ -18,7 +18,9 @@ export async function GET(request: Request, context: { params: Promise<{ id: str
     transcript.title, `Source: ${transcript.sourceUrl}`, transcript.warning,
     `Coverage: ${transcript.reviewBoundary}`, `Timing: ${transcript.timestampAdjustments}`, '',
     `Quality audit: ${transcript.qualityAudit.method}`,
+    ...('audioGapReview' in transcript.qualityAudit ? [`Audio gap review: ${transcript.qualityAudit.audioGapReview?.method}`] : []),
     ...transcript.qualityAudit.untranscribedIntervals.map(interval => `Interval without transcript text [${timestamp(interval.start)}–${timestamp(interval.end)}]: ${interval.status}`), '',
+    ...('editorialChecks' in transcript ? (transcript.editorialChecks ?? []).map(check => `Editorial reference check [${timestamp(check.start)}–${timestamp(check.end)}] (${check.status}): ${check.note}${check.sources.length ? ` Sources: ${check.sources.join(' ; ')}` : ''}`) : []), '',
     ...transcript.segments.map(segment => `[${timestamp(segment.start)}–${timestamp(segment.end)}] ${segment.text.trim()}`), '',
   ].join('\n'), { headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300' } })
 }

@@ -2780,7 +2780,21 @@
         "end": 2629.17,
         "text": " We'll be here next week."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 134.64,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "e8d34e85e49881f58b25dedf55ad682821e33f3f553c40e4a30031437eafabf5"
+    }
   },
   {
     "resourceId": "ownership-radio-10-recording",
@@ -2799,7 +2813,7 @@
     "audioSha256": "16c9f318b6873f312bf4995ef1f063799ec6ea099f4b10ab8dc9325b2f48e7fc",
     "researchTranscriptSha256": "45281001b1c517e98405b7bf8571889595856d43373a1a61df930a4370477326",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 1691 segments of the locally generated transcript read for 7062.70 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Umbra OTC round is not described as fully closed. Ride treasury downside can exceed caller bonds; liquidation controls are prospective and performance claims unverified. Futardio Cult’s $11.4M refers to commitments, not accepted proceeds (primary launch shows $50K raise). FUTARDIO-004 was awaiting stake during the show; later primary inspection shows Passed with a Memo instruction, not proof of payment. Vukan’s Jurassic/Blockformer role is distinguished from Futardio Cult’s participant. Pulsar Spaces is not established as a MetaDAO raise; Julian explicitly says no token is planned. Personal identity beyond clear first names and external source confirmation is not inferred. Privacy, safety and investment claims remain attributed.",
+    "reviewBoundary": "All 1691 segments of the locally generated transcript read for 7062.70 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Umbra OTC round is not described as fully closed. Ride treasury downside can exceed caller bonds; liquidation controls are prospective and performance claims unverified. Futardio Cult’s $11.4M refers to commitments, not accepted proceeds (primary launch shows $50K raise). FUTARDIO-004 was awaiting stake during the show; later primary inspection shows Passed with a Memo instruction, not proof of payment. Vukan’s Jurassic/Blockformer role is distinguished from Futardio Cult’s participant. Pulsar Spaces is not established as a MetaDAO raise; Julian explicitly says no token is planned. Personal identity beyond clear first names and external source confirmation is not inferred. Privacy, safety and investment claims remain attributed. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -2854,6 +2868,11 @@
         "text": " Ah..."
       },
       {
+        "start": 300,
+        "end": 305.68,
+        "text": " And just to start, I'm going to invite my friend and partner,"
+      },
+      {
         "start": 300.1,
         "end": 301.6,
         "text": " ..."
@@ -2874,9 +2893,19 @@
         "text": " ..."
       },
       {
+        "start": 305.68,
+        "end": 309.04,
+        "text": " Abbas, to speak with us."
+      },
+      {
         "start": 307.6,
         "end": 309.6,
         "text": " ..."
+      },
+      {
+        "start": 309.04,
+        "end": 312,
+        "text": " Let me check if Abbas, I sent you a mutation."
       },
       {
         "start": 309.6,
@@ -2887,6 +2916,16 @@
         "start": 311.6,
         "end": 313.6,
         "text": " ..."
+      },
+      {
+        "start": 312,
+        "end": 313.48,
+        "text": " You are here with me."
+      },
+      {
+        "start": 313.48,
+        "end": 325.2,
+        "text": " How are you?"
       },
       {
         "start": 313.6,
@@ -2907,31 +2946,6 @@
         "start": 319.6,
         "end": 321.6,
         "text": " ..."
-      },
-      {
-        "start": 300,
-        "end": 305.68,
-        "text": " And just to start, I'm going to invite my friend and partner,"
-      },
-      {
-        "start": 305.68,
-        "end": 309.04,
-        "text": " Abbas, to speak with us."
-      },
-      {
-        "start": 309.04,
-        "end": 312,
-        "text": " Let me check if Abbas, I sent you a mutation."
-      },
-      {
-        "start": 312,
-        "end": 313.48,
-        "text": " You are here with me."
-      },
-      {
-        "start": 313.48,
-        "end": 325.2,
-        "text": " How are you?"
       },
       {
         "start": 325.2,
@@ -11258,7 +11272,21 @@
         "end": 7048.96,
         "text": " shining I'm Sir Messi on see you next week bye bye"
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 240.62,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": true,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "a773d93c9516c628e7a6a693a27a7856902ec4e281b39b04f89dacd4a9f472eb"
+    }
   },
   {
     "resourceId": "ownership-radio-11-recording",
@@ -11277,7 +11305,7 @@
     "audioSha256": "6628341dfdb83e7be8beddd164540664dfaaa72f92c01975b94d20bd1fb11a72",
     "researchTranscriptSha256": "48f7ab7fbfc59a630e6fd92599d09931fa0fe92b77aa625eccac2206e0ec2340",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 2082 segments of the locally generated transcript read for 8752.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript read. Jurassic commitments are distinct from funds raised; SPV formation, acquisition and museum arrangements are prospective. Epicentral trade counts and notional volume explicitly concern devnet test funds, not mainnet revenue or adoption. An intended raise is not a completed ecosystem raise. Guest regulatory views are opinions, not established legal conclusions. Groom Lake is discussed during trading, not as an executed decision. Later guest names are uncertain in ASR and are not assigned founder identities.",
+    "reviewBoundary": "All 2082 segments of the locally generated transcript read for 8752.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript read. Jurassic commitments are distinct from funds raised; SPV formation, acquisition and museum arrangements are prospective. Epicentral trade counts and notional volume explicitly concern devnet test funds, not mainnet revenue or adoption. An intended raise is not a completed ecosystem raise. Guest regulatory views are opinions, not established legal conclusions. Groom Lake is discussed during trading, not as an executed decision. Later guest names are uncertain in ASR and are not assigned founder identities. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -19592,14 +19620,14 @@
         "text": " Uh-huh."
       },
       {
-        "start": 6900.84,
-        "end": 6901.68,
-        "text": " Uh-huh."
-      },
-      {
         "start": 6900,
         "end": 6903.8,
         "text": " And how much time you have been boiled in five minutes?"
+      },
+      {
+        "start": 6900.84,
+        "end": 6901.68,
+        "text": " Uh-huh."
       },
       {
         "start": 6903.8,
@@ -21691,7 +21719,21 @@
         "end": 8735.48,
         "text": " good luck everyone. Thank you so much. Thank you David. Thank you brother."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 370.96,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": true,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "6a02892b7aba56e2e847e2e52ec21b8545653d9447e762a5f372544764d505ed"
+    }
   },
   {
     "resourceId": "ownership-radio-12-recording",
@@ -29939,7 +29981,21 @@
         "end": 7149.43,
         "text": " And I'll see you guys next week."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 254.77,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "72e8e24aebe30effb2c00213b65ae7df7eb455a8b19be58da82cec6e2db09aad"
+    }
   },
   {
     "resourceId": "ownership-radio-14-recording",
@@ -38647,7 +38703,21 @@
         "end": 6876.61,
         "text": " Cheers."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 274.51,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "16151e966952b8c2101245165e3f9370bc642ff3e9a58775a010057ef7dc06bd"
+    }
   },
   {
     "resourceId": "ownership-radio-16-recording",
@@ -43495,7 +43565,26 @@
         "end": 7849.33,
         "text": " making every Sunday at 3 p.m. UTC. Thank you very much for joining. And yeah, peace and see you the next week. Thank you, David. Thank you, Simon. Thank you, Bento, Thaler, ABT, SHERK, everyone who you participate. Thank you very much. Bye."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 233.23,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        },
+        {
+          "start": 7849.33,
+          "end": 7993.898667,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "175045b95beff732c7fb87a5622942eee24d41fc1c6c7bccbe5c2212be8fba05"
+    }
   },
   {
     "resourceId": "ownership-radio-17-recording",
@@ -45118,7 +45207,21 @@
         "end": 8927.34,
         "text": " Bye bye, I think that was all. Bye bye, thank you for joining."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 283.02,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "a39ae0d56579bd92b9a698561bae6017939f59548fc25943672f2d9f8456fd7f"
+    }
   },
   {
     "resourceId": "ownership-radio-18-recording",
@@ -45137,7 +45240,7 @@
     "audioSha256": "e2d789a42b3947c938c8edd8b79a9c241e45957a31adecf06168afde92890925",
     "researchTranscriptSha256": "59f2f633ea3b0ad11ff81aa1e854db0f3964c9705f2ce2c18d4eb2087bfc1dd3",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 360 segments of the locally generated transcript read for 10204.27 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read, with targeted re-transcriptions at810,2400 and8640 seconds. Omnipair V2/leverage audits and launch were future work; revenue-routing claims not independently audited. Keystone is explicitly pre-product, with no agreed governance token or MetaDAO raise. Kimia July completed-audit claim is not corroborated by current documentation, which lists scheduled/TBA audits and unaudited devnet; scope/version reconciliation remains open. Proposed60% fee buybacks are not an executed governance decision. Heirloom is public-devnet in the interview, with external audit and mainnet planned; candidate60–80K raise and revenue model remain tentative. Privacy limitations acknowledged. Founder backgrounds, partnership claims and investment analogies are attributed, not independently verified. No legal inheritance efficacy, risk-free yield or token-equity rights inferred.",
+    "reviewBoundary": "All 360 segments of the locally generated transcript read for 10204.27 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read, with targeted re-transcriptions at810,2400 and8640 seconds. Omnipair V2/leverage audits and launch were future work; revenue-routing claims not independently audited. Keystone is explicitly pre-product, with no agreed governance token or MetaDAO raise. Kimia July completed-audit claim is not corroborated by current documentation, which lists scheduled/TBA audits and unaudited devnet; scope/version reconciliation remains open. Proposed60% fee buybacks are not an executed governance decision. Heirloom is public-devnet in the interview, with external audit and mainnet planned; candidate60–80K raise and revenue model remain tentative. Privacy limitations acknowledged. Founder backgrounds, partnership claims and investment analogies are attributed, not independently verified. No legal inheritance efficacy, risk-free yield or token-equity rights inferred. Quality audit: 3 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -45233,8 +45336,28 @@
       },
       {
         "start": 823.26,
-        "end": 852.61,
-        "text": " I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm glad I'm"
+        "end": 828.54,
+        "text": " lion bob a little bit until you really get to and maybe even you don't get up to work"
+      },
+      {
+        "start": 828.54,
+        "end": 834.38,
+        "text": " on what you initially wanted to work on it just like it's um it's a very um permission"
+      },
+      {
+        "start": 834.38,
+        "end": 841.02,
+        "text": " then gated um actually um field to be set sadly but yeah that's how it works to face."
+      },
+      {
+        "start": 842.22,
+        "end": 847.42,
+        "text": " Yeah yeah yeah I agree with you yeah yeah I also study a little couple of things but at the end"
+      },
+      {
+        "start": 847.42,
+        "end": 852.42,
+        "text": " Instead of the day, you mix all this knowledge, you learn."
       },
       {
         "start": 852.61,
@@ -45528,8 +45651,33 @@
       },
       {
         "start": 2424.34,
-        "end": 2454.1,
-        "text": " So, I think it's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I think that's a very important thing to do. So, I"
+        "end": 2429.94,
+        "text": " So, to be honest, if you don't chip quick, so shipping quick, it should be very important,"
+      },
+      {
+        "start": 2429.94,
+        "end": 2438.5,
+        "text": " just as the biggestest to investors. So, don't focus a lot on the token itself,"
+      },
+      {
+        "start": 2438.5,
+        "end": 2443.1400000000003,
+        "text": " especially as soon as you launch. I mean, token is great, of course. It's very important,"
+      },
+      {
+        "start": 2443.1400000000003,
+        "end": 2448.26,
+        "text": " but don't over-promise. I think because it just distracts you from the thing you're trying to"
+      },
+      {
+        "start": 2448.26,
+        "end": 2452.58,
+        "text": " build. In my opinion, you should focus on the product you're building, be very transparent"
+      },
+      {
+        "start": 2452.58,
+        "end": 2454.02,
+        "text": " to see your community. You just like."
       },
       {
         "start": 2454.1,
@@ -46663,8 +46811,23 @@
       },
       {
         "start": 8655.31,
+        "end": 8662.75,
+        "text": " probably on the first stage building the product and finding the market seat, but I'm just brainstorming"
+      },
+      {
+        "start": 8662.75,
+        "end": 8667.869999999999,
+        "text": " with you here. I like to do this. It's a little feedback from my user side."
+      },
+      {
+        "start": 8670.67,
+        "end": 8676.75,
+        "text": " You maybe also can have some kind, like I'm going to just to the moon right now,"
+      },
+      {
+        "start": 8676.75,
         "end": 8684.75,
-        "text": " probably on the first stage building the product and finding the market seat. But I'm just brainstorming with you here. I like to do this. It's a little feedback from my user side. You maybe also can have some kind, like I'm going to just to the moon right now. I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm"
+        "text": " and I'm, I'm, I'm emashing, you are succeeding and you can maybe make some kind of the pin here, like..."
       },
       {
         "start": 8684.82,
@@ -46941,7 +47104,40 @@
         "end": 10183.15,
         "text": " Thank you everyone for joining. Please like, repost, reply the space. We are ownership. This is ownership radio. This was the 18th episode. We are here every Sunday at 3 p.m. UTC. I'm Sir Messi and thank you very much for joining. Peace and goodbye."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 300.34,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 823.26,
+          "end": 852.61,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "0c5af84b9e8efa3444058e5e968a0b465319cedfe4e1c13136587220891fdf04"
+        },
+        {
+          "start": 2424.34,
+          "end": 2454.1,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "34cc5492aa31c4efbf6f95bedcbf514f78da9b1518c04b55549d240cd675b43d"
+        },
+        {
+          "start": 8655.31,
+          "end": 8684.75,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "44dcf5e2964b5b4526dd9a480efde155b26162731f506127932e35a75aa65a7c"
+        }
+      ],
+      "publishedSegmentsSha256": "b298779172c35eeaf535f4dd96bc69f5b1b9dc22f3e0c98c4e8854f24b6d57c5"
+    }
   },
   {
     "resourceId": "ownership-radio-19-recording",
@@ -50009,7 +50205,21 @@
         "end": 3263.79,
         "text": " same place, the same power here on X. Thank you."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 357.17,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "365e78c84493c6111b79ffe79a0c70c4de3e9bab0815dffc946c865df9fd05b8"
+    }
   },
   {
     "resourceId": "ownership-radio-2-recording",
@@ -50028,7 +50238,7 @@
     "audioSha256": "35ea05fcce427f4c4efa50a1b5a873ea23552035c4da6f337b3343ab1ca02b86",
     "researchTranscriptSha256": "1f8899e5738f53cf2de7c873e3c1539fc0458c9b2212035df873d3e9735c2085",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 956 segments of the locally generated transcript read for 5268.74 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Gates’s role is corroborated by Valgrid’s primary disclosure. Other personal names are not inferred from garbled ASR. Claims of risk-free trading, zero flight risk, manipulation-proof markets, partnerships and accelerator rejection motives are not independently established. A community speaker explicitly says he is not on Quantum Waffle’s team. Lotus and Inkwell are prospective-raise leads, not confirmed ecosystem raises.",
+    "reviewBoundary": "All 956 segments of the locally generated transcript read for 5268.74 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered recording transcript read. Gates’s role is corroborated by Valgrid’s primary disclosure. Other personal names are not inferred from garbled ASR. Claims of risk-free trading, zero flight risk, manipulation-proof markets, partnerships and accelerator rejection motives are not independently established. A community speaker explicitly says he is not on Quantum Waffle’s team. Lotus and Inkwell are prospective-raise leads, not confirmed ecosystem raises. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -53083,41 +53293,6 @@
         "text": " ."
       },
       {
-        "start": 3604.8,
-        "end": 3609.48,
-        "text": " ."
-      },
-      {
-        "start": 3609.48,
-        "end": 3614.48,
-        "text": " ."
-      },
-      {
-        "start": 3614.48,
-        "end": 3617.48,
-        "text": " ."
-      },
-      {
-        "start": 3617.48,
-        "end": 3618.98,
-        "text": " ."
-      },
-      {
-        "start": 3618.98,
-        "end": 3621.7200000000003,
-        "text": " ."
-      },
-      {
-        "start": 3621.7200000000003,
-        "end": 3624.7799999999997,
-        "text": " ."
-      },
-      {
-        "start": 3624.7799999999997,
-        "end": 3628.12,
-        "text": " ."
-      },
-      {
         "start": 3601.07,
         "end": 3604.07,
         "text": " I guess thank you for coming on today, Lars."
@@ -53126,6 +53301,11 @@
         "start": 3604.07,
         "end": 3605.07,
         "text": " It was also appreciated."
+      },
+      {
+        "start": 3604.8,
+        "end": 3609.48,
+        "text": " ."
       },
       {
         "start": 3605.07,
@@ -53138,9 +53318,24 @@
         "text": " Your project. If you want, you can come back next week as well or any time before your race, especially."
       },
       {
+        "start": 3609.48,
+        "end": 3614.48,
+        "text": " ."
+      },
+      {
+        "start": 3614.48,
+        "end": 3617.48,
+        "text": " ."
+      },
+      {
         "start": 3615.07,
         "end": 3618.07,
         "text": " I think it was very cool."
+      },
+      {
+        "start": 3617.48,
+        "end": 3618.98,
+        "text": " ."
       },
       {
         "start": 3618.07,
@@ -53148,9 +53343,24 @@
         "text": " I do think that under collateral is lending is one of those things where."
       },
       {
+        "start": 3618.98,
+        "end": 3621.7200000000003,
+        "text": " ."
+      },
+      {
+        "start": 3621.7200000000003,
+        "end": 3624.7799999999997,
+        "text": " ."
+      },
+      {
         "start": 3624.07,
         "end": 3627.07,
         "text": " Yeah, yeah, I think pretty."
+      },
+      {
+        "start": 3624.7799999999997,
+        "end": 3628.12,
+        "text": " ."
       },
       {
         "start": 3627.07,
@@ -54812,7 +55022,21 @@
         "end": 5264.46,
         "text": " See you in the next episode."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 258.9,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": true,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "7d4beeecbec97fe1f942027a5e323b24d44733e4b96dc4d5d0a290eac07e993f"
+    }
   },
   {
     "resourceId": "ownership-radio-20-recording",
@@ -54831,7 +55055,7 @@
     "audioSha256": "f921d4cc44c1a490f7fd35782304e4db8cf4f03a9ec07362fa4179adfc861369",
     "researchTranscriptSha256": "dcd3aa4a3fd67a7a46ed3dc60c3f02319d4be80a85cf2897cf42ec9387ae95ff",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 246 segments of the locally generated transcript read for 7150.36 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. One repetitive passage was re-transcribed in a 60-second window at 2740 seconds and read. ORDR describes a pre-audit rather than a completed full audit. RipCars corrects the host: its planned raise is permissionless. Proposed legal arrangements, shipping, revenue and fundraising are not completed outcomes.",
+    "reviewBoundary": "All 246 segments of the locally generated transcript read for 7150.36 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. One repetitive passage was re-transcribed in a 60-second window at 2740 seconds and read. ORDR describes a pre-audit rather than a completed full audit. RipCars corrects the host: its planned raise is permissionless. Proposed legal arrangements, shipping, revenue and fundraising are not completed outcomes. Quality audit: 1 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -55256,9 +55480,29 @@
         "text": " to find those people on your Russian country. I think your Romania. But it's a great question also for the Earth team. Like you felt like you were building alone in some kind of point of will or you always had this kind of support from the community and Solana and everyone. No, I was alone. Like..."
       },
       {
-        "start": 2751.63,
+        "start": 2751.71,
+        "end": 2757.3900000000003,
+        "text": " Sorry, I thought you were asking me. Sorry. Sorry, sorry, sorry, sorry. Is for the earth,"
+      },
+      {
+        "start": 2757.3900000000003,
+        "end": 2767.13,
+        "text": " I'm just writing your question to the, to the earth team. Yeah, definitely definitely."
+      },
+      {
+        "start": 2767.13,
+        "end": 2776.09,
+        "text": " I would say the support was always there because this can be connected to the community, you"
+      },
+      {
+        "start": 2776.09,
+        "end": 2781.81,
+        "text": " have to find it, but like, you know, finding it is not a difficult process, at least for"
+      },
+      {
+        "start": 2781.81,
         "end": 2782.66,
-        "text": " Sorry, I thought you were asking me. Sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry, sorry"
+        "text": " because"
       },
       {
         "start": 2782.66,
@@ -56065,7 +56309,28 @@
         "end": 7132.14,
         "text": " not on this match but in overall. And thank you for having me."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 443.65999999999997,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 2751.63,
+          "end": 2782.66,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "b8dd14e41c234cef0ab48fdb39698c22c4a64ac461dd49280d4154131f9d8fc6"
+        }
+      ],
+      "publishedSegmentsSha256": "068e2ff8030e72a1271eba6cb858974b0dcbed0a7cbcc47e2347ab32b46d473e"
+    }
   },
   {
     "resourceId": "ownership-radio-21-recording",
@@ -58333,7 +58598,21 @@
         "end": 12478.29,
         "text": " the same day on the same channel here on X-Spaces. Please. Thank you. Bye bye."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 290.1,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "8d22c38909f7446386631cc18ead0c764e198ba8aa2546209fd5e5ae96f3b343"
+    }
   },
   {
     "resourceId": "ownership-radio-22-recording",
@@ -59676,7 +59955,21 @@
         "end": 7530.62,
         "text": " can't make some more questions here. Thank you for participating now. Sorry, I'm choking. I'm choking. Uh, privacy, are you here with us? I'm going to invite you to speak. I already approved you. You should be able to speak in three, two, one, go. She's subscribed."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 302.35,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "a897ca2443263982e374e3d7195b4abc5ba0b9a2cb49ab0bf5a1eb05bf5a7523"
+    }
   },
   {
     "resourceId": "ownership-radio-23-recording",
@@ -61654,7 +61947,26 @@
         "end": 10882.54,
         "text": " Katyan, thank you everyone for the work you do. And yeah, I see you the next week on the same place at the same hour on NOSHIP Radio 24. Thank you very much. I'm going to let a little the music and yeah, goodbye. If you want to send some emoshes, it will be nice. Bye bye. Bye everyone."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 291.54,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        },
+        {
+          "start": 10882.54,
+          "end": 10915.797333,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "99880e254a64ee86b9fec4ee50b92e2ca97ab388d13920a6cb016f3b019ed1b2"
+    }
   },
   {
     "resourceId": "ownership-radio-24-recording",
@@ -61673,7 +61985,7 @@
     "audioSha256": "eb3bf7a39616d02c68c4db347ad3510d77a1e2502d90aab7a91b7685be09b085",
     "researchTranscriptSha256": "10e3252b3d020024436522bd254111c82f4f82e45fe1fdd802fa12d4ddb139d9",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 375 segments of the locally generated transcript read for 10003.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus two targeted 60-second repairs read. Kaboom LP withdrawal cooldown appears in repaired passage; no safety or profit guarantee adopted. NFT-funded ICO allocations and game-versus-studio tokenization are brainstorms, not final terms. SolRobber was advertised but did not appear.",
+    "reviewBoundary": "All 375 segments of the locally generated transcript read for 10003.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus two targeted 60-second repairs read. Kaboom LP withdrawal cooldown appears in repaired passage; no safety or profit guarantee adopted. NFT-funded ICO allocations and game-versus-studio tokenization are brainstorms, not final terms. SolRobber was advertised but did not appear. Quality audit: 1 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -62739,8 +63051,58 @@
       },
       {
         "start": 5615.15,
-        "end": 5645.18,
-        "text": " once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like, once, like,"
+        "end": 5617.45,
+        "text": " who wants to make more sense, right?"
+      },
+      {
+        "start": 5617.45,
+        "end": 5621.15,
+        "text": " Nice. Yeah, maybe just time it to an extent,"
+      },
+      {
+        "start": 5621.15,
+        "end": 5624.849999999999,
+        "text": " but sometimes you can't like things are not in your hands."
+      },
+      {
+        "start": 5624.849999999999,
+        "end": 5626.65,
+        "text": " And like the NFT is on Solana."
+      },
+      {
+        "start": 5626.65,
+        "end": 5630.049999999999,
+        "text": " Like I actually went into this line as like,"
+      },
+      {
+        "start": 5630.049999999999,
+        "end": 5633.049999999999,
+        "text": " I mean, Solana is the ecosystem we are building on"
+      },
+      {
+        "start": 5633.049999999999,
+        "end": 5634.849999999999,
+        "text": " and it makes no sense."
+      },
+      {
+        "start": 5634.849999999999,
+        "end": 5636.349999999999,
+        "text": " So, you know, like go and launch on it,"
+      },
+      {
+        "start": 5636.349999999999,
+        "end": 5638.049999999999,
+        "text": " even if the volumes are there."
+      },
+      {
+        "start": 5638.049999999999,
+        "end": 5642.849999999999,
+        "text": " So we made that commitment like maybe without doing as much research."
+      },
+      {
+        "start": 5642.849999999999,
+        "end": 5644.849999999999,
+        "text": " Sometimes, you know, you have to be a little..."
       },
       {
         "start": 5645.18,
@@ -63552,7 +63914,33 @@
         "end": 9937.68,
         "text": " coast of ownership radio and see you the next Sunday, same day, same time in the same place. Thank you very much. Bye. Peace."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 267.98,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        },
+        {
+          "start": 9937.68,
+          "end": 10003.242667,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 5615.15,
+          "end": 5645.18,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "fcb237d648f4355eacaa870a53d83a97ca271f8c0008b5196a49b659e6305442"
+        }
+      ],
+      "publishedSegmentsSha256": "869f4d32ef8900bd874de9d542dbede73d3a65dc239bbb9958b20d65004039da"
+    }
   },
   {
     "resourceId": "ownership-radio-25-recording",
@@ -63571,7 +63959,7 @@
     "audioSha256": "21a06e0b4468362c82f537fa64e42e3029b0d33163e9a464d02a50378f183f78",
     "researchTranscriptSha256": "9301335e86289db8d02200f514e3612d5158b947efe4b012e5a2359b62d5dc8a",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 470 segments of the locally generated transcript read for 12865.34 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus targeted 60-second repair read. Historical skins-marketplace revenue is separate from GameByts revenue. Konta guest describes prior P2P employment, not cofounder status; KYC/freezing limits qualify noncustodial language. Veilo follow-up clarifies interview claims, not code security. Aeonian guest is business development, not founder. Its current mutable pitch claims mainnet; Radio25 described devnet, with transition date unverified.",
+    "reviewBoundary": "All 470 segments of the locally generated transcript read for 12865.34 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete generated transcript plus targeted 60-second repair read. Historical skins-marketplace revenue is separate from GameByts revenue. Konta guest describes prior P2P employment, not cofounder status; KYC/freezing limits qualify noncustodial language. Veilo follow-up clarifies interview claims, not code security. Aeonian guest is business development, not founder. Its current mutable pitch claims mainnet; Radio25 described devnet, with transition date unverified. Quality audit: 1 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -64222,8 +64610,23 @@
       },
       {
         "start": 3759.55,
+        "end": 3766.11,
+        "text": " directly from from their complaints on social media that is pretty crazy um yeah David please go"
+      },
+      {
+        "start": 3766.11,
+        "end": 3772.59,
+        "text": " ahead with your questions please be nice be nice he's uh oh I like I like the one I like them"
+      },
+      {
+        "start": 3773.15,
+        "end": 3776.9900000000002,
+        "text": " I like them a lot no you're a serious guy what's up"
+      },
+      {
+        "start": 3779.71,
         "end": 3783.55,
-        "text": " directly from from their complaints on social media that is really crazy um yeah David please go ahead with your questions please be nice be nice he's uh uh I like I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one I like the one"
+        "text": " yeah I don't have to be nice like go for it oh I'm here for that yeah"
       },
       {
         "start": 3783.55,
@@ -65925,7 +66328,33 @@
         "end": 12820.66,
         "text": " Next Sunday at 3 p.m. UTC on X spaces at ownership FM account. I'm Sir Messi, your host. Thank you very much. Goodbye. Peace."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 292.05,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        },
+        {
+          "start": 12820.66,
+          "end": 12865.344,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 3759.55,
+          "end": 3783.55,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "893bab29fdde67f9ca4f45c4dd1a7da458849c956a92e90ccf0ea4a2e91ccdf8"
+        }
+      ],
+      "publishedSegmentsSha256": "ee78de64ead04a97d8a14fde1c01544a3c979997b6fe10baa920d602b2a496ef"
+    }
   },
   {
     "resourceId": "ownership-radio-26-recording",
@@ -67158,7 +67587,21 @@
         "end": 6876.53,
         "text": " I'm going to end this space right now and go directly to my telegram to see every conversation you have. Thank you very much, Hi, Vids. Thank you very much, Nissa, Nali, Sheesa for being here. And yeah, that was ownership radio 26. Peace. Bye bye, guys. Bye bye."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 307.34,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "7d8fea788cafd2b94fda0df482c0f41f8c352d934d648b501388156d8f06122d"
+    }
   },
   {
     "resourceId": "ownership-radio-27-recording",
@@ -67177,7 +67620,7 @@
     "audioSha256": "6c039b5011fddf01a25550a1c58acf8abade7f26df38463739784f167217ab42",
     "researchTranscriptSha256": "d6c9e3e5101142295d13c2b64faca782b0b94ee2fc21bd493432aaa0000507b6",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 442 segments of the locally generated transcript read for 12115.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Full recovered transcript read, including targeted re-transcriptions at 6000,6060,6120,6300 and6360 seconds documented in radio27-asr-recheck.json. David joins late: an earlier mid-episode absence must not be interpreted as nonattendance. His three-month/2x unlock explanation and September14 launch are speaker statements, not instruction-level verification or proof of launch. CARS-002 primary page rechecked: Passed, execution unverified. Proposed exclusion of team tokens from liquidation distributions is a future idea, not enacted policy. Degen Terminal token snapshot/migration, partnerships, revenue model and runway are self-reports; execution and identity remain uncorroborated. TokenFlow fundraising route and Spark fee-sharing remain unresolved; no agreement inferred. Beekeeping, medical, security and financial claims are not independently verified. Final additional guest deferred, not interviewed.",
+    "reviewBoundary": "All 442 segments of the locally generated transcript read for 12115.24 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Full recovered transcript read, including targeted re-transcriptions at 6000,6060,6120,6300 and6360 seconds documented in radio27-asr-recheck.json. David joins late: an earlier mid-episode absence must not be interpreted as nonattendance. His three-month/2x unlock explanation and September14 launch are speaker statements, not instruction-level verification or proof of launch. CARS-002 primary page rechecked: Passed, execution unverified. Proposed exclusion of team tokens from liquidation distributions is a future idea, not enacted policy. Degen Terminal token snapshot/migration, partnerships, revenue model and runway are self-reports; execution and identity remain uncorroborated. TokenFlow fundraising route and Spark fee-sharing remain unresolved; no agreement inferred. Beekeeping, medical, security and financial claims are not independently verified. Final additional guest deferred, not interviewed. Quality audit: 2 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -68287,9 +68730,44 @@
         "text": " We will take the distribution from Frittario, but on top of that, the trust on the mechanism already on Frittario, they were in the same spark contract as Miterio, so they raised like more than $200 million where they posited into the spark contract. So there is a trust on the tech, the ideas. So wait, wait, wait, wait. You are going to use the Solana Pro to launch targets."
       },
       {
-        "start": 6084.14,
+        "start": 6084.160000000001,
+        "end": 6088.160000000001,
+        "text": " Yeah, the Fitalu platform, yeah."
+      },
+      {
+        "start": 6088.160000000001,
+        "end": 6092.160000000001,
+        "text": " No, wait, wait, but I don't understand this."
+      },
+      {
+        "start": 6092.160000000001,
+        "end": 6097.160000000001,
+        "text": " I'm going to go to Spark and then I will need to go to Darvio."
+      },
+      {
+        "start": 6097.160000000001,
+        "end": 6099.160000000001,
+        "text": " You are going to embed the web page."
+      },
+      {
+        "start": 6099.160000000001,
+        "end": 6103.160000000001,
+        "text": " You are going to use just the Solana program of the future."
+      },
+      {
+        "start": 6103.160000000001,
+        "end": 6105.160000000001,
+        "text": " How this works."
+      },
+      {
+        "start": 6105.160000000001,
+        "end": 6107.160000000001,
+        "text": " I'm getting technical. Sorry."
+      },
+      {
+        "start": 6107.160000000001,
         "end": 6109.12,
-        "text": " Yeah, the Fitalupa, the Fitalupa from here. Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait,"
+        "text": " Okay. So."
       },
       {
         "start": 6109.12,
@@ -68328,8 +68806,13 @@
       },
       {
         "start": 6300,
+        "end": 6327,
+        "text": " It's a bit weird and I still caught it, it's a page, so that was a goal, but we'll figure out, I think I hope by tomorrow, but yeah, the idea is to learn it's to launch tomorrow."
+      },
+      {
+        "start": 6327,
         "end": 6327.49,
-        "text": " I wish I'd meet Michelle and we had a discussion. It got me some information. I'm not sure it's a public so we didn't start the communication. So it's a bit weird and I still caught it. It's a page so that was a goal but we figure out I think I hope by tomorrow but yeah the idea is to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn it's to learn"
+        "text": " I said..."
       },
       {
         "start": 6327.49,
@@ -69391,7 +69874,34 @@
         "end": 12092.4,
         "text": " Thank you, Samuel Ola Ola. I see you here all the time. Eco, 1000, shirt, Dennis, Martin, everyone. Thank you very much. I'm Sir Messi, your host, and this is ownership level. And we are trying to give visibility to all the projects that want to have a real ownership around the company. See you next week at same hour, same place. Bye-bye."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 296.62,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 6084.14,
+          "end": 6109.12,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "e2472f4555bb11b3731221f89908033f00d38383925b6dca3502435d4578ddb3"
+        },
+        {
+          "start": 6300,
+          "end": 6327.49,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "0e0fa730ce38c7fe9668ffc7816b7134a9c858bb71445a587dac460c567b83c2"
+        }
+      ],
+      "publishedSegmentsSha256": "174d2c077da10e1409e9003299153a8f86af9f7f8030782a9666edc15326816b"
+    }
   },
   {
     "resourceId": "ownership-radio-28-recording",
@@ -69410,7 +69920,7 @@
     "audioSha256": "aa274040b493d32a4cd62f37ac3897e08736aae11e4ff6dae4dd2d21c1ec7672",
     "researchTranscriptSha256": "367a8e3b847d12558e5b26b79a2cf2fdff2533e7896cc36f8b21560348d5fa58",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 301 segments of the locally generated transcript read for 8490.54 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. LFOWN-001 corroborates Mathis and Ewan as Spark representatives; it does not make them original founders of the funded idea. Revenue and user metrics are self-reported. ZeroFiat explicitly says it had not listed a Futardio raise. Milker remains a devnet description with prospective financing; house-edge safety and licensing assertions are not endorsed. Advertised Polybaskets interview did not occur. Two repetitive ASR passages were re-transcribed in five one-minute non-batched chunks and read; approximate names/numbers remain excluded.",
+    "reviewBoundary": "All 301 segments of the locally generated transcript read for 8490.54 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. LFOWN-001 corroborates Mathis and Ewan as Spark representatives; it does not make them original founders of the funded idea. Revenue and user metrics are self-reported. ZeroFiat explicitly says it had not listed a Futardio raise. Milker remains a devnet description with prospective financing; house-edge safety and licensing assertions are not endorsed. Advertised Polybaskets interview did not occur. Two repetitive ASR passages were re-transcribed in five one-minute non-batched chunks and read; approximate names/numbers remain excluded. Quality audit: 2 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -69716,8 +70226,28 @@
       },
       {
         "start": 1860.66,
-        "end": 1889.95,
-        "text": " Thanks to meme, you will like, if Efron was never at the time, we'll have seen the first meme was everyone jocking on a Ritchie and then I think all the other meme, as they really, really well managed the, yeah, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the"
+        "end": 1867.78,
+        "text": " But to me, you can, you will, like, if I was never at the time, you will have seen the first"
+      },
+      {
+        "start": 1867.78,
+        "end": 1875.5400000000002,
+        "text": " meme was everyone jocting on Alichy. And then I think all the other meme, as they really, really,"
+      },
+      {
+        "start": 1875.5400000000002,
+        "end": 1882.5800000000002,
+        "text": " well-managed the, the, yeah, the, the, the, the, the, the, the, the, the, the, the, the, the, the"
+      },
+      {
+        "start": 1882.5800000000002,
+        "end": 1887.5800000000002,
+        "text": " is a rambosce everyone when we stay post on call back if I remember well, like also all"
+      },
+      {
+        "start": 1887.5800000000002,
+        "end": 1889.8600000000001,
+        "text": " CMM and TM would have been like, uh, yeah."
       },
       {
         "start": 1889.95,
@@ -70631,8 +71161,38 @@
       },
       {
         "start": 6868.91,
+        "end": 6870.91,
+        "text": " once the game is basically the title."
+      },
+      {
+        "start": 6870.91,
+        "end": 6873.91,
+        "text": " Nice way to crack it, a nice way to crack it."
+      },
+      {
+        "start": 6873.91,
+        "end": 6879.91,
+        "text": " Let's keep thinking in the worst case scenario."
+      },
+      {
+        "start": 6879.91,
+        "end": 6887.91,
+        "text": " What happens if an operator of a game has a book for example and"
+      },
+      {
+        "start": 6887.91,
+        "end": 6891.91,
+        "text": " it starts paying more than it's plan to pay?"
+      },
+      {
+        "start": 6891.91,
+        "end": 6899.41,
+        "text": " Okay, so for the kind of case of scenario, it will be unlikely."
+      },
+      {
+        "start": 6899.41,
         "end": 6899.57,
-        "text": " once the game is basically settled. Night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way to crack a night way"
+        "text": " You"
       },
       {
         "start": 6900.69,
@@ -70919,7 +71479,34 @@
         "end": 8472.53,
         "text": " telegram sir messy soul is my telegram go a hell send me a DM let's have you on ownership radio let's fucking down and thank you every month for showing here listening and sharing the space see you the next sunday like every way every week on the same place at the same hour on the same channel thank you everyone peace"
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 236.53,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 1860.66,
+          "end": 1889.95,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "9e8e670094a364595e677d358ac57dafce475ee5bfa06e1fe1386ee76dbfaba8"
+        },
+        {
+          "start": 6868.91,
+          "end": 6899.57,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "eda762c9235bd881ae8ab09c41802352ebaa9f19eda44a436b4c97036bd8eb47"
+        }
+      ],
+      "publishedSegmentsSha256": "9f9df07b7858cca6458299208ffc88f8035536410d6c4d5b4e9df798a01b305d"
+    }
   },
   {
     "resourceId": "ownership-radio-29-recording",
@@ -70938,7 +71525,7 @@
     "audioSha256": "1ece473edcecdec27424d0ea0371752005560a7e3d7017bf57bf2af2dd297d5b",
     "researchTranscriptSha256": "29828e43b693257eeabcbca9f9e8483dd20db2cd25658530bcf7a0628477d072",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 251 segments of the locally generated transcript read for 7161.62 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Product handles corroborated in the complete publisher announcement. GeSIM runway, revenue and proposed raise are speaker reports, not audited balances or executed financing. Finagotchi explicitly disclaims a points-based airdrop; its raise and hardware remain prospective. Polybaskets describes Vara activity and planned Solana integration; prediction-market baskets are not stock-token baskets. Sash is an early project with tentative partnerships, not a verified funded company. Riprap did not present. Repeated ASR passages at 600–720, 4800–4920 and 6300–6420 seconds were re-transcribed and read; uncertain token names and amounts are excluded.",
+    "reviewBoundary": "All 251 segments of the locally generated transcript read for 7161.62 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Product handles corroborated in the complete publisher announcement. GeSIM runway, revenue and proposed raise are speaker reports, not audited balances or executed financing. Finagotchi explicitly disclaims a points-based airdrop; its raise and hardware remain prospective. Polybaskets describes Vara activity and planned Solana integration; prediction-market baskets are not stock-token baskets. Sash is an early project with tentative partnerships, not a verified funded company. Riprap did not present. Repeated ASR passages at 600–720, 4800–4920 and 6300–6420 seconds were re-transcribed and read; uncertain token names and amounts are excluded. Quality audit: 3 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -71014,8 +71601,18 @@
       },
       {
         "start": 629.92,
-        "end": 657.1,
-        "text": " to move 300k USDC to USDC that is the stable coin of Solomon that of course is ownership project. We saw credible moving 250k USDC to SDV and right now we have the omnipair proposal trading to move 130k from the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC to the USDC"
+        "end": 639.4,
+        "text": " a proposal to move 300k USDC to USDC that is the stable coin of Solomon that of course"
+      },
+      {
+        "start": 639.4,
+        "end": 649.36,
+        "text": " is ownership project. We saw credible moving 250k USDC to SDC and right now we have the"
+      },
+      {
+        "start": 649.36,
+        "end": 656.8,
+        "text": " Omni-Paid proposal trading to move 130k from the U.S."
       },
       {
         "start": 657.1,
@@ -71789,8 +72386,23 @@
       },
       {
         "start": 4849.04,
-        "end": 4879.09,
-        "text": " I don't know if they know what this futaleo, what it represents to Lao Jatoc and Anselana, that is not the same blockchain that they are currently using for the A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-"
+        "end": 4855.2,
+        "text": " I don't know if they know what this futaleo, what it represents to lounge at token on Solana,"
+      },
+      {
+        "start": 4855.2,
+        "end": 4864.32,
+        "text": " that is not the same like blockchain that they are currently using for the AI agents."
+      },
+      {
+        "start": 4864.32,
+        "end": 4871.6,
+        "text": " Like you have this kind of conversation. They are already aware of what you are trying to do."
+      },
+      {
+        "start": 4872.4,
+        "end": 4878.56,
+        "text": " They are willing to participate in the ICO and be a token holder in decision making."
       },
       {
         "start": 4880.94,
@@ -72054,8 +72666,28 @@
       },
       {
         "start": 6330.8,
-        "end": 6358.1,
-        "text": " of in my area in my if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if if"
+        "end": 6338.64,
+        "text": " of in my area in my if if if if if of India I'm talking right now the way people know blockchain"
+      },
+      {
+        "start": 6338.64,
+        "end": 6344.6,
+        "text": " is either it is Bitcoin or it is well on a so that's kind of the way that I see that okay"
+      },
+      {
+        "start": 6344.6,
+        "end": 6348.68,
+        "text": " as an ecosystem Solana is the strongest out there more of a photo are you coming to play"
+      },
+      {
+        "start": 6348.68,
+        "end": 6354.68,
+        "text": " and another ecosystems spending on air are you coming on to air everything seems perfect"
+      },
+      {
+        "start": 6354.68,
+        "end": 6357.68,
+        "text": " that why I should target Solana as the first thing."
       },
       {
         "start": 6360.66,
@@ -72197,7 +72829,45 @@
         "end": 7124.72,
         "text": " Ask you everyone from some emotions if you are like even emotions if you are listening this Thank you very much. I'm going to close the space Peace and see you the next week on the same time at the same day on the same Place here on Twitter. Thank you very much. Bye guys. Bye Mossad"
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 256.72,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        },
+        {
+          "start": 7124.72,
+          "end": 7161.621333,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 629.92,
+          "end": 657.1,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "0d3140598d2d03b40ae3c47052376aa168d30931fdb6d3365f1c87f11f1c8e0f"
+        },
+        {
+          "start": 4849.04,
+          "end": 4879.09,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "82134424e9687f20f8a1f70a047744087683fdc6916b3427139b80b02e649536"
+        },
+        {
+          "start": 6330.8,
+          "end": 6358.1,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "13565b4ec9fd50b4135d0280077ff8b464b9789d0e659cf132d61f9625a5f896"
+        }
+      ],
+      "publishedSegmentsSha256": "92818c5c4873b3be65120502ea88d5de87f73672ef651b82ae15e9a79b744b3f"
+    }
   },
   {
     "resourceId": "ownership-radio-30-recording",
@@ -72216,7 +72886,7 @@
     "audioSha256": "efda91b2d653241a4e9744ccac6c68d231e0bbd2a7138a8723c19fa2c6b11d6c",
     "researchTranscriptSha256": "b3d9e220fbc3ef11055885ca033ba50b063c55d93648909e45ad42c3c5092f28",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 321 segments of the locally generated transcript read for 8841.11 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. MoveX, Kaching, Solkombat and TrustVault handles corroborated against the complete publisher announcement. Prospective fundraising is not a completed MetaDAO raise. Traction, licensing, security and deployment statements are speaker claims. Suggested Ika collaboration is not proof of an integration. An opening ASR repetition was separately re-transcribed; no uncertain detail used.",
+    "reviewBoundary": "All 321 segments of the locally generated transcript read for 8841.11 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. MoveX, Kaching, Solkombat and TrustVault handles corroborated against the complete publisher announcement. Prospective fundraising is not a completed MetaDAO raise. Traction, licensing, security and deployment statements are speaker claims. Suggested Ika collaboration is not proof of an integration. An opening ASR repetition was separately re-transcribed; no uncertain detail used. Quality audit: 1 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -72272,8 +72942,28 @@
       },
       {
         "start": 582.3199999999999,
-        "end": 600,
-        "text": " Shostim bite through spout if you can show it in. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us. I have joined us."
+        "end": 586.8799999999999,
+        "text": " Shostim bite through spout if you can join in"
+      },
+      {
+        "start": 590.3199999999999,
+        "end": 593.04,
+        "text": " I have joined, I have joined in septan weight as well"
+      },
+      {
+        "start": 593.04,
+        "end": 595.5999999999999,
+        "text": " Ah nice to have you here, how are you?"
+      },
+      {
+        "start": 597.1999999999999,
+        "end": 598.4,
+        "text": " Perfect, how are you?"
+      },
+      {
+        "start": 598.4,
+        "end": 599.8399999999999,
+        "text": " I'm pretty fine"
       },
       {
         "start": 600,
@@ -73825,7 +74515,28 @@
         "end": 8814.1,
         "text": " a hand, a fist, everything you can send. Thank you very much for showing to ownership radio. This has been 30 weeks. We are going for the eight months. I hope we have eight months more. And yeah, have a nice Sunday and show it with your family and see you the next Sunday at the same time, at the same hour, on the same channel. Thank you very much. Goodbye."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 277.81,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 582.3199999999999,
+          "end": 600,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "7cda5cadf7e48670a437af238eafc8d9ae2e5342993ec307b6fc8cdfb9283e42"
+        }
+      ],
+      "publishedSegmentsSha256": "d46e48258f302018d4b1dbd8a30d3e2738c77de567c11143a99e0c9c519991a5"
+    }
   },
   {
     "resourceId": "ownership-radio-31-recording",
@@ -73844,7 +74555,7 @@
     "audioSha256": "84537a64aa30c89b7ebb725b53e6bba5b53a205e813deca716cbd89de6dc644c",
     "researchTranscriptSha256": "0ae780add82281d06fd1cdf6ada7472fd82283b53e74d717f8b792e10e9b94a6",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 336 segments of the locally generated transcript read for 9364.07 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. All generated segments of the complete recovered recording read. Publisher announcement identifies Styx and Pairs; Aikido is heard in the actual recording. None is registered as a completed ecosystem raise from this appearance. Styx performance/security claims were not tested: V2 devnet, external audit and authority arrangements remained future work. Pairs audio is intermittently unclear; precise metrics excluded. Aikido admits cloud-provider privacy limits and calls its product an early beta. ASR repetition around 127:00 and 129:12 was reprocessed with non-batched 60-second chunks and the resulting text read in full. This recovered the Finagotchi participant introduction and AI-eyewear discussion; unclear names and technical claims remain excluded. This is still generated-text review, not manual listening. Hardware/inference figures, predictions and allegations about third parties are not adopted as verified facts.",
+    "reviewBoundary": "All 336 segments of the locally generated transcript read for 9364.07 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. All generated segments of the complete recovered recording read. Publisher announcement identifies Styx and Pairs; Aikido is heard in the actual recording. None is registered as a completed ecosystem raise from this appearance. Styx performance/security claims were not tested: V2 devnet, external audit and authority arrangements remained future work. Pairs audio is intermittently unclear; precise metrics excluded. Aikido admits cloud-provider privacy limits and calls its product an early beta. ASR repetition around 127:00 and 129:12 was reprocessed with non-batched 60-second chunks and the resulting text read in full. This recovered the Finagotchi participant introduction and AI-eyewear discussion; unclear names and technical claims remain excluded. This is still generated-text review, not manual listening. Hardware/inference figures, predictions and allegations about third parties are not adopted as verified facts. Quality audit: 2 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -75195,8 +75906,53 @@
       },
       {
         "start": 7614.29,
-        "end": 7644.72,
-        "text": " Because as AI kind of becomes more mainstream, people are going to be using it in different ways that better suit their needs, right? I'm really excited for something like even realities. Have you heard of even realities? Even realities. No, no. It's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it's like, it"
+        "end": 7619.29,
+        "text": " Because as AI kind of becomes more mainstream,"
+      },
+      {
+        "start": 7619.61,
+        "end": 7622.05,
+        "text": " people are going to be using it in different ways"
+      },
+      {
+        "start": 7622.05,
+        "end": 7623.89,
+        "text": " that better suit their needs, right?"
+      },
+      {
+        "start": 7623.89,
+        "end": 7627.13,
+        "text": " I'm really excited for something like even realities."
+      },
+      {
+        "start": 7627.13,
+        "end": 7628.69,
+        "text": " Have you heard of even realities?"
+      },
+      {
+        "start": 7629.89,
+        "end": 7632.97,
+        "text": " But even realities."
+      },
+      {
+        "start": 7632.97,
+        "end": 7635.13,
+        "text": " No, no, it's like, it's like, it's like,"
+      },
+      {
+        "start": 7635.13,
+        "end": 7637.17,
+        "text": " it's like, it's like, it's like, it's like,"
+      },
+      {
+        "start": 7637.17,
+        "end": 7642.17,
+        "text": " they're an eyewear company that is introducing AI glasses."
+      },
+      {
+        "start": 7642.17,
+        "end": 7644.17,
+        "text": " Okay, nice."
       },
       {
         "start": 7644.72,
@@ -75220,8 +75976,63 @@
       },
       {
         "start": 7752.98,
+        "end": 7753.98,
+        "text": " He's doing super cool."
+      },
+      {
+        "start": 7753.98,
+        "end": 7754.98,
+        "text": " Because we've turned it too, man."
+      },
+      {
+        "start": 7754.98,
+        "end": 7756.98,
+        "text": " Yeah, we're talking about Fingagachi."
+      },
+      {
+        "start": 7756.98,
+        "end": 7757.98,
+        "text": " How are you, Mashek?"
+      },
+      {
+        "start": 7757.98,
+        "end": 7758.98,
+        "text": " Are you guys doing?"
+      },
+      {
+        "start": 7758.98,
+        "end": 7759.98,
+        "text": " I heard you talking about me."
+      },
+      {
+        "start": 7759.98,
+        "end": 7760.98,
+        "text": " Yeah, yeah."
+      },
+      {
+        "start": 7760.98,
+        "end": 7761.98,
+        "text": " We're like, oh, sir Mashek was like, hardware."
+      },
+      {
+        "start": 7761.98,
+        "end": 7770.98,
+        "text": " I was like, I know a guy who knows a guy."
+      },
+      {
+        "start": 7770.98,
+        "end": 7771.98,
+        "text": " With Mashek."
+      },
+      {
+        "start": 7771.98,
+        "end": 7777.98,
+        "text": " No, interesting subject that you guys are talking about when it comes to, you know, thing harness"
+      },
+      {
+        "start": 7777.98,
         "end": 7780,
-        "text": " He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool. He's doing something super cool."
+        "text": " and how you've been managed to have like."
       },
       {
         "start": 7780,
@@ -75528,7 +76339,34 @@
         "end": 9340.02,
         "text": " Please give me some emoji so I can close the space when you are listening to this. Thank you very much. Bye. Peace."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 298.45,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 7614.29,
+          "end": 7644.72,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "a73bfbe07b8deeda4db8a1ee7c0c644005fb5b18e49afb4cc3cc4fb655beca1d"
+        },
+        {
+          "start": 7752.98,
+          "end": 7780,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "8502fdaabfb287e9371aeeb9adc044e58a906fea656b9936bebeeca0d53f6ddd"
+        }
+      ],
+      "publishedSegmentsSha256": "2170b7f5da0c7548b9f159e38603bdd02844ae615b97726869ef45bd9e3dafbc"
+    }
   },
   {
     "resourceId": "ownership-radio-32-recording",
@@ -79641,7 +80479,26 @@
         "end": 3908.4,
         "text": " FM metal ion co-system powered by Umbra. See you next week. Bye bye. Give me some emotions, please."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 297.68,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        },
+        {
+          "start": 3908.4,
+          "end": 3940.0533125,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "fc83650be8fb1328c7b148fa414c37430ecbdf6466ff43763005ff854022ad1e"
+    }
   },
   {
     "resourceId": "ownership-radio-6-recording",
@@ -87659,7 +88516,26 @@
         "end": 7170.46,
         "text": " Yeah, and this was all ownership reveal. Thank you and see you"
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 508.94,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        },
+        {
+          "start": 7170.46,
+          "end": 7201.28,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "e949640d91fee32d0aff50074ed210db537084b3ef9ee26de77c9b5f7dcc42f2"
+    }
   },
   {
     "resourceId": "ownership-radio-8-recording",
@@ -87678,7 +88554,7 @@
     "audioSha256": "e762abb64871e3d79c69ed3aa090ee7d32bc8fa44232c5676790120c9f0cf253",
     "researchTranscriptSha256": "e212aba9e16f18c1b42b3972520e94cb50d6bd35e38595c8c5656613a7c63704",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "All 1683 segments of the locally generated transcript read for 7063.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Publisher announcement corroborates Abbas and @francis_codex; Seedless and HiDEX product maturity and security claims remain attributed. Seedless describes an existing Bags token and a preferred future Start.fun raise, with MetaDAO/Futardio only an alternative. HiDEX says Identity is still on devnet. Neither appearance establishes an ecosystem raise. Advertised Bench and Spend interviews did not occur; no substantive Telebux interview is present. Umbra architecture and integration comments are historical and should be read with later architecture updates. Host opinions about governance success, alleged incidents and financial outcomes are not independently established; no exact Hanson funding figure adopted from the uncertain recollection.",
+    "reviewBoundary": "All 1683 segments of the locally generated transcript read for 7063.32 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Complete recovered generated transcript read. Publisher announcement corroborates Abbas and @francis_codex; Seedless and HiDEX product maturity and security claims remain attributed. Seedless describes an existing Bags token and a preferred future Start.fun raise, with MetaDAO/Futardio only an alternative. HiDEX says Identity is still on devnet. Neither appearance establishes an ecosystem raise. Advertised Bench and Spend interviews did not occur; no substantive Telebux interview is present. Umbra architecture and integration comments are historical and should be read with later architecture updates. Host opinions about governance success, alleged incidents and financial outcomes are not independently established; no exact Hanson funding figure adopted from the uncertain recollection. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -89028,14 +89904,14 @@
         "text": " So, having said that,"
       },
       {
-        "start": 1500.21,
-        "end": 1503.21,
-        "text": " let's go ahead and see."
-      },
-      {
         "start": 1500,
         "end": 1504.96,
         "text": " It is very obvious that we have big fans of ownership in general,"
+      },
+      {
+        "start": 1500.21,
+        "end": 1503.21,
+        "text": " let's go ahead and see."
       },
       {
         "start": 1504.96,
@@ -96097,7 +96973,21 @@
         "end": 7052.52,
         "text": " Peace."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 334.29,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": true,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "6a7741ad3602d427c38a7342690ee223ff9f41dfc1af4166936e47f20d650e9a"
+    }
   },
   {
     "resourceId": "ownership-radio-9-recording",
@@ -107160,7 +108050,21 @@
         "end": 8947.8,
         "text": " Goodbye."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 252.24,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "95126056a376e0d3ccb2f5ca646b7f815b226eb939c28eb470f2a3a34e4f8120"
+    }
   },
   {
     "resourceId": "res-259",
@@ -110683,7 +111587,15 @@
         "end": 2845.36,
         "text": " Thank you."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "de6e37d04082bff626f334fb6b90ab6927dfa592295673ce63dc19bf030e7303"
+    }
   },
   {
     "resourceId": "res-257",
@@ -115756,7 +116668,15 @@
         "end": 4190.8,
         "text": " And I'll see you guys next time."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "8f0d1f16b39b58525c78b40bf3c0de731429288bdb9951ed475ca99a5bb5822c"
+    }
   },
   {
     "resourceId": "res-258",
@@ -115775,7 +116695,7 @@
     "audioSha256": "e04b8b87a46ad759cd913d772b409478c001d29d33934c179cc0d0787bf7d59e",
     "researchTranscriptSha256": "130da7d65122e28486f53ca014d1bd7ed83c9b74d37fabf01a5e24ec2387720f",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1079 generated segments; 4085.18 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Buyback figures and token concentration are the founder’s historical account, not reconciled on-chain balances. OTC fundraising, Squads/Grid distribution and agent trading are plans or tests. Claims of regulatory protection and technical security are not established guarantees. Transcript includes an apparent repeated-farewell hallucination near the 55-minute chunk boundary and imperfect timestamps; those passages are not used as evidence.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1079 generated segments; 4085.18 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Buyback figures and token concentration are the founder’s historical account, not reconciled on-chain balances. OTC fundraising, Squads/Grid distribution and agent trading are plans or tests. Claims of regulatory protection and technical security are not established guarantees. Transcript includes an apparent repeated-farewell hallucination near the 55-minute chunk boundary and imperfect timestamps; those passages are not used as evidence. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -120015,6 +120935,11 @@
         "text": " So."
       },
       {
+        "start": 3300,
+        "end": 3305.2,
+        "text": " automatic Oracle kind of style actions that can get suggested and I can do it in"
+      },
+      {
         "start": 3300.82,
         "end": 3301.82,
         "text": " Yeah."
@@ -120038,6 +120963,11 @@
         "start": 3304.82,
         "end": 3305.82,
         "text": " Bye."
+      },
+      {
+        "start": 3305.2,
+        "end": 3309.88,
+        "text": " a secure way. I think that's that's kind of cool, especially because it can scale"
       },
       {
         "start": 3305.82,
@@ -120065,6 +120995,11 @@
         "text": " Bye."
       },
       {
+        "start": 3309.88,
+        "end": 3315.72,
+        "text": " emphasis. So if you want five different agents to do it, you can."
+      },
+      {
         "start": 3310.82,
         "end": 3311.82,
         "text": " Bye."
@@ -120088,6 +121023,11 @@
         "start": 3314.82,
         "end": 3315.82,
         "text": " Bye."
+      },
+      {
+        "start": 3315.72,
+        "end": 3322.56,
+        "text": " So that's kind of cool. This also, this whole talk about Squads being so good."
       },
       {
         "start": 3315.82,
@@ -120125,6 +121065,11 @@
         "text": " Bye."
       },
       {
+        "start": 3322.56,
+        "end": 3331.56,
+        "text": " It kind of made me ask the question of like, why did you guys choose Solana?"
+      },
+      {
         "start": 3322.82,
         "end": 3323.82,
         "text": " Bye."
@@ -120148,31 +121093,6 @@
         "start": 3326.82,
         "end": 3327.82,
         "text": " Bye."
-      },
-      {
-        "start": 3300,
-        "end": 3305.2,
-        "text": " automatic Oracle kind of style actions that can get suggested and I can do it in"
-      },
-      {
-        "start": 3305.2,
-        "end": 3309.88,
-        "text": " a secure way. I think that's that's kind of cool, especially because it can scale"
-      },
-      {
-        "start": 3309.88,
-        "end": 3315.72,
-        "text": " emphasis. So if you want five different agents to do it, you can."
-      },
-      {
-        "start": 3315.72,
-        "end": 3322.56,
-        "text": " So that's kind of cool. This also, this whole talk about Squads being so good."
-      },
-      {
-        "start": 3322.56,
-        "end": 3331.56,
-        "text": " It kind of made me ask the question of like, why did you guys choose Solana?"
       },
       {
         "start": 3331.56,
@@ -121175,7 +122095,15 @@
         "originalEnd": 4091.44,
         "text": " with that tag and yeah thank you for tuning in and I'll catch you guys next time."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": true,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "74243ac5b8877070e8c516ba7ea855b27f0bf5ab9775b153883a563c55e04fa7"
+    }
   },
   {
     "resourceId": "ownership-backfill-2",
@@ -124078,7 +125006,15 @@
         "end": 2336.97,
         "text": " Cheers."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "207fde04fba7e03caee86ab370c1860617e80d0f42e0234ca4ab1abd2e27bf36"
+    }
   },
   {
     "resourceId": "res-199",
@@ -124097,7 +125033,7 @@
     "audioSha256": "eba01c832ea3567faaf494d033966b074ebb37d697abc0829f0a40ef6eb9ecf3",
     "researchTranscriptSha256": "f3e081be4f2d56b16b4fdd3b977d5ebe2b964bbab4d985573b87991678b3351d",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 748 generated segments; 3699.40 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. The audio is an Umbra interview despite an erroneous Omnipair reference in one distributor description. Committed capital is not accepted proceeds. Privacy, screening and compliance assurances are founder claims, not guarantees. Transparency tooling and integrations are described partly as work in progress. Apparent chunk-boundary transcription hallucinations near five minutes were excluded from conclusions.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 748 generated segments; 3699.40 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. The audio is an Umbra interview despite an erroneous Omnipair reference in one distributor description. Committed capital is not accepted proceeds. Privacy, screening and compliance assurances are founder claims, not guarantees. Transparency tooling and integrations are described partly as work in progress. Apparent chunk-boundary transcription hallucinations near five minutes were excluded from conclusions. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -124397,14 +125333,29 @@
         "text": " As soon as you get through the"
       },
       {
+        "start": 300,
+        "end": 303.18,
+        "text": " And I think that that was absolutely"
+      },
+      {
         "start": 303.89,
         "end": 309.89,
         "text": " COVID-19 pandemic, you have"
       },
       {
+        "start": 305.58,
+        "end": 308.18,
+        "text": " cleanest way to do an ICO."
+      },
+      {
         "start": 309.89,
         "end": 311.89,
         "text": " a great day."
+      },
+      {
+        "start": 311.04,
+        "end": 314.14,
+        "text": " So did you ever have doubts about doing a token?"
       },
       {
         "start": 311.89,
@@ -124417,9 +125368,24 @@
         "text": " COVID-19 pandemic."
       },
       {
+        "start": 314.14,
+        "end": 315.34,
+        "text": " Because a lot of people do."
+      },
+      {
+        "start": 315.34,
+        "end": 316.78,
+        "text": " A lot of people have doubts."
+      },
+      {
         "start": 315.89,
         "end": 317.89,
         "text": " Thank you."
+      },
+      {
+        "start": 316.78,
+        "end": 320.22,
+        "text": " Like I've heard founders say that they don't want to do tokens"
       },
       {
         "start": 317.89,
@@ -124432,54 +125398,24 @@
         "text": " beautiful evening."
       },
       {
-        "start": 321.89,
-        "end": 323.89,
-        "text": " We've got a great night with"
-      },
-      {
-        "start": 323.89,
-        "end": 325.89,
-        "text": " our people on the ground here,"
-      },
-      {
-        "start": 300,
-        "end": 303.18,
-        "text": " And I think that that was absolutely"
-      },
-      {
-        "start": 305.58,
-        "end": 308.18,
-        "text": " cleanest way to do an ICO."
-      },
-      {
-        "start": 311.04,
-        "end": 314.14,
-        "text": " So did you ever have doubts about doing a token?"
-      },
-      {
-        "start": 314.14,
-        "end": 315.34,
-        "text": " Because a lot of people do."
-      },
-      {
-        "start": 315.34,
-        "end": 316.78,
-        "text": " A lot of people have doubts."
-      },
-      {
-        "start": 316.78,
-        "end": 320.22,
-        "text": " Like I've heard founders say that they don't want to do tokens"
-      },
-      {
         "start": 320.22,
         "end": 323.72,
         "text": " because, you know, the criticism is pretty fair."
       },
       {
+        "start": 321.89,
+        "end": 323.89,
+        "text": " We've got a great night with"
+      },
+      {
         "start": 323.72,
         "end": 325.62,
         "text": " I mean, having a liquid token day one,"
+      },
+      {
+        "start": 323.89,
+        "end": 325.89,
+        "text": " our people on the ground here,"
       },
       {
         "start": 325.62,
@@ -127841,7 +128777,15 @@
         "end": 3697.56,
         "text": " And see you guys next time."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": true,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "ffb9cb68e4ff9cb2c5d991d51a1ad07a32456b83eadd29948897e2dac0c8c2bc"
+    }
   },
   {
     "resourceId": "ownership-backfill-3",
@@ -127860,7 +128804,7 @@
     "audioSha256": "dc15c7fe8bcf418f1ef23dade7cc93e93a58f8628baf2e0ed31477f971ce45a9",
     "researchTranscriptSha256": "ec2de5707a0bd2efa5c7d5149e151fa64c9a9ba06db891939a0da78311119f16",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1023 generated segments; 4809.69 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Historical interview predates later developments. Fundraising commitments are not accepted proceeds. Legal interpretations and reserve/security assertions are not independently validated. A repeated-letter ASR artifact around 65 minutes was excluded.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1023 generated segments; 4809.69 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Historical interview predates later developments. Fundraising commitments are not accepted proceeds. Legal interpretations and reserve/security assertions are not independently validated. A repeated-letter ASR artifact around 65 minutes was excluded. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -131990,6 +132934,11 @@
         "text": " H-"
       },
       {
+        "start": 3900.34,
+        "end": 3909.84,
+        "text": " It's great to see the industry finally maturing and getting wider adoption, not just in these"
+      },
+      {
         "start": 3901.16,
         "end": 3902.16,
         "text": " A"
@@ -132018,6 +132967,11 @@
         "start": 3906.16,
         "end": 3910.16,
         "text": " A"
+      },
+      {
+        "start": 3909.84,
+        "end": 3919.54,
+        "text": " smaller niche circles, but overall, I think once most of these crypto bills pass, I think"
       },
       {
         "start": 3910.16,
@@ -132060,6 +133014,11 @@
         "text": " A"
       },
       {
+        "start": 3919.54,
+        "end": 3923.3,
+        "text": " a lot of retail will start flowing in."
+      },
+      {
         "start": 3921.16,
         "end": 3922.16,
         "text": " S"
@@ -132070,6 +133029,11 @@
         "text": " A"
       },
       {
+        "start": 3923.3,
+        "end": 3932.74,
+        "text": " How do you see the future of stablecoin growth in just general society?"
+      },
+      {
         "start": 3924.16,
         "end": 3925.16,
         "text": " S"
@@ -132078,26 +133042,6 @@
         "start": 3925.16,
         "end": 3927.16,
         "text": " A"
-      },
-      {
-        "start": 3900.34,
-        "end": 3909.84,
-        "text": " It's great to see the industry finally maturing and getting wider adoption, not just in these"
-      },
-      {
-        "start": 3909.84,
-        "end": 3919.54,
-        "text": " smaller niche circles, but overall, I think once most of these crypto bills pass, I think"
-      },
-      {
-        "start": 3919.54,
-        "end": 3923.3,
-        "text": " a lot of retail will start flowing in."
-      },
-      {
-        "start": 3923.3,
-        "end": 3932.74,
-        "text": " How do you see the future of stablecoin growth in just general society?"
       },
       {
         "start": 3932.74,
@@ -132979,7 +133923,15 @@
         "end": 4808.76,
         "text": " It was wonderful."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": true,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "7b32fd113de9775ffd0a97d057abe62ed31c7efcbb8de624c6e9f899856eeb1f"
+    }
   },
   {
     "resourceId": "ownership-report-15-recording",
@@ -137043,7 +137995,15 @@
         "text": "you guys next time. Goodbye.",
         "end": 1865
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "ee501d30e564589d96e73953bb7a1d14bf3520546ce19f17ae5784cd67fbe905"
+    }
   },
   {
     "resourceId": "ownership-report-13-recording",
@@ -140902,7 +141862,15 @@
         "text": "next time. Goodbye.",
         "end": 2032
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "92b55f8adb35867284821ffa2226b8e39432db117c655483a8f09059331dbfdc"
+    }
   },
   {
     "resourceId": "ownership-report-10-recording",
@@ -143941,7 +144909,15 @@
         "text": ">> and I'll see you guys next time.",
         "end": 1585
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "149a0d1fed344a65b2950e9421c8f9190e0f23194c905e83f6abef110f5aed93"
+    }
   },
   {
     "resourceId": "ownership-report-9-recording",
@@ -150480,7 +151456,15 @@
         "text": "guys next time. Goodbye.",
         "end": 2681
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "5ac80225aa0a26692bcddf4f9b5341597b570762640d86afcd1cdcd753a0d71d"
+    }
   },
   {
     "resourceId": "ownership-report-8-recording",
@@ -155204,7 +156188,15 @@
         "text": "see you guys next time. Goodbye.",
         "end": 2532
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "b3ea9a439143d02e833d980fd84266ab8a6c2e87ad19a69a1f650b448955d07e"
+    }
   },
   {
     "resourceId": "ownership-forum-1-recording",
@@ -160558,7 +161550,21 @@
         "text": "Bye.",
         "end": 3202
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 362,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "91df0d72f419ae5de35cb316c7ecdf0f3f4a39497771c4fa22a01608e108370c"
+    }
   },
   {
     "resourceId": "ownership-roadshow-5-recording",
@@ -172782,7 +173788,15 @@
         "text": "Goodbye.",
         "end": 6210
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "1e0f7ee69e10087e2a148ce5cca6bcb08b0ea29c60c789352fa13799b6e10d4a"
+    }
   },
   {
     "resourceId": "ownership-roadshow-2-recording",
@@ -188571,7 +189585,15 @@
         "text": "ownership radio.",
         "end": 8298
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "faf3529af59fc229e29077ff0b8adae0f7d0f457c6b8b9487c2aa38c55f29bb7"
+    }
   },
   {
     "resourceId": "res-252",
@@ -203245,7 +204267,15 @@
         "text": "D.",
         "end": 7932
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "5444cf644c13810391b6676338e5900cf9ad7649d156285312541fbb95674888"
+    }
   },
   {
     "resourceId": "ownership-roadshow-3-recording",
@@ -203264,7 +204294,7 @@
     "audioSha256": "6d3c7fa644de3c816a844c9cbbbfd792d7c8f109296f5372fa755c83d844ed0a",
     "researchTranscriptSha256": "fbe858f25c45ad9937418f24f2ec5c37ff42f9353393b4f3a5169e2348fb4441",
     "warning": "Uncorrected machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. No speaker identities inferred. Not a verified verbatim record.",
-    "reviewBoundary": "Complete downloaded official YouTube audio processed locally in five-minute chunks. Transcript has not received full manual reading, correction or audio comparison. Voice activity detection may omit speech, and recognition may invent words or misidentify names and numbers. Publisher-description summaries remain unchanged; no speaker identities inferred. Opening 0:00–4:00 is omitted because re-recognition produced unreliable repetitive syllables; consult the recording for that interval. Targeted ASR repair is not manual verification.",
+    "reviewBoundary": "Complete downloaded official YouTube audio processed locally in five-minute chunks. Transcript has not received full manual reading, correction or audio comparison. Voice activity detection may omit speech, and recognition may invent words or misidentify names and numbers. Publisher-description summaries remain unchanged; no speaker identities inferred. Opening 0:00–4:00 is omitted because re-recognition produced unreliable repetitive syllables; consult the recording for that interval. Targeted ASR repair is not manual verification. Quality audit: 1 severe repetition interval(s) re-transcribed from hash-matched original audio; existing chronological order retained. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
     "timestampAdjustments": "Segments starting beyond the audio end are omitted; overrun end times are clipped to the measured duration. Original end time retained where clipped.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -203550,8 +204580,23 @@
       },
       {
         "start": 1587.04,
-        "end": 1616.37,
-        "text": " and then the lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady of old black lady lady of old black lady of old black lady lady of old black lady of old black lady of old black lady lady of old black lady lady of old black lady of old black lady lady of old black lady lady of old black lady of old black lady of old black lady lady of old black lady lady lady of old black lady of old black lady lady of old black lady lady lady of old black lady lady lady of old black lady lady lady of old black lady of old black lady of old black lady"
+        "end": 1597.84,
+        "text": " it'll be poor and the lady of all about the lady of every poor so but you know if I what using"
+      },
+      {
+        "start": 1597.84,
+        "end": 1604.6399999999999,
+        "text": " sorry if I building a product like you know DTF secondary market or something like that you know"
+      },
+      {
+        "start": 1604.6399999999999,
+        "end": 1612.8799999999999,
+        "text": " just like level H DTF level H ETF or something like that so this is a huge problem for me like"
+      },
+      {
+        "start": 1612.8799999999999,
+        "end": 1615.92,
+        "text": " liquidity, and then how?"
       },
       {
         "start": 1616.4,
@@ -204786,7 +205831,28 @@
         "end": 240,
         "reason": "Opening recognition produced repetitive non-lexical syllables; omitted rather than presented as reliable speech. No claim that all spoken words were recovered."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 243.25,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [
+        {
+          "start": 1587.04,
+          "end": 1616.37,
+          "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+          "replacementSegmentsSha256": "47900453aee009b6b76429c2d5e85ca8f4f368893924e799dd540571bfda3637"
+        }
+      ],
+      "publishedSegmentsSha256": "226506e04c49b743466104cd9574776c5ec3898c7e19b624ca627a7007b2bd97"
+    }
   },
   {
     "resourceId": "ownership-roadshow-4-recording",
@@ -206074,7 +207140,21 @@
         "end": 7221.71,
         "text": " Twitter, every single social media out there, we are there. And so please follow us and thank you for tuning in. We are grateful as always and I will see you guys in the next show. Have a good day."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 46.51,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "2955dea6e28a75d9e43b642539060f019b1de35ef936fe72310241b4cc173773"
+    }
   },
   {
     "resourceId": "ownership-report-18-recording",
@@ -210403,7 +211483,15 @@
         "text": ">> Goodbye.",
         "end": 1819.661
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "4227499b90cd7b6415c5976fdeac48365f9349f51bf6213fd513820842b57057"
+    }
   },
   {
     "resourceId": "ownership-report-17-recording",
@@ -213942,7 +215030,15 @@
         "text": "for having me.",
         "end": 1720.101
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "e6a5ea53df11d959c8de2cb38ce52f73ab865b59d4401fd14cc1d0a0e9f511ba"
+    }
   },
   {
     "resourceId": "ownership-report-16-recording",
@@ -220456,7 +221552,15 @@
         "text": "Goodbye.",
         "end": 3351.301
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "d9bc6cc12649dea74c2ca1fbbec691ce24378ce3f6a37e7c68e28859e01f972c"
+    }
   },
   {
     "resourceId": "ownership-report-12-recording",
@@ -223630,7 +224734,15 @@
         "text": "Da da da",
         "end": 1477.321
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "feab5d9ad1773b6bdabccbe88d30b7779861dd94a0b50b979c1efb39fc9cd59f"
+    }
   },
   {
     "resourceId": "ownership-report-11-recording",
@@ -227739,7 +228851,15 @@
         "text": "Goodbye.",
         "end": 1869.701
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "794c74ddbb13a91a943a36dca704a43f992b5c21074d5235c08b5d6aa71b198b"
+    }
   },
   {
     "resourceId": "ownership-report-7-recording",
@@ -237638,7 +238758,21 @@
         "text": ">> Thank you everyone for coming. Goodbye.",
         "end": 4573.861
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 32,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "d2d4986795d15d8c1dd6e2dae3c0ae46aca1b0f285f86530e1034e63c66409e5"
+    }
   },
   {
     "resourceId": "ownership-report-6-recording",
@@ -244802,7 +245936,15 @@
         "text": "D.",
         "end": 3819.021
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "80cb25a2e621344d22769b330863d937a4065d777b35aee4b6be013b3264a16a"
+    }
   },
   {
     "resourceId": "ownership-report-5-recording",
@@ -250841,7 +251983,15 @@
         "text": "day.",
         "end": 3631.221
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "ac83e08adfb02cffdc9e3edce9f0a7f2f902167abd1eb218378c811cf63bc0e5"
+    }
   },
   {
     "resourceId": "ownership-report-4-recording",
@@ -254820,7 +255970,15 @@
         "text": "could have",
         "end": 1920.221
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "a894c2be7cd205b2e88e9ad25a11c12aa7939edc08ebec6e7c3f5203d2946393"
+    }
   },
   {
     "resourceId": "ownership-report-3-recording",
@@ -260974,7 +262132,15 @@
         "text": "on Ownership Radio. Goodbye.",
         "end": 3520.401
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "a491d11ff2f1bceb63b88c5dc128804e92551f2c7b8542ce56b3d30f0e41029c"
+    }
   },
   {
     "resourceId": "ownership-report-2-recording",
@@ -265993,7 +267159,21 @@
         "text": "Daily.",
         "end": 2846.341
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [
+        {
+          "start": 0,
+          "end": 162,
+          "status": "No transcript text in this interval; may be silence, music, waiting time or omitted speech. Audio review required."
+        }
+      ],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "97a91008ece8518aadc9d7ceeb0fbc5337ea43506e7413f8588629f240b469c5"
+    }
   },
   {
     "resourceId": "ownership-report-1-recording",
@@ -271307,7 +272487,15 @@
         "text": ">> Bye-bye. Peace.",
         "end": 2711.681
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "7ee160b08d87a5e4067e3a8b51827e4a402cb602179478a31991cb1daa9ff109"
+    }
   },
   {
     "resourceId": "ownership-forum-2-recording",
@@ -278866,7 +280054,15 @@
         "text": "[music]",
         "end": 3883.081
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "1e74c095ea7546d80355ca29d42c497f63105c6a423dd2df7449d36947a1e6e2"
+    }
   },
   {
     "resourceId": "ownership-report-14-recording",
@@ -279294,6 +280490,14 @@
         "end": 2208.62,
         "text": " I wish we had like a clapping sound effect. Thank you to all the listeners. Thank you to the member team for coming on. It's been a pleasure and I'll see everyone next time. Goodbye. Bye question. Take care. Thank you so much."
       }
-    ]
+    ],
+    "qualityAudit": {
+      "method": "Automated timestamp and severe repetition scan of every segment. Not full manual reading, listening, name correction or factual validation.",
+      "checkedAt": "2026-10-12",
+      "untranscribedIntervals": [],
+      "chronologySorted": false,
+      "repairedIntervals": [],
+      "publishedSegmentsSha256": "0e576b4f6939a2f56752d48b25396e88eb8c7d70a8eb667261fc6bda7491c132"
+    }
   }
 ]

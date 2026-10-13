@@ -11,7 +11,10 @@
     "roadshows": 5,
     "newRecords": 20,
     "recoveredCaptionTracks": 9,
-    "captionGaps": 16
+    "captionGaps": 16,
+    "locallyGeneratedTracks": 2,
+    "availableTranscripts": 11,
+    "transcriptGaps": 14
   },
   "xUnavailableAlternatives": [
     {
@@ -37,7 +40,11 @@
     "liveAgentEndpoint": "404 on 2026-10-12",
     "failedDeployment": "https://github.com/SrMessiSOL/futarchy-info/actions/runs/38326750441",
     "reason": "VERCEL_TOKEN missing; VERCEL_ORG_ID and VERCEL_PROJECT_ID present",
-    "action": "No deployment or secret change in this follow-up"
+    "action": "No deployment or secret change in this follow-up",
+    "mergedArchiveCommit": "902ca011255f4e7fed7d28919d05c043c419eb65",
+    "mergedArchiveDeployment": "https://futarchy-library-l5zdcykdv-srmessisols-projects.vercel.app",
+    "mergedArchiveVerification": "2026-10-12: futarchy.info and www.futarchy.info alias the Ready production deployment; live library HTTP 200, 633 eligible resources, all 25 series recordings and all 41 existing transcript JSON endpoints verified.",
+    "previousFailureNote": "The earlier 404 and missing GitHub VERCEL_TOKEN describe the pre-deployment state. Manual deployment used existing authenticated Vercel CLI access; no credentials were created or changed."
   },
   "episodes": [
     {
@@ -324,7 +331,13 @@
       "captionStatus": "unavailable",
       "captionSourceSha256": null,
       "fullContentReview": false,
-      "widerContext": false
+      "widerContext": false,
+      "transcriptStatus": "available",
+      "transcriptKind": "machine-generated-transcript",
+      "audioSha256": "cad4a206efb3cf7e04e62b4ee4bd7713eb8bde552845b69b27f4f576558d5b09",
+      "researchTranscriptSha256": "4519c037ce16ec3f58f026e440900ac0fb5f4d90c847440f41756c4e9284f51a",
+      "durationSeconds": 7221.742625,
+      "segmentCount": 253
     },
     {
       "resourceId": "ownership-roadshow-3-recording",
@@ -337,7 +350,13 @@
       "captionStatus": "unavailable",
       "captionSourceSha256": null,
       "fullContentReview": false,
-      "widerContext": false
+      "widerContext": false,
+      "transcriptStatus": "available",
+      "transcriptKind": "machine-generated-transcript",
+      "audioSha256": "6d3c7fa644de3c816a844c9cbbbfd792d7c8f109296f5372fa755c83d844ed0a",
+      "researchTranscriptSha256": "fbe858f25c45ad9937418f24f2ec5c37ff42f9353393b4f3a5169e2348fb4441",
+      "durationSeconds": 8203.1146875,
+      "segmentCount": 299
     },
     {
       "resourceId": "ownership-roadshow-2-recording",

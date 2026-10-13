@@ -35,8 +35,9 @@ export function LibraryFilters({
   }
 
   const scopedResources = selectProjectResources(resources, projects, project)
-  const historical = project === 'historical' || projects.some(p => p.id === project && p.coverage !== 'raise')
-  const visibleProjects = projects.filter(p => (historical ? p.coverage !== 'raise' : p.coverage === 'raise') && resources.some(r => r.tags?.includes('project:' + p.id)))
+  const historical = project === 'historical' || projects.some(p => p.id === project && p.coverage === 'failed-raise')
+  const closedProject = projects.some(p => p.id === project && p.coverage === 'historical-raise')
+  const visibleProjects = projects.filter(p => (historical ? p.coverage === 'failed-raise' : p.coverage !== 'failed-raise') && resources.some(r => r.tags?.includes('project:' + p.id)))
   const filterCategories = [
     { id: "papers", label: "Academic Papers", icon: FileText, count: scopedResources.filter((r) => r.type === "paper").length },
     { id: "articles", label: "Articles & Analysis", icon: BookOpen, count: scopedResources.filter((r) => r.type === "article").length },
@@ -50,7 +51,7 @@ export function LibraryFilters({
       <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
         <div className="flex items-center gap-3">
           <Filter className="h-5 w-5 text-muted-foreground" />
-          <h2 className="text-lg font-semibold">{historical ? 'Historical archive: closed projects and failed raises' : 'Browse the library'}</h2>
+          <h2 className="text-lg font-semibold">{historical ? 'Unsuccessful raises archive' : 'Browse the library'}</h2>
           {activeFilters.length > 0 && (
             <Badge variant="secondary" className="ml-2 bg-primary/10 text-foreground dark:text-primary">
               {activeFilters.length} active
@@ -64,8 +65,8 @@ export function LibraryFilters({
             <SelectContent>
               <SelectItem value="all">Main library</SelectItem>
               <SelectItem value="ecosystem">Active raised projects</SelectItem>
-              <SelectItem value="historical">Historical project archive</SelectItem>
-              {[...visibleProjects].sort((a,b)=>a.name.localeCompare(b.name)).map(p=><SelectItem key={p.id} value={p.id}>{p.name}{historical ? (p.coverage === 'failed-raise' ? ' (failed raise)' : ' (closed project)') : ''}</SelectItem>)}
+              <SelectItem value="historical">Unsuccessful raises archive</SelectItem>
+              {[...visibleProjects].sort((a,b)=>a.name.localeCompare(b.name)).map(p=><SelectItem key={p.id} value={p.id}>{p.name}{p.coverage === 'historical-raise' ? ' (historical)' : p.coverage === 'failed-raise' ? ' (failed raise)' : ''}</SelectItem>)}
             </SelectContent>
           </Select>
           <Select value={sortBy} onValueChange={setSortBy}>
@@ -94,7 +95,8 @@ export function LibraryFilters({
         </div>
       </div>
 
-      {historical && <p className="text-sm text-muted-foreground">Historical sources for closed projects and unsuccessful fundraising attempts. These entries do not describe active MetaDAO projects.</p>}
+      {historical && <p className="text-sm text-muted-foreground">Sources about unsuccessful fundraising attempts. Selected interviews and recordings also appear in the main library.</p>}
+      {closedProject && <p className="text-sm text-muted-foreground">This project raised through the ecosystem and is retained for its history. It is no longer listed as an active MetaDAO project.</p>}
       <div className="flex flex-wrap gap-3">
         {filterCategories.map((category) => {
           const Icon = category.icon

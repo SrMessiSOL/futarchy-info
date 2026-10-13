@@ -1,5 +1,13 @@
 # Source review update — 2026-10-12
 
+## Previously funded project history in the main library
+
+The user distinguishes failed fundraising attempts from projects that raised and subsequently closed or changed ownership. All eligible Paystream, Ranger and ZKLSOL/ZKFG/Turbine Cash history now belongs in main browsing and default agent access. Their historical-raise status, active-project count and publication cutoffs are unchanged. Main project selection includes these historical companies with explicit historical labels; Turbine Cash is named in the existing ZKLSOL/ZKFG registry entry rather than counted as another raise.
+
+All six previously approved podcasts, all three videos and the news item from the former archive are available in main. The Bountive pitch and Ryvo Report #15 are explicit media exceptions; other failed-raise material remains in the unsuccessful-raises archive. Failed projects without a verified Radio appearance remain unpublished under the existing retention rule.
+
+Scope counts: 616 main sources (437 articles, 64 podcasts, 96 videos, 16 news items and three papers), 23 archive sources, and 633 unique public records. Six failed-project media entries overlap both scopes. There are 44 additional main-library entries relative to PR #16. No source IDs, dates, transcript payloads or project funding statuses change.
+
 ## Main-library visibility for six retained recordings
 
 At the user's request, the Paystream/Maushish podcast, Seb Monty's Cobra/Ranger interview, and Ownership Radio #16, #21, #22 and #23 now appear in the main-library selection as well as the historical archive. The same six original records are selected, not copied. Project statuses, closed-project cutoffs, retention rules, dates, descriptions and transcripts are unchanged. The browsing exception operates only after public eligibility filtering.

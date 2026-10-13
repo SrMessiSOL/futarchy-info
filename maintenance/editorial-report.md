@@ -1,5 +1,11 @@
 # Source review update — 2026-10-12
 
+## Main-library visibility for six retained recordings
+
+At the user's request, the Paystream/Maushish podcast, Seb Monty's Cobra/Ranger interview, and Ownership Radio #16, #21, #22 and #23 now appear in the main-library selection as well as the historical archive. The same six original records are selected, not copied. Project statuses, closed-project cutoffs, retention rules, dates, descriptions and transcripts are unchanged. The browsing exception operates only after public eligibility filtering.
+
+Expected scope counts: 572 main-library sources (64 podcasts, including 26 recovered Ownership Radio recordings), 67 historical sources and 633 unique public sources. The scopes now overlap by six records and must not be added together. Agent discovery documents this overlap.
+
 ## Roadshows #3 and #4: local transcription and production catch-up
 
 Merged PR #14 (902ca011255f4e7fed7d28919d05c043c419eb65) was deployed through the existing authenticated Vercel CLI. futarchy.info and www.futarchy.info point to the Ready production deployment https://futarchy-library-l5zdcykdv-srmessisols-projects.vercel.app. The public library returns HTTP 200 with 633 eligible sources, including all 25 numbered Reports, Forums and Roadshows. All 41 previously available transcript JSON endpoints were checked successfully. The earlier deployment failure below is historical; the missing GitHub workflow token was not created or changed.

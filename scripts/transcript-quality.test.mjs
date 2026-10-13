@@ -6,6 +6,7 @@ import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 import { createHash } from 'node:crypto'
 import { auditTranscript, repetitionSignal } from './audit-transcripts.mjs'
+import {beforeContextReview} from './transcript-context-evidence.mjs'
 
 test('audio gap review covers all original intervals and preserves remaining uncertainty',()=>{
  const ts=JSON.parse(fs.readFileSync('content/transcripts.json'))
@@ -22,7 +23,7 @@ test('audio gap review covers all original intervals and preserves remaining unc
  }
  for(const c of evidence.changes){
   const t=ts.find(t=>t.resourceId===c.resourceId)
-  assert.ok(t.segments.some(s=>JSON.stringify(s)===JSON.stringify(c.replacement)))
+  assert.ok(beforeContextReview(t).some(s=>JSON.stringify(s)===JSON.stringify(c.replacement)))
   assert.ok(c.replacement.end>c.replacement.start)
  }
  const t29=ts.find(t=>t.resourceId==='ownership-radio-29-recording')
@@ -42,7 +43,8 @@ test('published audit hashes and replacement evidence match the served segments'
   const t=ts.find(t=>t.resourceId===r.resourceId)
   assert.equal(t.audioSha256,r.audioSha256)
   assert.equal(hash(r.segments),r.replacementSegmentsSha256)
-  for(const s of r.segments)assert.ok(t.segments.some(x=>JSON.stringify(x)===JSON.stringify(s)))
+  const earlier=beforeContextReview(t)
+  for(const s of r.segments)assert.ok(earlier.some(x=>JSON.stringify(x)===JSON.stringify(s)))
  }
 })
 

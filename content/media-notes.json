@@ -124,6 +124,17 @@
         "sources": [
           "https://metadao.fi/companies/credible"
         ]
+      },
+      {
+        "start": 0,
+        "end": 2338.0636875,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 13 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/credible",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
       }
     ]
   },
@@ -209,6 +220,16 @@
         "sources": [
           "https://metadao.fi/decisions/solo-003"
         ]
+      },
+      {
+        "start": 0,
+        "end": 4809.6914375,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 19 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
       }
     ]
   },
@@ -223,7 +244,18 @@
       "sha256": "e65b294784510fff47ffdc20c9ddaaaff37403e67e555459fdc524343eb6a96c",
       "jsonUrl": "/api/transcripts/ownership-forum-1-recording?format=json",
       "textUrl": "/api/transcripts/ownership-forum-1-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 3202,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 12 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-forum-2-recording",
@@ -236,7 +268,19 @@
       "sha256": "b975d1f7cbc6f1ab8812200f7089f95decab7bc403f2a995e1bffc7385163b2f",
       "textUrl": "/api/transcripts/ownership-forum-2-recording",
       "jsonUrl": "/api/transcripts/ownership-forum-2-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 3883.081,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 36 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-1-recording",
@@ -287,7 +331,20 @@
       "sha256": "19fb4c4fc9e865e9ed8117791268f38c3dc72402ecf258a3ced653eebd8a106e",
       "jsonUrl": "/api/transcripts/ownership-radio-1-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-1-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 2650.9226875,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 18 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://www.backable.biz/docs/whats-new",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/futardio-cult"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-10-recording",
@@ -378,7 +435,21 @@
       "sha256": "45281001b1c517e98405b7bf8571889595856d43373a1a61df930a4370477326",
       "jsonUrl": "/api/transcripts/ownership-radio-10-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-10-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7062.6986875,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 46 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://metadao.fi/companies/futardio-cult",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-11-recording",
@@ -441,7 +512,21 @@
       "sha256": "48f7ab7fbfc59a630e6fd92599d09931fa0fe92b77aa625eccac2206e0ec2340",
       "jsonUrl": "/api/transcripts/ownership-radio-11-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-11-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 8752.32,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 45 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://metadao.fi/companies/futardio-cult",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-12-recording",
@@ -488,7 +573,19 @@
       "sha256": "489ed01b89e23fd99b5ae54c7bb47d40617e466c5fb94ba079b966319aaebf27",
       "jsonUrl": "/api/transcripts/ownership-radio-12-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-12-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7171.84,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 54 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://www.backable.biz/docs/whats-new",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-14-recording",
@@ -563,6 +660,17 @@
         "status": "unresolved-name",
         "note": "The host name rendered as a Bipines is unresolved. A fresh recognizer produced a conflicting phonetic rendering, which was rejected. No speaker identity inferred. The episode number 14 agrees with the indexed show title.",
         "sources": []
+      },
+      {
+        "start": 0,
+        "end": 6879.68,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 10 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
       }
     ]
   },
@@ -611,7 +719,20 @@
       "sha256": "e6458cfad52e2e869709ca97fb824b010e9928a5b050d5507905b352cd4bd753",
       "jsonUrl": "/api/transcripts/ownership-radio-16-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-16-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7993.898667,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 39 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-17-recording",
@@ -666,7 +787,21 @@
       "sha256": "d0cbd66ddde6539807347a8ab921bcd31be7c0580a6158aa15c67d3b025918b7",
       "jsonUrl": "/api/transcripts/ownership-radio-17-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-17-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 8941.269333,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 47 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/laso-finance",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-18-recording",
@@ -741,7 +876,22 @@
       "sha256": "59f2f633ea3b0ad11ff81aa1e854db0f3964c9705f2ce2c18d4eb2087bfc1dd3",
       "jsonUrl": "/api/transcripts/ownership-radio-18-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-18-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 10204.266667,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 33 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/omnipair",
+          "https://metadao.fi/decisions/metadao-035",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/kimia"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-19-recording",
@@ -796,7 +946,22 @@
       "sha256": "316517af760fa49b50acb0aea9ecd1c78f818915ac20d4d7293004d5f670e0c0",
       "jsonUrl": "/api/transcripts/ownership-radio-19-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-19-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 3279.7226875,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 30 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/kimia",
+          "https://metadao.fi/decisions/metadao-035",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/futardio-cult"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-2-recording",
@@ -855,7 +1020,19 @@
       "sha256": "1f8899e5738f53cf2de7c873e3c1539fc0458c9b2212035df873d3e9735c2085",
       "jsonUrl": "/api/transcripts/ownership-radio-2-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-2-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 5268.736,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 24 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://www.backable.biz/docs/whats-new",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-20-recording",
@@ -910,7 +1087,19 @@
       "sha256": "dcd3aa4a3fd67a7a46ed3dc60c3f02319d4be80a85cf2897cf42ec9387ae95ff",
       "jsonUrl": "/api/transcripts/ownership-radio-20-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-20-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7150.357333,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 15 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-21-recording",
@@ -945,7 +1134,19 @@
       "sha256": "96b5a17af967196e0ca05e8f35764ae0fc901fc12bbaaccea464dcd15bb1275f",
       "jsonUrl": "/api/transcripts/ownership-radio-21-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-21-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 12492.757333,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 21 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-22-recording",
@@ -996,7 +1197,21 @@
       "sha256": "08dea1356b5db8d64aff04cd454851e688f0df954a3bfd1812807e685e04037a",
       "jsonUrl": "/api/transcripts/ownership-radio-22-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-22-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7530.624,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 20 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/laso-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-23-recording",
@@ -1031,7 +1246,19 @@
       "sha256": "8759f361ca162f5cd6f03df8363dd97119700004c452737c2429e6a6a83b6325",
       "jsonUrl": "/api/transcripts/ownership-radio-23-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-23-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 10915.797333,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 22 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-24-recording",
@@ -1066,7 +1293,20 @@
       "sha256": "10e3252b3d020024436522bd254111c82f4f82e45fe1fdd802fa12d4ddb139d9",
       "jsonUrl": "/api/transcripts/ownership-radio-24-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-24-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 10003.242667,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 28 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-25-recording",
@@ -1109,7 +1349,19 @@
       "sha256": "9301335e86289db8d02200f514e3612d5158b947efe4b012e5a2359b62d5dc8a",
       "jsonUrl": "/api/transcripts/ownership-radio-25-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-25-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 12865.344,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 25 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://www.backable.biz/docs/whats-new",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-26-recording",
@@ -1184,7 +1436,21 @@
       "sha256": "8c82296f9d9200360f3f86a7cf0acf7af806a2445368aef0a1db4560708b8227",
       "jsonUrl": "/api/transcripts/ownership-radio-26-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-26-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 6901.802667,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 18 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://metadao.fi/companies/jurassic-finance",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/omnipair"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-27-recording",
@@ -1251,7 +1517,20 @@
       "sha256": "d6c9e3e5101142295d13c2b64faca782b0b94ee2fc21bd493432aaa0000507b6",
       "jsonUrl": "/api/transcripts/ownership-radio-27-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-27-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 12115.242667,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 63 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-28-recording",
@@ -1314,7 +1593,20 @@
       "sha256": "367a8e3b847d12558e5b26b79a2cf2fdff2533e7896cc36f8b21560348d5fa58",
       "jsonUrl": "/api/transcripts/ownership-radio-28-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-28-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 8490.538667,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 31 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-29-recording",
@@ -1393,6 +1685,17 @@
         "status": "unverified-claim",
         "note": "The separate statement about MetaDAO moving $2 million was not established by the three project proposals above. Preserve as an attributed, unverified spoken claim; do not infer execution.",
         "sources": []
+      },
+      {
+        "start": 0,
+        "end": 7161.621333,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 21 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/futardio-cult"
+        ]
       }
     ]
   },
@@ -1437,7 +1740,19 @@
       "sha256": "b3d9e220fbc3ef11055885ca033ba50b063c55d93648909e45ad42c3c5092f28",
       "jsonUrl": "/api/transcripts/ownership-radio-30-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-30-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 8841.1093125,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 15 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-31-recording",
@@ -1520,7 +1835,19 @@
       "sha256": "0ae780add82281d06fd1cdf6ada7472fd82283b53e74d717f8b792e10e9b94a6",
       "jsonUrl": "/api/transcripts/ownership-radio-31-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-31-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 9364.0746875,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 10 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-32-recording",
@@ -1571,7 +1898,20 @@
       "sha256": "62f98c6acbb91b3a76d5c77afa7698fa0c835af2590a57d40c7e713128c20cd3",
       "jsonUrl": "/api/transcripts/ownership-radio-32-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-32-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 3940.0533125,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 32 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://www.backable.biz/docs/whats-new",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/kimia"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-6-recording",
@@ -1646,7 +1986,21 @@
       "sha256": "a9bf73d9ed91d7e8d139e589612446eab6915a3929dbeea1495eef63e4337c8f",
       "jsonUrl": "/api/transcripts/ownership-radio-6-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-6-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7201.28,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 25 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/jurassic-finance",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-8-recording",
@@ -1725,7 +2079,20 @@
       "sha256": "e212aba9e16f18c1b42b3972520e94cb50d6bd35e38595c8c5656613a7c63704",
       "jsonUrl": "/api/transcripts/ownership-radio-8-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-8-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7063.3173125,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 49 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-9-recording",
@@ -1804,7 +2171,19 @@
       "sha256": "c2878cb54fdaebb7adb0bae4029b2a5254ed44f7222fe655291fe43bad7555a1",
       "jsonUrl": "/api/transcripts/ownership-radio-9-recording?format=json",
       "textUrl": "/api/transcripts/ownership-radio-9-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 8952.6613125,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 4 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-1-recording",
@@ -1817,7 +2196,18 @@
       "sha256": "413a2e7cc75e00219374e3488e249a7556f57b5a4fd1c7e41b42bf7189ca7ed2",
       "textUrl": "/api/transcripts/ownership-report-1-recording",
       "jsonUrl": "/api/transcripts/ownership-report-1-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 2711.681,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 1 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-10-recording",
@@ -1830,7 +2220,19 @@
       "sha256": "efb7908e706db5459d3add6fa31b98e73b773c31a43f1ed0d5b52f6a1ee5595d",
       "jsonUrl": "/api/transcripts/ownership-report-10-recording?format=json",
       "textUrl": "/api/transcripts/ownership-report-10-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 1585,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 8 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/laso-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-11-recording",
@@ -1843,7 +2245,19 @@
       "sha256": "f669c706a0e5c5278cc101bbb69404534fb5e8be345b5da6b95c271e50793d85",
       "textUrl": "/api/transcripts/ownership-report-11-recording",
       "jsonUrl": "/api/transcripts/ownership-report-11-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 1869.701,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 5 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-12-recording",
@@ -1869,7 +2283,18 @@
       "sha256": "c16d053bc5640cf7c9f0675a5df729c4b81db5d57919a2b96a1cc2b56ab9df1e",
       "jsonUrl": "/api/transcripts/ownership-report-13-recording?format=json",
       "textUrl": "/api/transcripts/ownership-report-13-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 2032,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 8 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-14-recording",
@@ -1882,7 +2307,18 @@
       "sha256": "d431e11d72926f4f028d3c180bc8a44ad770dc9a51286e29cd0a38e26c3ab22e",
       "textUrl": "/api/transcripts/ownership-report-14-recording",
       "jsonUrl": "/api/transcripts/ownership-report-14-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 2209.320625,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 1 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-15-recording",
@@ -1908,7 +2344,19 @@
       "sha256": "b4be363f8788ab683c23d81a1020e280e965e9584e24ce9aef62c684147c131b",
       "textUrl": "/api/transcripts/ownership-report-16-recording",
       "jsonUrl": "/api/transcripts/ownership-report-16-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 3351.301,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 19 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-17-recording",
@@ -1921,7 +2369,20 @@
       "sha256": "111eeac73788d81837aaa235b05bdde28c7ead2d84d2c61cf519be894d192df3",
       "textUrl": "/api/transcripts/ownership-report-17-recording",
       "jsonUrl": "/api/transcripts/ownership-report-17-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 1720.101,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 12 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://www.backable.biz/docs/whats-new",
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/laso-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-18-recording",
@@ -1934,7 +2395,19 @@
       "sha256": "00c25aafefe77194b111bccbf28a0e39ba53df195f4f938d9d7896193560d6f9",
       "textUrl": "/api/transcripts/ownership-report-18-recording",
       "jsonUrl": "/api/transcripts/ownership-report-18-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 1819.661,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 7 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-2-recording",
@@ -1973,7 +2446,19 @@
       "sha256": "a26ccf540e350ccf79b00abc69bedfa2ef3cee0527b9696ae83206b26af340a0",
       "textUrl": "/api/transcripts/ownership-report-4-recording",
       "jsonUrl": "/api/transcripts/ownership-report-4-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 1920.221,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 9 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-5-recording",
@@ -1986,7 +2471,18 @@
       "sha256": "4e817248b86358417d34ef15a99cfee4c17a074ea72dc6e0d47967c56f7bf3cf",
       "textUrl": "/api/transcripts/ownership-report-5-recording",
       "jsonUrl": "/api/transcripts/ownership-report-5-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 3631.221,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 3 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-6-recording",
@@ -1999,7 +2495,19 @@
       "sha256": "fc8ee48e66ed1ffa18b06dc3f088ae53214802486cdd44daed7fcb2a3ef7261d",
       "textUrl": "/api/transcripts/ownership-report-6-recording",
       "jsonUrl": "/api/transcripts/ownership-report-6-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 3819.021,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 16 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-7-recording",
@@ -2012,7 +2520,19 @@
       "sha256": "57c29b0a61e4bc323c230f17712757e076d16e631e81492b9e76758c8ffaf2d9",
       "textUrl": "/api/transcripts/ownership-report-7-recording",
       "jsonUrl": "/api/transcripts/ownership-report-7-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 4573.861,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 55 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-8-recording",
@@ -2025,7 +2545,20 @@
       "sha256": "dee96aaf4f110b3781a6240abb52e46ebede8e69b43dad5cd0e8ccec39bff43d",
       "jsonUrl": "/api/transcripts/ownership-report-8-recording?format=json",
       "textUrl": "/api/transcripts/ownership-report-8-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 2532,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 43 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/laso-finance",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-9-recording",
@@ -2038,7 +2571,19 @@
       "sha256": "d55c11a71633f8b8f14d35d3df02bae9663b9fbdf8dbdb9ceac84cb7fdbc05ea",
       "jsonUrl": "/api/transcripts/ownership-report-9-recording?format=json",
       "textUrl": "/api/transcripts/ownership-report-9-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 2681,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 19 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-roadshow-2-recording",
@@ -2051,7 +2596,19 @@
       "sha256": "5cfff461c0104dfd658c0add397ca1fd11fb56717c1ef8b28f492e542f142697",
       "jsonUrl": "/api/transcripts/ownership-roadshow-2-recording?format=json",
       "textUrl": "/api/transcripts/ownership-roadshow-2-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 8298,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 6 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-roadshow-3-recording",
@@ -2064,7 +2621,19 @@
       "sha256": "fbe858f25c45ad9937418f24f2ec5c37ff42f9353393b4f3a5169e2348fb4441",
       "textUrl": "/api/transcripts/ownership-roadshow-3-recording",
       "jsonUrl": "/api/transcripts/ownership-roadshow-3-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 8203.1146875,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 3 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-roadshow-4-recording",
@@ -2077,7 +2646,19 @@
       "sha256": "4519c037ce16ec3f58f026e440900ac0fb5f4d90c847440f41756c4e9284f51a",
       "textUrl": "/api/transcripts/ownership-roadshow-4-recording",
       "jsonUrl": "/api/transcripts/ownership-roadshow-4-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7221.742625,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 2 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://metadao.fi/companies/jurassic-finance",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-roadshow-5-recording",
@@ -2090,7 +2671,18 @@
       "sha256": "533e1e0253229db8bb1b50844dd5f4146c27e216c065d51522a9f60cd28eb782",
       "jsonUrl": "/api/transcripts/ownership-roadshow-5-recording?format=json",
       "textUrl": "/api/transcripts/ownership-roadshow-5-recording"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 6210,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 4 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "res-199",
@@ -2202,6 +2794,18 @@
           "https://colosseum.com/frontier",
           "https://www.arcium.com/"
         ]
+      },
+      {
+        "start": 0,
+        "end": 3699.4031875,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 43 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/companies/omnipair",
+          "https://metadao.fi/decisions/metadao-035",
+          "https://metadao.fi/companies/umbra"
+        ]
       }
     ]
   },
@@ -2216,7 +2820,20 @@
       "sha256": "1872c9b202657e55734ee5d622e0a5a6b85e0d763ff7189d86ea998d12f0b5a0",
       "jsonUrl": "/api/transcripts/res-252?format=json",
       "textUrl": "/api/transcripts/res-252"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 7932,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 9 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035",
+          "https://www.backable.biz/docs/whats-new"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "res-257",
@@ -2305,6 +2922,16 @@
         "status": "arithmetic-clarification",
         "note": "For the stated example, 10% of $100 bad debt is $10 and $10,000 minus $10 is $9,990. The final balance is marked unclear: base.en renders 1k,100 and medium.en 9k,100. Neither is substituted for the calculated result. The earlier self-correction beginning You lose 10k is preserved. This is an illustrative example, not a realized loss.",
         "sources": []
+      },
+      {
+        "start": 0,
+        "end": 4192.804,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 15 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
       }
     ]
   },
@@ -2407,6 +3034,16 @@
         "sources": [
           "https://vercel.metadao.fi/projects/loyal/proposal/98zXsz1RtvYw4zHrxaZDdGBU3BgqfsX9XJbXBLSJUBST"
         ]
+      },
+      {
+        "start": 0,
+        "end": 4085.1795,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 23 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+          "https://metadao.fi/decisions/metadao-035"
+        ]
       }
     ]
   },
@@ -2502,6 +3139,15 @@
         "note": "The Ranger comparison remains an unclear monthly amount: original ASR says 2k and 11k; medium.en says 250k in 11th. P2P's own prior burn is rendered 110–120k per month by the audio recheck, an unverified founder statement. The 175k allowance reference agrees with MetaDAO's $175,000 monthly allowance; that is a budget, not proof of spending.",
         "sources": [
           "https://metadao.fi/companies/p2p-protocol"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2845.7215625,
+        "status": "contextual-terminology-review",
+        "note": "Targeted terminology review corrected 32 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+        "sources": [
+          "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
         ]
       }
     ]

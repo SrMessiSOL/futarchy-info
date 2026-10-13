@@ -47,7 +47,7 @@
     "resourceId": "ownership-backfill-2",
     "checkedAt": "2026-10-12",
     "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 576 generated segments; 2338.06 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Full recording concerns the forthcoming raise. Claimed registration, partner licences and compliance do not establish universal regulatory approval. Liquidity-pool yields are historical promotional claims, not assured returns. Processing volume is not revenue. Expansion and token-holder campaigns are plans.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 576 generated segments; 2338.06 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Full recording concerns the forthcoming raise. Claimed registration, partner licences and compliance do not establish universal regulatory approval. Liquidity-pool yields are historical promotional claims, not assured returns. Processing volume is not revenue. Expansion and token-holder campaigns are plans. Targeted name and number review on 2026-10-13; see editorial reference checks. Unresolved amounts remain unverified; not full manual audio review.",
     "sections": [
       {
         "start": "01:35",
@@ -104,13 +104,34 @@
       "sha256": "c2de5b1e509960462f63d7f946db3073beee8dffd959a2ad385b18394d91b348",
       "jsonUrl": "/api/transcripts/ownership-backfill-2?format=json",
       "textUrl": "/api/transcripts/ownership-backfill-2"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Shrii and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/credible"
+        ]
+      },
+      {
+        "start": 510.14,
+        "end": 528.1,
+        "status": "audio-corroborated-claim",
+        "note": "Audio recheck agrees on $1.2 million in prior funding: $300,000 grants and $900,000 investment. These sum correctly and refer to pre-MetaDAO funding. MetaDAO separately lists $4 million raised; it does not independently substantiate the earlier funding split.",
+        "sources": [
+          "https://metadao.fi/companies/credible"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-3",
     "checkedAt": "2026-10-12",
     "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1023 generated segments; 4809.69 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Historical interview predates later developments. Fundraising commitments are not accepted proceeds. Legal interpretations and reserve/security assertions are not independently validated. A repeated-letter ASR artifact around 65 minutes was excluded. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1023 generated segments; 4809.69 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Historical interview predates later developments. Fundraising commitments are not accepted proceeds. Legal interpretations and reserve/security assertions are not independently validated. A repeated-letter ASR artifact around 65 minutes was excluded. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance. Targeted name and number review on 2026-10-13; see editorial reference checks. Unresolved amounts remain unverified; not full manual audio review.",
     "sections": [
       {
         "start": "00:00",
@@ -159,7 +180,37 @@
       "sha256": "ec2de5707a0bd2efa5c7d5149e151fa64c9a9ba06db891939a0da78311119f16",
       "jsonUrl": "/api/transcripts/ownership-backfill-3?format=json",
       "textUrl": "/api/transcripts/ownership-backfill-3"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Ranga and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/solomon"
+        ]
+      },
+      {
+        "start": 833.97,
+        "end": 894.25,
+        "status": "primary-source-reference",
+        "note": "The guest distinguishes a $2 million target from commitments reaching roughly $100 million. MetaDAO lists $8 million raised and a $2 million minimum. Commitments, target and accepted raise are different quantities; the $100 million recollection is not independently reconciled to on-chain deposits here.",
+        "sources": [
+          "https://metadao.fi/companies/solomon"
+        ]
+      },
+      {
+        "start": 1359.08,
+        "end": 1378.88,
+        "status": "primary-source-reference",
+        "note": "The audio recheck retains over $2.7 million of decision-market volume. SOLO-003 currently displays $2,678,067, approximately $2.7 million but below that literal threshold. Keep the spoken claim and disclose the discrepancy. Trading volume is not a treasury transfer; no historical record-ranking claim was verified.",
+        "sources": [
+          "https://metadao.fi/decisions/solo-003"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-forum-1-recording",
@@ -2045,7 +2096,7 @@
     "resourceId": "res-199",
     "checkedAt": "2026-10-12",
     "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 748 generated segments; 3699.40 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. The audio is an Umbra interview despite an erroneous Omnipair reference in one distributor description. Committed capital is not accepted proceeds. Privacy, screening and compliance assurances are founder claims, not guarantees. Transparency tooling and integrations are described partly as work in progress. Apparent chunk-boundary transcription hallucinations near five minutes were excluded from conclusions. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 748 generated segments; 3699.40 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. The audio is an Umbra interview despite an erroneous Omnipair reference in one distributor description. Committed capital is not accepted proceeds. Privacy, screening and compliance assurances are founder claims, not guarantees. Transparency tooling and integrations are described partly as work in progress. Apparent chunk-boundary transcription hallucinations near five minutes were excluded from conclusions. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance. Targeted name and number review on 2026-10-13; see editorial reference checks. Unresolved amounts remain unverified; not full manual audio review.",
     "sections": [
       {
         "start": "01:39",
@@ -2110,7 +2161,28 @@
       "sha256": "f3e081be4f2d56b16b4fdd3b977d5ebe2b964bbab4d985573b87991678b3351d",
       "jsonUrl": "/api/transcripts/res-199?format=json",
       "textUrl": "/api/transcripts/res-199"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Kru and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/umbra"
+        ]
+      },
+      {
+        "start": 1200,
+        "end": 1214.24,
+        "status": "primary-source-reference",
+        "note": "The $3 million accepted-raise figure is consistent with MetaDAO. The later 155 figure is not the accepted raise; its unit and exact committed amount were not independently established here. Retain it as unresolved rather than inventing a unit.",
+        "sources": [
+          "https://metadao.fi/companies/umbra"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "res-252",
@@ -2129,7 +2201,7 @@
     "resourceId": "res-257",
     "checkedAt": "2026-10-12",
     "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1010 generated segments; 4192.80 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Founder explanation, not an audit or proof of safety. Rakka explicitly acknowledges possible bad debt and manipulation of thinly traded pools. Governance discussion does not independently establish proposal execution. Roadmap features remain historical plans.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1010 generated segments; 4192.80 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Founder explanation, not an audit or proof of safety. Rakka explicitly acknowledges possible bad debt and manipulation of thinly traded pools. Governance discussion does not independently establish proposal execution. Roadmap features remain historical plans. Targeted name and number review on 2026-10-13; see editorial reference checks. Unresolved amounts remain unverified; not full manual audio review.",
     "sections": [
       {
         "start": "00:00",
@@ -2178,13 +2250,48 @@
       "sha256": "a78c156fcceb2ef9b5878555aacd581582e2dd4468051516504211458d12642b",
       "jsonUrl": "/api/transcripts/res-257?format=json",
       "textUrl": "/api/transcripts/res-257"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as rakka and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/omnipair"
+        ]
+      },
+      {
+        "start": 945.22,
+        "end": 951.74,
+        "status": "primary-source-reference",
+        "note": "The spoken around one million is an approximation. MetaDAO lists $1.1 million raised; retain the historical spoken wording rather than silently replacing it with a later displayed amount.",
+        "sources": [
+          "https://metadao.fi/companies/omnipair"
+        ]
+      },
+      {
+        "start": 2037,
+        "end": 2058,
+        "status": "hypothetical-example",
+        "note": "The 800 / 500k audit passage is introduced as a hypothetical bad treasury decision. It does not establish an actual audit payment or approved budget.",
+        "sources": []
+      },
+      {
+        "start": 3772.9,
+        "end": 3892.62,
+        "status": "arithmetic-clarification",
+        "note": "For the stated example, 10% of $100 bad debt is $10 and $10,000 minus $10 is $9,990. The final spoken/transcribed balance is unclear and is not silently replaced by the calculated result. This is an illustrative example, not evidence of a realized loss.",
+        "sources": []
+      }
+    ]
   },
   {
     "resourceId": "res-258",
     "checkedAt": "2026-10-12",
     "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1079 generated segments; 4085.18 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Buyback figures and token concentration are the founder’s historical account, not reconciled on-chain balances. OTC fundraising, Squads/Grid distribution and agent trading are plans or tests. Claims of regulatory protection and technical security are not established guarantees. Transcript includes an apparent repeated-farewell hallucination near the 55-minute chunk boundary and imperfect timestamps; those passages are not used as evidence. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 1079 generated segments; 4085.18 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Buyback figures and token concentration are the founder’s historical account, not reconciled on-chain balances. OTC fundraising, Squads/Grid distribution and agent trading are plans or tests. Claims of regulatory protection and technical security are not established guarantees. Transcript includes an apparent repeated-farewell hallucination near the 55-minute chunk boundary and imperfect timestamps; those passages are not used as evidence. Quality audit: 0 severe repetition interval(s) re-transcribed from hash-matched original audio; segment order sorted by existing timestamps without changing their values. Replacement excerpts remain uncorrected machine output; no manual listening or name/number verification claimed. Original research transcript hash is retained; qualityAudit records the published segment hash and repair provenance. Targeted name and number review on 2026-10-13; see editorial reference checks. Unresolved amounts remain unverified; not full manual audio review.",
     "sections": [
       {
         "start": "01:22",
@@ -2241,13 +2348,50 @@
       "sha256": "130da7d65122e28486f53ca014d1bd7ed83c9b74d37fabf01a5e24ec2387720f",
       "jsonUrl": "/api/transcripts/res-258?format=json",
       "textUrl": "/api/transcripts/res-258"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Chris and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/loyal"
+        ]
+      },
+      {
+        "start": 18.74,
+        "end": 23.74,
+        "status": "publisher-numbering",
+        "note": "Audio recheck also renders episode five, while the publisher labels this interview S1 E4. Preserve the spoken number; use S1 E4 for catalog identification.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 1782.87,
+        "end": 1828.48,
+        "status": "arithmetic-clarification",
+        "note": "MetaDAO lists $2.5 million raised. The guest reports $1.5 million spent on buybacks; that amount is 60% of $2.5 million. The nearby 70–75% token-holding claim uses a different denominator and remains unverified. No buyback execution or treasury holdings were independently checked.",
+        "sources": [
+          "https://metadao.fi/companies/loyal"
+        ]
+      },
+      {
+        "start": 1859.38,
+        "end": 1868.14,
+        "status": "unresolved-units",
+        "note": "The circulation count is rendered around 600 by the original ASR and around 600, 700 tokens by a recheck, followed by a 500k proposal threshold. Units and the historical threshold remain unresolved; do not infer missing thousands from arithmetic.",
+        "sources": []
+      }
+    ]
   },
   {
     "resourceId": "res-259",
     "checkedAt": "2026-10-12",
     "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
-    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 700 generated segments; 2845.72 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Episode precedes the raise. Fundraising plans, token distribution and future expansion are not completed outcomes. Claims that decentralization resolves regulatory exposure or screening prevents all fraud are not adopted as facts.",
+    "reviewBoundary": "Complete locally generated transcript read after retrieving the public publisher RSS audio enclosure. 700 generated segments; 2845.72 seconds of audio processed. ASR contains name/number errors; no verbatim quotes or precise figures inferred from unclear passages. This is transcript-based review, not complete manual listening or independent validation. Episode precedes the raise. Fundraising plans, token distribution and future expansion are not completed outcomes. Claims that decentralization resolves regulatory exposure or screening prevents all fraud are not adopted as facts. Targeted name and number review on 2026-10-13; see editorial reference checks. Unresolved amounts remain unverified; not full manual audio review.",
     "sections": [
       {
         "start": "00:11",
@@ -2300,7 +2444,35 @@
       "sha256": "d9f8bd73f9b3dc4849074e58155355687cdc02cf8ccb835f1e2697c4f5d41a8e",
       "jsonUrl": "/api/transcripts/res-259?format=json",
       "textUrl": "/api/transcripts/res-259"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Sheldon and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/p2p-protocol"
+        ]
+      },
+      {
+        "start": 493.63,
+        "end": 498.13,
+        "status": "unresolved-amount",
+        "note": "Original ASR rendered $68 million; a fresh small.en pass renders six to eight million, while base.en repeats $68 million. The disputed amount is marked unclear pending direct listening. This is a hypothetical VC comparison, not a completed raise.",
+        "sources": []
+      },
+      {
+        "start": 2298.51,
+        "end": 2432,
+        "status": "primary-source-reference",
+        "note": "The interview discusses a $6 million fundraising plan. MetaDAO now lists $6 million raised and a $175,000 monthly allowance. Eighteen months at that allowance is $3.15 million; the spoken $3 million is approximate, not exact budget arithmetic. The remainder is a plan, not verified expenditure.",
+        "sources": [
+          "https://metadao.fi/companies/p2p-protocol"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "res-262",

@@ -108296,7 +108296,7 @@
       {
         "start": 18.7,
         "end": 23.7,
-        "text": " I'm your host, Aide Bitpienes, and this is season one, episode five."
+        "text": " I'm your host, 8bitpenis, and this is season one, episode five."
       },
       {
         "start": 23.7,
@@ -108311,7 +108311,7 @@
       {
         "start": 32.7,
         "end": 37.7,
-        "text": " Hi, Aide Bit. Nice to join the Ownership podcast."
+        "text": " Hi, 8bit. Nice to join the Ownership podcast."
       },
       {
         "start": 37.7,
@@ -108801,7 +108801,7 @@
       {
         "start": 493.63,
         "end": 498.13,
-        "text": " We can go and raise $68 million check, probably at a better valuation,"
+        "text": " We can go and raise [unclear amount] check, probably at a better valuation,"
       },
       {
         "start": 498.63,
@@ -111795,8 +111795,41 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "de6e37d04082bff626f334fb6b90ab6927dfa592295673ce63dc19bf030e7303"
-    }
+      "publishedSegmentsSha256": "31149c7e040219ac99e0ff0df74ae3d72fb89f1df1caedcc19519fc7802f4a5a",
+      "founderReferenceReview": {
+        "checkedAt": "2026-10-13",
+        "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
+        "correctedSegments": 3
+      }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Sheldon and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/p2p-protocol"
+        ]
+      },
+      {
+        "start": 493.63,
+        "end": 498.13,
+        "status": "unresolved-amount",
+        "note": "Original ASR rendered $68 million; a fresh small.en pass renders six to eight million, while base.en repeats $68 million. The disputed amount is marked unclear pending direct listening. This is a hypothetical VC comparison, not a completed raise.",
+        "sources": []
+      },
+      {
+        "start": 2298.51,
+        "end": 2432,
+        "status": "primary-source-reference",
+        "note": "The interview discusses a $6 million fundraising plan. MetaDAO now lists $6 million raised and a $175,000 monthly allowance. Eighteen months at that allowance is $3.15 million; the spoken $3 million is approximate, not exact budget arithmetic. The remainder is a plan, not verified expenditure.",
+        "sources": [
+          "https://metadao.fi/companies/p2p-protocol"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "res-257",
@@ -111827,12 +111860,12 @@
       {
         "start": 21.76,
         "end": 26.76,
-        "text": " I'm your host, Abe Penis, and this is season one, episode two."
+        "text": " I'm your host, 8bitpenis, and this is season one, episode two."
       },
       {
         "start": 26.76,
         "end": 32.76,
-        "text": " And today I'm joined by the legendary Raka. Welcome, Raka."
+        "text": " And today I'm joined by the legendary rakka. Welcome, rakka."
       },
       {
         "start": 32.76,
@@ -111842,7 +111875,7 @@
       {
         "start": 34.76,
         "end": 43.76,
-        "text": " Raka is the founder of Omnipair, one of the first, or perhaps even the first, permissionless,"
+        "text": " rakka is the founder of Omnipair, one of the first, or perhaps even the first, permissionless,"
       },
       {
         "start": 43.76,
@@ -111857,7 +111890,7 @@
       {
         "start": 57.48,
         "end": 68.6,
-        "text": " Medadow. So if we go back to 2025, June 23rd, that is when the Omni-Pair launch officially"
+        "text": " Medadow. So if we go back to 2025, June 23rd, that is when the Omnipair launch officially"
       },
       {
         "start": 68.6,
@@ -111892,7 +111925,7 @@
       {
         "start": 109.04,
         "end": 111.4,
-        "text": " When I first thought about Ominipir,"
+        "text": " When I first thought about Omnipair,"
       },
       {
         "start": 113.32,
@@ -111917,7 +111950,7 @@
       {
         "start": 131.72,
         "end": 134.28,
-        "text": " fundraising for Ominipir, basically, right?"
+        "text": " fundraising for Omnipair, basically, right?"
       },
       {
         "start": 134.28,
@@ -113092,7 +113125,7 @@
       {
         "start": 1107.1,
         "end": 1111.1,
-        "text": " I believe, so OmniPair has been live for, I don't know, a couple weeks now."
+        "text": " I believe, so Omnipair has been live for, I don't know, a couple weeks now."
       },
       {
         "start": 1111.1,
@@ -114382,12 +114415,12 @@
       {
         "start": 2122.86,
         "end": 2130.94,
-        "text": " to talk a little bit about the product itself about Omni pair what do you think"
+        "text": " to talk a little bit about the product itself about Omnipair what do you think"
       },
       {
         "start": 2130.94,
         "end": 2137.94,
-        "text": " is the biggest moat that OmniPair has. A lot of people will hear that it's a permissionless,"
+        "text": " is the biggest moat that Omnipair has. A lot of people will hear that it's a permissionless,"
       },
       {
         "start": 2137.94,
@@ -114432,7 +114465,7 @@
       {
         "start": 2184.14,
         "end": 2190.9,
-        "text": " Because to be honest, when I think more about Omini-Pierge,"
+        "text": " Because to be honest, when I think more about Omnipair,"
       },
       {
         "start": 2190.9,
@@ -114527,7 +114560,7 @@
       {
         "start": 2273.51,
         "end": 2277.11,
-        "text": " I mean, let's say before Omnibear, right?"
+        "text": " I mean, let's say before Omnipair, right?"
       },
       {
         "start": 2277.11,
@@ -114652,7 +114685,7 @@
       {
         "start": 2374.25,
         "end": 2382.33,
-        "text": " it made sense, but for me, it just didn't make sense. So, yeah, now, like, with Omni-Peri,"
+        "text": " it made sense, but for me, it just didn't make sense. So, yeah, now, like, with Omnipair,"
       },
       {
         "start": 2382.33,
@@ -114752,7 +114785,7 @@
       {
         "start": 2475.08,
         "end": 2477.36,
-        "text": " So how does Omni-Pair do that?"
+        "text": " So how does Omnipair do that?"
       },
       {
         "start": 2477.36,
@@ -115527,7 +115560,7 @@
       {
         "start": 3082.6,
         "end": 3087.36,
-        "text": " very dumb to be honest and right now it's the case in Omniprior as well. So I mean, that's"
+        "text": " very dumb to be honest and right now it's the case in Omnipair as well. So I mean, that's"
       },
       {
         "start": 3087.36,
@@ -115867,7 +115900,7 @@
       {
         "start": 3312.8,
         "end": 3317.15,
-        "text": " How does Omni-Pair deal with that?"
+        "text": " How does Omnipair deal with that?"
       },
       {
         "start": 3317.15,
@@ -116262,7 +116295,7 @@
       {
         "start": 3580.0299999999997,
         "end": 3583.0299999999997,
-        "text": " But I mean for Omnipit, it's formalized, this is going to happen."
+        "text": " But I mean for Omnipair, it's formalized, this is going to happen."
       },
       {
         "start": 3583.0299999999997,
@@ -116797,7 +116830,7 @@
       {
         "start": 4115.88,
         "end": 4121.64,
-        "text": " actually going to be more interesting and more feasible to happen in Omni Bird, which"
+        "text": " actually going to be more interesting and more feasible to happen in Omnipair, which"
       },
       {
         "start": 4121.64,
@@ -116817,7 +116850,7 @@
       {
         "start": 4143.88,
         "end": 4152.6,
-        "text": " to see how it turns out. I absolutely am a huge fan of Omni-Pair. I think it's"
+        "text": " to see how it turns out. I absolutely am a huge fan of Omnipair. I think it's"
       },
       {
         "start": 4152.6,
@@ -116847,7 +116880,7 @@
       {
         "start": 4171.8,
         "end": 4179.8,
-        "text": " But thank you, Raka, for coming here today and talking to me about Omni-Pair and Medi-Dow"
+        "text": " But thank you, rakka, for coming here today and talking to me about Omnipair and Medi-Dow"
       },
       {
         "start": 4179.8,
@@ -116876,8 +116909,48 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "8f0d1f16b39b58525c78b40bf3c0de731429288bdb9951ed475ca99a5bb5822c"
-    }
+      "publishedSegmentsSha256": "9514169420161e04d92fc54e2d7f9b0c743cb03daad2bec1ef37a34cdd83c2fe",
+      "founderReferenceReview": {
+        "checkedAt": "2026-10-13",
+        "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
+        "correctedSegments": 19
+      }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as rakka and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/omnipair"
+        ]
+      },
+      {
+        "start": 945.22,
+        "end": 951.74,
+        "status": "primary-source-reference",
+        "note": "The spoken around one million is an approximation. MetaDAO lists $1.1 million raised; retain the historical spoken wording rather than silently replacing it with a later displayed amount.",
+        "sources": [
+          "https://metadao.fi/companies/omnipair"
+        ]
+      },
+      {
+        "start": 2037,
+        "end": 2058,
+        "status": "hypothetical-example",
+        "note": "The 800 / 500k audit passage is introduced as a hypothetical bad treasury decision. It does not establish an actual audit payment or approved budget.",
+        "sources": []
+      },
+      {
+        "start": 3772.9,
+        "end": 3892.62,
+        "status": "arithmetic-clarification",
+        "note": "For the stated example, 10% of $100 bad debt is $10 and $10,000 minus $10 is $9,990. The final spoken/transcribed balance is unclear and is not silently replaced by the calculated result. This is an illustrative example, not evidence of a realized loss.",
+        "sources": []
+      }
+    ]
   },
   {
     "resourceId": "res-258",
@@ -116908,7 +116981,7 @@
       {
         "start": 18.74,
         "end": 23.74,
-        "text": " I'm your host, A bit Penis, and this is season one, episode five."
+        "text": " I'm your host, 8bitpenis, and this is season one, episode five."
       },
       {
         "start": 23.74,
@@ -116923,7 +116996,7 @@
       {
         "start": 34.74,
         "end": 39.74,
-        "text": " And today I'm joined by Chris from Loyo."
+        "text": " And today I'm joined by Chris from Loyal."
       },
       {
         "start": 39.74,
@@ -119103,7 +119176,7 @@
       {
         "start": 1791.03,
         "end": 1793.47,
-        "text": " So we raised in double two and a half."
+        "text": " So we raised in total two and a half."
       },
       {
         "start": 1793.47,
@@ -122303,8 +122376,50 @@
       "untranscribedIntervals": [],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "74243ac5b8877070e8c516ba7ea855b27f0bf5ab9775b153883a563c55e04fa7"
-    }
+      "publishedSegmentsSha256": "821b211cdbab0bc7c4f9bd96566e42b4781a3eb161f9da0a4497e4775f79df62",
+      "founderReferenceReview": {
+        "checkedAt": "2026-10-13",
+        "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
+        "correctedSegments": 3
+      }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Chris and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/loyal"
+        ]
+      },
+      {
+        "start": 18.74,
+        "end": 23.74,
+        "status": "publisher-numbering",
+        "note": "Audio recheck also renders episode five, while the publisher labels this interview S1 E4. Preserve the spoken number; use S1 E4 for catalog identification.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 1782.87,
+        "end": 1828.48,
+        "status": "arithmetic-clarification",
+        "note": "MetaDAO lists $2.5 million raised. The guest reports $1.5 million spent on buybacks; that amount is 60% of $2.5 million. The nearby 70–75% token-holding claim uses a different denominator and remains unverified. No buyback execution or treasury holdings were independently checked.",
+        "sources": [
+          "https://metadao.fi/companies/loyal"
+        ]
+      },
+      {
+        "start": 1859.38,
+        "end": 1868.14,
+        "status": "unresolved-units",
+        "note": "The circulation count is rendered around 600 by the original ASR and around 600, 700 tokens by a recheck, followed by a 500k proposal threshold. Units and the historical threshold remain unresolved; do not infer missing thousands from arithmetic.",
+        "sources": []
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-2",
@@ -122335,7 +122450,7 @@
       {
         "start": 22.25,
         "end": 29.09,
-        "text": " I'm your host, Ate Bit Penis, and I have today somebody who is a very special guest."
+        "text": " I'm your host, 8bitpenis, and I have today somebody who is a very special guest."
       },
       {
         "start": 29.09,
@@ -122350,12 +122465,12 @@
       {
         "start": 38.85,
         "end": 45.01,
-        "text": " live or it's going to be live in a couple days. Today we have Shri from"
+        "text": " live or it's going to be live in a couple days. Today we have Shrii from"
       },
       {
         "start": 45.01,
         "end": 53.05,
-        "text": " Incredible Finance. Hey Shri, how you doing? Hey, I'm good. What's up? So I don't"
+        "text": " Credible Finance. Hey Shrii, how you doing? Hey, I'm good. What's up? So I don't"
       },
       {
         "start": 53.05,
@@ -122425,7 +122540,7 @@
       {
         "start": 104.83,
         "end": 109.89,
-        "text": " I started my career in 2011 with a company called Jamalto."
+        "text": " I started my career in 2011 with a company called Gemalto."
       },
       {
         "start": 109.89,
@@ -123045,7 +123160,7 @@
       {
         "start": 524.06,
         "end": 528.1,
-        "text": " It includes collosium, it includes outlier ventures."
+        "text": " It includes Colosseum, it includes outlier ventures."
       },
       {
         "start": 528.1,
@@ -125214,8 +125329,34 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "207fde04fba7e03caee86ab370c1860617e80d0f42e0234ca4ab1abd2e27bf36"
-    }
+      "publishedSegmentsSha256": "f269a5b63213b59a2e2d66129c4c743475eced565cc1f82f0211dd21e8b75afc",
+      "founderReferenceReview": {
+        "checkedAt": "2026-10-13",
+        "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
+        "correctedSegments": 5
+      }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Shrii and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/credible"
+        ]
+      },
+      {
+        "start": 510.14,
+        "end": 528.1,
+        "status": "audio-corroborated-claim",
+        "note": "Audio recheck agrees on $1.2 million in prior funding: $300,000 grants and $900,000 investment. These sum correctly and refer to pre-MetaDAO funding. MetaDAO separately lists $4 million raised; it does not independently substantiate the earlier funding split.",
+        "sources": [
+          "https://metadao.fi/companies/credible"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "res-199",
@@ -125251,12 +125392,12 @@
       {
         "start": 19.08,
         "end": 24.56,
-        "text": " I'm your host, A Bit Penis, and this is season one, episode three."
+        "text": " I'm your host, 8bitpenis, and this is season one, episode three."
       },
       {
         "start": 24.56,
         "end": 29.36,
-        "text": " And today I'm joined by crew from Umber privacy."
+        "text": " And today I'm joined by Kru from Umbra Privacy."
       },
       {
         "start": 29.36,
@@ -125286,7 +125427,7 @@
       {
         "start": 52.49,
         "end": 55.17,
-        "text": " Yeah, thank you for joining us, Drew."
+        "text": " Yeah, thank you for joining us, Kru."
       },
       {
         "start": 55.17,
@@ -128985,8 +129126,34 @@
       "untranscribedIntervals": [],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "ffb9cb68e4ff9cb2c5d991d51a1ad07a32456b83eadd29948897e2dac0c8c2bc"
-    }
+      "publishedSegmentsSha256": "71f00a8cbac2f20803420fd48a89ce8fd2f18591cc32cd628106be89f36de457",
+      "founderReferenceReview": {
+        "checkedAt": "2026-10-13",
+        "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
+        "correctedSegments": 3
+      }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Kru and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/umbra"
+        ]
+      },
+      {
+        "start": 1200,
+        "end": 1214.24,
+        "status": "primary-source-reference",
+        "note": "The $3 million accepted-raise figure is consistent with MetaDAO. The later 155 figure is not the accepted raise; its unit and exact committed amount were not independently established here. Retain it as unresolved rather than inventing a unit.",
+        "sources": [
+          "https://metadao.fi/companies/umbra"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-3",
@@ -129012,7 +129179,7 @@
       {
         "start": 1.55,
         "end": 23.86,
-        "text": " Hey everyone, this is 8-bit Penis and this is ownership podcast season one episode 10."
+        "text": " Hey everyone, this is 8bitpenis and this is ownership podcast season one episode 10."
       },
       {
         "start": 23.86,
@@ -129027,7 +129194,7 @@
       {
         "start": 32.38,
         "end": 36.22,
-        "text": " Today we have Ranga here from Soul Among Labs."
+        "text": " Today we have Ranga here from Solomon Labs."
       },
       {
         "start": 36.22,
@@ -131242,7 +131409,7 @@
       {
         "start": 1983.83,
         "end": 1990.83,
-        "text": " And our first proof point of this is USDV which is a stable coin that we're issuing."
+        "text": " And our first proof point of this is USDv which is a stable coin that we're issuing."
       },
       {
         "start": 1990.83,
@@ -131312,7 +131479,7 @@
       {
         "start": 2073.41,
         "end": 2082.49,
-        "text": " or USDV to function as a dollar while routing rewards separately in a way that can comply"
+        "text": " or USDv to function as a dollar while routing rewards separately in a way that can comply"
       },
       {
         "start": 2082.49,
@@ -131352,7 +131519,7 @@
       {
         "start": 2116.68,
         "end": 2124.28,
-        "text": " So I'm wondering how is USDV or has Solomon solving all these problems and how is it different"
+        "text": " So I'm wondering how is USDv or has Solomon solving all these problems and how is it different"
       },
       {
         "start": 2124.28,
@@ -131362,7 +131529,7 @@
       {
         "start": 2130.43,
         "end": 2138.11,
-        "text": " I'll answer that just the short answer in terms of what USDB is, is it's fully backed by"
+        "text": " I'll answer that just the short answer in terms of what USDv is, is it's fully backed by"
       },
       {
         "start": 2140.27,
@@ -131537,7 +131704,7 @@
       {
         "start": 2321.79,
         "end": 2326.59,
-        "text": " So to answer your question about what is USDV"
+        "text": " So to answer your question about what is USDv"
       },
       {
         "start": 2326.59,
@@ -131707,7 +131874,7 @@
       {
         "start": 2470.8,
         "end": 2474.28,
-        "text": " So in USDV's case, yeah, Treasury bills and other stables,"
+        "text": " So in USDv's case, yeah, Treasury bills and other stables,"
       },
       {
         "start": 2474.28,
@@ -131722,7 +131889,7 @@
       {
         "start": 2483.64,
         "end": 2489.74,
-        "text": " what amount backs X amount of USDV on chain."
+        "text": " what amount backs X amount of USDv on chain."
       },
       {
         "start": 2489.74,
@@ -131732,7 +131899,7 @@
       {
         "start": 2494.9,
         "end": 2499.04,
-        "text": " that you're moving away from the SUSDV model"
+        "text": " that you're moving away from the sUSDv model"
       },
       {
         "start": 2499.04,
@@ -131857,27 +132024,27 @@
       {
         "start": 2630.14,
         "end": 2635.82,
-        "text": " who wanted to access it through this permissionless nature which was the state version of the USDB."
+        "text": " who wanted to access it through this permissionless nature which was the state version of the USDv."
       },
       {
         "start": 2635.82,
         "end": 2644.3,
-        "text": " And then we would have USDB as the stablecoin and we would use our YAST infrastructure to route"
+        "text": " And then we would have USDv as the stablecoin and we would use our YaaS infrastructure to route"
       },
       {
         "start": 2644.3,
         "end": 2662.3,
-        "text": " or yield to USDB based on policy and to determine, you know, that would define who is eligible or who is not eligible or set policy to define who is eligible and who is not eligible."
+        "text": " or yield to USDv based on policy and to determine, you know, that would define who is eligible or who is not eligible or set policy to define who is eligible and who is not eligible."
       },
       {
         "start": 2662.3,
         "end": 2673.3,
-        "text": " So, that was, yeah, sorry, long winded, but the original plan was to continue that model of the two token model, which was USDB and then a state version of USDB."
+        "text": " So, that was, yeah, sorry, long winded, but the original plan was to continue that model of the two token model, which was USDv and then a state version of USDv."
       },
       {
         "start": 2673.3,
         "end": 2676.54,
-        "text": " version of USDB. US State version was this permissionless,"
+        "text": " version of USDv. US State version was this permissionless,"
       },
       {
         "start": 2676.7,
@@ -131887,7 +132054,7 @@
       {
         "start": 2680.94,
         "end": 2685.62,
-        "text": " The USDB would be the stablecoin that you use."
+        "text": " The USDv would be the stablecoin that you use."
       },
       {
         "start": 2685.9,
@@ -131927,7 +132094,7 @@
       {
         "start": 2706,
         "end": 2708.64,
-        "text": " with people who would want to use USDV."
+        "text": " with people who would want to use USDv."
       },
       {
         "start": 2708.64,
@@ -131982,7 +132149,7 @@
       {
         "start": 2749.56,
         "end": 2754.56,
-        "text": " and access to yield for all through just USDB."
+        "text": " and access to yield for all through just USDv."
       },
       {
         "start": 2755.76,
@@ -132182,7 +132349,7 @@
       {
         "start": 2931,
         "end": 2939.88,
-        "text": " you as a user holding USDB in a wallet and holding a few thousand dollars worth of USDB"
+        "text": " you as a user holding USDv in a wallet and holding a few thousand dollars worth of USDv"
       },
       {
         "start": 2939.88,
@@ -132452,12 +132619,12 @@
       {
         "start": 3220.57,
         "end": 3226.93,
-        "text": " So if MedDOT Treasuries converted over to USDV, they can hold USDV as is, and then they can"
+        "text": " So if MedDOT Treasuries converted over to USDv, they can hold USDv as is, and then they can"
       },
       {
         "start": 3226.93,
         "end": 3233.41,
-        "text": " route the yield generated on that USDV directly to, let's say, the OpEx wallet."
+        "text": " route the yield generated on that USDv directly to, let's say, the OpEx wallet."
       },
       {
         "start": 3233.41,
@@ -132487,7 +132654,7 @@
       {
         "start": 3271.17,
         "end": 3276.17,
-        "text": " or aligned to use USDV as their stablecoin."
+        "text": " or aligned to use USDv as their stablecoin."
       },
       {
         "start": 3277.49,
@@ -132507,7 +132674,7 @@
       {
         "start": 3289.57,
         "end": 3293.65,
-        "text": " we wanna build a very strong core for adoption of USDV"
+        "text": " we wanna build a very strong core for adoption of USDv"
       },
       {
         "start": 3293.65,
@@ -132707,7 +132874,7 @@
       {
         "start": 3500.27,
         "end": 3509.73,
-        "text": " We have a few ways we want to target adoption of USDV but in very particular corridors of"
+        "text": " We have a few ways we want to target adoption of USDv but in very particular corridors of"
       },
       {
         "start": 3509.73,
@@ -132807,7 +132974,7 @@
       {
         "start": 3614.84,
         "end": 3618.64,
-        "text": " Or what we're saying for USDV,"
+        "text": " Or what we're saying for USDv,"
       },
       {
         "start": 3618.64,
@@ -133957,12 +134124,12 @@
       {
         "start": 4645.18,
         "end": 4651.98,
-        "text": " for me, is I want to have skin in the game where if I expect others to hold USDV and"
+        "text": " for me, is I want to have skin in the game where if I expect others to hold USDv and"
       },
       {
         "start": 4651.98,
         "end": 4659.82,
-        "text": " use USDV, I should be the biggest user and I should have all of my capital in some sense"
+        "text": " use USDv, I should be the biggest user and I should have all of my capital in some sense"
       },
       {
         "start": 4661.42,
@@ -134052,7 +134219,7 @@
       {
         "start": 4768.84,
         "end": 4773.82,
-        "text": " and then, yeah, showing that USDV is the default dollar"
+        "text": " and then, yeah, showing that USDv is the default dollar"
       },
       {
         "start": 4773.82,
@@ -134131,8 +134298,43 @@
       "untranscribedIntervals": [],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "7b32fd113de9775ffd0a97d057abe62ed31c7efcbb8de624c6e9f899856eeb1f"
-    }
+      "publishedSegmentsSha256": "7114c421e822fbf6220e82b99bc85ddd350e6a98cbd5e815f2166a5669737cba",
+      "founderReferenceReview": {
+        "checkedAt": "2026-10-13",
+        "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
+        "correctedSegments": 28
+      }
+    },
+    "editorialChecks": [
+      {
+        "start": 0,
+        "end": 60,
+        "status": "publisher-identity",
+        "note": "The publisher identifies this guest as Ranga and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss",
+          "https://metadao.fi/companies/solomon"
+        ]
+      },
+      {
+        "start": 833.97,
+        "end": 894.25,
+        "status": "primary-source-reference",
+        "note": "The guest distinguishes a $2 million target from commitments reaching roughly $100 million. MetaDAO lists $8 million raised and a $2 million minimum. Commitments, target and accepted raise are different quantities; the $100 million recollection is not independently reconciled to on-chain deposits here.",
+        "sources": [
+          "https://metadao.fi/companies/solomon"
+        ]
+      },
+      {
+        "start": 1359.08,
+        "end": 1378.88,
+        "status": "primary-source-reference",
+        "note": "The audio recheck retains over $2.7 million of decision-market volume. SOLO-003 currently displays $2,678,067, approximately $2.7 million but below that literal threshold. Keep the spoken claim and disclose the discrepancy. Trading volume is not a treasury transfer; no historical record-ranking claim was verified.",
+        "sources": [
+          "https://metadao.fi/decisions/solo-003"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-report-15-recording",

@@ -1,0 +1,2027 @@
+{
+  "checkedAt": "2026-10-13",
+  "feedUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+  "feedSha256": "3e0b69d44bce9e4219f6df39d62689e2e66de07d9b1e0f94d3d70c4ad5bbb1dd",
+  "reviews": [
+    {
+      "resourceId": "res-259",
+      "projectId": "p2p-protocol",
+      "guest": "Sheldon",
+      "audioSha256": "5bb5075f774438d5cb8cdc551de330ae517bc63147a696700811908cd52dcd28",
+      "originalSegmentsSha256": "de6e37d04082bff626f334fb6b90ab6927dfa592295673ce63dc19bf030e7303",
+      "numericCandidateSegments": 69,
+      "scope": "Targeted name, ticker and material-number review. Numeric candidate passages were triaged; not every statement was fact-checked and the full audio was not manually heard."
+    },
+    {
+      "resourceId": "res-257",
+      "projectId": "omnipair",
+      "guest": "rakka",
+      "audioSha256": "76054ade3c5a1638f62fcbbb5fb879e8af17f5c5e6d9013af275f117ea97da23",
+      "originalSegmentsSha256": "8f0d1f16b39b58525c78b40bf3c0de731429288bdb9951ed475ca99a5bb5822c",
+      "numericCandidateSegments": 46,
+      "scope": "Targeted name, ticker and material-number review. Numeric candidate passages were triaged; not every statement was fact-checked and the full audio was not manually heard."
+    },
+    {
+      "resourceId": "res-258",
+      "projectId": "loyal",
+      "guest": "Chris",
+      "audioSha256": "e04b8b87a46ad759cd913d772b409478c001d29d33934c179cc0d0787bf7d59e",
+      "originalSegmentsSha256": "74243ac5b8877070e8c516ba7ea855b27f0bf5ab9775b153883a563c55e04fa7",
+      "numericCandidateSegments": 48,
+      "scope": "Targeted name, ticker and material-number review. Numeric candidate passages were triaged; not every statement was fact-checked and the full audio was not manually heard."
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "projectId": "credible",
+      "guest": "Shrii",
+      "audioSha256": "862b64e88bf4117ffd5058b72f123b93334b4ead753f1546827279c6bf11d2c5",
+      "originalSegmentsSha256": "207fde04fba7e03caee86ab370c1860617e80d0f42e0234ca4ab1abd2e27bf36",
+      "numericCandidateSegments": 40,
+      "scope": "Targeted name, ticker and material-number review. Numeric candidate passages were triaged; not every statement was fact-checked and the full audio was not manually heard."
+    },
+    {
+      "resourceId": "res-199",
+      "projectId": "umbra",
+      "guest": "Kru",
+      "audioSha256": "eba01c832ea3567faaf494d033966b074ebb37d697abc0829f0a40ef6eb9ecf3",
+      "originalSegmentsSha256": "ffb9cb68e4ff9cb2c5d991d51a1ad07a32456b83eadd29948897e2dac0c8c2bc",
+      "numericCandidateSegments": 27,
+      "scope": "Targeted name, ticker and material-number review. Numeric candidate passages were triaged; not every statement was fact-checked and the full audio was not manually heard."
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "projectId": "solomon",
+      "guest": "Ranga",
+      "audioSha256": "dc15c7fe8bcf418f1ef23dade7cc93e93a58f8628baf2e0ed31477f971ce45a9",
+      "originalSegmentsSha256": "7b32fd113de9775ffd0a97d057abe62ed31c7efcbb8de624c6e9f899856eeb1f",
+      "numericCandidateSegments": 40,
+      "scope": "Targeted name, ticker and material-number review. Numeric candidate passages were triaged; not every statement was fact-checked and the full audio was not manually heard."
+    }
+  ],
+  "changes": [
+    {
+      "resourceId": "res-259",
+      "original": {
+        "start": 18.7,
+        "end": 23.7,
+        "text": " I'm your host, Aide Bitpienes, and this is season one, episode five."
+      },
+      "replacement": {
+        "start": 18.7,
+        "end": 23.7,
+        "text": " I'm your host, 8bitpenis, and this is season one, episode five."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-259",
+      "original": {
+        "start": 32.7,
+        "end": 37.7,
+        "text": " Hi, Aide Bit. Nice to join the Ownership podcast."
+      },
+      "replacement": {
+        "start": 32.7,
+        "end": 37.7,
+        "text": " Hi, 8bit. Nice to join the Ownership podcast."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 21.76,
+        "end": 26.76,
+        "text": " I'm your host, Abe Penis, and this is season one, episode two."
+      },
+      "replacement": {
+        "start": 21.76,
+        "end": 26.76,
+        "text": " I'm your host, 8bitpenis, and this is season one, episode two."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 26.76,
+        "end": 32.76,
+        "text": " And today I'm joined by the legendary Raka. Welcome, Raka."
+      },
+      "replacement": {
+        "start": 26.76,
+        "end": 32.76,
+        "text": " And today I'm joined by the legendary rakka. Welcome, rakka."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 34.76,
+        "end": 43.76,
+        "text": " Raka is the founder of Omnipair, one of the first, or perhaps even the first, permissionless,"
+      },
+      "replacement": {
+        "start": 34.76,
+        "end": 43.76,
+        "text": " rakka is the founder of Omnipair, one of the first, or perhaps even the first, permissionless,"
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 4171.8,
+        "end": 4179.8,
+        "text": " But thank you, Raka, for coming here today and talking to me about Omni-Pair and Medi-Dow"
+      },
+      "replacement": {
+        "start": 4171.8,
+        "end": 4179.8,
+        "text": " But thank you, rakka, for coming here today and talking to me about Omni-Pair and Medi-Dow"
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-258",
+      "original": {
+        "start": 18.74,
+        "end": 23.74,
+        "text": " I'm your host, A bit Penis, and this is season one, episode five."
+      },
+      "replacement": {
+        "start": 18.74,
+        "end": 23.74,
+        "text": " I'm your host, 8bitpenis, and this is season one, episode five."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-258",
+      "original": {
+        "start": 34.74,
+        "end": 39.74,
+        "text": " And today I'm joined by Chris from Loyo."
+      },
+      "replacement": {
+        "start": 34.74,
+        "end": 39.74,
+        "text": " And today I'm joined by Chris from Loyal."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "original": {
+        "start": 22.25,
+        "end": 29.09,
+        "text": " I'm your host, Ate Bit Penis, and I have today somebody who is a very special guest."
+      },
+      "replacement": {
+        "start": 22.25,
+        "end": 29.09,
+        "text": " I'm your host, 8bitpenis, and I have today somebody who is a very special guest."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "original": {
+        "start": 38.85,
+        "end": 45.01,
+        "text": " live or it's going to be live in a couple days. Today we have Shri from"
+      },
+      "replacement": {
+        "start": 38.85,
+        "end": 45.01,
+        "text": " live or it's going to be live in a couple days. Today we have Shrii from"
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "original": {
+        "start": 45.01,
+        "end": 53.05,
+        "text": " Incredible Finance. Hey Shri, how you doing? Hey, I'm good. What's up? So I don't"
+      },
+      "replacement": {
+        "start": 45.01,
+        "end": 53.05,
+        "text": " Credible Finance. Hey Shri, how you doing? Hey, I'm good. What's up? So I don't"
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "original": {
+        "start": 45.01,
+        "end": 53.05,
+        "text": " Credible Finance. Hey Shri, how you doing? Hey, I'm good. What's up? So I don't"
+      },
+      "replacement": {
+        "start": 45.01,
+        "end": 53.05,
+        "text": " Credible Finance. Hey Shrii, how you doing? Hey, I'm good. What's up? So I don't"
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 19.08,
+        "end": 24.56,
+        "text": " I'm your host, A Bit Penis, and this is season one, episode three."
+      },
+      "replacement": {
+        "start": 19.08,
+        "end": 24.56,
+        "text": " I'm your host, 8bitpenis, and this is season one, episode three."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 24.56,
+        "end": 29.36,
+        "text": " And today I'm joined by crew from Umber privacy."
+      },
+      "replacement": {
+        "start": 24.56,
+        "end": 29.36,
+        "text": " And today I'm joined by Kru from Umbra Privacy."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 52.49,
+        "end": 55.17,
+        "text": " Yeah, thank you for joining us, Drew."
+      },
+      "replacement": {
+        "start": 52.49,
+        "end": 55.17,
+        "text": " Yeah, thank you for joining us, Kru."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 1.55,
+        "end": 23.86,
+        "text": " Hey everyone, this is 8-bit Penis and this is ownership podcast season one episode 10."
+      },
+      "replacement": {
+        "start": 1.55,
+        "end": 23.86,
+        "text": " Hey everyone, this is 8bitpenis and this is ownership podcast season one episode 10."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 32.38,
+        "end": 36.22,
+        "text": " Today we have Ranga here from Soul Among Labs."
+      },
+      "replacement": {
+        "start": 32.38,
+        "end": 36.22,
+        "text": " Today we have Ranga here from Solomon Labs."
+      },
+      "basis": "Editorial spelling correction using publisher guest/host identification and transcript context; not a new speaker attribution.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 57.48,
+        "end": 68.6,
+        "text": " Medadow. So if we go back to 2025, June 23rd, that is when the Omni-Pair launch officially"
+      },
+      "replacement": {
+        "start": 57.48,
+        "end": 68.6,
+        "text": " Medadow. So if we go back to 2025, June 23rd, that is when the Omnipair launch officially"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 109.04,
+        "end": 111.4,
+        "text": " When I first thought about Ominipir,"
+      },
+      "replacement": {
+        "start": 109.04,
+        "end": 111.4,
+        "text": " When I first thought about Omnipair,"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 131.72,
+        "end": 134.28,
+        "text": " fundraising for Ominipir, basically, right?"
+      },
+      "replacement": {
+        "start": 131.72,
+        "end": 134.28,
+        "text": " fundraising for Omnipair, basically, right?"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 1107.1,
+        "end": 1111.1,
+        "text": " I believe, so OmniPair has been live for, I don't know, a couple weeks now."
+      },
+      "replacement": {
+        "start": 1107.1,
+        "end": 1111.1,
+        "text": " I believe, so Omnipair has been live for, I don't know, a couple weeks now."
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 2122.86,
+        "end": 2130.94,
+        "text": " to talk a little bit about the product itself about Omni pair what do you think"
+      },
+      "replacement": {
+        "start": 2122.86,
+        "end": 2130.94,
+        "text": " to talk a little bit about the product itself about Omnipair what do you think"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 2130.94,
+        "end": 2137.94,
+        "text": " is the biggest moat that OmniPair has. A lot of people will hear that it's a permissionless,"
+      },
+      "replacement": {
+        "start": 2130.94,
+        "end": 2137.94,
+        "text": " is the biggest moat that Omnipair has. A lot of people will hear that it's a permissionless,"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 2184.14,
+        "end": 2190.9,
+        "text": " Because to be honest, when I think more about Omini-Pierge,"
+      },
+      "replacement": {
+        "start": 2184.14,
+        "end": 2190.9,
+        "text": " Because to be honest, when I think more about Omnipair,"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 2273.51,
+        "end": 2277.11,
+        "text": " I mean, let's say before Omnibear, right?"
+      },
+      "replacement": {
+        "start": 2273.51,
+        "end": 2277.11,
+        "text": " I mean, let's say before Omnipair, right?"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 2374.25,
+        "end": 2382.33,
+        "text": " it made sense, but for me, it just didn't make sense. So, yeah, now, like, with Omni-Peri,"
+      },
+      "replacement": {
+        "start": 2374.25,
+        "end": 2382.33,
+        "text": " it made sense, but for me, it just didn't make sense. So, yeah, now, like, with Omnipair,"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 2475.08,
+        "end": 2477.36,
+        "text": " So how does Omni-Pair do that?"
+      },
+      "replacement": {
+        "start": 2475.08,
+        "end": 2477.36,
+        "text": " So how does Omnipair do that?"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 3082.6,
+        "end": 3087.36,
+        "text": " very dumb to be honest and right now it's the case in Omniprior as well. So I mean, that's"
+      },
+      "replacement": {
+        "start": 3082.6,
+        "end": 3087.36,
+        "text": " very dumb to be honest and right now it's the case in Omnipair as well. So I mean, that's"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 3312.8,
+        "end": 3317.15,
+        "text": " How does Omni-Pair deal with that?"
+      },
+      "replacement": {
+        "start": 3312.8,
+        "end": 3317.15,
+        "text": " How does Omnipair deal with that?"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 3580.0299999999997,
+        "end": 3583.0299999999997,
+        "text": " But I mean for Omnipit, it's formalized, this is going to happen."
+      },
+      "replacement": {
+        "start": 3580.0299999999997,
+        "end": 3583.0299999999997,
+        "text": " But I mean for Omnipair, it's formalized, this is going to happen."
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 4115.88,
+        "end": 4121.64,
+        "text": " actually going to be more interesting and more feasible to happen in Omni Bird, which"
+      },
+      "replacement": {
+        "start": 4115.88,
+        "end": 4121.64,
+        "text": " actually going to be more interesting and more feasible to happen in Omnipair, which"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 4143.88,
+        "end": 4152.6,
+        "text": " to see how it turns out. I absolutely am a huge fan of Omni-Pair. I think it's"
+      },
+      "replacement": {
+        "start": 4143.88,
+        "end": 4152.6,
+        "text": " to see how it turns out. I absolutely am a huge fan of Omnipair. I think it's"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 4171.8,
+        "end": 4179.8,
+        "text": " But thank you, rakka, for coming here today and talking to me about Omni-Pair and Medi-Dow"
+      },
+      "replacement": {
+        "start": 4171.8,
+        "end": 4179.8,
+        "text": " But thank you, rakka, for coming here today and talking to me about Omnipair and Medi-Dow"
+      },
+      "basis": "Canonical project spelling in the founder interview; individual context reviewed.",
+      "sources": [
+        "https://metadao.fi/companies/omnipair",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "original": {
+        "start": 104.83,
+        "end": 109.89,
+        "text": " I started my career in 2011 with a company called Jamalto."
+      },
+      "replacement": {
+        "start": 104.83,
+        "end": 109.89,
+        "text": " I started my career in 2011 with a company called Gemalto."
+      },
+      "basis": "Official founder biography identifies Gemalto; spelling correction only.",
+      "sources": [
+        "https://metadao.fi/companies/credible"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "original": {
+        "start": 524.06,
+        "end": 528.1,
+        "text": " It includes collosium, it includes outlier ventures."
+      },
+      "replacement": {
+        "start": 524.06,
+        "end": 528.1,
+        "text": " It includes Colosseum, it includes outlier ventures."
+      },
+      "basis": "Audio recheck and the official company page identify Colosseum.",
+      "sources": [
+        "https://metadao.fi/companies/credible"
+      ]
+    },
+    {
+      "resourceId": "res-258",
+      "original": {
+        "start": 1791.03,
+        "end": 1793.47,
+        "text": " So we raised in double two and a half."
+      },
+      "replacement": {
+        "start": 1791.03,
+        "end": 1793.47,
+        "text": " So we raised in total two and a half."
+      },
+      "basis": "Context audio recheck supports in total; the spoken two and a half is retained.",
+      "sources": [
+        "https://metadao.fi/companies/loyal"
+      ]
+    },
+    {
+      "resourceId": "res-259",
+      "original": {
+        "start": 493.63,
+        "end": 498.13,
+        "text": " We can go and raise $68 million check, probably at a better valuation,"
+      },
+      "replacement": {
+        "start": 493.63,
+        "end": 498.13,
+        "text": " We can go and raise [unclear amount] check, probably at a better valuation,"
+      },
+      "basis": "Recognizers disagree: small.en renders six to eight million, base.en renders $68 million. Do not present either as verified speech.",
+      "sources": []
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 1983.83,
+        "end": 1990.83,
+        "text": " And our first proof point of this is USDV which is a stable coin that we're issuing."
+      },
+      "replacement": {
+        "start": 1983.83,
+        "end": 1990.83,
+        "text": " And our first proof point of this is USDv which is a stable coin that we're issuing."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2073.41,
+        "end": 2082.49,
+        "text": " or USDV to function as a dollar while routing rewards separately in a way that can comply"
+      },
+      "replacement": {
+        "start": 2073.41,
+        "end": 2082.49,
+        "text": " or USDv to function as a dollar while routing rewards separately in a way that can comply"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2116.68,
+        "end": 2124.28,
+        "text": " So I'm wondering how is USDV or has Solomon solving all these problems and how is it different"
+      },
+      "replacement": {
+        "start": 2116.68,
+        "end": 2124.28,
+        "text": " So I'm wondering how is USDv or has Solomon solving all these problems and how is it different"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2130.43,
+        "end": 2138.11,
+        "text": " I'll answer that just the short answer in terms of what USDB is, is it's fully backed by"
+      },
+      "replacement": {
+        "start": 2130.43,
+        "end": 2138.11,
+        "text": " I'll answer that just the short answer in terms of what USDv is, is it's fully backed by"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2321.79,
+        "end": 2326.59,
+        "text": " So to answer your question about what is USDV"
+      },
+      "replacement": {
+        "start": 2321.79,
+        "end": 2326.59,
+        "text": " So to answer your question about what is USDv"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2470.8,
+        "end": 2474.28,
+        "text": " So in USDV's case, yeah, Treasury bills and other stables,"
+      },
+      "replacement": {
+        "start": 2470.8,
+        "end": 2474.28,
+        "text": " So in USDv's case, yeah, Treasury bills and other stables,"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2483.64,
+        "end": 2489.74,
+        "text": " what amount backs X amount of USDV on chain."
+      },
+      "replacement": {
+        "start": 2483.64,
+        "end": 2489.74,
+        "text": " what amount backs X amount of USDv on chain."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2494.9,
+        "end": 2499.04,
+        "text": " that you're moving away from the SUSDV model"
+      },
+      "replacement": {
+        "start": 2494.9,
+        "end": 2499.04,
+        "text": " that you're moving away from the sUSDv model"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2630.14,
+        "end": 2635.82,
+        "text": " who wanted to access it through this permissionless nature which was the state version of the USDB."
+      },
+      "replacement": {
+        "start": 2630.14,
+        "end": 2635.82,
+        "text": " who wanted to access it through this permissionless nature which was the state version of the USDv."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2635.82,
+        "end": 2644.3,
+        "text": " And then we would have USDB as the stablecoin and we would use our YAST infrastructure to route"
+      },
+      "replacement": {
+        "start": 2635.82,
+        "end": 2644.3,
+        "text": " And then we would have USDv as the stablecoin and we would use our YAST infrastructure to route"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2635.82,
+        "end": 2644.3,
+        "text": " And then we would have USDv as the stablecoin and we would use our YAST infrastructure to route"
+      },
+      "replacement": {
+        "start": 2635.82,
+        "end": 2644.3,
+        "text": " And then we would have USDv as the stablecoin and we would use our YaaS infrastructure to route"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2644.3,
+        "end": 2662.3,
+        "text": " or yield to USDB based on policy and to determine, you know, that would define who is eligible or who is not eligible or set policy to define who is eligible and who is not eligible."
+      },
+      "replacement": {
+        "start": 2644.3,
+        "end": 2662.3,
+        "text": " or yield to USDv based on policy and to determine, you know, that would define who is eligible or who is not eligible or set policy to define who is eligible and who is not eligible."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2662.3,
+        "end": 2673.3,
+        "text": " So, that was, yeah, sorry, long winded, but the original plan was to continue that model of the two token model, which was USDB and then a state version of USDB."
+      },
+      "replacement": {
+        "start": 2662.3,
+        "end": 2673.3,
+        "text": " So, that was, yeah, sorry, long winded, but the original plan was to continue that model of the two token model, which was USDv and then a state version of USDv."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2673.3,
+        "end": 2676.54,
+        "text": " version of USDB. US State version was this permissionless,"
+      },
+      "replacement": {
+        "start": 2673.3,
+        "end": 2676.54,
+        "text": " version of USDv. US State version was this permissionless,"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2680.94,
+        "end": 2685.62,
+        "text": " The USDB would be the stablecoin that you use."
+      },
+      "replacement": {
+        "start": 2680.94,
+        "end": 2685.62,
+        "text": " The USDv would be the stablecoin that you use."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2706,
+        "end": 2708.64,
+        "text": " with people who would want to use USDV."
+      },
+      "replacement": {
+        "start": 2706,
+        "end": 2708.64,
+        "text": " with people who would want to use USDv."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2749.56,
+        "end": 2754.56,
+        "text": " and access to yield for all through just USDB."
+      },
+      "replacement": {
+        "start": 2749.56,
+        "end": 2754.56,
+        "text": " and access to yield for all through just USDv."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 2931,
+        "end": 2939.88,
+        "text": " you as a user holding USDB in a wallet and holding a few thousand dollars worth of USDB"
+      },
+      "replacement": {
+        "start": 2931,
+        "end": 2939.88,
+        "text": " you as a user holding USDv in a wallet and holding a few thousand dollars worth of USDv"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 3220.57,
+        "end": 3226.93,
+        "text": " So if MedDOT Treasuries converted over to USDV, they can hold USDV as is, and then they can"
+      },
+      "replacement": {
+        "start": 3220.57,
+        "end": 3226.93,
+        "text": " So if MedDOT Treasuries converted over to USDv, they can hold USDv as is, and then they can"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 3226.93,
+        "end": 3233.41,
+        "text": " route the yield generated on that USDV directly to, let's say, the OpEx wallet."
+      },
+      "replacement": {
+        "start": 3226.93,
+        "end": 3233.41,
+        "text": " route the yield generated on that USDv directly to, let's say, the OpEx wallet."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 3271.17,
+        "end": 3276.17,
+        "text": " or aligned to use USDV as their stablecoin."
+      },
+      "replacement": {
+        "start": 3271.17,
+        "end": 3276.17,
+        "text": " or aligned to use USDv as their stablecoin."
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 3289.57,
+        "end": 3293.65,
+        "text": " we wanna build a very strong core for adoption of USDV"
+      },
+      "replacement": {
+        "start": 3289.57,
+        "end": 3293.65,
+        "text": " we wanna build a very strong core for adoption of USDv"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 3500.27,
+        "end": 3509.73,
+        "text": " We have a few ways we want to target adoption of USDV but in very particular corridors of"
+      },
+      "replacement": {
+        "start": 3500.27,
+        "end": 3509.73,
+        "text": " We have a few ways we want to target adoption of USDv but in very particular corridors of"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 3614.84,
+        "end": 3618.64,
+        "text": " Or what we're saying for USDV,"
+      },
+      "replacement": {
+        "start": 3614.84,
+        "end": 3618.64,
+        "text": " Or what we're saying for USDv,"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 4645.18,
+        "end": 4651.98,
+        "text": " for me, is I want to have skin in the game where if I expect others to hold USDV and"
+      },
+      "replacement": {
+        "start": 4645.18,
+        "end": 4651.98,
+        "text": " for me, is I want to have skin in the game where if I expect others to hold USDv and"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 4651.98,
+        "end": 4659.82,
+        "text": " use USDV, I should be the biggest user and I should have all of my capital in some sense"
+      },
+      "replacement": {
+        "start": 4651.98,
+        "end": 4659.82,
+        "text": " use USDv, I should be the biggest user and I should have all of my capital in some sense"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "original": {
+        "start": 4768.84,
+        "end": 4773.82,
+        "text": " and then, yeah, showing that USDV is the default dollar"
+      },
+      "replacement": {
+        "start": 4768.84,
+        "end": 4773.82,
+        "text": " and then, yeah, showing that USDv is the default dollar"
+      },
+      "basis": "Canonical product/ticker spelling from Solomon and the publisher description; product claims and historical tense unchanged.",
+      "sources": [
+        "https://metadao.fi/companies/solomon",
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    }
+  ],
+  "audioRechecks": [
+    {
+      "file": "Sheldon",
+      "start": 480,
+      "end": 510,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "a7e9c8ddd0fe36703e8e8b389f6b62e015bd7d0ffd557b5b6fe9fd0c10689459",
+      "segments": [
+        {
+          "start": 480,
+          "end": 487.34,
+          "text": " of take the regulatory heat, right? So, this is our biggest, biggest win of doing, doing the"
+        },
+        {
+          "start": 488.92,
+          "end": 493.46,
+          "text": " decentralization slash metadata of ICO, right? This is something which VC money cannot buy us."
+        },
+        {
+          "start": 493.7,
+          "end": 497.78,
+          "text": " We can go and raise a six to eight million dollar check, probably at a better valuation,"
+        },
+        {
+          "start": 498.52,
+          "end": 503.3,
+          "text": " given VCs want to sort of look at it long term or whatever, but we don't solve the regulatory"
+        },
+        {
+          "start": 503.3,
+          "end": 508.38,
+          "text": " problem. We don't, so fundamentally starting off with metadata, doing this round successfully"
+        },
+        {
+          "start": 508.38,
+          "end": 509.86,
+          "text": " brings us decentralization."
+        }
+      ]
+    },
+    {
+      "file": "Sheldon",
+      "start": 2380,
+      "end": 2435,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "dc21c54d1117bdb4221c243a6dacadb3977d2edb1b921c930a5f8e536025b10a",
+      "segments": [
+        {
+          "start": 2381.12,
+          "end": 2386.1,
+          "text": " Honestly, anything less than $6 million right now is under-capitalizing the opportunity"
+        },
+        {
+          "start": 2386.1,
+          "end": 2391,
+          "text": " so that we will actually fail as a company because we have less money to go after the"
+        },
+        {
+          "start": 2391,
+          "end": 2391.3,
+          "text": " problem."
+        },
+        {
+          "start": 2392.66,
+          "end": 2394.66,
+          "text": " So, that's the way we look at it."
+        },
+        {
+          "start": 2394.98,
+          "end": 2400,
+          "text": " But however, coming back to how we are going to spend the money, so we are looking at this"
+        },
+        {
+          "start": 2400,
+          "end": 2407.8,
+          "text": " $6 million as 18 months runway for the team at $175K, that is $3 million, and we are going"
+        },
+        {
+          "start": 2407.8,
+          "end": 2413.44,
+          "text": " to use the other $3 million to sort of, you know, put up photography proposals, mostly"
+        },
+        {
+          "start": 2413.44,
+          "end": 2420.34,
+          "text": " tuned towards growth, either launching new markets or setting up proposals for B2B integrations or"
+        },
+        {
+          "start": 2420.34,
+          "end": 2425.74,
+          "text": " grant programs and stuff like that. So on the whole, we can look at the $6 million, half of"
+        },
+        {
+          "start": 2425.74,
+          "end": 2430.54,
+          "text": " it is part for the team for the elements for 18 months, other half is to sort of fund the growth"
+        },
+        {
+          "start": 2430.54,
+          "end": 2434.56,
+          "text": " across geographies and across business use cases."
+        }
+      ]
+    },
+    {
+      "file": "rakka",
+      "start": 20,
+      "end": 75,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "19678876f033bd360aa8b1dc10de40800e7efcc240b7f9d39f57435893b9883a",
+      "segments": [
+        {
+          "start": 20,
+          "end": 21.04,
+          "text": " crypto and beyond."
+        },
+        {
+          "start": 22.22,
+          "end": 23.86,
+          "text": " I'm your host, Abe Bitpenis,"
+        },
+        {
+          "start": 24.34,
+          "end": 26.3,
+          "text": " and this is season one, episode two."
+        },
+        {
+          "start": 27.04,
+          "end": 30.18,
+          "text": " And today I'm joined by the legendary Raka."
+        },
+        {
+          "start": 31.1,
+          "end": 31.939999999999998,
+          "text": " Welcome, Raka."
+        },
+        {
+          "start": 32.74,
+          "end": 33.34,
+          "text": " Hey."
+        },
+        {
+          "start": 35.2,
+          "end": 38.58,
+          "text": " Raka is the founder of OmniPair,"
+        },
+        {
+          "start": 39.879999999999995,
+          "end": 42.66,
+          "text": " one of the first, or perhaps even the first,"
+        },
+        {
+          "start": 42.9,
+          "end": 47.32,
+          "text": " permissionless, oracle-less lending market on Solana."
+        },
+        {
+          "start": 47.32,
+          "end": 57.2,
+          "text": " Yeah, he is the person, or it is the project that was one of the first to actually launch"
+        },
+        {
+          "start": 57.2,
+          "end": 57.84,
+          "text": " through MetaDao."
+        },
+        {
+          "start": 58.24,
+          "end": 69.52000000000001,
+          "text": " So if we go back to 2025, June 23rd, that is when the OmniPair launch officially got announced"
+        },
+        {
+          "start": 69.52000000000001,
+          "end": 73.68,
+          "text": " on the Metadow Twitter account, or X, I guess."
+        }
+      ]
+    },
+    {
+      "file": "Chris",
+      "start": 15,
+      "end": 60,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "6ff40e5e21f7bb6f87f7b15030fba291f004498062a1f97e16672502d81e3e3a",
+      "segments": [
+        {
+          "start": 15,
+          "end": 21.54,
+          "text": " conversations about capital formation in crypto and beyond. I'm your host, AteBitPenis, and this"
+        },
+        {
+          "start": 21.54,
+          "end": 27.86,
+          "text": " is season one, episode five. I also want to give a shout out to anybody listening to and encourage"
+        },
+        {
+          "start": 27.86,
+          "end": 35.94,
+          "text": " them to join our Telegram community, which you can find on our Twitter profile. And today,"
+        },
+        {
+          "start": 35.94,
+          "end": 42.18,
+          "text": " I'm joined by Chris from Loyal. Welcome, Chris. It's a pleasure to have you on."
+        },
+        {
+          "start": 42.18,
+          "end": 43.66,
+          "text": " Did you practice that?"
+        },
+        {
+          "start": 43.84,
+          "end": 44.82,
+          "text": " That was smooth as hell."
+        },
+        {
+          "start": 45.34,
+          "end": 49.68,
+          "text": " Actually, I mean, man, I've had a couple of episodes now."
+        },
+        {
+          "start": 50.06,
+          "end": 51.36,
+          "text": " So, oh, I'm sorry."
+        },
+        {
+          "start": 51.7,
+          "end": 53.18,
+          "text": " You're an experienced podcaster now."
+        },
+        {
+          "start": 53.48,
+          "end": 54.36,
+          "text": " Oh, I didn't recommend that."
+        },
+        {
+          "start": 54.36,
+          "end": 54.6,
+          "text": " Yes, sir."
+        },
+        {
+          "start": 55.86,
+          "end": 56.72,
+          "text": " No, that is cool."
+        },
+        {
+          "start": 56.82,
+          "end": 57.64,
+          "text": " That is very cool."
+        },
+        {
+          "start": 58.36,
+          "end": 59.98,
+          "text": " I'm actually, we are doing..."
+        }
+      ]
+    },
+    {
+      "file": "Chris",
+      "start": 1790,
+      "end": 1840,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "ca48a47d3cc47116a901a72b1c5b86213c8bd834307c69dab34e195f3d596524",
+      "segments": [
+        {
+          "start": 1790,
+          "end": 1796.26,
+          "text": " Um, so we raised in total two and a half, so more than 50%, like 70%."
+        },
+        {
+          "start": 1796.26,
+          "end": 1803.62,
+          "text": " And it actually, it was a bad, uh, it was a, it had bad and good things about it."
+        },
+        {
+          "start": 1803.68,
+          "end": 1806.78,
+          "text": " So bad things, obviously stressful, obviously lost money, but the good"
+        },
+        {
+          "start": 1806.78,
+          "end": 1812.76,
+          "text": " things is that now we have 70% of our token is in our treasury."
+        },
+        {
+          "start": 1813.22,
+          "end": 1817.3,
+          "text": " We bought it all back sometimes, uh, under the price of the buyback."
+        },
+        {
+          "start": 1817.3,
+          "end": 1818.38,
+          "text": " So we bought it all back."
+        },
+        {
+          "start": 1818.38,
+          "end": 1824.3,
+          "text": " We hold 70% of the talking increase circulation, like 75% maybe."
+        },
+        {
+          "start": 1824.92,
+          "end": 1830.34,
+          "text": " The rest percent is split between our whales and everyone else."
+        },
+        {
+          "start": 1830.66,
+          "end": 1839.86,
+          "text": " So right now, unlike all the other projects, we are in this situation where only the collaboration of our whales would allow for any proposals to be raised."
+        }
+      ]
+    },
+    {
+      "file": "Shrii",
+      "start": 35,
+      "end": 75,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "1edfe0e17cef0b3d12c0cd0b1cb20d0d94434467154cc84e0f2b3484afbc0d64",
+      "segments": [
+        {
+          "start": 35,
+          "end": 39.96,
+          "text": " I'm pretty sure that, you know, the raise is either already live or it's going to be"
+        },
+        {
+          "start": 39.96,
+          "end": 41.96,
+          "text": " live in a couple of days."
+        },
+        {
+          "start": 42.96,
+          "end": 45.86,
+          "text": " Today we have Sri from Credible Finance."
+        },
+        {
+          "start": 46.82,
+          "end": 47.78,
+          "text": " Hey Sri, how are you doing?"
+        },
+        {
+          "start": 48.5,
+          "end": 49.96,
+          "text": " Hey Edward, I'm good, what's up?"
+        },
+        {
+          "start": 52.019999999999996,
+          "end": 53.96,
+          "text": " So I don't want to waste too much time."
+        },
+        {
+          "start": 54.28,
+          "end": 57.3,
+          "text": " I just want to get right into the nitty gritty stuff."
+        },
+        {
+          "start": 59.720000000000006,
+          "end": 64.4,
+          "text": " So, I just want to know a little bit about your background and, you know, how you found"
+        },
+        {
+          "start": 64.4,
+          "end": 67.24000000000001,
+          "text": " Founded incredible and how you found metadata."
+        },
+        {
+          "start": 67.78,
+          "end": 71.7,
+          "text": " So could you please walk me through like your background?"
+        },
+        {
+          "start": 72.3,
+          "end": 74.86,
+          "text": " Do you come from crypto or are you always a crypto native?"
+        }
+      ]
+    },
+    {
+      "file": "Shrii",
+      "start": 500,
+      "end": 540,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "debe71f8a2891717a80569c1170197238a568d16b4033f5bb23c610be7eaa820",
+      "segments": [
+        {
+          "start": 500,
+          "end": 508.1,
+          "text": " You guys have previous investors before Metadow and how do you reconcile the two?"
+        },
+        {
+          "start": 509.62,
+          "end": 516.5,
+          "text": " Right. So we do have existing investors. But I mean, we raised about like $1.2"
+        },
+        {
+          "start": 516.5,
+          "end": 525.16,
+          "text": " million of which 300k is in grants and 900k is in investment. Like it includes Colosseum,"
+        },
+        {
+          "start": 525.16,
+          "end": 531.48,
+          "text": " It includes outlier ventures then a couple of angels as well as like"
+        },
+        {
+          "start": 532.52,
+          "end": 539.56,
+          "text": " Family offices and so on so we have you know, like we have not diluted much. We have diluted pretty"
+        }
+      ]
+    },
+    {
+      "file": "Kru",
+      "start": 19,
+      "end": 60,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "f1508c15c40ef12e2857e097e063c8dfce16c3b2ace1c9e744dc3d0645d40a71",
+      "segments": [
+        {
+          "start": 19,
+          "end": 26.740000000000002,
+          "text": " I'm your host, 8-Bit Penis, and this is Season 1, Episode 3, and today, I'm joined by crew"
+        },
+        {
+          "start": 26.740000000000002,
+          "end": 29.54,
+          "text": " from Umbra Privacy. Welcome."
+        },
+        {
+          "start": 34.26,
+          "end": 41.66,
+          "text": " Hey, guys. Nice to be here. It's always a pleasure being called by this legend"
+        },
+        {
+          "start": 41.66,
+          "end": 50.54,
+          "text": " to talk about crypto, capital formation, and some spices of privacy as well, I guess."
+        },
+        {
+          "start": 52.12,
+          "end": 53.82,
+          "text": " Yeah, thank you for joining us, True."
+        },
+        {
+          "start": 55.08,
+          "end": 59.98,
+          "text": " I'm very excited for this episode because I'm very passionate about both privacy and meta-"
+        }
+      ]
+    },
+    {
+      "file": "Kru",
+      "start": 1180,
+      "end": 1220,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "2d862381c34d760799b847b94705606f1fc1854c7de4a2cfb9fcca6e7ef8d4b4",
+      "segments": [
+        {
+          "start": 1180,
+          "end": 1187.6,
+          "text": " because you were able to raise so much so quick, where's the balance there, you know?"
+        },
+        {
+          "start": 1189.46,
+          "end": 1197.34,
+          "text": " I think it's a give and take, right? There is in no way, shape or form that a team like us would"
+        },
+        {
+          "start": 1197.34,
+          "end": 1204.8,
+          "text": " have been able to raise, well, three million dollars in four days, okay? I would say that we"
+        },
+        {
+          "start": 1204.96,
+          "end": 1214,
+          "text": " We could have raised more, we could have taken many more funds from the 155 that we raised."
+        },
+        {
+          "start": 1217.04,
+          "end": 1219.84,
+          "text": " But this is a team which has first-time funds."
+        }
+      ]
+    },
+    {
+      "file": "Ranga",
+      "start": 25,
+      "end": 40,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "2a9d412c18681d2adb040048e205515b2c4b545e66035b8a2081e504f6ec4f37",
+      "segments": [
+        {
+          "start": 25,
+          "end": 30.66,
+          "text": " episode, somebody who I've been wanting to have on for a long time and we finally made it happen."
+        },
+        {
+          "start": 32.18,
+          "end": 38.62,
+          "text": " Today we have Ranga here from Solomong Labs. Welcome. Hey thanks Aitbit."
+        }
+      ]
+    },
+    {
+      "file": "Ranga",
+      "start": 825,
+      "end": 900,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "23d3d5c0ca9303a582fc1d1836d7a2bb9374885d058fe6637bc0e227b76a168d",
+      "segments": [
+        {
+          "start": 825,
+          "end": 832.9,
+          "text": " us all. But I did message Colin that, hey, someone's going to attempt this. At that point,"
+        },
+        {
+          "start": 833.88,
+          "end": 840.12,
+          "text": " our target was 2 million. We had about 5 million commits or 6 million. I can't recall the night"
+        },
+        {
+          "start": 840.12,
+          "end": 850.72,
+          "text": " before. And so the morning of the largest cloud flare outage occurred. And so the site went down"
+        },
+        {
+          "start": 850.72,
+          "end": 861.82,
+          "text": " And there were there were jokes about how the cabal took down the the internet in order to take up the Solomon Rays in order to win some polymarket bets."
+        },
+        {
+          "start": 862.88,
+          "end": 866.2,
+          "text": " Obviously, it was a joke, but it created a little bit of FOMO."
+        },
+        {
+          "start": 866.92,
+          "end": 874.26,
+          "text": " And then they did start to attack the sites that were being put up in lieu of that with, you know, Colin was fighting that pretty hard."
+        },
+        {
+          "start": 874.26,
+          "end": 877.14,
+          "text": " But I think that actually attracted more attention."
+        },
+        {
+          "start": 878.88,
+          "end": 885.56,
+          "text": " And then I think within a few hours prior to close, we jumped from about 15 million committed all the way to 100 million."
+        },
+        {
+          "start": 887.1,
+          "end": 889.72,
+          "text": " And yeah, it was quite eventful."
+        },
+        {
+          "start": 891.04,
+          "end": 899.04,
+          "text": " And in those three days, I was probably on a number of podcast interviews talking about Solomon and just talking to funds."
+        },
+        {
+          "start": 899.04,
+          "end": 899.76,
+          "text": " and"
+        }
+      ]
+    },
+    {
+      "file": "Ranga",
+      "start": 1340,
+      "end": 1390,
+      "method": "small.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "d5028daf71f2f5077b3496b0f9aac3bc7aaf50cdca307d4bf0597d877e20be04",
+      "segments": [
+        {
+          "start": 1340,
+          "end": 1348.78,
+          "text": " they were bullish on Solomon and actually near the end of when the proposal was closing,"
+        },
+        {
+          "start": 1350.18,
+          "end": 1357.54,
+          "text": " or the decision markets were closing, they actually started to trade for passing that proposal."
+        },
+        {
+          "start": 1358.84,
+          "end": 1368.66,
+          "text": " The proposal ended up having over $2.7 million in volume traded, and that's, I think, significantly"
+        },
+        {
+          "start": 1368.66,
+          "end": 1376.44,
+          "text": " higher than the previous most contested or traded decision market in metadata"
+        },
+        {
+          "start": 1376.44,
+          "end": 1383.68,
+          "text": " history or any decision market history. So what learnings do you get from that"
+        },
+        {
+          "start": 1383.68,
+          "end": 1389.86,
+          "text": " experience? It feels like after such a huge event you may be the"
+        }
+      ]
+    },
+    {
+      "file": "Sheldon",
+      "start": 480,
+      "end": 510,
+      "method": "base.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "0d7595537074f3b714a8626fe484a0ced2dbe941151507a2957f1da848f9b628",
+      "segments": [
+        {
+          "start": 480,
+          "end": 487.14,
+          "text": " of take the regulatory heat, right? So this is our biggest, biggest win of doing doing the"
+        },
+        {
+          "start": 488.7,
+          "end": 493.84,
+          "text": " decentralization slash metadata YCO, right? This is something which VC money cannot buy us. We can"
+        },
+        {
+          "start": 493.84,
+          "end": 500.3,
+          "text": " go and raise a $68 million check probably at a better valuation given VCs want to look at it long"
+        },
+        {
+          "start": 500.3,
+          "end": 506.4,
+          "text": " term or whatever, but we don't solve the regulatory problem. We don't so fundamentally starting off"
+        },
+        {
+          "start": 506.4,
+          "end": 509.78,
+          "text": " with metadata, doing these rounds successfully brings us decentralization."
+        }
+      ]
+    },
+    {
+      "file": "rakka",
+      "start": 2025,
+      "end": 2060,
+      "method": "base.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "92a60476a0205d1b35e43131879767bf14c3e2294f367194223b99406a424496",
+      "segments": [
+        {
+          "start": 2025,
+          "end": 2029.06,
+          "text": " trust me. And that's that's very valid, right? So I mean, it"
+        },
+        {
+          "start": 2029.06,
+          "end": 2034.66,
+          "text": " really makes sense for me to ask, you know, who who owns like"
+        },
+        {
+          "start": 2034.66,
+          "end": 2037.8,
+          "text": " this treasury that I want to get some because maybe actually"
+        },
+        {
+          "start": 2037.8,
+          "end": 2041.5,
+          "text": " maybe I make a bad decision, right? Maybe like, let's say we"
+        },
+        {
+          "start": 2041.5,
+          "end": 2047.82,
+          "text": " had around 800 at the time, and I wanted to take 500k like to to"
+        },
+        {
+          "start": 2047.82,
+          "end": 2051.9,
+          "text": " do an audit. And this is going to be a very sus and bad, you"
+        },
+        {
+          "start": 2051.9,
+          "end": 2056.02,
+          "text": " you know, decision to take like most of the money for an audit."
+        },
+        {
+          "start": 2056.94,
+          "end": 2058.28,
+          "text": " So maybe I'm wrong, right?"
+        },
+        {
+          "start": 2058.72,
+          "end": 2059.72,
+          "text": " I think that actually is"
+        }
+      ]
+    },
+    {
+      "file": "rakka",
+      "start": 3870,
+      "end": 3900,
+      "method": "base.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "b6b3b235c126aeb1c28fe94380ada3be7e858a54e413e17ea9b484f9299039f0",
+      "segments": [
+        {
+          "start": 3870,
+          "end": 3873.74,
+          "text": " of the liquidity prorata to their stake in the pool."
+        },
+        {
+          "start": 3873.92,
+          "end": 3877.5,
+          "text": " So now you have 10k, which is 10% of the liquidity."
+        },
+        {
+          "start": 3878.24,
+          "end": 3882.92,
+          "text": " You lose 10k, you lose 10% of the bad debt,"
+        },
+        {
+          "start": 3883.14,
+          "end": 3887.28,
+          "text": " which is $10, so you lose $10 from your 10k liquidity."
+        },
+        {
+          "start": 3888.16,
+          "end": 3890.96,
+          "text": " So you end up with 1k, 100, right?"
+        },
+        {
+          "start": 3892.3,
+          "end": 3899.38,
+          "text": " And the one who owns 20% of the pool will lose 20% of the,"
+        },
+        {
+          "start": 3899.38,
+          "end": 3899.84,
+          "text": " the bed that opens."
+        }
+      ]
+    },
+    {
+      "file": "Kru",
+      "start": 1190,
+      "end": 1225,
+      "method": "base.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "ee744d3e6b3fdd4b7c06b3c163cba7ebb29d133a4d0bf7d169e64e608a92e78a",
+      "segments": [
+        {
+          "start": 1190,
+          "end": 1192.8,
+          "text": " I think it's a give and take, right?"
+        },
+        {
+          "start": 1193.22,
+          "end": 1197.16,
+          "text": " There is in no way shape or form that a team like us"
+        },
+        {
+          "start": 1197.16,
+          "end": 1199.66,
+          "text": " would have been able to raise, well,"
+        },
+        {
+          "start": 1199.94,
+          "end": 1203.28,
+          "text": " $3 million in four days, okay?"
+        },
+        {
+          "start": 1204.02,
+          "end": 1207.86,
+          "text": " I would say that we could have raised more."
+        },
+        {
+          "start": 1209.62,
+          "end": 1213.8,
+          "text": " We could have taken more funds from the 155 that we raised."
+        },
+        {
+          "start": 1216.48,
+          "end": 1224.98,
+          "text": " but this is a team which has first time founder and in no way shape or form we could"
+        }
+      ]
+    },
+    {
+      "file": "Chris",
+      "start": 1845,
+      "end": 1875,
+      "method": "base.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "rawCandidateSha256": "37f9762aa05b82596559516bb4f88d40d28a71e54223f0d215554f73588675d4",
+      "segments": [
+        {
+          "start": 1845,
+          "end": 1849.16,
+          "text": " in the free circulation to support just raising a proposal,"
+        },
+        {
+          "start": 1849.28,
+          "end": 1852.52,
+          "text": " unless our whales let collaborate together."
+        },
+        {
+          "start": 1852.96,
+          "end": 1856.02,
+          "text": " I think one of our community members"
+        },
+        {
+          "start": 1856.02,
+          "end": 1859.02,
+          "text": " calculated that with everything out there,"
+        },
+        {
+          "start": 1859.32,
+          "end": 1864.02,
+          "text": " there's around 600, 700 tokens in free circulation"
+        },
+        {
+          "start": 1864.76,
+          "end": 1868.14,
+          "text": " with 500 K required for raising a proposal."
+        },
+        {
+          "start": 1868.48,
+          "end": 1869.46,
+          "text": " So that's nearly impossible."
+        },
+        {
+          "start": 1869.84,
+          "end": 1872.98,
+          "text": " That's why we're sorta, like when everything else"
+        },
+        {
+          "start": 1872.98,
+          "end": 1874.98,
+          "text": " this happening with Ranger with all the sorta cut."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "scope": "Selected unresolved terminology examples, not a complete error inventory. The five founder listening clips are tracked separately; no invented resolution.",
+  "items": [
+    {
+      "resourceId": "ownership-radio-1-recording",
+      "start": 2284.12,
+      "end": 2290.96,
+      "text": " If this were like the metadata of our subscription mechanism where you could take all the money",
+      "candidate": "MetaDAO oversubscription mechanism?",
+      "reason": "Organization/data boundary and surrounding wording need audio.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-radio-10-recording",
+      "start": 4599.36,
+      "end": 4603.52,
+      "text": " And MetaDAO or who wants metadorsk going. I don't want to say",
+      "candidate": "MetaDAO / another term",
+      "reason": "Garbled compound metadorsk; do not infer expansion.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-radio-10-recording",
+      "start": 6155.94,
+      "end": 6159.78,
+      "text": " Okay, brother, if you need some food, I'll try to get a medallà on the total of meals.",
+      "candidate": "MetaDAO / another phrase",
+      "reason": "Surrounding food/meal wording is too corrupted to correct confidently.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-radio-17-recording",
+      "start": 492.4,
+      "end": 518.66,
+      "text": " to eat about the space, you can like, repost, reply, quote, the post, will be amazing for us. I see some people just liking and tweeting, how are you? I see my friend, then here from Argentina also, how are you my friend? I see Nali, see Futarchi Mim, that is pretty rare.",
+      "candidate": "futarchy / participant handle",
+      "reason": "Greeting may refer to a named participant.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-radio-24-recording",
+      "start": 3682.62,
+      "end": 3705.1,
+      "text": " great boilder from the space. I see Don, Don Quix, showing it to the space. Thank you brother. You are always invited to ask questions and I would love to have you on the next space talking a little about what you are building. Also from the future Chi and Samuel keep building, keep making those spaces. I will support you.",
+      "candidate": "futarchy / participant handle",
+      "reason": "Greeting includes Samuel; governance spelling alone does not establish intended person.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-radio-6-recording",
+      "start": 4075.2,
+      "end": 4077.2,
+      "text": " metallolas or something like that?",
+      "candidate": "MetaDAO / MetaLeX / another term",
+      "reason": "Legal-framework discussion makes blanket MetaDAO replacement unsafe.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-report-16-recording",
+      "start": 1072,
+      "end": 1076,
+      "text": "Futuri via MetaDAO, uh almost like two",
+      "candidate": "futarchy / Futardio",
+      "reason": "Futuri reference in discovery history needs recording check.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-forum-1-recording",
+      "start": 629,
+      "end": 632,
+      "text": "reasons I started with MetaV um because",
+      "candidate": "MetaDAO / another name",
+      "reason": "MetaV reference lacks enough local phonetic clarity.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-radio-11-recording",
+      "start": 1767.84,
+      "end": 1772.28,
+      "text": " But pretty bullish on Shurasi 5, pretty bullish on the token,",
+      "candidate": "JurassicFi",
+      "reason": "Shurasi 5 may be a name spelling but requires audio before removing the numeric character.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "ownership-radio-6-recording",
+      "start": 2225.33,
+      "end": 2235.73,
+      "text": " you have any question guys to to Sora and Shurasik five. Hey guys, I mean just just one I guess I'm",
+      "candidate": "JurassicFi",
+      "reason": "Shurasik five may be company name; verify phrasing from audio.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "res-199",
+      "start": 164.05,
+      "end": 168.05,
+      "text": " this was like a month in where we started building out Umbra.",
+      "candidate": "Pranay and Cal / other names",
+      "reason": "Founder names beyond the company identity require separate evidence.",
+      "status": "needs-audio-review"
+    },
+    {
+      "resourceId": "res-258",
+      "start": 1562,
+      "end": 1569.88,
+      "text": " It tries to argue, are you more on the ownership or like, I guess, futarchy PILDSIDE or is met",
+      "candidate": "futarchy-pilled / other wording",
+      "reason": "PILLSIDE and split MetaDAO phrase need direct audio.",
+      "status": "needs-audio-review"
+    }
+  ]
+}

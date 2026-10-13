@@ -2,6 +2,7 @@ import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import {createHash} from 'node:crypto'
+import {beforeContextReview} from './transcript-context-evidence.mjs'
 const read=p=>JSON.parse(fs.readFileSync(p))
 const hash=v=>createHash('sha256').update(JSON.stringify(v)).digest('hex')
 test('founder correction chains reconstruct originals and match funded published interviews',()=>{
@@ -10,7 +11,7 @@ test('founder correction chains reconstruct originals and match funded published
  assert.equal(evidence.reviews.length,6)
  for(const review of evidence.reviews){
   assert.ok(['raise','historical-raise'].includes(projects.find(p=>p.id===review.projectId).coverage))
-  const t=ts.find(t=>t.resourceId===review.resourceId),restored=structuredClone(t.segments)
+  const t=ts.find(t=>t.resourceId===review.resourceId),restored=beforeContextReview(t)
   assert.equal(t.audioSha256,review.audioSha256)
   const followup=read('maintenance/founder-uncertainty-followup-2026-10-13/evidence.json')
   const next=followup.reviews.find(r=>r.resourceId===t.resourceId)

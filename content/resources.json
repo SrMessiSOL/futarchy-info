@@ -4253,7 +4253,7 @@
     "id": "res-220",
     "title": "Avici on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2025-10-18",
     "type": "article",
     "url": "https://metadao.fi/companies/avici",
     "description": "MetaDAO company record. Self-custody neobank and spending infrastructure.",
@@ -4263,14 +4263,14 @@
       "Project Page",
       "project:avici"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/avici",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-18. Previous URL: https://www.metadao.fi/projects/avici. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-18. Previous URL: https://www.metadao.fi/projects/avici. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/1979578397790704019; announced trading availability 17:00 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-221",
@@ -4299,7 +4299,7 @@
     "id": "res-225",
     "title": "Omnipair on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2025-07-28",
     "type": "article",
     "url": "https://metadao.fi/companies/omnipair",
     "description": "MetaDAO company record. Permissionless lending and trading infrastructure for Solana assets.",
@@ -4309,20 +4309,20 @@
       "Project Page",
       "project:omnipair"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/omnipair",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-01-21. Previous URL: https://futarchy.metadao.fi/omnipair. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-01-21. Previous URL: https://futarchy.metadao.fi/omnipair. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Original OMFG mint matched to the company overview. Successful original CompleteLaunch transaction https://explorer.solana.com/tx/3fJ4TtLbKEfqcyA7FQvFAVt7C43iFAwXcfTKk9STJBFa9JtsLmJesvW2No1qKca1rSJEC7gNAwk2TZUgNLVfxehC at 2025-07-28T15:58:34Z initialized and funded Raydium pool 2WNhaB6TPyZ3ynJjAUM4ZZ1Hdeep8FJ3A76FjGjTVjjS. The pool Initialize instruction supplied open_time=0; Raydium initialization sets past/zero activation to block timestamp+1. Source: https://github.com/raydium-io/raydium-cp-swap/blob/master/programs/cp-swap/src/instructions/initialize.rs. Later October/February pools are not used to date the original trading launch. No first-user-swap timestamp claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-226",
     "title": "Loyal on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2025-10-22",
     "type": "article",
     "url": "https://metadao.fi/companies/loyal",
     "description": "MetaDAO company record. Wallet and smart-account automation, including stablecoin Earn routing.",
@@ -4332,14 +4332,14 @@
       "Project Page",
       "project:loyal"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/loyal",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-23. Previous URL: https://www.metadao.fi/projects/loyal. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-23. Previous URL: https://www.metadao.fi/projects/loyal. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/1981118807910277613; announced trading availability 23:00 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-227",
@@ -4368,7 +4368,7 @@
     "id": "res-229",
     "title": "Umbra on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2025-10-10",
     "type": "article",
     "url": "https://metadao.fi/companies/umbra",
     "description": "MetaDAO company record. Privacy infrastructure and applications for Solana.",
@@ -4378,14 +4378,14 @@
       "Project Page",
       "project:umbra"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/umbra",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-10. Previous URL: https://www.metadao.fi/projects/umbra. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-10. Previous URL: https://www.metadao.fi/projects/umbra. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/1976649235878805956; announced trading availability 15:00 UTC, claims and liquidity creation. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-230",
@@ -4463,7 +4463,7 @@
     "id": "res-233",
     "title": "P2P Protocol on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-04-01",
     "type": "article",
     "url": "https://metadao.fi/companies/p2p-protocol",
     "description": "MetaDAO company record. Peer-to-peer infrastructure for converting between local currencies and crypto.",
@@ -4473,20 +4473,20 @@
       "Project Page",
       "project:p2p-protocol"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/p2p-protocol",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-03-26. Previous URL: https://www.metadao.fi/projects/p2p-protocol. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-03-26. Previous URL: https://www.metadao.fi/projects/p2p-protocol. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/2039342240334766217; announced trading availability explicit now live for trading announcement. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-235",
     "title": "Paystream on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2025-10-27",
     "type": "article",
     "url": "https://metadao.fi/companies/paystream",
     "description": "MetaDAO company record. Historical raise: restructuring was followed by a passed liquidation proposal.",
@@ -4496,20 +4496,20 @@
       "Project Page",
       "project:paystream"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/paystream",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-23. Previous URL: https://www.metadao.fi/projects/paystream/fundraise. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-23. Previous URL: https://www.metadao.fi/projects/paystream/fundraise. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/1982855208339423281; announced trading availability 18:00 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-236",
     "title": "Solomon on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2025-11-18",
     "type": "article",
     "url": "https://metadao.fi/companies/solomon",
     "description": "MetaDAO company record. Dollar infrastructure, USDv and yield distribution integrations.",
@@ -4519,20 +4519,20 @@
       "Project Page",
       "project:solomon"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/solomon",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-11-14. Previous URL: https://www.metadao.fi/projects/solomon. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-11-14. Previous URL: https://www.metadao.fi/projects/solomon. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/1990850466826055761; announced trading availability 19:30 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-237",
     "title": "Ranger on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-01-10",
     "type": "article",
     "url": "https://metadao.fi/companies/ranger",
     "description": "MetaDAO company record. Historical derivatives infrastructure raise with a passed liquidation proposal.",
@@ -4542,20 +4542,20 @@
       "Project Page",
       "project:ranger"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/ranger",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-01-06. Previous URL: https://www.metadao.fi/projects/ranger/fundraise. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-01-06. Previous URL: https://www.metadao.fi/projects/ranger/fundraise. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/2010019225986068801; announced trading availability 18:00 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-238",
     "title": "ZKLSOL / ZKFG on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2025-10-24",
     "type": "article",
     "url": "https://metadao.fi/companies/zklsol",
     "description": "MetaDAO company record. Historical privacy project with restructuring and take-private proposals.",
@@ -4565,14 +4565,14 @@
       "Project Page",
       "project:zklsol"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/zklsol",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-19. Previous URL: https://www.metadao.fi/projects/zklsol/fundraise. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2025-10-19. Previous URL: https://www.metadao.fi/projects/zklsol/fundraise. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/1981586811836096676; announced trading availability 06:00 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-239",
@@ -4601,7 +4601,7 @@
     "id": "res-242",
     "title": "Superclaw on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-03-05",
     "type": "article",
     "url": "https://metadao.fi/companies/superclaw",
     "description": "MetaDAO company record. Infrastructure for autonomous AI agents and their economic activity.",
@@ -4611,20 +4611,20 @@
       "Project Page",
       "project:superclaw"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/superclaw",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-04-12. Previous URL: https://www.metadao.fi/projects/superclaw. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-04-12. Previous URL: https://www.metadao.fi/projects/superclaw. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/5BV8dmpaYz7Rj54EFisJiw2EjfgupqAELbjy5mV5sCrE has state Complete and unix_timestamp_completed=1772727566 (2026-03-05T16:19:26.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Completion account is the date evidence; matching transaction was not fully recovered in the bounded history review. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-243",
     "title": "Futardio Cult on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-03-04",
     "type": "article",
     "url": "https://metadao.fi/companies/futardio-cult",
     "description": "MetaDAO company record. Community project and meme coin using futarchy governance.",
@@ -4634,14 +4634,14 @@
       "Project Page",
       "project:futardio-cult"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/futardio-cult",
     "addedAt": null,
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-03-08. Previous URL: https://www.metadao.fi/projects/futardio-cult. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Previous unverified archive date: 2026-03-08. Previous URL: https://www.metadao.fi/projects/futardio-cult. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/3EZBeQPQNHYkxnbrMRXG56DK1QRG8DR7VhYAUyvUFBzK has state Complete and unix_timestamp_completed=1772654190 (2026-03-04T19:56:30.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Completion account is the date evidence; matching transaction was not fully recovered in the bounded history review. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "res-244",
@@ -6412,7 +6412,7 @@
     "id": "company-ripcars",
     "title": "Rip Cars on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-07-25",
     "type": "article",
     "url": "https://metadao.fi/companies/ripcars",
     "description": "MetaDAO company record. Collectible Hot Wheels marketplace with inventory funded through MetaDAO.",
@@ -6422,20 +6422,20 @@
       "Project Page",
       "project:ripcars"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/ripcars",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/2081062259451973697; announced trading availability 18:00 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-credible",
     "title": "Credible on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-07-17",
     "type": "article",
     "url": "https://metadao.fi/companies/credible",
     "description": "MetaDAO company record. Payments infrastructure using local payment rails and stablecoin settlement.",
@@ -6445,20 +6445,20 @@
       "Project Page",
       "project:credible"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/credible",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/2078177966073463262; announced trading availability 19:00 UTC. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-laso-finance",
     "title": "Laso Finance on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-07-04",
     "type": "article",
     "url": "https://metadao.fi/companies/laso-finance",
     "description": "MetaDAO company record. Financial tools for AI agents, including payment infrastructure.",
@@ -6468,20 +6468,20 @@
       "Project Page",
       "project:laso-finance"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/laso-finance",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Primary MetaDAO launch notice read in the normal browser: https://x.com/MetaDAOProject/status/2073467346392363175; announced trading availability 19:00 UTC; claims live also confirmed by https://x.com/MetaDAOProject/status/2073484201786056825. Publisher announcement is the date authority; no independent first-swap audit claimed. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-jurassic-finance",
     "title": "Jurassic Finance on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-05-15",
     "type": "article",
     "url": "https://metadao.fi/companies/jurassic-finance",
     "description": "MetaDAO company record. Business developing tokenized ownership structures for dinosaur fossils.",
@@ -6491,20 +6491,20 @@
       "Project Page",
       "project:jurassic-finance"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/jurassic-finance",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/F5A6BchpqGbbBABtgRycJZGkqy2i5AgVJP1VKW5AGotG has state Complete and unix_timestamp_completed=1778846761 (2026-05-15T12:06:01.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Completion account is the date evidence; matching transaction was not fully recovered in the bounded history review. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-ordr",
     "title": "Ordr on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-07-31",
     "type": "article",
     "url": "https://metadao.fi/companies/ordr",
     "description": "MetaDAO company record. On-chain order-book infrastructure and market-making tools.",
@@ -6514,20 +6514,20 @@
       "Project Page",
       "project:ordr"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/ordr",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/HwvxqXHcRNKikH8RsqRRaV6NCpzxg1g5tHgnMfsdaaEj has state Complete and unix_timestamp_completed=1785513795 (2026-07-31T16:03:15.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Completion account is the date evidence; matching transaction was not fully recovered in the bounded history review. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-kimia",
     "title": "Kimia on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-08-05",
     "type": "article",
     "url": "https://metadao.fi/companies/kimia",
     "description": "MetaDAO company record. Funding-rate derivatives and vault project; its liquidation proposal failed.",
@@ -6537,20 +6537,20 @@
       "Project Page",
       "project:kimia"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/kimia",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/FwCDgK9C8mjWr7wULPFzEv4QBt6koTnMQrKTC45TxWAk has state Complete and unix_timestamp_completed=1785945752 (2026-08-05T16:02:32.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Matching successful CompleteLaunch/ProvideLiquidity transaction: https://explorer.solana.com/tx/tYuEY9ggzbUHFzdfb59nE6uuoGEbzWCJLTN9A7p3FM6DPyEcGcqbDRGQd4oZTA5ScB3Ky1Jh37o6y9HnJZAcA5Q. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-gesim",
     "title": "GeSIM on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-06-09",
     "type": "article",
     "url": "https://metadao.fi/companies/gesim",
     "description": "MetaDAO company record. Mobile connectivity project focused on privacy and eSIM access.",
@@ -6560,20 +6560,20 @@
       "Project Page",
       "project:gesim"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/gesim",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/9qEQo5P6kwcWg1YhyPB5CEX6MAzufsT3a25HuxQg7WhC has state Complete and unix_timestamp_completed=1781042551 (2026-06-09T22:02:31.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Matching successful CompleteLaunch/ProvideLiquidity transaction: https://explorer.solana.com/tx/C8A2pJqfn1wtUE7apFzrY6LY7iQR7bC5hxgQkqTiqp1vzp8bW67ShR7fNTiSygmd2puxHxrM5qjyxf5rMmVkAwF. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-hivebits",
     "title": "HiveBits on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-09-14",
     "type": "article",
     "url": "https://metadao.fi/companies/hivebits",
     "description": "MetaDAO company record. Project proposing tokenized beehives and connected beekeeping infrastructure.",
@@ -6583,20 +6583,20 @@
       "Project Page",
       "project:hivebits"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/hivebits",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/AbTuTsoBJS2jQggvfb7d1LA2SfbHa5NB5HbJqX8C2PnS has state Complete and unix_timestamp_completed=1789401694 (2026-09-14T16:01:34.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Matching successful CompleteLaunch/ProvideLiquidity transaction: https://explorer.solana.com/tx/3yzoGZ9d5YQHhS9DpdYwDp5VgAk8b2JpxyDPsNgheMa6DiZ2GADpekTt2iPT42Cq4cLhJXLq2wipAMhjSnuibFNv. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-basket",
     "title": "Basket on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-08-05",
     "type": "article",
     "url": "https://metadao.fi/companies/basket",
     "description": "MetaDAO company record. Thematic portfolios represented by Solana tokens; funded after a Spark competition.",
@@ -6606,20 +6606,20 @@
       "Project Page",
       "project:basket"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/basket",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/AtBwB8fYsxLLSt3mwK9Ma4joCpG9yuPzxBEcSsEaiSAT has state Complete and unix_timestamp_completed=1785945821 (2026-08-05T16:03:41.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Matching successful CompleteLaunch/ProvideLiquidity transaction: https://explorer.solana.com/tx/424X1gzjLMD1HE7nkK9zsShH56o78NpoJ7nUtJowBkeNu7zLxZ4B9icsv4dHSPbfdobDAPtRWMVgJXyXy5KQtbes. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-lfown",
     "title": "LFOwn on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-09-08",
     "type": "article",
     "url": "https://metadao.fi/companies/lfown",
     "description": "MetaDAO company record. Spark-originated launchpad pairing meme coins with ownership coins.",
@@ -6629,20 +6629,20 @@
       "Project Page",
       "project:lfown"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/lfown",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/5Lfuib2f4NRqxRkqXDpuokbAbchxY947CRtjxZoawWm has state Complete and unix_timestamp_completed=1788863649 (2026-09-08T10:34:09.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Matching successful CompleteLaunch/ProvideLiquidity transaction: https://explorer.solana.com/tx/5WdLMaW7Z6QmNqUre9EiPP1Gynumzdfg82GqrBNv71RYhDUg17hUmKnXi2cE1Bckmg6413Ts8xf3Gvb9JRQnE6t9. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-areal-finance",
     "title": "Areal Finance on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-06-24",
     "type": "article",
     "url": "https://metadao.fi/companies/areal-finance",
     "description": "MetaDAO company record. Project proposing acquisitions of businesses and income-producing assets.",
@@ -6652,20 +6652,20 @@
       "Project Page",
       "project:areal-finance"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/areal-finance",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/DGRgqaGL2sQnGM6WzBmvXTT5XhnEkTdKecGmF1mswtL5 has state Complete and unix_timestamp_completed=1782330335 (2026-06-24T19:45:35.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Matching successful CompleteLaunch/ProvideLiquidity transaction: https://explorer.solana.com/tx/57PDmFHFNDcskjUAexwpCSn2YEwYkT9WHwaTwtMLvYdnWPVG6meWUTktwAvdN6WUEv9qHCSLeDGzwneozTgPmVR. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-accrue",
     "title": "ACCRUE on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-09-15",
     "type": "article",
     "url": "https://metadao.fi/companies/accrue",
     "description": "MetaDAO company record. Spark-originated concept for productive tokenized stock exposure.",
@@ -6675,20 +6675,20 @@
       "Project Page",
       "project:accrue"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/accrue",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/9hB7X9mFCUGPFkuCFQmqzpR3vr54t63sqNnzRVbagog3 has state Complete and unix_timestamp_completed=1789488964 (2026-09-15T16:16:04.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Completion account is the date evidence; matching transaction was not fully recovered in the bounded history review. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "company-predict",
     "title": "PREDICT on MetaDAO",
     "author": "MetaDAO",
-    "date": null,
+    "date": "2026-09-22",
     "type": "article",
     "url": "https://metadao.fi/companies/predict",
     "description": "MetaDAO company record. Prediction-market AMM implementation and developer ecosystem.",
@@ -6698,14 +6698,14 @@
       "Project Page",
       "project:predict"
     ],
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "dateKind": "event",
+    "datePrecision": "day",
     "verification": "source-checked",
     "sourceUrl": "https://metadao.fi/companies/predict",
     "addedAt": "2026-10-08",
     "checkedAt": "2026-10-08",
-    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Reviewed the rendered company overview and decision table. This is an undated, changing directory record, not a dated launch announcement. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested token trading-live dates for company profiles on 2026-10-12. Funded launch address and mint matched to the public Backable directory. Finalized public Solana launch account https://explorer.solana.com/address/E4qjZxcFtC2dHmyq9GBZU1UeRQLbVVKkdNadjyCoSsyn has state Complete and unix_timestamp_completed=1790095234 (2026-09-22T16:40:34.000Z). Layout and immediate liquidity creation reviewed against https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/state/launch.rs and https://github.com/metaDAOproject/programs/blob/develop/programs/v07_launchpad/src/instructions/complete_launch.rs. Completion account is the date evidence; matching transaction was not fully recovered in the bounded history review. Trading availability uses launch liquidity initialization, not the timestamp of a first user swap. This dates the token trading event, not publication or a later revision of the living company page.",
+    "dateBasis": "trading-live"
   },
   {
     "id": "decision-cars-004",
@@ -12622,16 +12622,16 @@
       "Founder Source",
       "Security"
     ],
-    "date": null,
-    "dateKind": "publication",
-    "datePrecision": "unknown",
+    "date": "2026-02-21",
+    "dateKind": "event",
+    "datePrecision": "day",
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
     "verification": "source-checked",
-    "evidenceNote": "Complete primary documentation report read, including its static-analysis disclaimer. No publication date or exact reviewed code revision established. Findings are author/tool reports, not independently reproduced exploits. No inference about current deployed code or remediation. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-02-21, recorded separately from publication.",
+    "evidenceNote": "Complete primary documentation report read, including its static-analysis disclaimer. No publication date or exact reviewed code revision established. Findings are author/tool reports, not independently reproduced exploits. No inference about current deployed code or remediation. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-02-21, recorded separately from publication. User confirmed using this known document date on 2026-10-12. Displayed as Updated, preserving its primary source-update meaning rather than inferring an original publication date.",
     "sourceUrl": "https://docs.paystream.finance/audits",
-    "undatedReference": true,
-    "sourceUpdatedAt": "2026-02-21"
+    "sourceUpdatedAt": "2026-02-21",
+    "dateBasis": "source-update"
   },
   {
     "id": "ownership-radio-19-recording",
@@ -13686,7 +13686,7 @@
     "author": "Salmon Wallet",
     "url": "https://docs.salmonwallet.io/getting-started/introduction",
     "description": "Official documentation lists Chrome and Android Beta with Solana and Bitcoin support. It says the standalone web wallet retired on September 2, 2026; iOS is not generally available and no official Firefox store listing is published.",
-    "evidenceNote": "Complete introduction read. Undated documentation; September 2 is a product event date, not the publication date. About page still lists the web wallet; this conflict is retained in the review notes. Platform and custody statements are publisher descriptions, not security verification. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
+    "evidenceNote": "Complete introduction read. Undated documentation; September 2 is a product event date, not the publication date. About page still lists the web wallet; this conflict is retained in the review notes. Platform and custody statements are publisher descriptions, not security verification. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. User requested removing this documentation entry from the public website on 2026-10-12; ID retained internally.",
     "date": null,
     "dateKind": "unknown",
     "datePrecision": "unknown",
@@ -13699,7 +13699,8 @@
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
     "verification": "source-checked",
-    "undatedReference": true
+    "undatedReference": true,
+    "catalogOnly": true
   },
   {
     "id": "ownership-radio-16-recording",
@@ -13816,9 +13817,9 @@
     "url": "https://docs.kimia.live/resources/audits",
     "description": "Kimia lists five audit scopes as scheduled, with auditors yet to be announced, and describes V1 as an unaudited devnet demonstration. Mainnet release depends on external audits and a bug-bounty period. This documentation does not substantiate the completed-audit claim in the July Radio interview.",
     "author": "Kimia Protocol",
-    "date": null,
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "date": "2026-04-23",
+    "dateKind": "event",
+    "datePrecision": "day",
     "type": "article",
     "tags": [
       "MetaDAO",
@@ -13829,9 +13830,9 @@
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
     "verification": "source-checked",
-    "evidenceNote": "Complete rendered documentation page read on2026-10-12. Undated and mutable. Security scope, deployment and admin controls are publisher disclosures, not independently verified code or on-chain state. July interview audit statement and current documentation differ; scope/version reconciliation remains open. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-04-23, recorded separately from publication.",
-    "undatedReference": true,
-    "sourceUpdatedAt": "2026-04-23"
+    "evidenceNote": "Complete rendered documentation page read on2026-10-12. Undated and mutable. Security scope, deployment and admin controls are publisher disclosures, not independently verified code or on-chain state. July interview audit statement and current documentation differ; scope/version reconciliation remains open. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-04-23, recorded separately from publication. User confirmed using this known document date on 2026-10-12. Displayed as Updated, preserving its primary source-update meaning rather than inferring an original publication date.",
+    "sourceUpdatedAt": "2026-04-23",
+    "dateBasis": "source-update"
   },
   {
     "id": "kimia-risk-disclosures",
@@ -13839,9 +13840,9 @@
     "url": "https://docs.kimia.live/resources/risks",
     "description": "Kimia describes contract, oracle, funding, liquidation, liquidity and keeper risks. Negative funding can reduce vault value. Its V1 documentation assigns administrative keys to the core team and places a governance transition on the V2 roadmap; this is a project disclosure, not a deployed-authority audit.",
     "author": "Kimia Protocol",
-    "date": null,
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "date": "2026-04-23",
+    "dateKind": "event",
+    "datePrecision": "day",
     "type": "article",
     "tags": [
       "MetaDAO",
@@ -13852,9 +13853,9 @@
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
     "verification": "source-checked",
-    "evidenceNote": "Complete rendered documentation page read on2026-10-12. Undated and mutable. Security scope, deployment and admin controls are publisher disclosures, not independently verified code or on-chain state. July interview audit statement and current documentation differ; scope/version reconciliation remains open. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-04-23, recorded separately from publication.",
-    "undatedReference": true,
-    "sourceUpdatedAt": "2026-04-23"
+    "evidenceNote": "Complete rendered documentation page read on2026-10-12. Undated and mutable. Security scope, deployment and admin controls are publisher disclosures, not independently verified code or on-chain state. July interview audit statement and current documentation differ; scope/version reconciliation remains open. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-04-23, recorded separately from publication. User confirmed using this known document date on 2026-10-12. Displayed as Updated, preserving its primary source-update meaning rather than inferring an original publication date.",
+    "sourceUpdatedAt": "2026-04-23",
+    "dateBasis": "source-update"
   },
   {
     "id": "ownership-radio-26-recording",
@@ -15801,9 +15802,9 @@
     "id": "areal-finance-archive-f5fc938302",
     "title": "Areal Finance: RWT and stRWT documentation introduction",
     "author": "Areal Finance",
-    "date": null,
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "date": "2026-07-08",
+    "dateKind": "event",
+    "datePrecision": "day",
     "type": "article",
     "url": "https://docs.areal.finance/",
     "description": "Current introduction describes a shared RWA basket, RWT contributions and stRWT income accrual through an increasing exchange rate. Claims about owned assets, NAV, income and community governance remain publisher statements; no completed acquisition or legal title is established.",
@@ -15816,9 +15817,9 @@
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
     "verification": "source-checked",
-    "evidenceNote": "Complete introduction body read. Linked token and staking pages not reviewed. Documentation publication/revision dates unknown; no numeric statistics were returned. Source-checked is editorial review, not independent audit. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-07-08, recorded separately from publication.",
-    "undatedReference": true,
-    "sourceUpdatedAt": "2026-07-08"
+    "evidenceNote": "Complete introduction body read. Linked token and staking pages not reviewed. Documentation publication/revision dates unknown; no numeric statistics were returned. Source-checked is editorial review, not independent audit. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Explicit publisher lastModified/dateModified metadata establishes source update on 2026-07-08, recorded separately from publication. User confirmed using this known document date on 2026-10-12. Displayed as Updated, preserving its primary source-update meaning rather than inferring an original publication date.",
+    "sourceUpdatedAt": "2026-07-08",
+    "dateBasis": "source-update"
   },
   {
     "id": "tributary-archive-01d1887a02",
@@ -16483,9 +16484,9 @@
     "id": "areal-finance-archive-02d48249b5",
     "title": "Areal Finance: architecture and test-validator deployment disclosure",
     "author": "Areal Finance",
-    "date": null,
-    "dateKind": "unknown",
-    "datePrecision": "unknown",
+    "date": "2026-07-25",
+    "dateKind": "publication",
+    "datePrecision": "day",
     "type": "article",
     "url": "https://github.com/ArealFinance/areal",
     "description": "Areal describes five programs for ownership, futarchy, reward-token NAV, AMM and yield distribution. Its deployment table explicitly identifies a local test validator. Bootstrap and authority-transfer claims are repository assertions; they do not prove public-mainnet execution or an accepted ecosystem raise.",
@@ -16498,8 +16499,7 @@
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
     "verification": "source-checked",
-    "evidenceNote": "Complete available README read. April 29 Layer 10 status is an internal milestone, not established publication date. Source code, authority state and audit claims not independently verified. Source-checked is editorial review, not independent audit. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication.",
-    "undatedReference": true
+    "evidenceNote": "Complete available README read. April 29 Layer 10 status is an internal milestone, not established publication date. Source code, authority state and audit claims not independently verified. Source-checked is editorial review, not independent audit. Date review on 2026-10-12: living reference page; no single publication date established. Company profiles inspected in the normal browser; proposal dates do not date a profile. Document/repository update or creation dates are not substituted for publication. Date confirmed directly by the user on 2026-10-12 as July 25, 2026. This date authority does not upgrade content verification."
   },
   {
     "id": "bynomo-archive-01d8e003c5",

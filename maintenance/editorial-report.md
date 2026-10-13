@@ -1,5 +1,13 @@
 # Source review update — 2026-10-12
 
+## Trading launch and document date follow-up to merged PR #12
+
+All 24 retained MetaDAO company profiles now use the original token trading-live day, explicitly labeled as an event rather than profile publication. Eleven dates use primary MetaDAO trading/launch notices (announced availability; no independent first-swap audit). Twelve permissionless/Spark dates use finalized public launch-account completion timestamps and the reviewed liquidity initialization path; six also have a matching successful CompleteLaunch/ProvideLiquidity transaction inspected. Omnipair's original July 2025 finalization and Raydium pool activation were inspected directly; later pool migrations are excluded. Exact source links and evidence boundaries are attached to each record. The old unverified hints are retained only as audit history.
+
+Five document/repository dates accepted on user authority: four known modification dates labeled Updated and one separately confirmed Areal repository date. The Salmon Wallet documentation reference is hidden publicly; its original ID and other Salmon material remain. All 30 previous reference gaps are addressed as 24 event dates, five document/repository dates and one requested removal. This does not establish publication dates for living profiles, prove every first swap, or claim exhaustive source coverage. No detailed uncertain-date list is added to the PR. The earlier checkpoints below are historical.
+
+Validation: 767 catalog records, 613 publication-eligible, zero lifecycle-held records; all 34 tests, TypeScript and the production build pass. The local production preview confirms 24 trading-live dates and all five document dates in agent JSON, excludes the Salmon documentation entry and renders Trading live labels. Nothing merged or deployed in this follow-up.
+
 ## Latest scope and date corrections — PR #12
 
 The user confirms the 62 stored dates as verified. Date fields now accept that authority without upgrading source-body verification. The detailed date inventory and its generator were removed from the PR diff on request.

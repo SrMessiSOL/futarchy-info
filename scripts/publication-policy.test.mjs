@@ -12,7 +12,11 @@ test('closed-project cutoff rejects later sources and uncertain dates, including
 });
 test('actual late and undated closed-project sources are held, while newly dated historical evidence remains eligible',()=>{
   const catalog=JSON.parse(fs.readFileSync('content/resources.json'));
-  for(const id of ['res-260','res-261','paystream-founder-static-analysis','resolved-backfill-21'])assert.ok(publicationBlockReason(catalog.find(r=>r.id===id),rules),id);
+  for(const id of ['res-260','res-261','resolved-backfill-21'])assert.ok(publicationBlockReason(catalog.find(r=>r.id===id),rules),id);
+  const paystream=catalog.find(r=>r.id==='paystream-founder-static-analysis');
+  assert.equal(paystream.date,'2026-02-21');
+  assert.equal(paystream.dateBasis,'source-update');
+  assert.equal(publicationBlockReason(paystream,rules),null);
   const interview=catalog.find(r=>r.id==='founder-ranger-rockaway');
   assert.equal(interview.date,'2025-02-19');
   assert.equal(publicationBlockReason(interview,rules),null);

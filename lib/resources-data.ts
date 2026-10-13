@@ -29,7 +29,7 @@ export interface Resource {
   catalogOnly?: boolean
   undatedReference?: boolean
   sourceUpdatedAt?: string
-  dateBasis?: 'raise-start'
+  dateBasis?: 'raise-start' | 'trading-live' | 'source-update'
 }
 
 // Keep legacy IDs in the catalog so stored engagement keys are never reassigned.
@@ -43,6 +43,6 @@ export function resourceTime(resource: Resource) {
 export function formatResourceDate(resource: Resource) {
   if (resource.undatedReference && !resource.date) return 'Undated reference' + (resource.sourceUpdatedAt ? ' · Updated ' + resource.sourceUpdatedAt : '')
   if (!resource.date || resource.datePrecision !== 'day') return 'Date unverified'
-  const label = resource.dateBasis === 'raise-start' ? 'Raise start · ' : resource.dateKind === 'event' ? 'Event · ' : resource.dateKind === 'unknown' ? 'Archive date · ' : ''
+  const label = resource.dateBasis === 'raise-start' ? 'Raise start · ' : resource.dateBasis === 'trading-live' ? 'Trading live · ' : resource.dateBasis === 'source-update' ? 'Updated · ' : resource.dateKind === 'event' ? 'Event · ' : resource.dateKind === 'unknown' ? 'Archive date · ' : ''
   return label + new Intl.DateTimeFormat('en', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(new Date(resource.date + 'T00:00:00Z'))
 }

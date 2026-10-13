@@ -177,12 +177,14 @@
   {
     "resourceId": "ownership-forum-2-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "b975d1f7cbc6f1ab8812200f7089f95decab7bc403f2a995e1bffc7385163b2f",
+      "textUrl": "/api/transcripts/ownership-forum-2-recording",
+      "jsonUrl": "/api/transcripts/ownership-forum-2-recording?format=json"
     }
   },
   {
@@ -1726,12 +1728,14 @@
   {
     "resourceId": "ownership-report-1-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "413a2e7cc75e00219374e3488e249a7556f57b5a4fd1c7e41b42bf7189ca7ed2",
+      "textUrl": "/api/transcripts/ownership-report-1-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-1-recording?format=json"
     }
   },
   {
@@ -1750,23 +1754,27 @@
   {
     "resourceId": "ownership-report-11-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "f669c706a0e5c5278cc101bbb69404534fb5e8be345b5da6b95c271e50793d85",
+      "textUrl": "/api/transcripts/ownership-report-11-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-11-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-12-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "f1ace4e56ef4337692e93bc3bcc15ab406d0f9e39df51cb5d3af1d9630d564cb",
+      "textUrl": "/api/transcripts/ownership-report-12-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-12-recording?format=json"
     }
   },
   {
@@ -1785,12 +1793,14 @@
   {
     "resourceId": "ownership-report-14-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher description and metadata; local audio transcription",
+    "reviewBoundary": "Complete official YouTube audio processed locally with faster-whisper base.en. Structural checks and opening/closing text spot checks only; no full manual reading, correction or listening claimed. Recognition may omit speech or invent words, names and numbers. Existing publisher-description summary remains unchanged.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "d431e11d72926f4f028d3c180bc8a44ad770dc9a51286e29cd0a38e26c3ab22e",
+      "textUrl": "/api/transcripts/ownership-report-14-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-14-recording?format=json"
     }
   },
   {
@@ -1809,100 +1819,118 @@
   {
     "resourceId": "ownership-report-16-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "b4be363f8788ab683c23d81a1020e280e965e9584e24ce9aef62c684147c131b",
+      "textUrl": "/api/transcripts/ownership-report-16-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-16-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-17-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "111eeac73788d81837aaa235b05bdde28c7ead2d84d2c61cf519be894d192df3",
+      "textUrl": "/api/transcripts/ownership-report-17-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-17-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-18-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "00c25aafefe77194b111bccbf28a0e39ba53df195f4f938d9d7896193560d6f9",
+      "textUrl": "/api/transcripts/ownership-report-18-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-18-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-2-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "18e2756cec2f26e455e14a36c520df53e6ef2f5fdfa8297629a7892fbfbeb672",
+      "textUrl": "/api/transcripts/ownership-report-2-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-2-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-3-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "f6b86cc182b2bea210f3bf6e2d8236caab6c3b1e59bb71458bc93858104dee59",
+      "textUrl": "/api/transcripts/ownership-report-3-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-3-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-4-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "a26ccf540e350ccf79b00abc69bedfa2ef3cee0527b9696ae83206b26af340a0",
+      "textUrl": "/api/transcripts/ownership-report-4-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-4-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-5-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "4e817248b86358417d34ef15a99cfee4c17a074ea72dc6e0d47967c56f7bf3cf",
+      "textUrl": "/api/transcripts/ownership-report-5-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-5-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-6-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "fc8ee48e66ed1ffa18b06dc3f088ae53214802486cdd44daed7fcb2a3ef7261d",
+      "textUrl": "/api/transcripts/ownership-report-6-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-6-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-report-7-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher metadata and description review; English automatic caption recovery",
+    "reviewBoundary": "Publisher metadata and descriptions reviewed previously. Complete available English YouTube automatic caption track recovered in the normal browser on 2026-10-12. It has not been fully read, corrected or manually checked against audio. Publisher-track availability does not establish complete or accurate speech coverage.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "57c29b0a61e4bc323c230f17712757e076d16e631e81492b9e76758c8ffaf2d9",
+      "textUrl": "/api/transcripts/ownership-report-7-recording",
+      "jsonUrl": "/api/transcripts/ownership-report-7-recording?format=json"
     }
   },
   {

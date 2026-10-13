@@ -1,3 +1,11 @@
+## OwnershipFM transcript gap closure — October 12, 2026
+
+Rechecked the official YouTube Reports (18), Forums (2) and Roadshows (5) playlists and current X series announcements. All 25 numbered playlist recordings already have catalog entries. Recovered 13 previously unavailable English automatic caption tracks for Reports #1–7, #11–12, #16–18 and Forum #2, plus a local faster-whisper transcript of Report #14 (Umbra V2). These 14 additions cover 10.93 hours and 14,577 timed segments, increasing public transcript availability from 43 to 57. All 18 Reports, two Forums and five Roadshows now have transcript assets, although known ASR omissions and unreviewed-machine limitations remain; Roadshow #3 still omits its unreliable opening four minutes. Recovery does not mean full manual transcript review or verified speech completeness. Source summaries, dates, IDs, funding status and publication gates are unchanged.
+
+Radio #32 remains the latest observed numbered announcement. All 26 recovered Radio recordings already have transcripts. Six missing replays (#3, #4, #5, #7, #13 and #15) remain unresolved after fresh downloader and normal-browser checks; each browser page returned a generic error, and the official YouTube channel search found no Radio alternate. These are access gaps, not proof the recordings never existed or were deleted. The team would need an accessible replay or original audio backup to close them.
+
+Validation: all 36 tests, TypeScript and production build pass. This follow-up is prepared for PR review, not deployed.
+
 # Source review update — 2026-10-12
 
 ## Previously funded project history in the main library

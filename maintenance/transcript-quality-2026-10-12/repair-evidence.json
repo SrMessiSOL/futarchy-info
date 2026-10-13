@@ -1,0 +1,726 @@
+{
+  "method": "Targeted machine re-recognition, not manual audio verification",
+  "repairs": [
+    {
+      "resourceId": "ownership-radio-18-recording",
+      "originalIndex": 304,
+      "start": 8655.31,
+      "end": 8684.75,
+      "audioSha256": "e2d789a42b3947c938c8edd8b79a9c241e45957a31adecf06168afde92890925",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 8655.31,
+          "end": 8662.75,
+          "text": " probably on the first stage building the product and finding the market seat, but I'm just brainstorming"
+        },
+        {
+          "start": 8662.75,
+          "end": 8667.869999999999,
+          "text": " with you here. I like to do this. It's a little feedback from my user side."
+        },
+        {
+          "start": 8670.67,
+          "end": 8676.75,
+          "text": " You maybe also can have some kind, like I'm going to just to the moon right now,"
+        },
+        {
+          "start": 8676.75,
+          "end": 8684.75,
+          "text": " and I'm, I'm, I'm emashing, you are succeeding and you can maybe make some kind of the pin here, like..."
+        }
+      ],
+      "originalSegmentSha256": "53a042baa497dfd717d688cf9ddfccce02727c636a9e463936c6a702303f3a3d",
+      "replacementSegmentsSha256": "44dcf5e2964b5b4526dd9a480efde155b26162731f506127932e35a75aa65a7c",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-18-recording",
+      "originalIndex": 77,
+      "start": 2424.34,
+      "end": 2454.1,
+      "audioSha256": "e2d789a42b3947c938c8edd8b79a9c241e45957a31adecf06168afde92890925",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 2424.34,
+          "end": 2429.94,
+          "text": " So, to be honest, if you don't chip quick, so shipping quick, it should be very important,"
+        },
+        {
+          "start": 2429.94,
+          "end": 2438.5,
+          "text": " just as the biggestest to investors. So, don't focus a lot on the token itself,"
+        },
+        {
+          "start": 2438.5,
+          "end": 2443.1400000000003,
+          "text": " especially as soon as you launch. I mean, token is great, of course. It's very important,"
+        },
+        {
+          "start": 2443.1400000000003,
+          "end": 2448.26,
+          "text": " but don't over-promise. I think because it just distracts you from the thing you're trying to"
+        },
+        {
+          "start": 2448.26,
+          "end": 2452.58,
+          "text": " build. In my opinion, you should focus on the product you're building, be very transparent"
+        },
+        {
+          "start": 2452.58,
+          "end": 2454.02,
+          "text": " to see your community. You just like."
+        }
+      ],
+      "originalSegmentSha256": "5bd3cffb85aa8997f7ac47f2ff5b0b69bd1cb8cad51137d7f4b288cddb1a247a",
+      "replacementSegmentsSha256": "34cc5492aa31c4efbf6f95bedcbf514f78da9b1518c04b55549d240cd675b43d",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-18-recording",
+      "originalIndex": 18,
+      "start": 823.26,
+      "end": 852.61,
+      "audioSha256": "e2d789a42b3947c938c8edd8b79a9c241e45957a31adecf06168afde92890925",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 823.26,
+          "end": 828.54,
+          "text": " lion bob a little bit until you really get to and maybe even you don't get up to work"
+        },
+        {
+          "start": 828.54,
+          "end": 834.38,
+          "text": " on what you initially wanted to work on it just like it's um it's a very um permission"
+        },
+        {
+          "start": 834.38,
+          "end": 841.02,
+          "text": " then gated um actually um field to be set sadly but yeah that's how it works to face."
+        },
+        {
+          "start": 842.22,
+          "end": 847.42,
+          "text": " Yeah yeah yeah I agree with you yeah yeah I also study a little couple of things but at the end"
+        },
+        {
+          "start": 847.42,
+          "end": 852.42,
+          "text": " Instead of the day, you mix all this knowledge, you learn."
+        }
+      ],
+      "originalSegmentSha256": "c5b8d547530a8363cc87133d9a1f9574927ea8945c0c5a1c8a0a6658faea9057",
+      "replacementSegmentsSha256": "0c5af84b9e8efa3444058e5e968a0b465319cedfe4e1c13136587220891fdf04",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-20-recording",
+      "originalIndex": 84,
+      "start": 2751.63,
+      "end": 2782.66,
+      "audioSha256": "f921d4cc44c1a490f7fd35782304e4db8cf4f03a9ec07362fa4179adfc861369",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 2751.71,
+          "end": 2757.3900000000003,
+          "text": " Sorry, I thought you were asking me. Sorry. Sorry, sorry, sorry, sorry. Is for the earth,"
+        },
+        {
+          "start": 2757.3900000000003,
+          "end": 2767.13,
+          "text": " I'm just writing your question to the, to the earth team. Yeah, definitely definitely."
+        },
+        {
+          "start": 2767.13,
+          "end": 2776.09,
+          "text": " I would say the support was always there because this can be connected to the community, you"
+        },
+        {
+          "start": 2776.09,
+          "end": 2781.81,
+          "text": " have to find it, but like, you know, finding it is not a difficult process, at least for"
+        },
+        {
+          "start": 2781.81,
+          "end": 2782.66,
+          "text": " because"
+        }
+      ],
+      "originalSegmentSha256": "09aed59e32b7a24f11c0ed13b5476e567bfd5a320e70a91f04521eb334ebd800",
+      "replacementSegmentsSha256": "b8dd14e41c234cef0ab48fdb39698c22c4a64ac461dd49280d4154131f9d8fc6",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-24-recording",
+      "originalIndex": 212,
+      "start": 5615.15,
+      "end": 5645.18,
+      "audioSha256": "eb3bf7a39616d02c68c4db347ad3510d77a1e2502d90aab7a91b7685be09b085",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 5615.15,
+          "end": 5617.45,
+          "text": " who wants to make more sense, right?"
+        },
+        {
+          "start": 5617.45,
+          "end": 5621.15,
+          "text": " Nice. Yeah, maybe just time it to an extent,"
+        },
+        {
+          "start": 5621.15,
+          "end": 5624.849999999999,
+          "text": " but sometimes you can't like things are not in your hands."
+        },
+        {
+          "start": 5624.849999999999,
+          "end": 5626.65,
+          "text": " And like the NFT is on Solana."
+        },
+        {
+          "start": 5626.65,
+          "end": 5630.049999999999,
+          "text": " Like I actually went into this line as like,"
+        },
+        {
+          "start": 5630.049999999999,
+          "end": 5633.049999999999,
+          "text": " I mean, Solana is the ecosystem we are building on"
+        },
+        {
+          "start": 5633.049999999999,
+          "end": 5634.849999999999,
+          "text": " and it makes no sense."
+        },
+        {
+          "start": 5634.849999999999,
+          "end": 5636.349999999999,
+          "text": " So, you know, like go and launch on it,"
+        },
+        {
+          "start": 5636.349999999999,
+          "end": 5638.049999999999,
+          "text": " even if the volumes are there."
+        },
+        {
+          "start": 5638.049999999999,
+          "end": 5642.849999999999,
+          "text": " So we made that commitment like maybe without doing as much research."
+        },
+        {
+          "start": 5642.849999999999,
+          "end": 5644.849999999999,
+          "text": " Sometimes, you know, you have to be a little..."
+        }
+      ],
+      "originalSegmentSha256": "ef308c7502e8b84b5dea423c69f5119d6fbff91a407a190f8320e2b793d18a21",
+      "replacementSegmentsSha256": "fcb237d648f4355eacaa870a53d83a97ca271f8c0008b5196a49b659e6305442",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-25-recording",
+      "originalIndex": 129,
+      "start": 3759.55,
+      "end": 3783.55,
+      "audioSha256": "21a06e0b4468362c82f537fa64e42e3029b0d33163e9a464d02a50378f183f78",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 3759.55,
+          "end": 3766.11,
+          "text": " directly from from their complaints on social media that is pretty crazy um yeah David please go"
+        },
+        {
+          "start": 3766.11,
+          "end": 3772.59,
+          "text": " ahead with your questions please be nice be nice he's uh oh I like I like the one I like them"
+        },
+        {
+          "start": 3773.15,
+          "end": 3776.9900000000002,
+          "text": " I like them a lot no you're a serious guy what's up"
+        },
+        {
+          "start": 3779.71,
+          "end": 3783.55,
+          "text": " yeah I don't have to be nice like go for it oh I'm here for that yeah"
+        }
+      ],
+      "originalSegmentSha256": "0c312f79ca4c67e8662e5510d1567a743be3aaba50a5195b56ad36a7f5e9aa0d",
+      "replacementSegmentsSha256": "893bab29fdde67f9ca4f45c4dd1a7da458849c956a92e90ccf0ea4a2e91ccdf8",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-27-recording",
+      "originalIndex": 229,
+      "start": 6300,
+      "end": 6327.49,
+      "audioSha256": "6c039b5011fddf01a25550a1c58acf8abade7f26df38463739784f167217ab42",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 6300,
+          "end": 6327,
+          "text": " It's a bit weird and I still caught it, it's a page, so that was a goal, but we'll figure out, I think I hope by tomorrow, but yeah, the idea is to learn it's to launch tomorrow."
+        },
+        {
+          "start": 6327,
+          "end": 6327.49,
+          "text": " I said..."
+        }
+      ],
+      "originalSegmentSha256": "ac347a9d3cd6cb2263bcd8d098575e4596b35fca55c28ffc6234a86b70a5a993",
+      "replacementSegmentsSha256": "0e0fa730ce38c7fe9668ffc7816b7134a9c858bb71445a587dac460c567b83c2",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-27-recording",
+      "originalIndex": 221,
+      "start": 6084.14,
+      "end": 6109.12,
+      "audioSha256": "6c039b5011fddf01a25550a1c58acf8abade7f26df38463739784f167217ab42",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 6084.160000000001,
+          "end": 6088.160000000001,
+          "text": " Yeah, the Fitalu platform, yeah."
+        },
+        {
+          "start": 6088.160000000001,
+          "end": 6092.160000000001,
+          "text": " No, wait, wait, but I don't understand this."
+        },
+        {
+          "start": 6092.160000000001,
+          "end": 6097.160000000001,
+          "text": " I'm going to go to Spark and then I will need to go to Darvio."
+        },
+        {
+          "start": 6097.160000000001,
+          "end": 6099.160000000001,
+          "text": " You are going to embed the web page."
+        },
+        {
+          "start": 6099.160000000001,
+          "end": 6103.160000000001,
+          "text": " You are going to use just the Solana program of the future."
+        },
+        {
+          "start": 6103.160000000001,
+          "end": 6105.160000000001,
+          "text": " How this works."
+        },
+        {
+          "start": 6105.160000000001,
+          "end": 6107.160000000001,
+          "text": " I'm getting technical. Sorry."
+        },
+        {
+          "start": 6107.160000000001,
+          "end": 6109.12,
+          "text": " Okay. So."
+        }
+      ],
+      "originalSegmentSha256": "d7c2dece25306bf4ccf69d6a3388a329c2a4f66222898730bb8af9deec987b93",
+      "replacementSegmentsSha256": "e2472f4555bb11b3731221f89908033f00d38383925b6dca3502435d4578ddb3",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-28-recording",
+      "originalIndex": 243,
+      "start": 6868.91,
+      "end": 6899.57,
+      "audioSha256": "aa274040b493d32a4cd62f37ac3897e08736aae11e4ff6dae4dd2d21c1ec7672",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 6868.91,
+          "end": 6870.91,
+          "text": " once the game is basically the title."
+        },
+        {
+          "start": 6870.91,
+          "end": 6873.91,
+          "text": " Nice way to crack it, a nice way to crack it."
+        },
+        {
+          "start": 6873.91,
+          "end": 6879.91,
+          "text": " Let's keep thinking in the worst case scenario."
+        },
+        {
+          "start": 6879.91,
+          "end": 6887.91,
+          "text": " What happens if an operator of a game has a book for example and"
+        },
+        {
+          "start": 6887.91,
+          "end": 6891.91,
+          "text": " it starts paying more than it's plan to pay?"
+        },
+        {
+          "start": 6891.91,
+          "end": 6899.41,
+          "text": " Okay, so for the kind of case of scenario, it will be unlikely."
+        },
+        {
+          "start": 6899.41,
+          "end": 6899.57,
+          "text": " You"
+        }
+      ],
+      "originalSegmentSha256": "47815f30f293e0af78c8de7671c190dc6ff29bc07bdc99981fd97849e1db7a57",
+      "replacementSegmentsSha256": "eda762c9235bd881ae8ab09c41802352ebaa9f19eda44a436b4c97036bd8eb47",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-28-recording",
+      "originalIndex": 60,
+      "start": 1860.66,
+      "end": 1889.95,
+      "audioSha256": "aa274040b493d32a4cd62f37ac3897e08736aae11e4ff6dae4dd2d21c1ec7672",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 1860.66,
+          "end": 1867.78,
+          "text": " But to me, you can, you will, like, if I was never at the time, you will have seen the first"
+        },
+        {
+          "start": 1867.78,
+          "end": 1875.5400000000002,
+          "text": " meme was everyone jocting on Alichy. And then I think all the other meme, as they really, really,"
+        },
+        {
+          "start": 1875.5400000000002,
+          "end": 1882.5800000000002,
+          "text": " well-managed the, the, yeah, the, the, the, the, the, the, the, the, the, the, the, the, the, the"
+        },
+        {
+          "start": 1882.5800000000002,
+          "end": 1887.5800000000002,
+          "text": " is a rambosce everyone when we stay post on call back if I remember well, like also all"
+        },
+        {
+          "start": 1887.5800000000002,
+          "end": 1889.8600000000001,
+          "text": " CMM and TM would have been like, uh, yeah."
+        }
+      ],
+      "originalSegmentSha256": "9ea1d0b640e188f3a675e73eddab77e02cc97e7f8e488a737d7a1ce9a94718c0",
+      "replacementSegmentsSha256": "9e8e670094a364595e677d358ac57dafce475ee5bfa06e1fe1386ee76dbfaba8",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-29-recording",
+      "originalIndex": 222,
+      "start": 6330.8,
+      "end": 6358.1,
+      "audioSha256": "1ece473edcecdec27424d0ea0371752005560a7e3d7017bf57bf2af2dd297d5b",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 6330.8,
+          "end": 6338.64,
+          "text": " of in my area in my if if if if if of India I'm talking right now the way people know blockchain"
+        },
+        {
+          "start": 6338.64,
+          "end": 6344.6,
+          "text": " is either it is Bitcoin or it is well on a so that's kind of the way that I see that okay"
+        },
+        {
+          "start": 6344.6,
+          "end": 6348.68,
+          "text": " as an ecosystem Solana is the strongest out there more of a photo are you coming to play"
+        },
+        {
+          "start": 6348.68,
+          "end": 6354.68,
+          "text": " and another ecosystems spending on air are you coming on to air everything seems perfect"
+        },
+        {
+          "start": 6354.68,
+          "end": 6357.68,
+          "text": " that why I should target Solana as the first thing."
+        }
+      ],
+      "originalSegmentSha256": "44afc7e3841b3f8904e69bad7fdd94657d666b2d0a045a3d4f4199af7d4b96c6",
+      "replacementSegmentsSha256": "13565b4ec9fd50b4135d0280077ff8b464b9789d0e659cf132d61f9625a5f896",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-29-recording",
+      "originalIndex": 169,
+      "start": 4849.04,
+      "end": 4879.09,
+      "audioSha256": "1ece473edcecdec27424d0ea0371752005560a7e3d7017bf57bf2af2dd297d5b",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 4849.04,
+          "end": 4855.2,
+          "text": " I don't know if they know what this futaleo, what it represents to lounge at token on Solana,"
+        },
+        {
+          "start": 4855.2,
+          "end": 4864.32,
+          "text": " that is not the same like blockchain that they are currently using for the AI agents."
+        },
+        {
+          "start": 4864.32,
+          "end": 4871.6,
+          "text": " Like you have this kind of conversation. They are already aware of what you are trying to do."
+        },
+        {
+          "start": 4872.4,
+          "end": 4878.56,
+          "text": " They are willing to participate in the ICO and be a token holder in decision making."
+        }
+      ],
+      "originalSegmentSha256": "e1569a2c9d3e2b7afbaf6ea9a82926e7dae8f66d86d77544f0f011ecc2ea06d1",
+      "replacementSegmentsSha256": "82134424e9687f20f8a1f70a047744087683fdc6916b3427139b80b02e649536",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-29-recording",
+      "originalIndex": 14,
+      "start": 629.92,
+      "end": 657.1,
+      "audioSha256": "1ece473edcecdec27424d0ea0371752005560a7e3d7017bf57bf2af2dd297d5b",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 629.92,
+          "end": 639.4,
+          "text": " a proposal to move 300k USDC to USDC that is the stable coin of Solomon that of course"
+        },
+        {
+          "start": 639.4,
+          "end": 649.36,
+          "text": " is ownership project. We saw credible moving 250k USDC to SDC and right now we have the"
+        },
+        {
+          "start": 649.36,
+          "end": 656.8,
+          "text": " Omni-Paid proposal trading to move 130k from the U.S."
+        }
+      ],
+      "originalSegmentSha256": "686ca02261a17b5c2f1c375667f8eae5b41c7decf93a214c41aeafd5eed17ff2",
+      "replacementSegmentsSha256": "0d3140598d2d03b40ae3c47052376aa168d30931fdb6d3365f1c87f11f1c8e0f",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-30-recording",
+      "originalIndex": 10,
+      "start": 582.3199999999999,
+      "end": 600,
+      "audioSha256": "efda91b2d653241a4e9744ccac6c68d231e0bbd2a7138a8723c19fa2c6b11d6c",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 582.3199999999999,
+          "end": 586.8799999999999,
+          "text": " Shostim bite through spout if you can join in"
+        },
+        {
+          "start": 590.3199999999999,
+          "end": 593.04,
+          "text": " I have joined, I have joined in septan weight as well"
+        },
+        {
+          "start": 593.04,
+          "end": 595.5999999999999,
+          "text": " Ah nice to have you here, how are you?"
+        },
+        {
+          "start": 597.1999999999999,
+          "end": 598.4,
+          "text": " Perfect, how are you?"
+        },
+        {
+          "start": 598.4,
+          "end": 599.8399999999999,
+          "text": " I'm pretty fine"
+        }
+      ],
+      "originalSegmentSha256": "e3a0c1ab39d1d472a3b7b97f4014a572ee7d581cf0dcf5fe1770192655ad69d9",
+      "replacementSegmentsSha256": "7cda5cadf7e48670a437af238eafc8d9ae2e5342993ec307b6fc8cdfb9283e42",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-31-recording",
+      "originalIndex": 274,
+      "start": 7752.98,
+      "end": 7780,
+      "audioSha256": "84537a64aa30c89b7ebb725b53e6bba5b53a205e813deca716cbd89de6dc644c",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 7752.98,
+          "end": 7753.98,
+          "text": " He's doing super cool."
+        },
+        {
+          "start": 7753.98,
+          "end": 7754.98,
+          "text": " Because we've turned it too, man."
+        },
+        {
+          "start": 7754.98,
+          "end": 7756.98,
+          "text": " Yeah, we're talking about Fingagachi."
+        },
+        {
+          "start": 7756.98,
+          "end": 7757.98,
+          "text": " How are you, Mashek?"
+        },
+        {
+          "start": 7757.98,
+          "end": 7758.98,
+          "text": " Are you guys doing?"
+        },
+        {
+          "start": 7758.98,
+          "end": 7759.98,
+          "text": " I heard you talking about me."
+        },
+        {
+          "start": 7759.98,
+          "end": 7760.98,
+          "text": " Yeah, yeah."
+        },
+        {
+          "start": 7760.98,
+          "end": 7761.98,
+          "text": " We're like, oh, sir Mashek was like, hardware."
+        },
+        {
+          "start": 7761.98,
+          "end": 7770.98,
+          "text": " I was like, I know a guy who knows a guy."
+        },
+        {
+          "start": 7770.98,
+          "end": 7771.98,
+          "text": " With Mashek."
+        },
+        {
+          "start": 7771.98,
+          "end": 7777.98,
+          "text": " No, interesting subject that you guys are talking about when it comes to, you know, thing harness"
+        },
+        {
+          "start": 7777.98,
+          "end": 7780,
+          "text": " and how you've been managed to have like."
+        }
+      ],
+      "originalSegmentSha256": "6663472ed05609577abbabfa5619cfd258d0c35b4637e34a5d97d5a777965760",
+      "replacementSegmentsSha256": "8502fdaabfb287e9371aeeb9adc044e58a906fea656b9936bebeeca0d53f6ddd",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-radio-31-recording",
+      "originalIndex": 269,
+      "start": 7614.29,
+      "end": 7644.72,
+      "audioSha256": "84537a64aa30c89b7ebb725b53e6bba5b53a205e813deca716cbd89de6dc644c",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 7614.29,
+          "end": 7619.29,
+          "text": " Because as AI kind of becomes more mainstream,"
+        },
+        {
+          "start": 7619.61,
+          "end": 7622.05,
+          "text": " people are going to be using it in different ways"
+        },
+        {
+          "start": 7622.05,
+          "end": 7623.89,
+          "text": " that better suit their needs, right?"
+        },
+        {
+          "start": 7623.89,
+          "end": 7627.13,
+          "text": " I'm really excited for something like even realities."
+        },
+        {
+          "start": 7627.13,
+          "end": 7628.69,
+          "text": " Have you heard of even realities?"
+        },
+        {
+          "start": 7629.89,
+          "end": 7632.97,
+          "text": " But even realities."
+        },
+        {
+          "start": 7632.97,
+          "end": 7635.13,
+          "text": " No, no, it's like, it's like, it's like,"
+        },
+        {
+          "start": 7635.13,
+          "end": 7637.17,
+          "text": " it's like, it's like, it's like, it's like,"
+        },
+        {
+          "start": 7637.17,
+          "end": 7642.17,
+          "text": " they're an eyewear company that is introducing AI glasses."
+        },
+        {
+          "start": 7642.17,
+          "end": 7644.17,
+          "text": " Okay, nice."
+        }
+      ],
+      "originalSegmentSha256": "24b56a0fd4e9a3f1c78a056ecdd8fb378c2872f55993a7b6583f8982b5b64780",
+      "replacementSegmentsSha256": "a73bfbe07b8deeda4db8a1ee7c0c644005fb5b18e49afb4cc3cc4fb655beca1d",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    },
+    {
+      "resourceId": "ownership-roadshow-3-recording",
+      "originalIndex": 56,
+      "start": 1587.04,
+      "end": 1616.37,
+      "audioSha256": "6d3c7fa644de3c816a844c9cbbbfd792d7c8f109296f5372fa755c83d844ed0a",
+      "method": "Exact flagged interval re-decoded from hash-matched original audio; faster-whisper base.en CPU int8, non-batched beam 3, VAD. Machine comparison only, not manual listening.",
+      "segments": [
+        {
+          "start": 1587.04,
+          "end": 1597.84,
+          "text": " it'll be poor and the lady of all about the lady of every poor so but you know if I what using"
+        },
+        {
+          "start": 1597.84,
+          "end": 1604.6399999999999,
+          "text": " sorry if I building a product like you know DTF secondary market or something like that you know"
+        },
+        {
+          "start": 1604.6399999999999,
+          "end": 1612.8799999999999,
+          "text": " just like level H DTF level H ETF or something like that so this is a huge problem for me like"
+        },
+        {
+          "start": 1612.8799999999999,
+          "end": 1615.92,
+          "text": " liquidity, and then how?"
+        }
+      ],
+      "originalSegmentSha256": "d007227b2ceb5157ccdc809e58db9e1cd44dadc266e485d292c026f70ed1faba",
+      "replacementSegmentsSha256": "47900453aee009b6b76429c2d5e85ca8f4f368893924e799dd540571bfda3637",
+      "assessment": "Severe loop replaced with fresh contextual machine output. Text compared for loop removal only; spelling, names, numbers and speech completeness are not manually verified."
+    }
+  ]
+}

@@ -1,0 +1,903 @@
+{
+  "method": "Structural scan of every segment; heuristic repetition triage, not full manual reading, listening, factual validation or proof of complete speech coverage. Caption end times are inferred and cannot establish absence of gaps.",
+  "catalogSha256": "6e123994214e63f61a3bcde0928b733e36dd6cb3a187522011fd0d84912de5fb",
+  "transcriptCount": 57,
+  "transcripts": [
+    {
+      "resourceId": "ownership-radio-1-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 2650.9226875,
+      "segments": 552,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 134.64,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-10-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7062.6986875,
+      "segments": 1691,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 240.62,
+          "knownOmission": false
+        },
+        {
+          "type": "invalid-timing",
+          "index": 21,
+          "start": 300,
+          "end": 305.68
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-11-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 8752.32,
+      "segments": 2082,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 370.96,
+          "knownOmission": false
+        },
+        {
+          "type": "invalid-timing",
+          "index": 1663,
+          "start": 6900,
+          "end": 6903.8
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-12-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7171.84,
+      "segments": 1645,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 254.77,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-14-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 6879.68,
+      "segments": 1737,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 274.51,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-16-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7993.898667,
+      "segments": 965,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 233.23,
+          "knownOmission": false
+        },
+        {
+          "type": "untranscribed-interval",
+          "start": 7849.33,
+          "end": 7993.898667,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-radio-17-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 8941.269333,
+      "segments": 320,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 283.02,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-18-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 10204.266667,
+      "segments": 360,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 300.34,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 18,
+          "start": 823.26,
+          "end": 852.61,
+          "repeatedWords": 40,
+          "phrase": "i'm glad"
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 77,
+          "start": 2424.34,
+          "end": 2454.1,
+          "repeatedWords": 80,
+          "phrase": "a very important thing to do so i think that's"
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 304,
+          "start": 8655.31,
+          "end": 8684.75,
+          "repeatedWords": 40,
+          "phrase": "i'm"
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-19-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 3279.7226875,
+      "segments": 609,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 357.17,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-2-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 5268.736,
+      "segments": 956,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 258.9,
+          "knownOmission": false
+        },
+        {
+          "type": "invalid-timing",
+          "index": 617,
+          "start": 3601.07,
+          "end": 3604.07
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-20-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7150.357333,
+      "segments": 246,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 443.65999999999997,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 84,
+          "start": 2751.63,
+          "end": 2782.66,
+          "repeatedWords": 40,
+          "phrase": "sorry"
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-21-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 12492.757333,
+      "segments": 449,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 290.1,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-radio-22-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7530.624,
+      "segments": 264,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 302.35,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-radio-23-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 10915.797333,
+      "segments": 391,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 291.54,
+          "knownOmission": false
+        },
+        {
+          "type": "untranscribed-interval",
+          "start": 10882.54,
+          "end": 10915.797333,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-radio-24-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 10003.242667,
+      "segments": 375,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 267.98,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 212,
+          "start": 5615.15,
+          "end": 5645.18,
+          "repeatedWords": 40,
+          "phrase": "once like"
+        },
+        {
+          "type": "untranscribed-interval",
+          "start": 9937.68,
+          "end": 10003.242667,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-radio-25-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 12865.344,
+      "segments": 470,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 292.05,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 129,
+          "start": 3759.55,
+          "end": 3783.55,
+          "repeatedWords": 40,
+          "phrase": "i like the one"
+        },
+        {
+          "type": "untranscribed-interval",
+          "start": 12820.66,
+          "end": 12865.344,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-26-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 6901.802667,
+      "segments": 242,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 307.34,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-27-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 12115.242667,
+      "segments": 442,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 296.62,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 221,
+          "start": 6084.14,
+          "end": 6109.12,
+          "repeatedWords": 40,
+          "phrase": "wait"
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 229,
+          "start": 6300,
+          "end": 6327.49,
+          "repeatedWords": 40,
+          "phrase": "learn it's to"
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-28-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 8490.538667,
+      "segments": 301,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 236.53,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 60,
+          "start": 1860.66,
+          "end": 1889.95,
+          "repeatedWords": 40,
+          "phrase": "the"
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 243,
+          "start": 6868.91,
+          "end": 6899.57,
+          "repeatedWords": 40,
+          "phrase": "night way to crack a"
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-29-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7161.621333,
+      "segments": 251,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 256.72,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 14,
+          "start": 629.92,
+          "end": 657.1,
+          "repeatedWords": 40,
+          "phrase": "usdc to the"
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 169,
+          "start": 4849.04,
+          "end": 4879.09,
+          "repeatedWords": 40,
+          "phrase": "a"
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 222,
+          "start": 6330.8,
+          "end": 6358.1,
+          "repeatedWords": 40,
+          "phrase": "if"
+        },
+        {
+          "type": "untranscribed-interval",
+          "start": 7124.72,
+          "end": 7161.621333,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-30-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 8841.1093125,
+      "segments": 321,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 277.81,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 10,
+          "start": 582.3199999999999,
+          "end": 600,
+          "repeatedWords": 40,
+          "phrase": "i have joined us"
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-radio-31-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 9364.0746875,
+      "segments": 336,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 298.45,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 269,
+          "start": 7614.29,
+          "end": 7644.72,
+          "repeatedWords": 40,
+          "phrase": "it's like"
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 274,
+          "start": 7752.98,
+          "end": 7780,
+          "repeatedWords": 40,
+          "phrase": "he's doing something super cool"
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-radio-32-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 3940.0533125,
+      "segments": 818,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 297.68,
+          "knownOmission": false
+        },
+        {
+          "type": "untranscribed-interval",
+          "start": 3908.4,
+          "end": 3940.0533125,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-6-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7201.28,
+      "segments": 1599,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 508.94,
+          "knownOmission": false
+        },
+        {
+          "type": "untranscribed-interval",
+          "start": 7170.46,
+          "end": 7201.28,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-8-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7063.3173125,
+      "segments": 1683,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 334.29,
+          "knownOmission": false
+        },
+        {
+          "type": "invalid-timing",
+          "index": 270,
+          "start": 1500,
+          "end": 1504.96
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-radio-9-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 8952.6613125,
+      "segments": 2208,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 252.24,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "res-259",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 2845.7215625,
+      "segments": 700,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "res-257",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 4192.804,
+      "segments": 1010,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "res-258",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 4085.1795,
+      "segments": 1079,
+      "issues": [
+        {
+          "type": "invalid-timing",
+          "index": 874,
+          "start": 3300,
+          "end": 3305.2
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-backfill-2",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 2338.0636875,
+      "segments": 576,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "res-199",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 3699.4031875,
+      "segments": 748,
+      "issues": [
+        {
+          "type": "invalid-timing",
+          "index": 68,
+          "start": 300,
+          "end": 303.18
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-backfill-3",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 4809.6914375,
+      "segments": 1023,
+      "issues": [
+        {
+          "type": "invalid-timing",
+          "index": 843,
+          "start": 3900.34,
+          "end": 3909.84
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-15-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 1865,
+      "segments": 808,
+      "issues": [],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-report-13-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 2032,
+      "segments": 767,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-10-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 1585,
+      "segments": 603,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-9-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 2681,
+      "segments": 1303,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-8-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 2532,
+      "segments": 940,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-forum-1-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 3202,
+      "segments": 1066,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 362,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-roadshow-5-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 6210,
+      "segments": 2440,
+      "issues": [],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-roadshow-2-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 8298,
+      "segments": 3153,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "res-252",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 7932,
+      "segments": 2930,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-roadshow-3-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 8203.1146875,
+      "segments": 299,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 243.25,
+          "knownOmission": false
+        },
+        {
+          "type": "repetition-candidate",
+          "index": 56,
+          "start": 1587.04,
+          "end": 1616.37,
+          "repeatedWords": 40,
+          "phrase": "lady of old black"
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-roadshow-4-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 7221.742625,
+      "segments": 253,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 46.51,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-18-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 1819.661,
+      "segments": 861,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-17-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 1720.101,
+      "segments": 703,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-16-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 3351.301,
+      "segments": 1298,
+      "issues": [],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-report-12-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 1477.321,
+      "segments": 630,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-11-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 1869.701,
+      "segments": 817,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-7-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 4573.861,
+      "segments": 1975,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 32,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-6-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 3819.021,
+      "segments": 1428,
+      "issues": [],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-report-5-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 3631.221,
+      "segments": 1203,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-4-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 1920.221,
+      "segments": 791,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-3-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 3520.401,
+      "segments": 1226,
+      "issues": [],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-2-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 2846.341,
+      "segments": 999,
+      "issues": [
+        {
+          "type": "untranscribed-interval",
+          "start": 0,
+          "end": 162,
+          "knownOmission": false
+        }
+      ],
+      "fundedProjectPriority": true
+    },
+    {
+      "resourceId": "ownership-report-1-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 2711.681,
+      "segments": 1058,
+      "issues": [],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-forum-2-recording",
+      "kind": "publisher-auto-captions",
+      "durationSeconds": 3883.081,
+      "segments": 1507,
+      "issues": [],
+      "fundedProjectPriority": false
+    },
+    {
+      "resourceId": "ownership-report-14-recording",
+      "kind": "machine-generated-transcript",
+      "durationSeconds": 2209.320625,
+      "segments": 81,
+      "issues": [],
+      "fundedProjectPriority": true
+    }
+  ]
+}

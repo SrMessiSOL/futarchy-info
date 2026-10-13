@@ -17,6 +17,8 @@ export async function GET(request: Request, context: { params: Promise<{ id: str
   return new Response([
     transcript.title, `Source: ${transcript.sourceUrl}`, transcript.warning,
     `Coverage: ${transcript.reviewBoundary}`, `Timing: ${transcript.timestampAdjustments}`, '',
+    `Quality audit: ${transcript.qualityAudit.method}`,
+    ...transcript.qualityAudit.untranscribedIntervals.map(interval => `Interval without transcript text [${timestamp(interval.start)}–${timestamp(interval.end)}]: ${interval.status}`), '',
     ...transcript.segments.map(segment => `[${timestamp(segment.start)}–${timestamp(segment.end)}] ${segment.text.trim()}`), '',
   ].join('\n'), { headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300' } })
 }

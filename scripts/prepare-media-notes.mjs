@@ -2,12 +2,13 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { createHash } from 'node:crypto'
 
-// Original editorial notes only. Research transcript bodies stay outside publication.
+// Published permissioned transcripts are authoritative; never rebuild them from older research drafts.
 const read = file => JSON.parse(fs.readFileSync(file, 'utf8'))
 const catalog = read('content/resources.json')
 const byId = new Map(catalog.map(resource => [resource.id, resource]))
 // Preserve publisher metadata notes and captions recovered through the browser.
 const notes = new Map(read('content/media-notes.json').map(note => [note.resourceId, note]))
+const publishedNotes = new Map(notes)
 function add(review) {
   const resource = byId.get(review.resourceId)
   if (!resource || !['podcast', 'video'].includes(resource.type)) return
@@ -40,6 +41,13 @@ for (const note of notes.values()) {
   const number = note.resourceId.match(/^ownership-radio-(\d+)-recording$/)?.[1]
   const name = number ? `radio${number}` : podcastFiles[note.resourceId]
   if (!name) continue // OwnershipFM permission does not cover other publishers.
+  const existing = transcripts.find(t => t.resourceId === note.resourceId)
+  if (existing) {
+    const saved = publishedNotes.get(note.resourceId)
+    if (!saved || saved.transcript.status !== 'available' || saved.transcript.sha256 !== existing.researchTranscriptSha256) throw new Error(`Published transcript/note mismatch: ${note.resourceId}`)
+    notes.set(note.resourceId, saved)
+    continue
+  }
   const file = `work/deep-review/audio-transcript-${name}.json`
   if (!fs.existsSync(file)) continue
   const original = fs.readFileSync(file)

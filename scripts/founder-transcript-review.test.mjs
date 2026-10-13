@@ -12,6 +12,19 @@ test('founder correction chains reconstruct originals and match funded published
   assert.ok(['raise','historical-raise'].includes(projects.find(p=>p.id===review.projectId).coverage))
   const t=ts.find(t=>t.resourceId===review.resourceId),restored=structuredClone(t.segments)
   assert.equal(t.audioSha256,review.audioSha256)
+  const followup=read('maintenance/founder-uncertainty-followup-2026-10-13/evidence.json')
+  const next=followup.reviews.find(r=>r.resourceId===t.resourceId)
+  if(next){
+   assert.equal(t.audioSha256,next.audioSha256)
+   assert.equal(hash(restored),next.publishedSegmentsSha256)
+   for(const c of followup.changes.filter(c=>c.resourceId===t.resourceId).reverse()){
+    const index=restored.findIndex(s=>s.start===c.replacement.start)
+    assert.deepEqual(restored[index],c.replacement)
+    assert.equal(c.original.start,c.replacement.start);assert.equal(c.original.end,c.replacement.end)
+    restored[index]=c.original
+   }
+   assert.equal(hash(restored),next.originalSegmentsSha256)
+  }
   for(const c of evidence.changes.filter(c=>c.resourceId===t.resourceId).reverse()){
    const index=restored.findIndex(s=>s.start===c.replacement.start)
    assert.deepEqual(restored[index],c.replacement)

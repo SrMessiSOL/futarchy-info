@@ -304,13 +304,14 @@
   },
   {
     "id": "zklsol",
-    "name": "ZKLSOL / ZKFG",
+    "name": "ZKLSOL / ZKFG / Turbine Cash",
     "aliases": [
       "ZKLSOL / ZKFG",
       "zklsol",
       "ZKLSOL",
       "ZKFG",
-      "Zinc Cash"
+      "Zinc Cash",
+      "Turbine Cash"
     ],
     "companyUrl": "https://metadao.fi/companies/zklsol",
     "resourceId": "res-238",

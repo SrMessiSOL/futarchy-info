@@ -1,7 +1,7 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
-import {beforeContextReview,contextEvidence as evidence} from './transcript-context-evidence.mjs'
+import {beforeContextReview,beforeListenerReview,contextEvidence as evidence} from './transcript-context-evidence.mjs'
 const read=p=>JSON.parse(fs.readFileSync(p))
 
 test('context edits reconstruct all earlier segments and preserve audio provenance, numbers and uncertainty',()=>{
@@ -14,11 +14,12 @@ test('context edits reconstruct all earlier segments and preserve audio provenan
   assert.equal(t.audioSha256,r.audioSha256)
   assert.equal(t.researchTranscriptSha256,r.researchTranscriptSha256)
   assert.deepEqual(notes.find(n=>n.resourceId===t.resourceId).editorialChecks??[],t.editorialChecks??[])
+  const contextSegments=beforeListenerReview(t)
   for(let i=0;i<before.length;i++){
    // Proph3t is the only added digit: financial amounts must remain untouched.
    const digits=s=>(s.replace(/Proph3t/g,'Prophet').match(/\d+(?:[.,]\d+)*/g)||[])
-   assert.deepEqual(digits(before[i].text),digits(t.segments[i].text))
-   assert.deepEqual(before[i].text.match(/\[[^\]]*unclear[^\]]*\]/g),t.segments[i].text.match(/\[[^\]]*unclear[^\]]*\]/g))
+   assert.deepEqual(digits(before[i].text),digits(contextSegments[i].text))
+   assert.deepEqual(before[i].text.match(/\[[^\]]*unclear[^\]]*\]/g),contextSegments[i].text.match(/\[[^\]]*unclear[^\]]*\]/g))
   }
  }
 })

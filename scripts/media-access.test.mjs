@@ -47,7 +47,16 @@ test('Ownership publisher playlists reconcile to single show entries without rem
     assert.equal(row.url, episode.url)
     assert.equal(row.type, 'video')
     const note = notes.find(note => note.resourceId === row.id)
-    assert.equal(note?.transcript.status, episode.captionStatus)
+    assert.equal(note?.transcript.status, episode.transcriptStatus ?? episode.captionStatus)
+    if (episode.transcriptKind === 'machine-generated-transcript') {
+      const transcript = transcripts.find(t => t.resourceId === episode.resourceId)
+      assert.equal(episode.captionStatus, 'unavailable')
+      assert.equal(transcript?.kind, episode.transcriptKind)
+      assert.equal(transcript.audioSha256, episode.audioSha256)
+      assert.equal(transcript.researchTranscriptSha256, episode.researchTranscriptSha256)
+      assert.equal(transcript.segments.length, episode.segmentCount)
+      assert.equal(transcript.durationSeconds, episode.durationSeconds)
+    }
     if (episode.widerContext) assert.ok(!row.tags.some(tag => tag.startsWith('project:')))
   }
 })

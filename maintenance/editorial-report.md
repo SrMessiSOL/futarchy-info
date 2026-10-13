@@ -1,5 +1,15 @@
 # Source review update — 2026-10-12
 
+## Roadshows #3 and #4: local transcription and production catch-up
+
+Merged PR #14 (902ca011255f4e7fed7d28919d05c043c419eb65) was deployed through the existing authenticated Vercel CLI. futarchy.info and www.futarchy.info point to the Ready production deployment https://futarchy-library-l5zdcykdv-srmessisols-projects.vercel.app. The public library returns HTTP 200 with 633 eligible sources, including all 25 numbered Reports, Forums and Roadshows. All 41 previously available transcript JSON endpoints were checked successfully. The earlier deployment failure below is historical; the missing GitHub workflow token was not created or changed.
+
+Downloaded the official YouTube audio for Roadshow #3 (8203.1146875 seconds) and #4 (7221.742625 seconds), decoded the complete files, and generated local English faster-whisper base.en transcripts. Add 299 and 253 timestamped segments respectively, retaining audio hashes, transcript hashes, model, permission and review limits. All 41 existing transcript payloads remain unchanged; total available transcripts is now 43. All five Roadshows have transcript access. Publisher captions for #3/#4 remain unavailable; the coverage report distinguishes that from local transcript availability.
+
+Targeted non-batched ASR reprocessing repaired #3's opening alignment and a sparse passage around 18 minutes. The first four minutes still produced repetitive non-lexical syllables and are explicitly omitted as unreliable; no claim that every spoken word was recovered. Remaining segments passed bounded-time, sparse-segment and long-gap checks. A targeted closed-project-name scan found no matches. These checks are not full manual reading, listening, accuracy correction or independent claim verification. Public summaries and project eligibility remain unchanged.
+
+Validation: 35 tests and TypeScript pass; production build and final deployment verification recorded in the delivery message. Agent access remains behind the same public-view gate as the website.
+
 ## OwnershipFM X and official video archive follow-up to merged PR #13
 
 Reconciled OwnershipFM's X archive against its three official YouTube playlists: 18 numbered Reports, two Forums and five Roadshows. The catalog lacked all Report/Forum entries; add 20 full-show records, retain the five original Roadshow IDs and use verified official YouTube versions as their source links. No reminders, recap posts, clips or alternative-platform duplicates are added. Three Reports are explicitly wider ownership context rather than MetaDAO-funded companies. Ryvo remains retained failed-raise history under its existing actual Radio appearance.

@@ -1947,23 +1947,27 @@
   {
     "resourceId": "ownership-roadshow-3-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher description and recording metadata reviewed; complete downloaded audio processed locally with faster-whisper base.en.",
+    "reviewBoundary": "Complete downloaded official YouTube audio processed locally in five-minute chunks. Transcript has not received full manual reading, correction or audio comparison. Voice activity detection may omit speech, and recognition may invent words or misidentify names and numbers. Publisher-description summaries remain unchanged; no speaker identities inferred. Opening 0:00–4:00 is omitted because re-recognition produced unreliable repetitive syllables; consult the recording for that interval. Targeted ASR repair is not manual verification.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "fbe858f25c45ad9937418f24f2ec5c37ff42f9353393b4f3a5169e2348fb4441",
+      "textUrl": "/api/transcripts/ownership-roadshow-3-recording",
+      "jsonUrl": "/api/transcripts/ownership-roadshow-3-recording?format=json"
     }
   },
   {
     "resourceId": "ownership-roadshow-4-recording",
     "checkedAt": "2026-10-12",
-    "reviewMethod": "Publisher description, playlist and recording metadata; automatic caption recovery where available",
-    "reviewBoundary": "Complete publisher description and playlist/replay metadata reviewed. Video and caption content have not received full editorial review. Summaries use attributed publisher descriptions only.",
+    "reviewMethod": "Publisher description and recording metadata reviewed; complete downloaded audio processed locally with faster-whisper base.en.",
+    "reviewBoundary": "Complete downloaded official YouTube audio processed locally in five-minute chunks. Transcript has not received full manual reading, correction or audio comparison. Voice activity detection may omit speech, and recognition may invent words or misidentify names and numbers. Publisher-description summaries remain unchanged; no speaker identities inferred.",
     "sections": [],
     "transcript": {
-      "status": "unavailable",
-      "sha256": null
+      "status": "available",
+      "sha256": "4519c037ce16ec3f58f026e440900ac0fb5f4d90c847440f41756c4e9284f51a",
+      "textUrl": "/api/transcripts/ownership-roadshow-4-recording",
+      "jsonUrl": "/api/transcripts/ownership-roadshow-4-recording?format=json"
     }
   },
   {

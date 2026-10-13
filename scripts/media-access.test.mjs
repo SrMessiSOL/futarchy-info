@@ -13,7 +13,14 @@ test('public transcripts have explicit OwnershipFM permission, provenance and us
     assert.ok(resource && !resource.catalogOnly && !resource.duplicateOf)
     assert.match(resource.author, /ownership/i)
     assert.equal(transcript.permission.grantedAt, '2026-10-12')
-    assert.match(transcript.audioSha256, /^[a-f0-9]{64}$/)
+    if (transcript.kind === 'publisher-auto-captions') {
+      assert.equal(transcript.audioSha256, null)
+      assert.match(transcript.sourceUrl, /^https:\/\/www\.youtube\.com\/watch\?v=/)
+      assert.match(transcript.captionSourceSha256, /^[a-f0-9]{64}$/)
+      assert.equal(transcript.captionSourceSha256, transcript.researchTranscriptSha256)
+      assert.match(transcript.timestampAdjustments, /inferred intervals/)
+      assert.match(transcript.reviewBoundary, /not been fully read/)
+    } else assert.match(transcript.audioSha256, /^[a-f0-9]{64}$/)
     assert.match(transcript.researchTranscriptSha256, /^[a-f0-9]{64}$/)
     assert.ok(transcript.segments.length > 0)
     for (const segment of transcript.segments) {
@@ -27,6 +34,22 @@ test('public transcripts have explicit OwnershipFM permission, provenance and us
     assert.equal(note.transcript.sha256, transcript.researchTranscriptSha256)
   }
   for (const note of notes.filter(row => row.transcript.status === 'available')) assert.ok(ids.has(note.resourceId))
+})
+test('Ownership publisher playlists reconcile to single show entries without reminder duplicates', () => {
+  const coverage = JSON.parse(fs.readFileSync('maintenance/ownershipfm-archive-2026-10-12/coverage.json'))
+  assert.equal(coverage.episodes.length, 25)
+  const ids = new Set(), urls = new Set()
+  for (const episode of coverage.episodes) {
+    assert.ok(!ids.has(episode.resourceId)); ids.add(episode.resourceId)
+    assert.ok(!urls.has(episode.url)); urls.add(episode.url)
+    const row = rows.find(row => row.id === episode.resourceId)
+    assert.ok(row && !row.catalogOnly && !row.duplicateOf)
+    assert.equal(row.url, episode.url)
+    assert.equal(row.type, 'video')
+    const note = notes.find(note => note.resourceId === row.id)
+    assert.equal(note?.transcript.status, episode.captionStatus)
+    if (episode.widerContext) assert.ok(!row.tags.some(tag => tag.startsWith('project:')))
+  }
 })
 test('Radio reminders stay internal and available shows keep their original IDs', () => {
   const reminders = rows.filter(row => /^Ownership Radio #\d+ . announcement$/.test(row.title))

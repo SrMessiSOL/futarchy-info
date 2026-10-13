@@ -16,7 +16,7 @@ export async function GET(request: Request, context: { params: Promise<{ id: str
   if (format === 'json') return Response.json(transcript)
   return new Response([
     transcript.title, `Source: ${transcript.sourceUrl}`, transcript.warning,
-    `Coverage: ${transcript.reviewBoundary}`, '',
+    `Coverage: ${transcript.reviewBoundary}`, `Timing: ${transcript.timestampAdjustments}`, '',
     ...transcript.segments.map(segment => `[${timestamp(segment.start)}–${timestamp(segment.end)}] ${segment.text.trim()}`), '',
   ].join('\n'), { headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300' } })
 }

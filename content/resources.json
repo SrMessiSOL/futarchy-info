@@ -4834,12 +4834,13 @@
     "author": "OwnershipFM",
     "date": "2026-04-10",
     "type": "video",
-    "url": "https://x.com/i/broadcasts/1dKrPEmYpDYJX",
-    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "url": "https://www.youtube.com/watch?v=dHUz9jLcFpM",
+    "description": "Publisher description lists Send Arcade, Yieldbay, SP3ND, Fraudsworth and Hobba pitches with judges from IKA, Kamino, Superteam, Umbra and Turbine Cash. Original event April 10 and upload May 17 are separate. No successful raise is inferred from participation. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
     "tags": [
       "MetaDAO",
       "OwnershipFM",
-      "Ownership Roadshow"
+      "Ownership Roadshow",
+      "project:umbra"
     ],
     "dateKind": "event",
     "datePrecision": "day",
@@ -4847,7 +4848,7 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2085061816535932946",
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
-    "evidenceNote": "Replay linked by OwnershipFM’s own archive post. Full recording content has not been reviewed. Direct replay title and Ended Apr 10, 2026 independently read on X on October 12."
+    "evidenceNote": "Replay linked by OwnershipFM’s own archive post. Full recording content has not been reviewed. Direct replay title and Ended Apr 10, 2026 independently read on X on October 12. Follow-up: working official YouTube version https://www.youtube.com/watch?v=dHUz9jLcFpM, uploaded 2026-05-17; prior replay https://x.com/i/broadcasts/1dKrPEmYpDYJX preserved here. Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-17. Original broadcast date 2026-04-10 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
   },
   {
     "id": "res-253",
@@ -16850,13 +16851,15 @@
     "author": "OwnershipFM",
     "date": "2026-05-08",
     "type": "video",
-    "url": "https://x.com/i/broadcasts/1qxoNejmAeyJv",
-    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "url": "https://www.youtube.com/watch?v=rxyWV6nFW80",
+    "description": "Publisher description lists pitches including GeSIM, Jurassic, Valgrid, Telebux, Swish, Tributary, Not Market and ProbTrade. The original replay ended May 8; the later upload is separate. Participation and winning are not funding outcomes. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
     "tags": [
       "MetaDAO",
       "OwnershipFM",
       "Ownership Roadshow",
-      "project:gesim"
+      "project:gesim",
+      "project:umbra",
+      "project:jurassic-finance"
     ],
     "sourceUrl": "https://x.com/ownershipfm/status/2053928820600721550",
     "addedAt": "2026-10-12",
@@ -16864,7 +16867,7 @@
     "verification": "source-checked",
     "dateKind": "event",
     "datePrecision": "day",
-    "evidenceNote": "Direct replay title and Ended May 8, 2026 read on X. Later May 11 winner excerpt identifies GeSIM’s Charchit; the company page’s May 12 reference is not used as broadcast date."
+    "evidenceNote": "Direct replay title and Ended May 8, 2026 read on X. Later May 11 winner excerpt identifies GeSIM’s Charchit; the company page’s May 12 reference is not used as broadcast date. Follow-up: working official YouTube version https://www.youtube.com/watch?v=rxyWV6nFW80, uploaded 2026-05-17; prior replay https://x.com/i/broadcasts/1qxoNejmAeyJv preserved here. Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-17. Original broadcast date 2026-05-08 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
   },
   {
     "id": "ownership-roadshow-3-recording",
@@ -16872,12 +16875,16 @@
     "author": "OwnershipFM",
     "date": "2026-06-26",
     "type": "video",
-    "url": "https://x.com/i/broadcasts/1mxPaaNXpLbKN",
-    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "url": "https://www.youtube.com/watch?v=GEPcZ5XaGNA",
+    "description": "Publisher description lists asset tokenization, baskets, wallets, agent security, options and payment infrastructure, with judges including Solomon and Umbra. ClearSig is listed as unable to connect; no successful raise is inferred from appearance. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
     "tags": [
       "MetaDAO",
       "OwnershipFM",
-      "Ownership Roadshow"
+      "Ownership Roadshow",
+      "project:umbra",
+      "project:solomon",
+      "project:ryvo-network",
+      "project:salmon-wallet"
     ],
     "sourceUrl": "https://x.com/ownershipfm/status/2070582697932784017",
     "addedAt": "2026-10-12",
@@ -16885,7 +16892,7 @@
     "verification": "source-checked",
     "dateKind": "event",
     "datePrecision": "day",
-    "evidenceNote": "Publisher replay post dated June 26 links directly to this broadcast. Full recording content has not been reviewed."
+    "evidenceNote": "Publisher replay post dated June 26 links directly to this broadcast. Full recording content has not been reviewed. Follow-up: working official YouTube version https://www.youtube.com/watch?v=GEPcZ5XaGNA, uploaded 2026-07-18; prior replay https://x.com/i/broadcasts/1mxPaaNXpLbKN preserved here. Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-18. Original broadcast date 2026-06-26 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
   },
   {
     "id": "ownership-roadshow-4-recording",
@@ -16893,12 +16900,14 @@
     "author": "OwnershipFM",
     "date": "2026-08-28",
     "type": "video",
-    "url": "https://x.com/i/broadcasts/1jxXgBDnXEEJZ",
-    "description": "OwnershipFM’s live builder-pitch show, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "url": "https://www.youtube.com/watch?v=DokXLmP01iw",
+    "description": "Publisher description covers stablecoin checkout, order books, payments, experiences, attention markets, HiveBits and trading games, with judges from Umbra, Meteora, Squads, BAXUS and the wider ecosystem. Participation and rankings are distinct from successful fundraising. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
     "tags": [
       "MetaDAO",
       "OwnershipFM",
-      "Ownership Roadshow"
+      "Ownership Roadshow",
+      "project:umbra",
+      "project:hivebits"
     ],
     "sourceUrl": "https://x.com/ownershipfm/status/2093412944411578739",
     "addedAt": "2026-10-12",
@@ -16906,7 +16915,7 @@
     "verification": "source-checked",
     "dateKind": "event",
     "datePrecision": "day",
-    "evidenceNote": "Publisher August 28 replay post reviewed; title identifies MetaDAO and Umbra sponsorship. Full recording content has not been reviewed."
+    "evidenceNote": "Publisher August 28 replay post reviewed; title identifies MetaDAO and Umbra sponsorship. Full recording content has not been reviewed. Follow-up: working official YouTube version https://www.youtube.com/watch?v=DokXLmP01iw, uploaded 2026-08-30; prior replay https://x.com/i/broadcasts/1jxXgBDnXEEJZ preserved here. Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-08-30. Original broadcast date 2026-08-28 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
   },
   {
     "id": "ownership-roadshow-5-recording",
@@ -16914,8 +16923,8 @@
     "author": "OwnershipFM",
     "date": "2026-10-02",
     "type": "video",
-    "url": "https://x.com/i/broadcasts/1DGLdZrPbeMGm",
-    "description": "OwnershipFM’s live builder-pitch show with Superteam Balkan, with a direct publisher replay link. Recording metadata reviewed; the complete video and transcript remain a coverage gap. Participation or winning does not establish a completed MetaDAO raise.",
+    "url": "https://www.youtube.com/watch?v=cikfGndNneY",
+    "description": "Publisher description lists builder pitches in tutoring, homeschooling games, advertising, analytics, stablecoin yield, banking and token value recovery. Pitch participation and rankings are not completed raises. Announcement and recap participant counts differ, so no count is adopted. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
     "tags": [
       "MetaDAO",
       "OwnershipFM",
@@ -16927,6 +16936,447 @@
     "verification": "source-checked",
     "dateKind": "event",
     "datePrecision": "day",
-    "evidenceNote": "Publisher October 2 replay post reviewed; Superteam Balkan edition, MetaDAO powered, replay card 1h48m34s. Recap differs on participant count, so no exact count adopted. Full recording content has not been reviewed."
+    "evidenceNote": "Publisher October 2 replay post reviewed; Superteam Balkan edition, MetaDAO powered, replay card 1h48m34s. Recap differs on participant count, so no exact count adopted. Full recording content has not been reviewed. Follow-up: working official YouTube version https://www.youtube.com/watch?v=cikfGndNneY, uploaded 2026-10-04; prior replay https://x.com/i/broadcasts/1DGLdZrPbeMGm preserved here. Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-10-04. Original broadcast date 2026-10-02 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-18-recording",
+    "title": "Ownership Report #18: The Syndicate’s $GANG Raise, Revenue and Roadmap",
+    "author": "OwnershipFM",
+    "date": "2026-10-07",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=FCMaFUDzyCY",
+    "description": "Publisher guide covers Tim’s gaming model, raise terms, revenue, retention, mobile plans and treasury routing. Business metrics are founder claims; planned revenue routing and releases are not confirmed execution. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:the-syndicate"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=FCMaFUDzyCY",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-10-07. Original publisher X source: https://x.com/ownershipfm/status/2107902044183113795. Original broadcast date 2026-10-07 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-17-recording",
+    "title": "Ownership Report #17: Inside HiveBits’ Tokenized Beehive Network",
+    "author": "OwnershipFM",
+    "date": "2026-09-14",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=GCdttBbFeNI",
+    "description": "Publisher guide covers Nemanja’s beekeeping background, connected hives, farm expansion, environmental data and the MetaDAO raise. Productivity, sales and market-size figures are issuer claims. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:hivebits"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=GCdttBbFeNI",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-09-14. Original publisher X source: https://x.com/ownershipfm/status/2099536535477702979. Original broadcast date 2026-09-14 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-16-recording",
+    "title": "Ownership Report #16: Umia’s Vision for Internet Capital Markets",
+    "author": "OwnershipFM",
+    "date": "2026-08-21",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=NwqGg5E4mr0",
+    "description": "Wider futarchy context: Umia’s team discusses EVM decision markets, auctions, zkTLS and a proposed legal wrapper, with comparisons to MetaDAO. This does not establish a MetaDAO ecosystem raise. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "Background"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=NwqGg5E4mr0",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-08-21. Original publisher X source: https://x.com/ownershipfm/status/2090832587237548471. Original broadcast date 2026-08-21 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-15-recording",
+    "title": "Ownership Report #15: Building Payment Rails for the Agent Economy with Ryvo",
+    "author": "OwnershipFM",
+    "date": "2026-08-08",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=JR3u3kU_Qw0",
+    "description": "Publisher guide covers Luka’s proposed agent-payment channels, batched settlement, x402 integration, yield and use of funds. The discussed live raise later failed; this is retained history because Ryvo appeared on Ownership Radio. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:ryvo-network"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=JR3u3kU_Qw0",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-08-08. Original publisher X source: https://x.com/ownershipfm/status/2086155123718553897. Original broadcast date 2026-08-08 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-14-recording",
+    "title": "Ownership Report #14: Umbra V2, Private Payroll and the Next Era of On-chain Privacy",
+    "author": "OwnershipFM",
+    "date": "2026-08-08",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=OYjGBpvjXpA",
+    "description": "Publisher guide covers Abbas and Kru’s V2 strategy, shared anonymity, a guardian committee, payroll, token security and a governance attack. Q4 delivery and architectural changes are presented as plans. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=OYjGBpvjXpA",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-08-08. Original publisher X source: https://x.com/ownershipfm/status/2086046155427950997. Original broadcast date 2026-08-08 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-13-recording",
+    "title": "Ownership Report #13: How Loyal Is Building Automated Finance on Solana",
+    "author": "OwnershipFM",
+    "date": "2026-07-25",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=zapLp8Gv1XM",
+    "description": "Publisher guide covers Chris’s Earn product, an OTC proposal, incentives, governance and the Autonomous Treasury Vault. Live proposal trading is distinct from approval or execution; growth figures and forecasts are founder claims. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=zapLp8Gv1XM",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-25. Original publisher X source: https://x.com/ownershipfm/status/2081061376051872130. Original broadcast date 2026-07-25 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-12-recording",
+    "title": "Ownership Report #12: Inside Ordr’s Fully Onchain Order Book on Solana",
+    "author": "OwnershipFM",
+    "date": "2026-07-24",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=Xg0iqiTSMf8",
+    "description": "Publisher guide covers Vinaya and Arjun’s market-making architecture, private alpha, fundraising budget and planned audit/public rollout. A private alpha and roadmap do not establish a completed public launch. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:ordr"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=Xg0iqiTSMf8",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-24. Original publisher X source: https://x.com/ownershipfm/status/2080676024980054231. Original broadcast date 2026-07-24 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-11-recording",
+    "title": "Ownership Report #11: The $1.7B Hot Wheels Market Nobody Has Tokenized",
+    "author": "OwnershipFM",
+    "date": "2026-07-21",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=fdKe4yhnb0M",
+    "description": "Publisher guide covers David’s collectibles thesis, custody, valuation tooling, raise budget, revenue model and buybacks. Market sizes and margins are founder assertions; commitments are not accepted proceeds. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:ripcars"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=fdKe4yhnb0M",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-21. Original publisher X source: https://x.com/ownershipfm/status/2079627433435889801. Original broadcast date 2026-07-21 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-10-recording",
+    "title": "Ownership Report #10: Credible’s Plan to Open Global Payments Through MetaDAO",
+    "author": "OwnershipFM",
+    "date": "2026-07-19",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=Bwb8AU8OvXc",
+    "description": "Publisher guide covers Shrii’s payments business, raise terms, allocation and vesting, revenue, merchant screening and expansion. Revenue and regulatory claims are not independently verified. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:credible"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=Bwb8AU8OvXc",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-19. Original publisher X source: https://x.com/ownershipfm/status/2074600196986822680. Original broadcast date 2026-07-07 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-9-recording",
+    "title": "Ownership Report #9: The $15M Bet on Tokenized Dinosaur Fossils",
+    "author": "OwnershipFM",
+    "date": "2026-07-18",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=KbRg3IoJ3JI",
+    "description": "Publisher guide covers Jurassic’s Vukan and advisors Rob Petrozzo and Tzvi Wiesel on fossil provenance, tokenization, Solana and governance. Fossil valuation and investment claims remain attributed opinions. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:jurassic-finance"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=KbRg3IoJ3JI",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-18. Original publisher X source: https://x.com/ownershipfm/status/2072729940836151670. Original broadcast date 2026-07-02 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-8-recording",
+    "title": "Ownership Report #8: How Laso Finance Is Building Private Payments for Humans and AI",
+    "author": "OwnershipFM",
+    "date": "2026-07-16",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=oWPBc8O6Q8w",
+    "description": "Publisher guide covers Hunter’s cards, agent spending, raise structure, vesting, treasury revenue and roadmap. Operating metrics are founder reports; proposed treasury actions and delivery dates are not execution evidence. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:laso-finance"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=oWPBc8O6Q8w",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-16. Original publisher X source: https://x.com/ownershipfm/status/2069132374965923848. Original broadcast date 2026-06-22 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-7-recording",
+    "title": "Ownership Report #7: Solana Summit Germany Special",
+    "author": "OwnershipFM",
+    "date": "2026-07-15",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=wRNL96R1fnk",
+    "description": "Publisher chapter guide collects Berlin conversations on founder fit, privacy, Robin Hanson, decision markets, Jurassic’s raise and skeptical views on ownership coins. The complete show replaces separate excerpts in this update. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:jurassic-finance"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=wRNL96R1fnk",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-15. Original publisher X source: https://x.com/ownershipfm/status/2065787285686431994. Original broadcast date 2026-06-13 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-6-recording",
+    "title": "Ownership Report #6: Inside Refi Hub’s Tokenized Solar Raise on Crafts",
+    "author": "OwnershipFM",
+    "date": "2026-07-14",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=MUTs8xqbmFc",
+    "description": "Wider ownership context: the publisher describes Crafts/ReFi’s partial-equity structure, treasury controls and solar-revenue model, including comparisons with MetaDAO. This is not classified as a MetaDAO-funded company. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "Background"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=MUTs8xqbmFc",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-07-14. Original publisher X source: https://x.com/ownershipfm/status/2062595548721594568. Original broadcast date 2026-06-04 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-5-recording",
+    "title": "Ownership Report #5: Umbra’s May Updates and Streamflow Partnership",
+    "author": "OwnershipFM",
+    "date": "2026-05-31",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=psyQjog9-yQ",
+    "description": "Publisher description covers Umbra’s dashboard, pools, payroll and confidential vesting with Streamflow. Claims of uniqueness, compliance and completed product capabilities are attributed to the speakers. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=psyQjog9-yQ",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-31. Original publisher X source: https://x.com/ownershipfm/status/2060042860762730747. Original broadcast date 2026-05-28 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-4-recording",
+    "title": "Ownership Report #4: JurassicFi’s Plan to Tokenize a Dinosaur Fossil on Solana",
+    "author": "OwnershipFM",
+    "date": "2026-05-20",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=eMJfzXNhWKE",
+    "description": "Publisher description covers Sora’s fossil thesis, Futardio raise, museum/lending ideas, token vesting and planned SPV. Proposed purchases and structures are not confirmed execution. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:jurassic-finance"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=eMJfzXNhWKE",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-20. Original publisher X source: https://x.com/ownershipfm/status/2052420336059322478. Original broadcast date 2026-05-07 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-3-recording",
+    "title": "Ownership Report #3: Colosseum Teams Building on Umbra Privacy",
+    "author": "OwnershipFM",
+    "date": "2026-05-19",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=4GK4ds96KFM",
+    "description": "Publisher description introduces Abbas and builder demonstrations involving GeSIM, Seedless, Agentis, Solpayserver, Hush, Unseen Finance and Obscura. Demonstration participation is not evidence that a project raised through MetaDAO. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:umbra",
+      "project:gesim"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=4GK4ds96KFM",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-19. Original publisher X source: https://x.com/ownershipfm/status/2050591874805809550. Original broadcast date 2026-05-02 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-2-recording",
+    "title": "Ownership Report #2: Loyal Smart Accounts for Agentic Finance",
+    "author": "OwnershipFM",
+    "date": "2026-05-19",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=3D9i0Ttscko",
+    "description": "Publisher guide covers Chris’s Seeker rollout, Squads smart accounts, Kamino automation, policy guardrails, privacy and incentives. Planned capabilities and a proposed incentive change are not confirmed execution. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "MetaDAO",
+      "project:loyal"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=3D9i0Ttscko",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-19. Original publisher X source: https://x.com/ownershipfm/status/2049942033968591259. Original broadcast date 2026-04-30 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-report-1-recording",
+    "title": "Ownership Report #1: Tokenizing a Football Club with Alpha FC",
+    "author": "OwnershipFM",
+    "date": "2026-05-19",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=Haj0ucevRFU",
+    "description": "Wider ownership context: the publisher describes Alpha FC’s football-club token sale, governance, dilution, disclosures and legal-rights claims. It explicitly contrasts traditional governance with futarchy; no MetaDAO raise or verified legal entitlement is inferred. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Report",
+      "Ownership ecosystem",
+      "Background"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=Haj0ucevRFU",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-19. Original publisher X source: https://x.com/ownershipfm/status/2047686502130270418. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-forum-2-recording",
+    "title": "Ownership Forum #2: Institutions’ Perspective on MetaDAO and Ownership Coins",
+    "author": "OwnershipFM",
+    "date": "2026-08-04",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=dysq8B-QB_o",
+    "description": "Publisher description covers Theia, DBA and Novora with Blocmates on investor diligence, governance, warrants, founder incentives, disclosure and the limits of the ownership-coin experiment. Opinions and investment theses are not validated returns. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Forum",
+      "MetaDAO"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=dysq8B-QB_o",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-08-04. Original publisher X source: https://x.com/ownershipfm/status/2062541479852056984. Original broadcast date 2026-06-04 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "ownership-forum-1-recording",
+    "title": "Ownership Forum #1: On Token Transparency",
+    "author": "OwnershipFM",
+    "date": "2026-05-17",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=sUgOoILivO4",
+    "description": "Publisher description covers Blockworks’ Robert Burkhart, Loyal’s Chris and Umbra’s Kru on B1/B2 filings, disclosure, recruiting and governance. The X title additionally names Turbine Cash; this is a historical discussion, not an active-project recommendation. Publisher description and metadata reviewed; full recording content has not been editorially reviewed.",
+    "tags": [
+      "OwnershipFM",
+      "Ownership Forum",
+      "MetaDAO",
+      "project:loyal",
+      "project:umbra"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=sUgOoILivO4",
+    "addedAt": "2026-10-12",
+    "checkedAt": "2026-10-12",
+    "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-17. Original publisher X source: https://x.com/ownershipfm/status/2041231275781214433. Original broadcast date 2026-04-06 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
   }
 ]

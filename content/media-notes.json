@@ -2177,9 +2177,30 @@
         "start": 1200,
         "end": 1214.24,
         "status": "primary-source-reference",
-        "note": "The $3 million accepted-raise figure is consistent with MetaDAO. The later 155 figure is not the accepted raise; its unit and exact committed amount were not independently established here. Retain it as unresolved rather than inventing a unit.",
+        "note": "The $3 million accepted-raise figure agrees with MetaDAO. In his separate Index interview at 09:53, Kru describes approximately $155 million in commitments and $3 million accepted. This clarifies the meaning of the abbreviated 155 here; the omitted unit is not inserted into the transcript. These are founder-reported commitments and accepted proceeds, not an independently reconciled deposit or refund total.",
         "sources": [
-          "https://metadao.fi/companies/umbra"
+          "https://metadao.fi/companies/umbra",
+          "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why"
+        ]
+      },
+      {
+        "start": 1666.56,
+        "end": 1690.56,
+        "status": "primary-source-identity",
+        "note": "The Arcium references are normalized to Milian and Arihant. Colosseum lists Milian and Arihant Bansal with Arcium; local medium.en reprocessing supports the phonetic names and privacy pilled wording. Surnames are not added to speech. This is targeted ASR and source comparison, not a manual listen or verification of the guest's recollection.",
+        "sources": [
+          "https://colosseum.com/frontier",
+          "https://www.arcium.com/"
+        ]
+      },
+      {
+        "start": 1810.24,
+        "end": 1825.24,
+        "status": "partially-resolved-identity",
+        "note": "Arcium and Milian are supported by the surrounding discussion and primary identities. The fresh audio pass renders an additional name after Milian, unlike the earlier transcript. It is explicitly marked unclear; the earlier mention of Arihant is insufficient to establish that he is also named here.",
+        "sources": [
+          "https://colosseum.com/frontier",
+          "https://www.arcium.com/"
         ]
       }
     ]
@@ -2282,7 +2303,7 @@
         "start": 3772.9,
         "end": 3892.62,
         "status": "arithmetic-clarification",
-        "note": "For the stated example, 10% of $100 bad debt is $10 and $10,000 minus $10 is $9,990. The final spoken/transcribed balance is unclear and is not silently replaced by the calculated result. This is an illustrative example, not evidence of a realized loss.",
+        "note": "For the stated example, 10% of $100 bad debt is $10 and $10,000 minus $10 is $9,990. The final balance is marked unclear: base.en renders 1k,100 and medium.en 9k,100. Neither is substituted for the calculated result. The earlier self-correction beginning You lose 10k is preserved. This is an illustrative example, not a realized loss.",
         "sources": []
       }
     ]
@@ -2380,10 +2401,12 @@
       },
       {
         "start": 1859.38,
-        "end": 1868.14,
+        "end": 1868.44,
         "status": "unresolved-units",
-        "note": "The circulation count is rendered around 600 by the original ASR and around 600, 700 tokens by a recheck, followed by a 500k proposal threshold. Units and the historical threshold remain unresolved; do not infer missing thousands from arithmetic.",
-        "sources": []
+        "note": "The circulating-token count remains unclear: original ASR gives 600, a prior recheck 600,700, and medium.en six or seven hundred. Missing thousands are not inferred. Separately, Loyal's governance proposal explicitly describes changing the staking requirement from 500,000 to 1,000,000 LOYAL, corroborating the historical 500k threshold discussed here. This does not establish execution of that proposed increase.",
+        "sources": [
+          "https://vercel.metadao.fi/projects/loyal/proposal/98zXsz1RtvYw4zHrxaZDdGBU3BgqfsX9XJbXBLSJUBST"
+        ]
       }
     ]
   },
@@ -2460,7 +2483,7 @@
         "start": 493.63,
         "end": 498.13,
         "status": "unresolved-amount",
-        "note": "Original ASR rendered $68 million; a fresh small.en pass renders six to eight million, while base.en repeats $68 million. The disputed amount is marked unclear pending direct listening. This is a hypothetical VC comparison, not a completed raise.",
+        "note": "Original and base.en render $68 million; small.en renders six to eight million; medium.en returns 68 million with weak recognition of the number. The disputed amount remains unclear. This is a hypothetical VC comparison, not a completed raise. Multiple model outputs are not independent factual verification.",
         "sources": []
       },
       {
@@ -2468,6 +2491,15 @@
         "end": 2432,
         "status": "primary-source-reference",
         "note": "The interview discusses a $6 million fundraising plan. MetaDAO now lists $6 million raised and a $175,000 monthly allowance. Eighteen months at that allowance is $3.15 million; the spoken $3 million is approximate, not exact budget arithmetic. The remainder is a plan, not verified expenditure.",
+        "sources": [
+          "https://metadao.fi/companies/p2p-protocol"
+        ]
+      },
+      {
+        "start": 1026.99,
+        "end": 1053.81,
+        "status": "partially-resolved-reference",
+        "note": "The Ranger comparison remains an unclear monthly amount: original ASR says 2k and 11k; medium.en says 250k in 11th. P2P's own prior burn is rendered 110–120k per month by the audio recheck, an unverified founder statement. The 175k allowance reference agrees with MetaDAO's $175,000 monthly allowance; that is a budget, not proof of spending.",
         "sources": [
           "https://metadao.fi/companies/p2p-protocol"
         ]

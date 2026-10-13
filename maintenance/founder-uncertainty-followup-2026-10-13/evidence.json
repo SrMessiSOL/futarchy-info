@@ -1,0 +1,777 @@
+{
+  "checkedAt": "2026-10-13",
+  "baseCommit": "9f828adaeac0654e5ea60c6e753c7bfe0098d6c7",
+  "method": "Seven original-audio windows reprocessed locally with medium.en CPU int8, beam 5, no prompt, VAD disabled, no previous-text conditioning. Compared with prior base.en/small.en readings and selected primary sources. Not manual listening or complete factual validation.",
+  "reviews": [
+    {
+      "resourceId": "res-259",
+      "audioSha256": "5bb5075f774438d5cb8cdc551de330ae517bc63147a696700811908cd52dcd28",
+      "originalSegmentsSha256": "31149c7e040219ac99e0ff0df74ae3d72fb89f1df1caedcc19519fc7802f4a5a",
+      "originalEditorialChecks": [
+        {
+          "start": 0,
+          "end": 60,
+          "status": "publisher-identity",
+          "note": "The publisher identifies this guest as Sheldon and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+          "sources": [
+            "https://anchor.fm/s/10e854134/podcast/rss",
+            "https://metadao.fi/companies/p2p-protocol"
+          ]
+        },
+        {
+          "start": 493.63,
+          "end": 498.13,
+          "status": "unresolved-amount",
+          "note": "Original ASR rendered $68 million; a fresh small.en pass renders six to eight million, while base.en repeats $68 million. The disputed amount is marked unclear pending direct listening. This is a hypothetical VC comparison, not a completed raise.",
+          "sources": []
+        },
+        {
+          "start": 2298.51,
+          "end": 2432,
+          "status": "primary-source-reference",
+          "note": "The interview discusses a $6 million fundraising plan. MetaDAO now lists $6 million raised and a $175,000 monthly allowance. Eighteen months at that allowance is $3.15 million; the spoken $3 million is approximate, not exact budget arithmetic. The remainder is a plan, not verified expenditure.",
+          "sources": [
+            "https://metadao.fi/companies/p2p-protocol"
+          ]
+        }
+      ],
+      "publishedSegmentsSha256": "aa0a5d7f10a8eb600361ddc7e38df211a14fe1b7c1e1e357f6172c9bffa74c2d"
+    },
+    {
+      "resourceId": "res-257",
+      "audioSha256": "76054ade3c5a1638f62fcbbb5fb879e8af17f5c5e6d9013af275f117ea97da23",
+      "originalSegmentsSha256": "9514169420161e04d92fc54e2d7f9b0c743cb03daad2bec1ef37a34cdd83c2fe",
+      "originalEditorialChecks": [
+        {
+          "start": 0,
+          "end": 60,
+          "status": "publisher-identity",
+          "note": "The publisher identifies this guest as rakka and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+          "sources": [
+            "https://anchor.fm/s/10e854134/podcast/rss",
+            "https://metadao.fi/companies/omnipair"
+          ]
+        },
+        {
+          "start": 945.22,
+          "end": 951.74,
+          "status": "primary-source-reference",
+          "note": "The spoken around one million is an approximation. MetaDAO lists $1.1 million raised; retain the historical spoken wording rather than silently replacing it with a later displayed amount.",
+          "sources": [
+            "https://metadao.fi/companies/omnipair"
+          ]
+        },
+        {
+          "start": 2037,
+          "end": 2058,
+          "status": "hypothetical-example",
+          "note": "The 800 / 500k audit passage is introduced as a hypothetical bad treasury decision. It does not establish an actual audit payment or approved budget.",
+          "sources": []
+        },
+        {
+          "start": 3772.9,
+          "end": 3892.62,
+          "status": "arithmetic-clarification",
+          "note": "For the stated example, 10% of $100 bad debt is $10 and $10,000 minus $10 is $9,990. The final spoken/transcribed balance is unclear and is not silently replaced by the calculated result. This is an illustrative example, not evidence of a realized loss.",
+          "sources": []
+        }
+      ],
+      "publishedSegmentsSha256": "2aaa0d3ee1de9a81a57fe9813fff85f1a5796efdf15036b2647982130b0481de"
+    },
+    {
+      "resourceId": "res-258",
+      "audioSha256": "e04b8b87a46ad759cd913d772b409478c001d29d33934c179cc0d0787bf7d59e",
+      "originalSegmentsSha256": "821b211cdbab0bc7c4f9bd96566e42b4781a3eb161f9da0a4497e4775f79df62",
+      "originalEditorialChecks": [
+        {
+          "start": 0,
+          "end": 60,
+          "status": "publisher-identity",
+          "note": "The publisher identifies this guest as Chris and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+          "sources": [
+            "https://anchor.fm/s/10e854134/podcast/rss",
+            "https://metadao.fi/companies/loyal"
+          ]
+        },
+        {
+          "start": 18.74,
+          "end": 23.74,
+          "status": "publisher-numbering",
+          "note": "Audio recheck also renders episode five, while the publisher labels this interview S1 E4. Preserve the spoken number; use S1 E4 for catalog identification.",
+          "sources": [
+            "https://anchor.fm/s/10e854134/podcast/rss"
+          ]
+        },
+        {
+          "start": 1782.87,
+          "end": 1828.48,
+          "status": "arithmetic-clarification",
+          "note": "MetaDAO lists $2.5 million raised. The guest reports $1.5 million spent on buybacks; that amount is 60% of $2.5 million. The nearby 70–75% token-holding claim uses a different denominator and remains unverified. No buyback execution or treasury holdings were independently checked.",
+          "sources": [
+            "https://metadao.fi/companies/loyal"
+          ]
+        },
+        {
+          "start": 1859.38,
+          "end": 1868.14,
+          "status": "unresolved-units",
+          "note": "The circulation count is rendered around 600 by the original ASR and around 600, 700 tokens by a recheck, followed by a 500k proposal threshold. Units and the historical threshold remain unresolved; do not infer missing thousands from arithmetic.",
+          "sources": []
+        }
+      ],
+      "publishedSegmentsSha256": "0b39e806998a631fd6ae4fa78a704e7606cd6e0469ce2cea7f26efc5ee3d5e9d"
+    },
+    {
+      "resourceId": "res-199",
+      "audioSha256": "eba01c832ea3567faaf494d033966b074ebb37d697abc0829f0a40ef6eb9ecf3",
+      "originalSegmentsSha256": "71f00a8cbac2f20803420fd48a89ce8fd2f18591cc32cd628106be89f36de457",
+      "originalEditorialChecks": [
+        {
+          "start": 0,
+          "end": 60,
+          "status": "publisher-identity",
+          "note": "The publisher identifies this guest as Kru and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+          "sources": [
+            "https://anchor.fm/s/10e854134/podcast/rss",
+            "https://metadao.fi/companies/umbra"
+          ]
+        },
+        {
+          "start": 1200,
+          "end": 1214.24,
+          "status": "primary-source-reference",
+          "note": "The $3 million accepted-raise figure is consistent with MetaDAO. The later 155 figure is not the accepted raise; its unit and exact committed amount were not independently established here. Retain it as unresolved rather than inventing a unit.",
+          "sources": [
+            "https://metadao.fi/companies/umbra"
+          ]
+        }
+      ],
+      "publishedSegmentsSha256": "62163fcd353e230b7d774dd47bb9595ca27042f9ec4bad1589de30fb7ddb3e48"
+    }
+  ],
+  "changes": [
+    {
+      "resourceId": "res-259",
+      "original": {
+        "start": 1026.99,
+        "end": 1032.67,
+        "text": " I mean, we looked at Ranger, they were taking 2k and 11k every month."
+      },
+      "replacement": {
+        "start": 1026.99,
+        "end": 1032.67,
+        "text": " I mean, we looked at Ranger, they were taking [unclear monthly amount] every month."
+      },
+      "reason": "Original 2k and 11k conflicts with medium.en 250k in 11th. Neither is reliable enough to publish as a definite amount.",
+      "sources": []
+    },
+    {
+      "resourceId": "res-259",
+      "original": {
+        "start": 1032.67,
+        "end": 1042.8899999999999,
+        "text": " So we know that our burn rates so far, the VC cap is about 110 to 120 km a month."
+      },
+      "replacement": {
+        "start": 1032.67,
+        "end": 1042.8899999999999,
+        "text": " So we know that our burn rate so far, with the VC capital, is about 110 to 120k a month."
+      },
+      "reason": "Medium.en resolves the garbled capital and km wording. This is historical founder-reported burn, not audited spending.",
+      "sources": []
+    },
+    {
+      "resourceId": "res-259",
+      "original": {
+        "start": 1046.75,
+        "end": 1052.21,
+        "text": " So we sort of moved our relevance to 175k and we sort of declared what we are going to use"
+      },
+      "replacement": {
+        "start": 1046.75,
+        "end": 1052.21,
+        "text": " So we sort of moved our allowance to 175k and we sort of declared what we are going to use"
+      },
+      "reason": "Context and primary company allowance support the phonetic correction relevance to allowance.",
+      "sources": [
+        "https://metadao.fi/companies/p2p-protocol"
+      ]
+    },
+    {
+      "resourceId": "res-259",
+      "original": {
+        "start": 1052.21,
+        "end": 1053.81,
+        "text": " this relevance for."
+      },
+      "replacement": {
+        "start": 1052.21,
+        "end": 1053.81,
+        "text": " this allowance for."
+      },
+      "reason": "Same allowance reference continues across the segment boundary.",
+      "sources": [
+        "https://metadao.fi/companies/p2p-protocol"
+      ]
+    },
+    {
+      "resourceId": "res-257",
+      "original": {
+        "start": 3888.42,
+        "end": 3892.62,
+        "text": " So you end up with line k 100, right?"
+      },
+      "replacement": {
+        "start": 3888.42,
+        "end": 3892.62,
+        "text": " So you end up with [unclear balance], right?"
+      },
+      "reason": "Base and medium recognition disagree on the final balance; do not substitute the calculated 9,990 for speech.",
+      "sources": []
+    },
+    {
+      "resourceId": "res-258",
+      "original": {
+        "start": 1859.38,
+        "end": 1864.38,
+        "text": " there's around 600 tokens in free-service regulation"
+      },
+      "replacement": {
+        "start": 1859.38,
+        "end": 1864.38,
+        "text": " there's around [unclear circulating-token count] in free circulation"
+      },
+      "reason": "Medium.en and prior recheck resolve free circulation but do not establish the count and units. No inferred thousands.",
+      "sources": []
+    },
+    {
+      "resourceId": "res-258",
+      "original": {
+        "start": 1864.74,
+        "end": 1868.44,
+        "text": " with 500 K required for raising in proposal."
+      },
+      "replacement": {
+        "start": 1864.74,
+        "end": 1868.44,
+        "text": " with 500k required for raising a proposal."
+      },
+      "reason": "Medium.en confirms wording and separate proposal corroborates historical threshold.",
+      "sources": [
+        "https://vercel.metadao.fi/projects/loyal/proposal/98zXsz1RtvYw4zHrxaZDdGBU3BgqfsX9XJbXBLSJUBST"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 1210.04,
+        "end": 1214.24,
+        "text": " We've, we've taken pay more funds from 155 that we raised."
+      },
+      "replacement": {
+        "start": 1210.04,
+        "end": 1214.24,
+        "text": " We could have taken way more funds from the 155 that we raised."
+      },
+      "reason": "Rechecks agree on conditional could have taken; do not misrepresent commitments as proceeds accepted.",
+      "sources": [
+        "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 1666.56,
+        "end": 1673.56,
+        "text": " Then I just got privacy built by a million from Akhim, right?"
+      },
+      "replacement": {
+        "start": 1666.56,
+        "end": 1673.56,
+        "text": " Then I just got privacy pilled by Milian from Arcium, right?"
+      },
+      "reason": "Medium.en resolves privacy pilled; primary organizer names Milian and Arcium, matching the phonetic reading.",
+      "sources": [
+        "https://colosseum.com/frontier",
+        "https://www.arcium.com/"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 1673.56,
+        "end": 1677.56,
+        "text": " A million and Arihant, both of them just privacy built me."
+      },
+      "replacement": {
+        "start": 1673.56,
+        "end": 1677.56,
+        "text": " Milian and Arihant, both of them just privacy pilled me."
+      },
+      "reason": "Medium.en supports both names and privacy pilled; organizer identifies Milian and Arihant Bansal with Arcium. Do not insert an unspoken surname.",
+      "sources": [
+        "https://colosseum.com/frontier"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 1677.56,
+        "end": 1690.56,
+        "text": " Reading those articles by a million were just like, you know, I think even before the, you know, the code that privacy is the last thousand x remaining in crypto."
+      },
+      "replacement": {
+        "start": 1677.56,
+        "end": 1690.56,
+        "text": " Reading those articles by Milian were just like, you know, I think even before the, you know, the code that privacy is the last thousand x remaining in crypto."
+      },
+      "reason": "Correct only the supported name; other wording remains machine transcription.",
+      "sources": [
+        "https://colosseum.com/frontier"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 1810.24,
+        "end": 1814.2,
+        "text": " I just wanted to do something using our QM."
+      },
+      "replacement": {
+        "start": 1810.24,
+        "end": 1814.2,
+        "text": " I just wanted to do something using Arcium."
+      },
+      "reason": "Medium.en phonetic Arkeon and primary Umbra ecosystem reference resolve our QM.",
+      "sources": [
+        "https://www.arcium.com/"
+      ]
+    },
+    {
+      "resourceId": "res-199",
+      "original": {
+        "start": 1821.3,
+        "end": 1825.24,
+        "text": " where I called up million and gave them this entire architecture"
+      },
+      "replacement": {
+        "start": 1821.3,
+        "end": 1825.24,
+        "text": " where I called up Milian [unclear additional name] and gave them this entire architecture"
+      },
+      "reason": "Medium.en adds a second name-like phrase after Milian that earlier ASR missed. Do not infer that it is Arihant from the earlier discussion.",
+      "sources": [
+        "https://colosseum.com/frontier"
+      ]
+    }
+  ],
+  "sources": {
+    "names": "https://colosseum.com/frontier",
+    "arcium": "https://www.arcium.com/",
+    "loyal": "https://vercel.metadao.fi/projects/loyal/proposal/98zXsz1RtvYw4zHrxaZDdGBU3BgqfsX9XJbXBLSJUBST",
+    "umbra": "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why",
+    "p2p": "https://metadao.fi/companies/p2p-protocol"
+  },
+  "rawAudioRecheckSha256": "3268316e673558adb8b6096a79b445b32061c2c3c3002188b64fa5ccd51b805a",
+  "audioRechecks": [
+    {
+      "file": "Sheldon",
+      "start": 488,
+      "end": 504,
+      "method": "medium.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "segments": [
+        {
+          "start": 490.42,
+          "end": 493.44,
+          "text": " This is something which VC money cannot buy us.",
+          "avgLogprob": -0.28845101908633586,
+          "noSpeechProbability": 0.1996924728155136
+        },
+        {
+          "start": 493.72,
+          "end": 497.84,
+          "text": " We can go and raise a 68 million dollar check probably at a better valuation",
+          "avgLogprob": -0.28845101908633586,
+          "noSpeechProbability": 0.1996924728155136
+        },
+        {
+          "start": 498.36,
+          "end": 501.24,
+          "text": " given VCs want to sort of look at it long term or whatever",
+          "avgLogprob": -0.28845101908633586,
+          "noSpeechProbability": 0.1996924728155136
+        },
+        {
+          "start": 501.76,
+          "end": 503.82,
+          "text": " but we don't solve the regulatory problem.",
+          "avgLogprob": -0.28845101908633586,
+          "noSpeechProbability": 0.1996924728155136
+        }
+      ]
+    },
+    {
+      "file": "Sheldon",
+      "start": 1015,
+      "end": 1060,
+      "method": "medium.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "segments": [
+        {
+          "start": 1015,
+          "end": 1019.2,
+          "text": " last place. And we are also confident that FITARCHI and the community governance will",
+          "avgLogprob": -0.37667322968659195,
+          "noSpeechProbability": 0.2327997386455536
+        },
+        {
+          "start": 1019.2,
+          "end": 1025.66,
+          "text": " see value in our work, in way to build and stuff like that. We also learned from past",
+          "avgLogprob": -0.37667322968659195,
+          "noSpeechProbability": 0.2327997386455536
+        },
+        {
+          "start": 1025.66,
+          "end": 1030.28,
+          "text": " ICOs, right? Like, you know, I mean, we looked at Ranger, they were taking 250k",
+          "avgLogprob": -0.37667322968659195,
+          "noSpeechProbability": 0.2327997386455536
+        },
+        {
+          "start": 1030.28,
+          "end": 1037.26,
+          "text": " in 11th every month. So we sort of we know that our burn rate so far, with the",
+          "avgLogprob": -0.37667322968659195,
+          "noSpeechProbability": 0.2327997386455536
+        },
+        {
+          "start": 1037.26,
+          "end": 1042.34,
+          "text": " VC capital is about 110 to 120k a month.",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        },
+        {
+          "start": 1042.86,
+          "end": 1046.6,
+          "text": " We might slightly scale up in the coming months.",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        },
+        {
+          "start": 1046.86,
+          "end": 1049.74,
+          "text": " So we sort of moved our relevance to 175k.",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        },
+        {
+          "start": 1049.9,
+          "end": 1051.8,
+          "text": " And we sort of declared what we are",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        },
+        {
+          "start": 1051.8,
+          "end": 1053.04,
+          "text": " going to use this relevance for.",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        },
+        {
+          "start": 1053.64,
+          "end": 1055.22,
+          "text": " So we sort of believed that, hey,",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        },
+        {
+          "start": 1055.4,
+          "end": 1057.38,
+          "text": " if we keep everything up-front, transparent,",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        },
+        {
+          "start": 1058.78,
+          "end": 1059.98,
+          "text": " especially about the money, right?",
+          "avgLogprob": -0.24196655540675907,
+          "noSpeechProbability": 0.12039537727832794
+        }
+      ]
+    },
+    {
+      "file": "rakka",
+      "start": 3870,
+      "end": 3905,
+      "method": "medium.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "segments": [
+        {
+          "start": 3870,
+          "end": 3873.82,
+          "text": " of the liquidity pro rata to their stake in the pool.",
+          "avgLogprob": -0.14033366900448704,
+          "noSpeechProbability": 0.014694532379508018
+        },
+        {
+          "start": 3874,
+          "end": 3877.8,
+          "text": " So now you have 10K, which is 10% of the liquidity.",
+          "avgLogprob": -0.14033366900448704,
+          "noSpeechProbability": 0.014694532379508018
+        },
+        {
+          "start": 3878.6,
+          "end": 3883.84,
+          "text": " You lose 10K, you lose 10% of the bad debt, which is $10.",
+          "avgLogprob": -0.14033366900448704,
+          "noSpeechProbability": 0.014694532379508018
+        },
+        {
+          "start": 3884.32,
+          "end": 3887.54,
+          "text": " So you lose $10 from your 10K liquidity.",
+          "avgLogprob": -0.14033366900448704,
+          "noSpeechProbability": 0.014694532379508018
+        },
+        {
+          "start": 3888.08,
+          "end": 3891.28,
+          "text": " So you end up with 9K, 100, right?",
+          "avgLogprob": -0.14033366900448704,
+          "noSpeechProbability": 0.014694532379508018
+        },
+        {
+          "start": 3892.44,
+          "end": 3894.16,
+          "text": " And the one who controls,",
+          "avgLogprob": -0.14033366900448704,
+          "noSpeechProbability": 0.014694532379508018
+        },
+        {
+          "start": 3894.44,
+          "end": 3896.3,
+          "text": " and the one who owns 20% of the pool",
+          "avgLogprob": -0.14033366900448704,
+          "noSpeechProbability": 0.014694532379508018
+        },
+        {
+          "start": 3896.3,
+          "end": 3902.9,
+          "text": " We'll lose 20% of the we'll get 20% of the bad that applied under on the liquidity. Does that make sense?",
+          "avgLogprob": -0.30361450079715613,
+          "noSpeechProbability": 0.09344743192195892
+        },
+        {
+          "start": 3904.86,
+          "end": 3904.98,
+          "text": " Yeah",
+          "avgLogprob": -0.30361450079715613,
+          "noSpeechProbability": 0.09344743192195892
+        }
+      ]
+    },
+    {
+      "file": "Chris",
+      "start": 1845,
+      "end": 1875,
+      "method": "medium.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "segments": [
+        {
+          "start": 1845,
+          "end": 1850.7,
+          "text": " tokens in the free circulation to support just raising a proposal, unless our whales",
+          "avgLogprob": -0.2180682263440556,
+          "noSpeechProbability": 0.535902202129364
+        },
+        {
+          "start": 1850.7,
+          "end": 1852.68,
+          "text": " collaborate together.",
+          "avgLogprob": -0.2180682263440556,
+          "noSpeechProbability": 0.535902202129364
+        },
+        {
+          "start": 1852.78,
+          "end": 1859.7,
+          "text": " I think one of our community members calculated that with everything out there, there's",
+          "avgLogprob": -0.2180682263440556,
+          "noSpeechProbability": 0.535902202129364
+        },
+        {
+          "start": 1859.7,
+          "end": 1867.86,
+          "text": " around six or seven hundred tokens in free circulation with 500k required for raising",
+          "avgLogprob": -0.2180682263440556,
+          "noSpeechProbability": 0.535902202129364
+        },
+        {
+          "start": 1867.86,
+          "end": 1868.34,
+          "text": " a proposal.",
+          "avgLogprob": -0.2180682263440556,
+          "noSpeechProbability": 0.535902202129364
+        },
+        {
+          "start": 1868.58,
+          "end": 1869.7,
+          "text": " So that's nearly impossible.",
+          "avgLogprob": -0.2180682263440556,
+          "noSpeechProbability": 0.535902202129364
+        },
+        {
+          "start": 1869.7,
+          "end": 1874.88,
+          "text": " that's why we're sorta like when everything else is happening with the range of sorta",
+          "avgLogprob": -0.3984647975726561,
+          "noSpeechProbability": 0.06948653608560562
+        }
+      ]
+    },
+    {
+      "file": "Kru",
+      "start": 1190,
+      "end": 1225,
+      "method": "medium.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "segments": [
+        {
+          "start": 1190,
+          "end": 1196.96,
+          "text": " I think it's a give and take right, there is in no way shape or form that a team like",
+          "avgLogprob": -0.236341504143997,
+          "noSpeechProbability": 0.11090303957462311
+        },
+        {
+          "start": 1196.96,
+          "end": 1202.16,
+          "text": " us would have been able to raise well 3 million dollars in 4 days.",
+          "avgLogprob": -0.236341504143997,
+          "noSpeechProbability": 0.11090303957462311
+        },
+        {
+          "start": 1203.66,
+          "end": 1212.14,
+          "text": " I would say that we could have raised more, we could have taken way more funds",
+          "avgLogprob": -0.236341504143997,
+          "noSpeechProbability": 0.11090303957462311
+        },
+        {
+          "start": 1212.14,
+          "end": 1214.04,
+          "text": " from the 155 that we raised.",
+          "avgLogprob": -0.236341504143997,
+          "noSpeechProbability": 0.11090303957462311
+        },
+        {
+          "start": 1214.84,
+          "end": 1222.5,
+          "text": " Uh, but this is a team which has first time found, this is a first time founder, uh,",
+          "avgLogprob": -0.30561171885993743,
+          "noSpeechProbability": 0.43940970301628113
+        },
+        {
+          "start": 1222.76,
+          "end": 1224.48,
+          "text": " and in no way, shape or form.",
+          "avgLogprob": -0.30561171885993743,
+          "noSpeechProbability": 0.43940970301628113
+        }
+      ]
+    },
+    {
+      "file": "Kru",
+      "start": 1655,
+      "end": 1695,
+      "method": "medium.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "segments": [
+        {
+          "start": 1655,
+          "end": 1661.42,
+          "text": " like a super tech-focused role, but I think I was capable enough to take on this role",
+          "avgLogprob": -0.23848201319114448,
+          "noSpeechProbability": 0.2149697244167328
+        },
+        {
+          "start": 1661.42,
+          "end": 1670.62,
+          "text": " as a founder. Um, and that's where like ideas started to come up. Uh, then, um, I just",
+          "avgLogprob": -0.23848201319114448,
+          "noSpeechProbability": 0.2149697244167328
+        },
+        {
+          "start": 1670.62,
+          "end": 1674.76,
+          "text": " got privacy pilled by Million from Arkeum, right? Million and Arihant, both of them",
+          "avgLogprob": -0.23848201319114448,
+          "noSpeechProbability": 0.2149697244167328
+        },
+        {
+          "start": 1674.76,
+          "end": 1681.62,
+          "text": " just privacy pilled me. Uh, reading those articles by Million were just like, uh, you",
+          "avgLogprob": -0.23848201319114448,
+          "noSpeechProbability": 0.2149697244167328
+        },
+        {
+          "start": 1681.62,
+          "end": 1688.86,
+          "text": " You know, I think even before the, you know, the code that privacy is the last thousand",
+          "avgLogprob": -0.26030379652976987,
+          "noSpeechProbability": 0.21959035098552704
+        },
+        {
+          "start": 1688.86,
+          "end": 1694.98,
+          "text": " X remaining in crypto, like I had this feeling that, Hey, uh, if I build something, it won't.",
+          "avgLogprob": -0.26030379652976987,
+          "noSpeechProbability": 0.21959035098552704
+        }
+      ]
+    },
+    {
+      "file": "Kru",
+      "start": 1810,
+      "end": 1835,
+      "method": "medium.en int8 CPU beam 5, VAD disabled, word timestamps, no prompt or context conditioning",
+      "segments": [
+        {
+          "start": 1810,
+          "end": 1814.02,
+          "text": " I just wanted to do something using Arkeon.",
+          "avgLogprob": -0.26523398198187353,
+          "noSpeechProbability": 0.14890098571777344
+        },
+        {
+          "start": 1815.8,
+          "end": 1817.32,
+          "text": " That's when all the conversations started.",
+          "avgLogprob": -0.26523398198187353,
+          "noSpeechProbability": 0.14890098571777344
+        },
+        {
+          "start": 1817.56,
+          "end": 1823.94,
+          "text": " It was, I think, April last year where I called up Millian and Aryans and gave them",
+          "avgLogprob": -0.26523398198187353,
+          "noSpeechProbability": 0.14890098571777344
+        },
+        {
+          "start": 1823.94,
+          "end": 1826.82,
+          "text": " this entire architecture that I had in my mind.",
+          "avgLogprob": -0.26523398198187353,
+          "noSpeechProbability": 0.14890098571777344
+        },
+        {
+          "start": 1828.14,
+          "end": 1834.98,
+          "text": " And the idea of Umbra and here we are after that, like the earlier version of",
+          "avgLogprob": -0.26523398198187353,
+          "noSpeechProbability": 0.14890098571777344
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "checkedAt": "2026-10-14",
+  "channelUrl": "https://www.youtube.com/@metaDAOproject/videos",
+  "scope": "42 uploads visible in the Videos tab; not a claim about deleted, private, unlisted, Shorts or live-only uploads.",
+  "previouslyCataloged": 33,
+  "added": 8,
+  "excluded": 1,
+  "reviewBoundary": "Official watch-page descriptions, supplied chapters and displayed upload dates checked for all eight additions. Only the short Jito caption text was read completely; other recovered tracks are research assets, not reviewed or republished transcripts.",
+  "transcriptPermission": "OwnershipFM authorization does not cover MetaDAO uploads. No new public transcript assets.",
+  "editorialDecisions": [
+    "Exclude the Inaugural Ownership Meeting promo; link actual sessions instead.",
+    "Retain the Jito clip as a historical explanation of decision markets, distinct from the January 15 step-by-step tutorial. It is not a reminder for a show or evidence of proposal execution."
+  ],
+  "videos": [
+    {
+      "title": "Closing Remarks — Proph3t & Kollan | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=HWVpYekl-Uo",
+      "resourceId": "video-review-4857567059656b6c2d556f",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Should We Launch This Way? — MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=00aBaKVY3uU",
+      "resourceId": "video-review-30306142614b5659337555",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Ownership Panel — MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=3jjiamzCqpI",
+      "resourceId": "video-review-336a6a69616d7a43717049",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Building the Media Layer for Ownership — 8Bit | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=34i_fVAY9GY",
+      "resourceId": "video-review-3334695f66564159394759",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Ownership Coins as Investments (Cut Audio) — Felipe | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=tAUKnuEreG0",
+      "resourceId": "video-review-7441554b6e754572654730",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "MetaDAO's Investor Relations Partner: Novora — Connor King | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=nzI7oWq9RBo",
+      "resourceId": "video-review-6e7a49376f57713952426f",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "The Future of Umbra — Abbas | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=pQg4nuFKJNA",
+      "resourceId": "video-review-705167346e75464b4a4e41",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "JurassicFi: Putting Dinosaurs on the Blockchain — Vulkan | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=9oKvB28HksU",
+      "resourceId": "video-review-396f4b76423238486b7355",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Building the Dollar Layer for Solana — Soloman Labs — Ranga | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=LfGws61qYpA",
+      "resourceId": "video-review-4c66477773363171597041",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Privacy for Humans, Frictionless for Agents — Hunter | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=fBSNEYKksxc",
+      "resourceId": "video-review-6642534e45594b6b737863",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Fundamentals Data for Ownership Coins — JJ | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=tNeoJEfqdII",
+      "resourceId": "video-review-744e656f4a456671644949",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Pioneering Untapped Markets — David Khosroshvili | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=6S_-VUMK8Gk",
+      "resourceId": "video-review-36535f2d56554d4b38476b",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "MetaDAO 2.0 — Proph3t | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=j6ooNVr8nAE",
+      "resourceId": "video-review-6a366f6f4e5672386e4145",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "How Investors Underwrite Ownership Coins — MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=2bcgv4PLkKM",
+      "resourceId": "video-review-326263677634504c6b4b4d",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Welcome to the MetaDAO Inaugural Ownership Meeting — Michael Rinko",
+      "url": "https://www.youtube.com/watch?v=M91e2Xp7edw",
+      "resourceId": "video-review-4d39316532587037656477",
+      "status": "added",
+      "publicationDate": "2026-07-24",
+      "captionExport": "recovered"
+    },
+    {
+      "title": "Supply Chain of Capital — Clay Robbins | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=Srda0AE04Ck",
+      "resourceId": "video-review-537264613041453034436b",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Crypto's 1934 Moment: The Blockworks TTF— Robert Burkhart | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=iJAbMDq0VvY",
+      "resourceId": "video-review-694a41624d447130567659",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "The Divine and The Profane — Kevin Heavey | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=UcWFz0Akp5E",
+      "resourceId": "video-review-556357467a30416b703545",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Trading Decision Markets — Noah Goldberg | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=eZ2mlwCa6IU",
+      "resourceId": "video-review-655a326d6c774361364955",
+      "status": "added",
+      "publicationDate": "2026-07-23",
+      "captionExport": "unavailable"
+    },
+    {
+      "title": "Futarchy — Dr. Robin Hanson | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=CZWk-Frw3M4",
+      "resourceId": "video-review-435a576b2d467277334d34",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "History of MetaDAO — Proph3t | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=libmsiaiZBo",
+      "resourceId": "video-review-6c69626d736961695a426f",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "The Importance and Challenges of Accounting in Crypto — Abbee | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=KEW39lfJbkk",
+      "resourceId": "video-review-4b455733396c664a626b6b",
+      "status": "added",
+      "publicationDate": "2026-07-22",
+      "captionExport": "recovered"
+    },
+    {
+      "title": "Can Markets Reliably Decide? — Danning Sui | MetaDAO Inaugural Ownership Meeting",
+      "url": "https://www.youtube.com/watch?v=kHhtJQ4_Taw",
+      "resourceId": "video-review-6b4868744a51345f546177",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Rip Cars: The world’s first Hot Wheels gacha platform",
+      "url": "https://www.youtube.com/watch?v=m_GmB8nRDYs",
+      "resourceId": "video-review-6d5f476d42386e52445973",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Credible: The Open Payments Stack",
+      "url": "https://www.youtube.com/watch?v=tzsDNk-pz1Y",
+      "resourceId": "video-review-747a73444e6b2d707a3159",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Laso Finance: private crypto spending today, agentic payments tomorrow",
+      "url": "https://www.youtube.com/watch?v=7f-Z2zcXyII",
+      "resourceId": "video-review-37662d5a327a6358794949",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Inaugural Ownership Meeting - Promo",
+      "url": "https://www.youtube.com/watch?v=SL6V59LBsq0",
+      "resourceId": null,
+      "status": "excluded-event-promo"
+    },
+    {
+      "title": "To Touch The Face of God",
+      "url": "https://www.youtube.com/watch?v=f3UCGAyQFgE",
+      "resourceId": "video-review-6633554347417951466745",
+      "status": "added",
+      "publicationDate": "2026-02-02",
+      "captionExport": "recovered"
+    },
+    {
+      "title": "Exploring Attention Capital Markets: The Future of Memecoins and Tokenization",
+      "url": "https://www.youtube.com/watch?v=pw1PiVaGHbo",
+      "resourceId": "video-review-707731506956614748626f",
+      "status": "added",
+      "publicationDate": "2025-05-27",
+      "captionExport": "recovered"
+    },
+    {
+      "title": "Navigating the Future of Crypto: Insights on Tokens and Investment DAOs",
+      "url": "https://www.youtube.com/watch?v=Lm-4fJ9l8WE",
+      "resourceId": "video-review-4c6d2d34664a396c385745",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "How Tokens Empower Early-Stage Crypto Founders to Succeed",
+      "url": "https://www.youtube.com/watch?v=IzqZtprBFBQ",
+      "resourceId": "video-review-497a715a74707242464251",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "How mtnCapital Is Redefining Crypto Governance",
+      "url": "https://www.youtube.com/watch?v=wXwj9UtLMVQ",
+      "resourceId": "video-review-7758776a3955744c4d5651",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "How to Trade The First Jito Futarchy Vote: Step By Step Tutorial",
+      "url": "https://www.youtube.com/watch?v=1LK8osvL4jg",
+      "resourceId": "video-review-314c4b386f73764c346a67",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "The First JITO Futarchy Decision is Live For Trading",
+      "url": "https://www.youtube.com/watch?v=HkJFjXRwPbc",
+      "resourceId": "video-review-486b4a466a585277506263",
+      "status": "added",
+      "publicationDate": "2025-01-13",
+      "captionExport": "recovered"
+    },
+    {
+      "title": "MetaDAO - The Future Of Governance - Futarchy",
+      "url": "https://www.youtube.com/watch?v=t08QiSRS6i8",
+      "resourceId": "video-review-7430385169535253366938",
+      "status": "added",
+      "publicationDate": "2024-08-08",
+      "captionExport": "unavailable"
+    },
+    {
+      "title": "Community Call #6",
+      "url": "https://www.youtube.com/watch?v=Kf0WG5ysh-Y",
+      "resourceId": "video-review-4b66305747357973682d59",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Community Call #5",
+      "url": "https://www.youtube.com/watch?v=jBTeUkGRCLM",
+      "resourceId": "video-review-6a425465556b4752434c4d",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Community Call #4",
+      "url": "https://www.youtube.com/watch?v=TtuunbSvp2s",
+      "resourceId": "video-review-547475756e625376703273",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Community Call #3",
+      "url": "https://www.youtube.com/watch?v=5ckvWkSahWY",
+      "resourceId": "video-review-35636b76576b5361685759",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Community Call #2",
+      "url": "https://www.youtube.com/watch?v=TmhLKq9Hzxs",
+      "resourceId": "video-review-546d684c4b7139487a7873",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "Community Call #1",
+      "url": "https://www.youtube.com/watch?v=yQWIJjDgdjk",
+      "resourceId": "video-review-795157494a6a4467646a6b",
+      "status": "already-cataloged"
+    },
+    {
+      "title": "The-MetaDAO Backstory",
+      "url": "https://www.youtube.com/watch?v=6Z6YEv6LiQI",
+      "resourceId": "video-review-365a36594576364c695149",
+      "status": "added",
+      "publicationDate": "2024-02-29",
+      "captionExport": "recovered"
+    }
+  ]
+}

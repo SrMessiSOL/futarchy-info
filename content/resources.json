@@ -17378,5 +17378,165 @@
     "addedAt": "2026-10-12",
     "checkedAt": "2026-10-12",
     "evidenceNote": "Official OwnershipFM playlist and complete expanded YouTube description read in the normal browser on 2026-10-12; exact upload date 2026-05-17. Original publisher X source: https://x.com/ownershipfm/status/2041231275781214433. Original broadcast date 2026-04-06 is separate from YouTube publication. Titles, descriptions and chapter guides establish coverage topics only; no full video or full caption reading claimed."
+  },
+  {
+    "id": "video-review-4d39316532587037656477",
+    "title": "Welcome to the MetaDAO Inaugural Ownership Meeting — Michael Rinko",
+    "author": "MetaDAO",
+    "date": "2026-07-24",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=M91e2Xp7edw",
+    "description": "Michael Rinko opens the inaugural Ownership Meeting, introducing its agenda and MetaDAO’s vision for market-based governance. Recorded in San Francisco on July 10, 2026. Summary based on the publisher description and chapters.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=M91e2Xp7edw",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. The publisher separately identifies July 10, 2026 as the recording date; catalog date is the upload publication day. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+  },
+  {
+    "id": "video-review-655a326d6c774361364955",
+    "title": "Trading Decision Markets — Noah Goldberg | MetaDAO Inaugural Ownership Meeting",
+    "author": "MetaDAO",
+    "date": "2026-07-23",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=eZ2mlwCa6IU",
+    "description": "Noah Goldberg brings an investor’s perspective to pricing and trading decision markets. Recorded at the inaugural Ownership Meeting in San Francisco on July 10, 2026. Summary based on the publisher description.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=eZ2mlwCa6IU",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. The publisher separately identifies July 10, 2026 as the recording date; catalog date is the upload publication day. Caption access: the export tool returned no transcript in this session. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+  },
+  {
+    "id": "video-review-4b455733396c664a626b6b",
+    "title": "The Importance and Challenges of Accounting in Crypto — Abbee | MetaDAO Inaugural Ownership Meeting",
+    "author": "MetaDAO",
+    "date": "2026-07-22",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=KEW39lfJbkk",
+    "description": "Abbee discusses crypto accounting challenges, including token valuation, transaction reconciliation and DAO treasuries. Recorded at the inaugural Ownership Meeting in San Francisco on July 10, 2026. Summary based on the publisher description.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=KEW39lfJbkk",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. The publisher separately identifies July 10, 2026 as the recording date; catalog date is the upload publication day. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+  },
+  {
+    "id": "video-review-6633554347417951466745",
+    "title": "To Touch The Face of God",
+    "author": "MetaDAO",
+    "date": "2026-02-02",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=f3UCGAyQFgE",
+    "description": "A short film featuring Robin Hanson and MetaDAO, produced by Josh Minogue / Blairdog Productions. The publisher uses the Challenger disaster’s market response to introduce questions about markets and policy decisions. Summary based on the publisher description.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=f3UCGAyQFgE",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+  },
+  {
+    "id": "video-review-707731506956614748626f",
+    "title": "Exploring Attention Capital Markets: The Future of Memecoins and Tokenization",
+    "author": "MetaDAO",
+    "date": "2025-05-27",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=pw1PiVaGHbo",
+    "description": "MetaDAO explores attention, memecoins, tokenization and consumer applications, with examples including pump.fun and time.fun. Summary based on the publisher description and chapter guide; the discussion is broader market context.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=pw1PiVaGHbo",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+  },
+  {
+    "id": "video-review-486b4a466a585277506263",
+    "title": "The First JITO Futarchy Decision is Live For Trading",
+    "author": "MetaDAO",
+    "date": "2025-01-13",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=HkJFjXRwPbc",
+    "description": "A short historical introduction to Jito’s first decision market, contrasting conditional-market prices with token voting. The description links JIP-10. This January 2025 explainer does not establish the proposal’s outcome or execution.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=HkJFjXRwPbc",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Also read the complete available automatic caption export; its simplified decision rule is speaker-reported, not independently validated. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+  },
+  {
+    "id": "video-review-7430385169535253366938",
+    "title": "MetaDAO - The Future Of Governance - Futarchy",
+    "author": "MetaDAO",
+    "date": "2024-08-08",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=t08QiSRS6i8",
+    "description": "An early introduction to MetaDAO’s goal of using markets for decisions and building a decision-market platform. Summary based on the publisher description, which also invites contributors interested in markets and mechanism design.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=t08QiSRS6i8",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: the export tool returned no transcript in this session. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+  },
+  {
+    "id": "video-review-365a36594576364c695149",
+    "title": "The-MetaDAO Backstory",
+    "author": "MetaDAO",
+    "date": "2024-02-29",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=6Z6YEv6LiQI",
+    "description": "MetaDAO’s backstory before its first community call. The publisher’s chapters trace discovery of futarchy, building on Solana, launch, early proposals, community and treasury context. Summary based on the description and chapters; proposal execution is not independently verified.",
+    "tags": [
+      "MetaDAO",
+      "Talk / Interview"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=6Z6YEv6LiQI",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
   }
 ]

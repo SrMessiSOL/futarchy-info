@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-10-14T23:48:23.895Z",
+  "mergeCommit": "c9788034893798b0f4088b4adddfce5f5ce9c77c",
+  "deploymentRun": 38656067455,
+  "results": [
+    {
+      "id": "res-82",
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-97",
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-118",
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-127",
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-87",
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-246",
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-201",
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-42",
+      "exactNoteJson": true
+    }
+  ]
+}

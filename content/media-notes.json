@@ -5159,5 +5159,125 @@
       "status": "not-reviewed",
       "sha256": null
     }
+  },
+  {
+    "resourceId": "res-83",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Expanded publisher YouTube description and chapter review in the browser",
+    "reviewBoundary": "Only publisher written material and timestamps were reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Financial, safety and governance claims remain attributed historical claims. No new transcript is hosted. Source references: https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Opening"
+      },
+      {
+        "start": "01:04",
+        "topic": "Market outlook"
+      },
+      {
+        "start": "08:03",
+        "topic": "MetaDAO and ICO platforms"
+      },
+      {
+        "start": "20:47",
+        "topic": "Evolution of launchpads"
+      },
+      {
+        "start": "44:35",
+        "topic": "Prediction markets and digital-asset treasury trade"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-89",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Expanded publisher YouTube description and chapter review in the browser",
+    "reviewBoundary": "Only publisher written material and timestamps were reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Financial, safety and governance claims remain attributed historical claims. No new transcript is hosted. Source references: https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "ICO resurgence"
+      },
+      {
+        "start": "00:35",
+        "topic": "Changes in sale mechanics"
+      },
+      {
+        "start": "01:43",
+        "topic": "Launchpad comparison"
+      },
+      {
+        "start": "02:55",
+        "topic": "Oversubscription discussion"
+      },
+      {
+        "start": "03:22",
+        "topic": "Recording-time opportunities"
+      },
+      {
+        "start": "04:29",
+        "topic": "Publisher investment conclusions"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-178",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher X post and timestamp review in the browser",
+    "reviewBoundary": "Only publisher written material and timestamps were reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Financial, safety and governance claims remain attributed historical claims. No new transcript is hosted. Source references: https://x.com/rachit/status/2011021526662046047",
+    "sections": [
+      {
+        "start": "00:39",
+        "topic": "Abbas’s background and introduction to MetaDAO"
+      },
+      {
+        "start": "03:19",
+        "topic": "Evolution of fundraising methods"
+      },
+      {
+        "start": "08:18",
+        "topic": "Ownership-coin explanation"
+      },
+      {
+        "start": "13:12",
+        "topic": "STAMP discussion"
+      },
+      {
+        "start": "18:26",
+        "topic": "Proph3t at Breakpoint"
+      },
+      {
+        "start": "19:14",
+        "topic": "Founder incentives"
+      },
+      {
+        "start": "20:53",
+        "topic": "MetaDAO selection process"
+      },
+      {
+        "start": "24:24",
+        "topic": "Oversubscribed ICOs"
+      },
+      {
+        "start": "27:10",
+        "topic": "Potential transitions for existing tokens"
+      },
+      {
+        "start": "30:18",
+        "topic": "Ownership coins and buyback models"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
   }
 ]

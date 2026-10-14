@@ -1,0 +1,254 @@
+{
+  "checkedAt": "2026-10-14",
+  "reviews": [
+    {
+      "id": "res-83",
+      "sourceUrl": "https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+      "observedPublicationDate": "2025-10-06",
+      "previousDescription": "Podcast episode discussing Umbra's ICO in the context of Solana ETFs.",
+      "description": "0xResearch discusses MetaDAO and the Umbra ICO alongside launchpad design, privacy coins and broader market topics. The publisher locates the MetaDAO discussion at 08:03 and the launchpad comparison at 20:47.",
+      "reviewMethod": "Expanded publisher YouTube description and chapter review in the browser",
+      "reviewBoundary": "Only publisher written material and timestamps were reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Financial, safety and governance claims remain attributed historical claims. No new transcript is hosted.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Opening"
+        },
+        {
+          "start": "01:04",
+          "topic": "Market outlook"
+        },
+        {
+          "start": "08:03",
+          "topic": "MetaDAO and ICO platforms"
+        },
+        {
+          "start": "20:47",
+          "topic": "Evolution of launchpads"
+        },
+        {
+          "start": "44:35",
+          "topic": "Prediction markets and digital-asset treasury trade"
+        }
+      ]
+    },
+    {
+      "id": "res-89",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+      "observedPublicationDate": "2025-10-24",
+      "previousDescription": "Video investor guide featuring Umbra's ICO.",
+      "description": "3.0 TV compares Echo, Legion, MetaDAO and Buidlpad, using Umbra among its launch examples. Its investment playbook and performance claims are the publisher’s historical interpretation, not independently verified outcomes.",
+      "reviewMethod": "Expanded publisher YouTube description and chapter review in the browser",
+      "reviewBoundary": "Only publisher written material and timestamps were reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Financial, safety and governance claims remain attributed historical claims. No new transcript is hosted.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "ICO resurgence"
+        },
+        {
+          "start": "00:35",
+          "topic": "Changes in sale mechanics"
+        },
+        {
+          "start": "01:43",
+          "topic": "Launchpad comparison"
+        },
+        {
+          "start": "02:55",
+          "topic": "Oversubscription discussion"
+        },
+        {
+          "start": "03:22",
+          "topic": "Recording-time opportunities"
+        },
+        {
+          "start": "04:29",
+          "topic": "Publisher investment conclusions"
+        }
+      ]
+    },
+    {
+      "id": "res-178",
+      "sourceUrl": "https://x.com/rachit/status/2011021526662046047",
+      "observedPublicationDate": "2026-01-13",
+      "previousDescription": "Podcast interview exploring ownership coins, MetaDAO's fundraising evolution, founder incentives, and ICO strategies.",
+      "description": "Rachit Agarwal interviews Abbas from Umbra about ownership coins, fundraising models, STAMP, founder incentives, MetaDAO selection, oversubscribed ICOs and potential transitions for existing tokens.",
+      "reviewMethod": "Publisher X post and timestamp review in the browser",
+      "reviewBoundary": "Only publisher written material and timestamps were reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Financial, safety and governance claims remain attributed historical claims. No new transcript is hosted.",
+      "sections": [
+        {
+          "start": "00:39",
+          "topic": "Abbas’s background and introduction to MetaDAO"
+        },
+        {
+          "start": "03:19",
+          "topic": "Evolution of fundraising methods"
+        },
+        {
+          "start": "08:18",
+          "topic": "Ownership-coin explanation"
+        },
+        {
+          "start": "13:12",
+          "topic": "STAMP discussion"
+        },
+        {
+          "start": "18:26",
+          "topic": "Proph3t at Breakpoint"
+        },
+        {
+          "start": "19:14",
+          "topic": "Founder incentives"
+        },
+        {
+          "start": "20:53",
+          "topic": "MetaDAO selection process"
+        },
+        {
+          "start": "24:24",
+          "topic": "Oversubscribed ICOs"
+        },
+        {
+          "start": "27:10",
+          "topic": "Potential transitions for existing tokens"
+        },
+        {
+          "start": "30:18",
+          "topic": "Ownership coins and buyback models"
+        }
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "id": "res-90",
+      "previous": {
+        "id": "res-90",
+        "title": "Umbra: Building the Future of Privacy on Solana",
+        "author": "Umbra",
+        "date": "2025-10-02",
+        "type": "video",
+        "url": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+        "description": "Umbra launches $750k ICO for UMBRA token on Solana, emphasizing privacy, fair allocation, and DAO governance.",
+        "tags": [
+          "MetaDAO",
+          "ICO",
+          "Umbra",
+          "Investor Guide",
+          "Video",
+          "project:umbra"
+        ],
+        "dateKind": "publication",
+        "datePrecision": "day",
+        "verification": "legacy",
+        "sourceUrl": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+        "addedAt": null,
+        "checkedAt": null,
+        "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+      },
+      "patch": {
+        "type": "article",
+        "description": "Umbra’s pre-raise article proposes a $750,000 target and describes token allocation, intended liquidity, governance, operating costs, revenue plans and planned development. These are proposed terms and plans, not final proceeds or proof of delivery.",
+        "checkedAt": "2026-10-14",
+        "verification": "source-checked"
+      },
+      "evidence": "Full X article read in the browser, dated October 2, 2025. It is written material rather than a recording. The stated raise target is not accepted capital. Supply and allocation language contains ambiguities; no numerical reconciliation or execution claim is made."
+    },
+    {
+      "id": "res-161",
+      "previous": {
+        "id": "res-161",
+        "title": "Ownership Coins Are Taking Over!",
+        "author": "Seppmos",
+        "date": "2025-12-09",
+        "type": "video",
+        "url": "https://x.com/seppmos/status/1998375343539781875",
+        "description": "Deep-dive video on MetaDAO: Solomon ICO recap, Ranger launch, ownership coins superiority, META's asymmetric bet, and futarchy adoption.",
+        "tags": [
+          "MetaDAO",
+          "Ownership Coins",
+          "Solomon Labs",
+          "Ranger Finance",
+          "Futarchy",
+          "Governance Tokens",
+          "Asymmetric Bet",
+          "Video",
+          "project:solomon",
+          "project:ranger"
+        ],
+        "dateKind": "publication",
+        "datePrecision": "day",
+        "verification": "legacy",
+        "sourceUrl": "https://x.com/seppmos/status/1998375343539781875",
+        "addedAt": null,
+        "checkedAt": null,
+        "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+      },
+      "patch": {
+        "catalogOnly": true,
+        "supersededBy": "res-127"
+      },
+      "evidence": "Publisher X post identifies the full YouTube breakdown in its reply; title, publication day, duration and all ten chapter timestamps match res-127. Retain this alternate upload internally and keep the already-noted YouTube show public. No new Ranger promotion."
+    },
+    {
+      "id": "res-77",
+      "previous": {
+        "id": "res-77",
+        "title": "$OMFG - OMNIPAIR TOKEN CRYPTO COIN HOW TO BUY SOLANA BLOCKCHAIN SOL METADAO NEW ICO METEORA JUPITER",
+        "author": "CRYPTO VIDEOZ",
+        "date": "2025-10-24",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+        "description": "Tutorial video on buying Omnipair post-ICO, with interview clips from founders.",
+        "tags": [
+          "MetaDAO",
+          "ICO",
+          "Omnipair",
+          "Tutorial",
+          "Video",
+          "project:omnipair"
+        ],
+        "dateKind": "unknown",
+        "datePrecision": "day",
+        "verification": "legacy",
+        "sourceUrl": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+        "addedAt": null,
+        "checkedAt": null
+      },
+      "patch": {
+        "description": "CRYPTO VIDEOZ presents an Omnipair token-buying video. The written description contains affiliate referrals and a publisher disclaimer; founder-interview content and transaction steps remain unreviewed."
+      },
+      "evidence": "Expanded publisher page read, dated October 24, 2025. The description does not substantiate the old claim of founder-interview clips or post-ICO timing. Transcript export returned no transcript; no listening review. Remains in the no-notes backlog."
+    },
+    {
+      "id": "res-116",
+      "previous": {
+        "id": "res-116",
+        "title": "SOLOMON LABS TOKEN CRYPTO COIN HOW TO BUY",
+        "author": "CRYPTO VIDEOZ",
+        "date": "2025-11-12",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+        "description": "Video tutorial on buying Solomon post-ICO.",
+        "tags": [
+          "MetaDAO",
+          "ICO",
+          "Solomon",
+          "Tutorial",
+          "Video",
+          "project:solomon"
+        ],
+        "dateKind": "unknown",
+        "datePrecision": "day",
+        "verification": "legacy",
+        "sourceUrl": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+        "addedAt": null,
+        "checkedAt": null
+      },
+      "patch": {
+        "description": "CRYPTO VIDEOZ presents a Solomon token-buying video. Its written description contains affiliate referrals and a publisher disclaimer; the recording’s steps and sale timing remain unreviewed."
+      },
+      "evidence": "Expanded publisher page read. Transcript export returned no transcript; no listening review. Removed unsupported post-ICO wording. Browser displays November 11, 2025 while the catalog stores November 12; retained the previously accepted date pending timestamp/timezone reconciliation. Remains in the no-notes backlog."
+    }
+  ]
+}

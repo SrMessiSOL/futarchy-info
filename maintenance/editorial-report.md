@@ -1,3 +1,11 @@
+## Funded-project recording review, second batch — October 14, 2026
+
+PR #36 deployed successfully; all eight merged notes matched production and all 489 access checks passed. Added three publisher-written-material reading notes (21 topic markers) for two Umbra/ICO discussions and the Abbas/Umbra interview. Added the missing Umbra project tag to that interview. No full listening or new transcript is claimed.
+
+Corrected res-90 from video to article after reading the full Umbra pre-raise article. Consolidated the res-161 X upload into the existing res-127 YouTube show, retaining the original ID internally. Removed unsupported founder-interview/post-ICO wording from two CRYPTO VIDEOZ summaries; these remain pending audio review, not completed notes. Solomon’s displayed November 11 versus accepted November 12 date needs timestamp/timezone reconciliation; the stored date is unchanged.
+
+The public no-notes backlog decreases from 35 to 30: three notes, one article reclassification and one alternate-upload consolidation. Evidence and queue: maintenance/funded-recording-notes-2026-10-14.
+
 ## Recording notes backlog, first funded-project batch — October 14, 2026
 
 Confirmed PR #35's four corrected transcripts and 51 topic entries live on futarchy.info; all 473 production access checks passed. Added eight written-source reading notes with 60 publisher/preview topic markers, prioritizing Umbra, Avici, Solomon, historical Ranger coverage and MetaDAO. The no-notes queue falls from 43 to 35; no new transcript or complete listening review is claimed. Sources, review limits, previous descriptions and the complete remaining queue are recorded in maintenance/recording-notes-2026-10-14.

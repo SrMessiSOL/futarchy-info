@@ -4823,5 +4823,341 @@
       "status": "permission-required",
       "sha256": null
     }
+  },
+  {
+    "resourceId": "res-82",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher YouTube description and chapter review in the browser",
+    "reviewBoundary": "YouTube transcript export returned no transcript; the visible transcript panel remained loading. Description and chapters were read, but the recording was not listened to or transcribed. The page displays a Creative Commons Attribution license; no transcript is hosted in this pass. Source references: https://www.youtube.com/watch?v=yMJjilUU21o",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "ICO mechanics overview"
+      },
+      {
+        "start": "02:14",
+        "topic": "Privacy context"
+      },
+      {
+        "start": "02:54",
+        "topic": "Treasury use and proposals"
+      },
+      {
+        "start": "05:51",
+        "topic": "Token-market discussion"
+      },
+      {
+        "start": "07:20",
+        "topic": "MetaDAO expansion plans"
+      },
+      {
+        "start": "11:43",
+        "topic": "Closing perspective"
+      }
+    ],
+    "transcript": {
+      "status": "unavailable",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-97",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher YouTube description and displayed chapter review in the browser",
+    "reviewBoundary": "Only the expanded description and displayed chapters were reviewed. No full audio or transcript review. Participation instructions, traction figures and valuation scenarios are historical publisher claims; oversubscription commitments must not be treated as accepted capital. Source references: https://www.youtube.com/watch?v=vbnZwFl8FHk",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Avici introduction"
+      },
+      {
+        "start": "00:27",
+        "topic": "Presale structure"
+      },
+      {
+        "start": "01:57",
+        "topic": "Product overview"
+      },
+      {
+        "start": "02:38",
+        "topic": "Reported product traction"
+      },
+      {
+        "start": "03:38",
+        "topic": "Fundraising context"
+      },
+      {
+        "start": "04:34",
+        "topic": "Historical participation walkthrough"
+      },
+      {
+        "start": "06:28",
+        "topic": "Pro-rata allocation and refunds"
+      },
+      {
+        "start": "07:44",
+        "topic": "Valuation scenarios"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-118",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher YouTube description and chapter review in the browser",
+    "reviewBoundary": "Expanded description and publisher timestamps reviewed; no full audio or transcript review. This is pre-raise history, not confirmation that products shipped or that yields were safe. The page displays a Creative Commons Attribution license; no transcript is hosted in this pass. Source references: https://www.youtube.com/watch?v=NUrLnI1tiLs",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Solomon overview"
+      },
+      {
+        "start": "00:28",
+        "topic": "Proposed two-token structure"
+      },
+      {
+        "start": "00:53",
+        "topic": "Described yield mechanism"
+      },
+      {
+        "start": "01:33",
+        "topic": "Intended users"
+      },
+      {
+        "start": "02:35",
+        "topic": "Competitor comparison"
+      },
+      {
+        "start": "06:05",
+        "topic": "Team discussion"
+      },
+      {
+        "start": "08:46",
+        "topic": "ICO terms and distribution"
+      },
+      {
+        "start": "11:49",
+        "topic": "Closing and planned next steps"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-127",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher YouTube description and chapter review in the browser",
+    "reviewBoundary": "Expanded description and publisher timestamps reviewed; no full audio or transcript review. Promotional claims of outperformance and safety are not adopted as findings. Ranger discussion remains historical. Speculation about Zcash or Drift adopting futarchy is not evidence of adoption. Source references: https://www.youtube.com/watch?v=0MjnoK8C9Ug",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Solomon recap and market controversy"
+      },
+      {
+        "start": "06:39",
+        "topic": "Launchpad metrics discussion"
+      },
+      {
+        "start": "09:04",
+        "topic": "Ranger launch and platform features"
+      },
+      {
+        "start": "14:57",
+        "topic": "Creator’s ownership-token thesis"
+      },
+      {
+        "start": "17:04",
+        "topic": "MetaDAO positioning and Futardio community"
+      },
+      {
+        "start": "18:50",
+        "topic": "Creator’s investment argument"
+      },
+      {
+        "start": "20:07",
+        "topic": "Speculation about other protocols"
+      },
+      {
+        "start": "22:38",
+        "topic": "Bullish META scenario"
+      },
+      {
+        "start": "25:23",
+        "topic": "Ownership versus governance tokens"
+      },
+      {
+        "start": "26:56",
+        "topic": "Platform feedback-loop thesis"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-87",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher episode-description review plus limited public transcript preview",
+    "reviewBoundary": "Publisher description read on Podbean; Podscan’s public transcript preview was read only through 08:09 of a roughly 37-minute episode. No complete transcript or audio review. The headline does not represent accepted proceeds. The $3M retained figure is a publisher claim, not independently reconciled onchain. Source references: https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana ; https://solbrothers.podbean.com/e/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana/",
+    "sections": [
+      {
+        "start": "00:27",
+        "topic": "Guest introduction in the public preview"
+      },
+      {
+        "start": "01:21",
+        "topic": "Design background and entry into Solana"
+      },
+      {
+        "start": "04:05",
+        "topic": "Co-founders and team formation"
+      },
+      {
+        "start": "05:26",
+        "topic": "Hackathon origin"
+      },
+      {
+        "start": "07:12",
+        "topic": "Founder mindset discussion"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-246",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher episode-description and timestamp review on Apple Podcasts",
+    "reviewBoundary": "Publisher description and complete timestamp list reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Legal protections and risk reduction remain attributed claims. This publisher is outside the OwnershipFM transcript permission. Source references: https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+    "sections": [
+      {
+        "start": "01:51",
+        "topic": "Futarchy introduction"
+      },
+      {
+        "start": "04:26",
+        "topic": "Comparison with capital markets"
+      },
+      {
+        "start": "06:39",
+        "topic": "Market incentives"
+      },
+      {
+        "start": "12:01",
+        "topic": "Who participates in decision markets"
+      },
+      {
+        "start": "18:59",
+        "topic": "Liquidity and insider participation"
+      },
+      {
+        "start": "24:03",
+        "topic": "Origins of futarchy"
+      },
+      {
+        "start": "31:31",
+        "topic": "Crypto rug-pull discussion"
+      },
+      {
+        "start": "47:45",
+        "topic": "Token-holder trust"
+      },
+      {
+        "start": "53:00",
+        "topic": "Umbra example"
+      },
+      {
+        "start": "01:00:37",
+        "topic": "MetaDAO model"
+      },
+      {
+        "start": "01:07:20",
+        "topic": "Claims about rug resistance"
+      },
+      {
+        "start": "01:12:42",
+        "topic": "Regulatory discussion"
+      },
+      {
+        "start": "01:18:31",
+        "topic": "Future directions"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-201",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Publisher-distributed episode description and timestamp review on Solana Media",
+    "reviewBoundary": "Written introduction and timestamps reviewed on Solana Media; no full audio or transcript review. Platform changes and sustainability arguments remain recording-time descriptions and opinions. This publisher is outside the OwnershipFM transcript permission. Source references: https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Opening"
+      },
+      {
+        "start": "04:04",
+        "topic": "ETF-flow discussion"
+      },
+      {
+        "start": "11:42",
+        "topic": "Tokenized-equity discussion"
+      },
+      {
+        "start": "18:01",
+        "topic": "MetaDAO and ownership-token model"
+      },
+      {
+        "start": "37:05",
+        "topic": "Platform business-model questions"
+      },
+      {
+        "start": "53:51",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-42",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete publisher episode-note and timestamp review in the browser",
+    "reviewBoundary": "Complete expanded publisher notes read on RSS.com. Four publisher timestamps provide navigation; no full audio or transcript review. Fundraising and governance claims remain attributed. This publisher is outside the OwnershipFM transcript permission. Source references: https://rss.com/podcasts/colosseum-podcast/1966321/",
+    "sections": [
+      {
+        "start": "02:06",
+        "topic": "First-time founder experience and hiring"
+      },
+      {
+        "start": "14:38",
+        "topic": "Launchpad design and the mtnDAO example"
+      },
+      {
+        "start": "27:32",
+        "topic": "Decision markets and institutional ambitions"
+      },
+      {
+        "start": "43:46",
+        "topic": "Advice for founders and co-founder selection"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
   }
 ]

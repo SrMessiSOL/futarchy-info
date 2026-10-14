@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2026-10-14T23:42:14.485Z",
+  "results": [
+    {
+      "id": "res-82",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 6,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-97",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 8,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-118",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 8,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-127",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 10,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-87",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 5,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-246",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 13,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-201",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 6,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-42",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 4,
+      "exactNoteJson": true
+    }
+  ]
+}

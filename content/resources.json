@@ -1175,7 +1175,7 @@
     "date": "2025-10-10",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=yMJjilUU21o",
-    "description": "Video breakdown of Umbra's ICO mechanics and early success.",
+    "description": "The publisher outlines Umbra’s ICO, privacy, treasury proposals, token performance and MetaDAO’s plans. This is a historical overview, not current fundraising guidance.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -1185,12 +1185,13 @@
       "project:umbra"
     ],
     "featured": true,
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=yMJjilUU21o",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. YouTube transcript export returned no transcript; the visible transcript panel remained loading. Description and chapters were read, but the recording was not listened to or transcribed. The page displays a Creative Commons Attribution license; no transcript is hosted in this pass. Displayed publisher publication date matches the retained catalog date 2025-10-10."
   },
   {
     "id": "res-94",
@@ -1268,7 +1269,7 @@
     "date": "2025-10-17",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
-    "description": "Step-by-step video guide to Avici's ICO.",
+    "description": "3.0 TV presents Avici’s product, presale mechanics, pro-rata allocation, valuation scenarios and governance risks. Its figures describe the sale before completion, not final accepted proceeds.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -1277,12 +1278,13 @@
       "Video",
       "project:avici"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Only the expanded description and displayed chapters were reviewed. No full audio or transcript review. Participation instructions, traction figures and valuation scenarios are historical publisher claims; oversubscription commitments must not be treated as accepted capital. Displayed publisher publication date matches the retained catalog date 2025-10-17."
   },
   {
     "id": "res-87",
@@ -1291,7 +1293,7 @@
     "date": "2025-10-18",
     "type": "podcast",
     "url": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
-    "description": "Podcast interview with Umbra's Kru on the ICO success.",
+    "description": "Sol Brothers interviews Umbra co-founder Kru about the ICO and building a privacy protocol. The publisher distinguishes the $155M headline from $3M reportedly retained after returning most commitments.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -1300,12 +1302,13 @@
       "Interview",
       "project:umbra"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Publisher description read on Podbean; Podscan’s public transcript preview was read only through 08:09 of a roughly 37-minute episode. No complete transcript or audio review. The headline does not represent accepted proceeds. The $3M retained figure is a publisher claim, not independently reconciled onchain. Displayed publisher publication date matches the retained catalog date 2025-10-18."
   },
   {
     "id": "res-64",
@@ -1537,7 +1540,7 @@
     "date": "2025-11-14",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
-    "description": "Video on Solomon's ICO and competitors.",
+    "description": "Seb Montgomery’s pre-raise Solomon overview covers its proposed two-token system, yield mechanism, market positioning, team and ICO terms. Product and yield statements remain recording-time claims.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -1545,12 +1548,13 @@
       "Video",
       "project:solomon"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Expanded description and publisher timestamps reviewed; no full audio or transcript review. This is pre-raise history, not confirmation that products shipped or that yields were safe. The page displays a Creative Commons Attribution license; no transcript is hosted in this pass. Displayed publisher publication date matches the retained catalog date 2025-11-14."
   },
   {
     "id": "res-119",
@@ -1724,7 +1728,7 @@
     "date": "2025-12-09",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
-    "description": "Video deep dive featuring Solomon's ICO.",
+    "description": "Onchain Trenches discusses Solomon’s ICO, Ranger’s launch, ownership-token design and a bullish META thesis. These are the creator’s historical interpretations and expectations, not verified performance forecasts.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -1733,12 +1737,13 @@
       "Video",
       "project:solomon"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Expanded description and publisher timestamps reviewed; no full audio or transcript review. Promotional claims of outperformance and safety are not adopted as findings. Ranger discussion remains historical. Speculation about Zcash or Drift adopting futarchy is not evidence of adoption. Displayed publisher publication date matches the retained catalog date 2025-12-09."
   },
   {
     "id": "res-126",
@@ -1839,7 +1844,7 @@
     "date": "2025-03-31",
     "type": "podcast",
     "url": "https://rss.com/podcasts/colosseum-podcast/1966321/",
-    "description": "Long-form interview with MetaDAO founder Proph3t on governance innovation.",
+    "description": "Colosseum’s Chase Barker interviews Proph3t about becoming a founder, MetaDAO’s launchpad and mtnDAO, decision markets, hiring and community-building. These notes describe an early launchpad discussion, not the platform’s current specification.",
     "tags": [
       "Podcast",
       "Interview",
@@ -1847,11 +1852,11 @@
     ],
     "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://rss.com/podcasts/colosseum-podcast/1966321/",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged. Publisher written material reviewed on 2026-10-14; summary limited to that material. Complete expanded publisher notes read on RSS.com. Four publisher timestamps provide navigation; no full audio or transcript review. Fundraising and governance claims remain attributed. This publisher is outside the OwnershipFM transcript permission. Displayed publisher publication date matches the retained catalog date 2025-03-31."
   },
   {
     "id": "res-65",
@@ -4046,7 +4051,7 @@
     "date": "2026-03-12",
     "type": "podcast",
     "url": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
-    "description": "Blockworks' Lightspeed explores MetaDAO's permissionless launchpad, ownership protections, and long-term platform incentives.",
+    "description": "Lightspeed discusses MetaDAO’s permissionless fundraising model, token-holder protections, launch cadence and platform economics, alongside broader Solana market topics. The MetaDAO discussion starts at the publisher’s 18:01 chapter.",
     "tags": [
       "MetaDAO",
       "Launchpad",
@@ -4055,12 +4060,13 @@
       "Blockworks"
     ],
     "featured": true,
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Written introduction and timestamps reviewed on Solana Media; no full audio or transcript review. Platform changes and sustainability arguments remain recording-time descriptions and opinions. This publisher is outside the OwnershipFM transcript permission. Displayed publisher publication date matches the retained catalog date 2026-03-12."
   },
   {
     "id": "res-202",
@@ -4697,7 +4703,7 @@
     "date": "2025-10-20",
     "type": "podcast",
     "url": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
-    "description": "Bankless interview with Felipe Montealegre and Proph3t on futarchy, ownership coins, MetaDAO, Umbra, token design, regulation, and rug-pull prevention.",
+    "description": "Bankless hosts Felipe Montealegre and Proph3t on decision markets, token-holder protections and ownership coins, with an Umbra example. The episode presents arguments about governance and rug-pull prevention, not guarantees.",
     "tags": [
       "Bankless",
       "Proph3t",
@@ -4707,12 +4713,13 @@
       "project:umbra"
     ],
     "featured": true,
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Publisher description and complete timestamp list reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Legal protections and risk reduction remain attributed claims. This publisher is outside the OwnershipFM transcript permission. Displayed publisher publication date matches the retained catalog date 2025-10-20."
   },
   {
     "id": "res-247",

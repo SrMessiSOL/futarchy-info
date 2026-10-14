@@ -1,3 +1,9 @@
+## Recording notes backlog, first funded-project batch — October 14, 2026
+
+Confirmed PR #35's four corrected transcripts and 51 topic entries live on futarchy.info; all 473 production access checks passed. Added eight written-source reading notes with 60 publisher/preview topic markers, prioritizing Umbra, Avici, Solomon, historical Ranger coverage and MetaDAO. The no-notes queue falls from 43 to 35; no new transcript or complete listening review is claimed. Sources, review limits, previous descriptions and the complete remaining queue are recorded in maintenance/recording-notes-2026-10-14.
+
+Sol Brothers's Umbra headline is distinguished from the publisher's stated retained capital. Avici presale figures and Solomon product descriptions remain historical claims. Loyal's res-102 video is private in the normal browser and remains unresolved. Dates were corroborated from displayed publication dates without changing their stored values. IDs, project classifications and publication gates are unchanged.
+
 ## Founder transcript quality and navigation — October 14, 2026
 
 Read all 447 generated segments of the MetaDAO/Proph3t, Laso/Hunter, Paystream/Maushish and The Syndicate/Tim interviews. Corrected 103 segments and added 51 timestamped topic entries. Reprocessed 13 selected audio clips totaling 608 seconds with local small.en; this is machine re-recognition, not full human listening or independent verification. Paystream's garbled 75tk is now 750k, supported by the targeted recheck and host introduction. Remaining ambiguous figures, names and a negation are explicitly flagged rather than guessed.

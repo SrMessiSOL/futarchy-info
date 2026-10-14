@@ -1,0 +1,350 @@
+{
+  "checkedAt": "2026-10-14",
+  "reviews": [
+    {
+      "id": "res-82",
+      "sourceUrls": [
+        "https://www.youtube.com/watch?v=yMJjilUU21o"
+      ],
+      "reviewMethod": "Publisher YouTube description and chapter review in the browser",
+      "reviewBoundary": "YouTube transcript export returned no transcript; the visible transcript panel remained loading. Description and chapters were read, but the recording was not listened to or transcribed. The page displays a Creative Commons Attribution license; no transcript is hosted in this pass.",
+      "previousDescription": "Video breakdown of Umbra's ICO mechanics and early success.",
+      "description": "The publisher outlines Umbra’s ICO, privacy, treasury proposals, token performance and MetaDAO’s plans. This is a historical overview, not current fundraising guidance.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "ICO mechanics overview"
+        },
+        {
+          "start": "02:14",
+          "topic": "Privacy context"
+        },
+        {
+          "start": "02:54",
+          "topic": "Treasury use and proposals"
+        },
+        {
+          "start": "05:51",
+          "topic": "Token-market discussion"
+        },
+        {
+          "start": "07:20",
+          "topic": "MetaDAO expansion plans"
+        },
+        {
+          "start": "11:43",
+          "topic": "Closing perspective"
+        }
+      ],
+      "observedPublicationDate": "2025-10-10"
+    },
+    {
+      "id": "res-97",
+      "sourceUrls": [
+        "https://www.youtube.com/watch?v=vbnZwFl8FHk"
+      ],
+      "reviewMethod": "Publisher YouTube description and displayed chapter review in the browser",
+      "reviewBoundary": "Only the expanded description and displayed chapters were reviewed. No full audio or transcript review. Participation instructions, traction figures and valuation scenarios are historical publisher claims; oversubscription commitments must not be treated as accepted capital.",
+      "previousDescription": "Step-by-step video guide to Avici's ICO.",
+      "description": "3.0 TV presents Avici’s product, presale mechanics, pro-rata allocation, valuation scenarios and governance risks. Its figures describe the sale before completion, not final accepted proceeds.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Avici introduction"
+        },
+        {
+          "start": "00:27",
+          "topic": "Presale structure"
+        },
+        {
+          "start": "01:57",
+          "topic": "Product overview"
+        },
+        {
+          "start": "02:38",
+          "topic": "Reported product traction"
+        },
+        {
+          "start": "03:38",
+          "topic": "Fundraising context"
+        },
+        {
+          "start": "04:34",
+          "topic": "Historical participation walkthrough"
+        },
+        {
+          "start": "06:28",
+          "topic": "Pro-rata allocation and refunds"
+        },
+        {
+          "start": "07:44",
+          "topic": "Valuation scenarios"
+        }
+      ],
+      "observedPublicationDate": "2025-10-17"
+    },
+    {
+      "id": "res-118",
+      "sourceUrls": [
+        "https://www.youtube.com/watch?v=NUrLnI1tiLs"
+      ],
+      "reviewMethod": "Publisher YouTube description and chapter review in the browser",
+      "reviewBoundary": "Expanded description and publisher timestamps reviewed; no full audio or transcript review. This is pre-raise history, not confirmation that products shipped or that yields were safe. The page displays a Creative Commons Attribution license; no transcript is hosted in this pass.",
+      "previousDescription": "Video on Solomon's ICO and competitors.",
+      "description": "Seb Montgomery’s pre-raise Solomon overview covers its proposed two-token system, yield mechanism, market positioning, team and ICO terms. Product and yield statements remain recording-time claims.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Solomon overview"
+        },
+        {
+          "start": "00:28",
+          "topic": "Proposed two-token structure"
+        },
+        {
+          "start": "00:53",
+          "topic": "Described yield mechanism"
+        },
+        {
+          "start": "01:33",
+          "topic": "Intended users"
+        },
+        {
+          "start": "02:35",
+          "topic": "Competitor comparison"
+        },
+        {
+          "start": "06:05",
+          "topic": "Team discussion"
+        },
+        {
+          "start": "08:46",
+          "topic": "ICO terms and distribution"
+        },
+        {
+          "start": "11:49",
+          "topic": "Closing and planned next steps"
+        }
+      ],
+      "observedPublicationDate": "2025-11-14"
+    },
+    {
+      "id": "res-127",
+      "sourceUrls": [
+        "https://www.youtube.com/watch?v=0MjnoK8C9Ug"
+      ],
+      "reviewMethod": "Publisher YouTube description and chapter review in the browser",
+      "reviewBoundary": "Expanded description and publisher timestamps reviewed; no full audio or transcript review. Promotional claims of outperformance and safety are not adopted as findings. Ranger discussion remains historical. Speculation about Zcash or Drift adopting futarchy is not evidence of adoption.",
+      "previousDescription": "Video deep dive featuring Solomon's ICO.",
+      "description": "Onchain Trenches discusses Solomon’s ICO, Ranger’s launch, ownership-token design and a bullish META thesis. These are the creator’s historical interpretations and expectations, not verified performance forecasts.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Solomon recap and market controversy"
+        },
+        {
+          "start": "06:39",
+          "topic": "Launchpad metrics discussion"
+        },
+        {
+          "start": "09:04",
+          "topic": "Ranger launch and platform features"
+        },
+        {
+          "start": "14:57",
+          "topic": "Creator’s ownership-token thesis"
+        },
+        {
+          "start": "17:04",
+          "topic": "MetaDAO positioning and Futardio community"
+        },
+        {
+          "start": "18:50",
+          "topic": "Creator’s investment argument"
+        },
+        {
+          "start": "20:07",
+          "topic": "Speculation about other protocols"
+        },
+        {
+          "start": "22:38",
+          "topic": "Bullish META scenario"
+        },
+        {
+          "start": "25:23",
+          "topic": "Ownership versus governance tokens"
+        },
+        {
+          "start": "26:56",
+          "topic": "Platform feedback-loop thesis"
+        }
+      ],
+      "observedPublicationDate": "2025-12-09"
+    },
+    {
+      "id": "res-87",
+      "sourceUrls": [
+        "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
+        "https://solbrothers.podbean.com/e/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana/"
+      ],
+      "reviewMethod": "Publisher episode-description review plus limited public transcript preview",
+      "reviewBoundary": "Publisher description read on Podbean; Podscan’s public transcript preview was read only through 08:09 of a roughly 37-minute episode. No complete transcript or audio review. The headline does not represent accepted proceeds. The $3M retained figure is a publisher claim, not independently reconciled onchain.",
+      "previousDescription": "Podcast interview with Umbra's Kru on the ICO success.",
+      "description": "Sol Brothers interviews Umbra co-founder Kru about the ICO and building a privacy protocol. The publisher distinguishes the $155M headline from $3M reportedly retained after returning most commitments.",
+      "sections": [
+        {
+          "start": "00:27",
+          "topic": "Guest introduction in the public preview"
+        },
+        {
+          "start": "01:21",
+          "topic": "Design background and entry into Solana"
+        },
+        {
+          "start": "04:05",
+          "topic": "Co-founders and team formation"
+        },
+        {
+          "start": "05:26",
+          "topic": "Hackathon origin"
+        },
+        {
+          "start": "07:12",
+          "topic": "Founder mindset discussion"
+        }
+      ],
+      "observedPublicationDate": "2025-10-18"
+    },
+    {
+      "id": "res-246",
+      "sourceUrls": [
+        "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345"
+      ],
+      "reviewMethod": "Publisher episode-description and timestamp review on Apple Podcasts",
+      "reviewBoundary": "Publisher description and complete timestamp list reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Legal protections and risk reduction remain attributed claims. This publisher is outside the OwnershipFM transcript permission.",
+      "previousDescription": "Bankless interview with Felipe Montealegre and Proph3t on futarchy, ownership coins, MetaDAO, Umbra, token design, regulation, and rug-pull prevention.",
+      "description": "Bankless hosts Felipe Montealegre and Proph3t on decision markets, token-holder protections and ownership coins, with an Umbra example. The episode presents arguments about governance and rug-pull prevention, not guarantees.",
+      "sections": [
+        {
+          "start": "01:51",
+          "topic": "Futarchy introduction"
+        },
+        {
+          "start": "04:26",
+          "topic": "Comparison with capital markets"
+        },
+        {
+          "start": "06:39",
+          "topic": "Market incentives"
+        },
+        {
+          "start": "12:01",
+          "topic": "Who participates in decision markets"
+        },
+        {
+          "start": "18:59",
+          "topic": "Liquidity and insider participation"
+        },
+        {
+          "start": "24:03",
+          "topic": "Origins of futarchy"
+        },
+        {
+          "start": "31:31",
+          "topic": "Crypto rug-pull discussion"
+        },
+        {
+          "start": "47:45",
+          "topic": "Token-holder trust"
+        },
+        {
+          "start": "53:00",
+          "topic": "Umbra example"
+        },
+        {
+          "start": "01:00:37",
+          "topic": "MetaDAO model"
+        },
+        {
+          "start": "01:07:20",
+          "topic": "Claims about rug resistance"
+        },
+        {
+          "start": "01:12:42",
+          "topic": "Regulatory discussion"
+        },
+        {
+          "start": "01:18:31",
+          "topic": "Future directions"
+        }
+      ],
+      "observedPublicationDate": "2025-10-20"
+    },
+    {
+      "id": "res-201",
+      "sourceUrls": [
+        "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12"
+      ],
+      "reviewMethod": "Publisher-distributed episode description and timestamp review on Solana Media",
+      "reviewBoundary": "Written introduction and timestamps reviewed on Solana Media; no full audio or transcript review. Platform changes and sustainability arguments remain recording-time descriptions and opinions. This publisher is outside the OwnershipFM transcript permission.",
+      "previousDescription": "Blockworks' Lightspeed explores MetaDAO's permissionless launchpad, ownership protections, and long-term platform incentives.",
+      "description": "Lightspeed discusses MetaDAO’s permissionless fundraising model, token-holder protections, launch cadence and platform economics, alongside broader Solana market topics. The MetaDAO discussion starts at the publisher’s 18:01 chapter.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Opening"
+        },
+        {
+          "start": "04:04",
+          "topic": "ETF-flow discussion"
+        },
+        {
+          "start": "11:42",
+          "topic": "Tokenized-equity discussion"
+        },
+        {
+          "start": "18:01",
+          "topic": "MetaDAO and ownership-token model"
+        },
+        {
+          "start": "37:05",
+          "topic": "Platform business-model questions"
+        },
+        {
+          "start": "53:51",
+          "topic": "Closing"
+        }
+      ],
+      "observedPublicationDate": "2026-03-12"
+    },
+    {
+      "id": "res-42",
+      "sourceUrls": [
+        "https://rss.com/podcasts/colosseum-podcast/1966321/"
+      ],
+      "reviewMethod": "Complete publisher episode-note and timestamp review in the browser",
+      "reviewBoundary": "Complete expanded publisher notes read on RSS.com. Four publisher timestamps provide navigation; no full audio or transcript review. Fundraising and governance claims remain attributed. This publisher is outside the OwnershipFM transcript permission.",
+      "previousDescription": "Long-form interview with MetaDAO founder Proph3t on governance innovation.",
+      "description": "Colosseum’s Chase Barker interviews Proph3t about becoming a founder, MetaDAO’s launchpad and mtnDAO, decision markets, hiring and community-building. These notes describe an early launchpad discussion, not the platform’s current specification.",
+      "sections": [
+        {
+          "start": "02:06",
+          "topic": "First-time founder experience and hiring"
+        },
+        {
+          "start": "14:38",
+          "topic": "Launchpad design and the mtnDAO example"
+        },
+        {
+          "start": "27:32",
+          "topic": "Decision markets and institutional ambitions"
+        },
+        {
+          "start": "43:46",
+          "topic": "Advice for founders and co-founder selection"
+        }
+      ],
+      "observedPublicationDate": "2025-03-31"
+    }
+  ]
+}

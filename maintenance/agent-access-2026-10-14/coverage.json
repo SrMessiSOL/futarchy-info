@@ -1,0 +1,1377 @@
+{
+  "checkedAt": "2026-10-14T21:07:34.119Z",
+  "base": "https://futarchy.info",
+  "scopeCounts": {
+    "all": 623,
+    "historical": 23,
+    "everything": 640
+  },
+  "mediaCount": 167,
+  "withNotes": 112,
+  "withTranscripts": 57,
+  "missingNotes": [
+    {
+      "id": "res-11",
+      "title": "Pine Analytics Podcast with Proph3t",
+      "sourceUrl": "https://x.com/pineanalytics/status/1732095165177749869",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-20",
+      "title": "SRC:TLK Ep. #12 - MetaDAO",
+      "sourceUrl": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-22",
+      "title": "Futarchy: As a Service",
+      "sourceUrl": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-23",
+      "title": "MetaDAO and the Future of APAC with Kollan",
+      "sourceUrl": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-24",
+      "title": "What Futarchy Looks Like in Practice with Kollan House",
+      "sourceUrl": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-29",
+      "title": "MetaDAO: Why the World Needs Decision-Making Markets",
+      "sourceUrl": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-30",
+      "title": "Product Keynote: How MetaDAO's Futards Are Building a Market-Governed Civilization",
+      "sourceUrl": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-31",
+      "title": "FUTARDS FIXING FRAMEWORKS",
+      "sourceUrl": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-45",
+      "title": "Revolutionizing Governance: Futarchy with Proph3t",
+      "sourceUrl": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-47",
+      "title": "Futarchy, Prediction Markets & the Future of Governance",
+      "sourceUrl": "https://blockchainwire.io/press-release/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-43",
+      "title": "Jito's Midcurve Podcast Featuring MetaDAO",
+      "sourceUrl": "https://x.com/jito_sol/status/1915469158386483471",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-44",
+      "title": "Plug In With Switchboard | ep. 41",
+      "sourceUrl": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-53",
+      "title": "Prediction Markets: MetaDAO with 0xResearch",
+      "sourceUrl": "https://x.com/0xResearch/status/1972679362639167492",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-83",
+      "title": "MetaDAO, ICOs, and Solana ETFs | Livestream",
+      "sourceUrl": "https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-60",
+      "title": "ThreadGuy Live with Proph3t",
+      "sourceUrl": "https://x.com/0xSrMessi/status/1976083763999437047",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-61",
+      "title": "MCG Stream: Futarchy and ICOs Are Back!?",
+      "sourceUrl": "https://x.com/MCGlive/status/1976324856905072700",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-63",
+      "title": "MCG Stream: Token Holder Rights and Ownership Coins",
+      "sourceUrl": "https://x.com/MCGlive/status/1976747062709629405",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-82",
+      "title": "How Do The MetaDAO ICOs work: Umbra Success",
+      "sourceUrl": "https://www.youtube.com/watch?v=yMJjilUU21o",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-97",
+      "title": "Avici Presale Live on MetaDAO: Participate Step-by-step",
+      "sourceUrl": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-87",
+      "title": "Umbra just raised $155M fully on-chain via MetaDAO on Solana!",
+      "sourceUrl": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-64",
+      "title": "How Futarchy Ends the Rug Pull Era - Bankless",
+      "sourceUrl": "https://x.com/BanklessHQ/status/1980242608107716824",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-102",
+      "title": "Loyal ICO on Metadao Review",
+      "sourceUrl": "https://www.youtube.com/watch?v=LVSMJkWOrzY",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-77",
+      "title": "$OMFG - OMNIPAIR TOKEN CRYPTO COIN HOW TO BUY SOLANA BLOCKCHAIN SOL METADAO NEW ICO METEORA JUPITER",
+      "sourceUrl": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-89",
+      "title": "Crypto ICOs Are Back: Echo, Legion & MetaDAO Investor Playbook",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-116",
+      "title": "SOLOMON LABS TOKEN CRYPTO COIN HOW TO BUY",
+      "sourceUrl": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-118",
+      "title": "This ICO is Live For 4 Days",
+      "sourceUrl": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-127",
+      "title": "MetaDAO Deep Dive: Why Ownership Coins Will Outperform",
+      "sourceUrl": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-42",
+      "title": "The Colosseum Podcast | Episode 3 with Proph3t",
+      "sourceUrl": "https://rss.com/podcasts/colosseum-podcast/1966321/",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-90",
+      "title": "Umbra: Building the Future of Privacy on Solana",
+      "sourceUrl": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-151",
+      "title": "Seb Monty with cobra (Barret, co-founder of Ranger)",
+      "sourceUrl": "https://x.com/SebMontgomery/status/2009362257529196833",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-152",
+      "title": "Ranger’s ICO, MetaDAO’s Momentum",
+      "sourceUrl": "https://x.com/0xcarlosg/status/2008560236794191921",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-158",
+      "title": "FULL CONVERSATION w/ MetaProph3t, Co-Founder of MetaDAO. LIVE at Solana Breakpoint 2025",
+      "sourceUrl": "https://x.com/11AMdotclub/status/1999204697857786087",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-159",
+      "title": "threadguy INTERVIEWING @metaproph3t",
+      "sourceUrl": "https://x.com/notthreadguy/status/1998492210564837451",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-160",
+      "title": "New episode with @metanallok out now!",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-161",
+      "title": "Ownership Coins Are Taking Over!",
+      "sourceUrl": "https://x.com/seppmos/status/1998375343539781875",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-163",
+      "title": "New episode out now: Solana's Next Big Catalyst In 2026",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-176",
+      "title": "FUTARCHY VS TRADITIONAL VOTING",
+      "sourceUrl": "https://x.com/JUPANDJUICE/status/2011856601603293565",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-178",
+      "title": "Understanding ownership coins w/@Abbasshaikh from @UmbraPrivacy (ex scout at @MetaDAOProject)",
+      "sourceUrl": "https://x.com/rachit/status/2011021526662046047",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-180",
+      "title": "Robin Hanson on Cultural Evolution, Cultural Drift, and Futarchy",
+      "sourceUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-201",
+      "title": "MetaDAO's Permissionless Launchpad",
+      "sourceUrl": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-246",
+      "title": "How Futarchy Ends the Rug Pull Era",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-250",
+      "title": "Ownership S1E0: 8bitpenis (Ownership)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E0-8bitpenis-Ownership-e3fbsfu",
+      "verification": "source-checked"
+    },
+    {
+      "id": "res-260",
+      "title": "Ownership Podcast S1E6: Maushish (Paystream)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E6-Maushish-Paystream-e3h62nf",
+      "verification": "source-checked"
+    },
+    {
+      "id": "res-263",
+      "title": "Robin Hanson: Futarchy, Cultural Drift, and the Future of Adaptiveness",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-265",
+      "title": "Futarchy: Prediction Markets and the Challenge of Disruptive Technology",
+      "sourceUrl": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
+      "verification": "legacy"
+    },
+    {
+      "id": "ownership-backfill-0",
+      "title": "Ownership Podcast S2 E01: Tim (The Syndicate)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E01-Tim-The-Syndicate-e3purr9",
+      "verification": "source-checked"
+    },
+    {
+      "id": "ownership-backfill-1",
+      "title": "Ownership Podcast S1 E12: Tony (Epicentral)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E12-Tony-Epicentral-e3mashp",
+      "verification": "source-checked"
+    },
+    {
+      "id": "ownership-backfill-4",
+      "title": "Ownership Podcast S1 E9: Hunter (Laso)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E9-Hunter-Laso-e3lealb",
+      "verification": "source-checked"
+    },
+    {
+      "id": "ownership-backfill-5",
+      "title": "Ownership Podcast S1 E8: Arad (Lightcone)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E8-Arad-Lightcone-e3jse3e",
+      "verification": "source-checked"
+    },
+    {
+      "id": "ownership-backfill-6",
+      "title": "Ownership Podcast S1 E7: Proph3t (MetaDAO)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E7-Proph3t-MetaDAO-e3iaen4",
+      "verification": "source-checked"
+    },
+    {
+      "id": "hanson-hodl-2026",
+      "title": "Futarchy and Prediction Markets: Robin Hanson Interview",
+      "sourceUrl": "https://hodluppod.com/episode/futarchy-robin-hanson-prediction-markets",
+      "verification": "source-checked"
+    },
+    {
+      "id": "venice-futarchy-2026",
+      "title": "Venice and Futarchy",
+      "sourceUrl": "https://maxdesalle.com/talks/talk-1/",
+      "verification": "source-checked"
+    },
+    {
+      "id": "elucidations-hanson-157",
+      "title": "Episode 157: Robin Hanson discusses prediction markets",
+      "sourceUrl": "https://elucidations.vercel.app/posts/episode-157/",
+      "verification": "source-checked"
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "title": "Ownership S1 E1: Anas (FlashTrade)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E1-Anas-FlashTrade-e3fap4m",
+      "verification": "source-checked"
+    },
+    {
+      "id": "umbra-kru-index-podcast-2026-04-27",
+      "title": "Privacy Is the Future of Solana — Kru Shah of Umbra Explains Why",
+      "sourceUrl": "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why",
+      "verification": "source-checked"
+    }
+  ],
+  "excludedMedia": [
+    "res-198",
+    "res-205",
+    "tributary-archive-5ec2281509",
+    "tributary-archive-67aabeadbb",
+    "tributary-archive-19521722ff",
+    "video-review-655a326d6c774361364955"
+  ],
+  "requestCount": 425,
+  "failures": [],
+  "scope": "All currently public podcast/video catalog records; first-party endpoint health, not third-party source availability or speech completeness.",
+  "notesExposed": [
+    {
+      "id": "res-250",
+      "title": "Ownership S1E0: 8bitpenis (Ownership)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E0-8bitpenis-Ownership-e3fbsfu",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "res-260",
+      "title": "Ownership Podcast S1E6: Maushish (Paystream)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E6-Maushish-Paystream-e3h62nf",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "ownership-backfill-0",
+      "title": "Ownership Podcast S2 E01: Tim (The Syndicate)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E01-Tim-The-Syndicate-e3purr9",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "ownership-backfill-1",
+      "title": "Ownership Podcast S1 E12: Tony (Epicentral)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E12-Tony-Epicentral-e3mashp",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "ownership-backfill-4",
+      "title": "Ownership Podcast S1 E9: Hunter (Laso)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E9-Hunter-Laso-e3lealb",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "ownership-backfill-5",
+      "title": "Ownership Podcast S1 E8: Arad (Lightcone)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E8-Arad-Lightcone-e3jse3e",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "ownership-backfill-6",
+      "title": "Ownership Podcast S1 E7: Proph3t (MetaDAO)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E7-Proph3t-MetaDAO-e3iaen4",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "hanson-hodl-2026",
+      "title": "Futarchy and Prediction Markets: Robin Hanson Interview",
+      "sourceUrl": "https://hodluppod.com/episode/futarchy-robin-hanson-prediction-markets",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "venice-futarchy-2026",
+      "title": "Venice and Futarchy",
+      "sourceUrl": "https://maxdesalle.com/talks/talk-1/",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "elucidations-hanson-157",
+      "title": "Episode 157: Robin Hanson discusses prediction markets",
+      "sourceUrl": "https://elucidations.vercel.app/posts/episode-157/",
+      "reviewedAt": "2026-10-08"
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "title": "Ownership S1 E1: Anas (FlashTrade)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E1-Anas-FlashTrade-e3fap4m",
+      "reviewedAt": "2026-10-11"
+    },
+    {
+      "id": "umbra-kru-index-podcast-2026-04-27",
+      "title": "Privacy Is the Future of Solana — Kru Shah of Umbra Explains Why",
+      "sourceUrl": "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why",
+      "reviewedAt": "2026-10-12"
+    }
+  ],
+  "remainingWithoutNotes": [
+    {
+      "id": "res-11",
+      "title": "Pine Analytics Podcast with Proph3t",
+      "sourceUrl": "https://x.com/pineanalytics/status/1732095165177749869",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-20",
+      "title": "SRC:TLK Ep. #12 - MetaDAO",
+      "sourceUrl": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-22",
+      "title": "Futarchy: As a Service",
+      "sourceUrl": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-23",
+      "title": "MetaDAO and the Future of APAC with Kollan",
+      "sourceUrl": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-24",
+      "title": "What Futarchy Looks Like in Practice with Kollan House",
+      "sourceUrl": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-29",
+      "title": "MetaDAO: Why the World Needs Decision-Making Markets",
+      "sourceUrl": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-30",
+      "title": "Product Keynote: How MetaDAO's Futards Are Building a Market-Governed Civilization",
+      "sourceUrl": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-31",
+      "title": "FUTARDS FIXING FRAMEWORKS",
+      "sourceUrl": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-45",
+      "title": "Revolutionizing Governance: Futarchy with Proph3t",
+      "sourceUrl": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-47",
+      "title": "Futarchy, Prediction Markets & the Future of Governance",
+      "sourceUrl": "https://blockchainwire.io/press-release/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-43",
+      "title": "Jito's Midcurve Podcast Featuring MetaDAO",
+      "sourceUrl": "https://x.com/jito_sol/status/1915469158386483471",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-44",
+      "title": "Plug In With Switchboard | ep. 41",
+      "sourceUrl": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-53",
+      "title": "Prediction Markets: MetaDAO with 0xResearch",
+      "sourceUrl": "https://x.com/0xResearch/status/1972679362639167492",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-83",
+      "title": "MetaDAO, ICOs, and Solana ETFs | Livestream",
+      "sourceUrl": "https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-60",
+      "title": "ThreadGuy Live with Proph3t",
+      "sourceUrl": "https://x.com/0xSrMessi/status/1976083763999437047",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-61",
+      "title": "MCG Stream: Futarchy and ICOs Are Back!?",
+      "sourceUrl": "https://x.com/MCGlive/status/1976324856905072700",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-63",
+      "title": "MCG Stream: Token Holder Rights and Ownership Coins",
+      "sourceUrl": "https://x.com/MCGlive/status/1976747062709629405",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-82",
+      "title": "How Do The MetaDAO ICOs work: Umbra Success",
+      "sourceUrl": "https://www.youtube.com/watch?v=yMJjilUU21o",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-97",
+      "title": "Avici Presale Live on MetaDAO: Participate Step-by-step",
+      "sourceUrl": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-87",
+      "title": "Umbra just raised $155M fully on-chain via MetaDAO on Solana!",
+      "sourceUrl": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-64",
+      "title": "How Futarchy Ends the Rug Pull Era - Bankless",
+      "sourceUrl": "https://x.com/BanklessHQ/status/1980242608107716824",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-102",
+      "title": "Loyal ICO on Metadao Review",
+      "sourceUrl": "https://www.youtube.com/watch?v=LVSMJkWOrzY",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-77",
+      "title": "$OMFG - OMNIPAIR TOKEN CRYPTO COIN HOW TO BUY SOLANA BLOCKCHAIN SOL METADAO NEW ICO METEORA JUPITER",
+      "sourceUrl": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-89",
+      "title": "Crypto ICOs Are Back: Echo, Legion & MetaDAO Investor Playbook",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-116",
+      "title": "SOLOMON LABS TOKEN CRYPTO COIN HOW TO BUY",
+      "sourceUrl": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-118",
+      "title": "This ICO is Live For 4 Days",
+      "sourceUrl": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-127",
+      "title": "MetaDAO Deep Dive: Why Ownership Coins Will Outperform",
+      "sourceUrl": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-42",
+      "title": "The Colosseum Podcast | Episode 3 with Proph3t",
+      "sourceUrl": "https://rss.com/podcasts/colosseum-podcast/1966321/",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-90",
+      "title": "Umbra: Building the Future of Privacy on Solana",
+      "sourceUrl": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-151",
+      "title": "Seb Monty with cobra (Barret, co-founder of Ranger)",
+      "sourceUrl": "https://x.com/SebMontgomery/status/2009362257529196833",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-152",
+      "title": "Ranger’s ICO, MetaDAO’s Momentum",
+      "sourceUrl": "https://x.com/0xcarlosg/status/2008560236794191921",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-158",
+      "title": "FULL CONVERSATION w/ MetaProph3t, Co-Founder of MetaDAO. LIVE at Solana Breakpoint 2025",
+      "sourceUrl": "https://x.com/11AMdotclub/status/1999204697857786087",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-159",
+      "title": "threadguy INTERVIEWING @metaproph3t",
+      "sourceUrl": "https://x.com/notthreadguy/status/1998492210564837451",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-160",
+      "title": "New episode with @metanallok out now!",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-161",
+      "title": "Ownership Coins Are Taking Over!",
+      "sourceUrl": "https://x.com/seppmos/status/1998375343539781875",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-163",
+      "title": "New episode out now: Solana's Next Big Catalyst In 2026",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-176",
+      "title": "FUTARCHY VS TRADITIONAL VOTING",
+      "sourceUrl": "https://x.com/JUPANDJUICE/status/2011856601603293565",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-178",
+      "title": "Understanding ownership coins w/@Abbasshaikh from @UmbraPrivacy (ex scout at @MetaDAOProject)",
+      "sourceUrl": "https://x.com/rachit/status/2011021526662046047",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-180",
+      "title": "Robin Hanson on Cultural Evolution, Cultural Drift, and Futarchy",
+      "sourceUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-201",
+      "title": "MetaDAO's Permissionless Launchpad",
+      "sourceUrl": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-246",
+      "title": "How Futarchy Ends the Rug Pull Era",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-263",
+      "title": "Robin Hanson: Futarchy, Cultural Drift, and the Future of Adaptiveness",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-265",
+      "title": "Futarchy: Prediction Markets and the Challenge of Disruptive Technology",
+      "sourceUrl": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
+      "verification": "legacy"
+    }
+  ],
+  "remainingWithoutHostedTranscript": [
+    {
+      "id": "res-11",
+      "title": "Pine Analytics Podcast with Proph3t",
+      "sourceUrl": "https://x.com/pineanalytics/status/1732095165177749869",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-20",
+      "title": "SRC:TLK Ep. #12 - MetaDAO",
+      "sourceUrl": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-22",
+      "title": "Futarchy: As a Service",
+      "sourceUrl": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-23",
+      "title": "MetaDAO and the Future of APAC with Kollan",
+      "sourceUrl": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-24",
+      "title": "What Futarchy Looks Like in Practice with Kollan House",
+      "sourceUrl": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-29",
+      "title": "MetaDAO: Why the World Needs Decision-Making Markets",
+      "sourceUrl": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-30",
+      "title": "Product Keynote: How MetaDAO's Futards Are Building a Market-Governed Civilization",
+      "sourceUrl": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-31",
+      "title": "FUTARDS FIXING FRAMEWORKS",
+      "sourceUrl": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-45",
+      "title": "Revolutionizing Governance: Futarchy with Proph3t",
+      "sourceUrl": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-47",
+      "title": "Futarchy, Prediction Markets & the Future of Governance",
+      "sourceUrl": "https://blockchainwire.io/press-release/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-43",
+      "title": "Jito's Midcurve Podcast Featuring MetaDAO",
+      "sourceUrl": "https://x.com/jito_sol/status/1915469158386483471",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-44",
+      "title": "Plug In With Switchboard | ep. 41",
+      "sourceUrl": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-53",
+      "title": "Prediction Markets: MetaDAO with 0xResearch",
+      "sourceUrl": "https://x.com/0xResearch/status/1972679362639167492",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-83",
+      "title": "MetaDAO, ICOs, and Solana ETFs | Livestream",
+      "sourceUrl": "https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-60",
+      "title": "ThreadGuy Live with Proph3t",
+      "sourceUrl": "https://x.com/0xSrMessi/status/1976083763999437047",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-61",
+      "title": "MCG Stream: Futarchy and ICOs Are Back!?",
+      "sourceUrl": "https://x.com/MCGlive/status/1976324856905072700",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-63",
+      "title": "MCG Stream: Token Holder Rights and Ownership Coins",
+      "sourceUrl": "https://x.com/MCGlive/status/1976747062709629405",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-82",
+      "title": "How Do The MetaDAO ICOs work: Umbra Success",
+      "sourceUrl": "https://www.youtube.com/watch?v=yMJjilUU21o",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-97",
+      "title": "Avici Presale Live on MetaDAO: Participate Step-by-step",
+      "sourceUrl": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-87",
+      "title": "Umbra just raised $155M fully on-chain via MetaDAO on Solana!",
+      "sourceUrl": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-64",
+      "title": "How Futarchy Ends the Rug Pull Era - Bankless",
+      "sourceUrl": "https://x.com/BanklessHQ/status/1980242608107716824",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-102",
+      "title": "Loyal ICO on Metadao Review",
+      "sourceUrl": "https://www.youtube.com/watch?v=LVSMJkWOrzY",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-77",
+      "title": "$OMFG - OMNIPAIR TOKEN CRYPTO COIN HOW TO BUY SOLANA BLOCKCHAIN SOL METADAO NEW ICO METEORA JUPITER",
+      "sourceUrl": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-89",
+      "title": "Crypto ICOs Are Back: Echo, Legion & MetaDAO Investor Playbook",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-116",
+      "title": "SOLOMON LABS TOKEN CRYPTO COIN HOW TO BUY",
+      "sourceUrl": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-118",
+      "title": "This ICO is Live For 4 Days",
+      "sourceUrl": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-127",
+      "title": "MetaDAO Deep Dive: Why Ownership Coins Will Outperform",
+      "sourceUrl": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-42",
+      "title": "The Colosseum Podcast | Episode 3 with Proph3t",
+      "sourceUrl": "https://rss.com/podcasts/colosseum-podcast/1966321/",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-90",
+      "title": "Umbra: Building the Future of Privacy on Solana",
+      "sourceUrl": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-151",
+      "title": "Seb Monty with cobra (Barret, co-founder of Ranger)",
+      "sourceUrl": "https://x.com/SebMontgomery/status/2009362257529196833",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-152",
+      "title": "Ranger’s ICO, MetaDAO’s Momentum",
+      "sourceUrl": "https://x.com/0xcarlosg/status/2008560236794191921",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-158",
+      "title": "FULL CONVERSATION w/ MetaProph3t, Co-Founder of MetaDAO. LIVE at Solana Breakpoint 2025",
+      "sourceUrl": "https://x.com/11AMdotclub/status/1999204697857786087",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-159",
+      "title": "threadguy INTERVIEWING @metaproph3t",
+      "sourceUrl": "https://x.com/notthreadguy/status/1998492210564837451",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-160",
+      "title": "New episode with @metanallok out now!",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-161",
+      "title": "Ownership Coins Are Taking Over!",
+      "sourceUrl": "https://x.com/seppmos/status/1998375343539781875",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-163",
+      "title": "New episode out now: Solana's Next Big Catalyst In 2026",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-176",
+      "title": "FUTARCHY VS TRADITIONAL VOTING",
+      "sourceUrl": "https://x.com/JUPANDJUICE/status/2011856601603293565",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-178",
+      "title": "Understanding ownership coins w/@Abbasshaikh from @UmbraPrivacy (ex scout at @MetaDAOProject)",
+      "sourceUrl": "https://x.com/rachit/status/2011021526662046047",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-180",
+      "title": "Robin Hanson on Cultural Evolution, Cultural Drift, and Futarchy",
+      "sourceUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-201",
+      "title": "MetaDAO's Permissionless Launchpad",
+      "sourceUrl": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-246",
+      "title": "How Futarchy Ends the Rug Pull Era",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-250",
+      "title": "Ownership S1E0: 8bitpenis (Ownership)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E0-8bitpenis-Ownership-e3fbsfu",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-260",
+      "title": "Ownership Podcast S1E6: Maushish (Paystream)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E6-Maushish-Paystream-e3h62nf",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-262",
+      "title": "Robin Hanson: The Scaling of Futarchy",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/24-robin-hanson-the-scaling-of-futarchy/id1736309658?i=1000733109174",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "res-263",
+      "title": "Robin Hanson: Futarchy, Cultural Drift, and the Future of Adaptiveness",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "res-265",
+      "title": "Futarchy: Prediction Markets and the Challenge of Disruptive Technology",
+      "sourceUrl": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "ownership-backfill-0",
+      "title": "Ownership Podcast S2 E01: Tim (The Syndicate)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E01-Tim-The-Syndicate-e3purr9",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "ownership-backfill-1",
+      "title": "Ownership Podcast S1 E12: Tony (Epicentral)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E12-Tony-Epicentral-e3mashp",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "ownership-backfill-4",
+      "title": "Ownership Podcast S1 E9: Hunter (Laso)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E9-Hunter-Laso-e3lealb",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "ownership-backfill-5",
+      "title": "Ownership Podcast S1 E8: Arad (Lightcone)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E8-Arad-Lightcone-e3jse3e",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "ownership-backfill-6",
+      "title": "Ownership Podcast S1 E7: Proph3t (MetaDAO)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E7-Proph3t-MetaDAO-e3iaen4",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "hanson-hodl-2026",
+      "title": "Futarchy and Prediction Markets: Robin Hanson Interview",
+      "sourceUrl": "https://hodluppod.com/episode/futarchy-robin-hanson-prediction-markets",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "venice-futarchy-2026",
+      "title": "Venice and Futarchy",
+      "sourceUrl": "https://maxdesalle.com/talks/talk-1/",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "elucidations-hanson-157",
+      "title": "Episode 157: Robin Hanson discusses prediction markets",
+      "sourceUrl": "https://elucidations.vercel.app/posts/episode-157/",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "title": "Ownership S1 E1: Anas (FlashTrade)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E1-Anas-FlashTrade-e3fap4m",
+      "transcriptStatus": "not-reviewed"
+    },
+    {
+      "id": "video-review-4c66477773363171597041",
+      "title": "Building the Dollar Layer for Solana — Solomon Labs — Ranga | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=LfGws61qYpA",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-3334695f66564159394759",
+      "title": "Building the Media Layer for Ownership — 8Bit | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=34i_fVAY9GY",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6b4868744a51345f546177",
+      "title": "Can Markets Reliably Decide? — Danning Sui | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=kHhtJQ4_Taw",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-4857567059656b6c2d556f",
+      "title": "Closing Remarks — Proph3t & Kollan | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=HWVpYekl-Uo",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-747a73444e6b2d707a3159",
+      "title": "Credible: The Open Payments Stack",
+      "sourceUrl": "https://www.youtube.com/watch?v=tzsDNk-pz1Y",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-694a41624d447130567659",
+      "title": "Crypto's 1934 Moment: The Blockworks TTF— Robert Burkhart | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=iJAbMDq0VvY",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-744e656f4a456671644949",
+      "title": "Fundamentals Data for Ownership Coins — JJ | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=tNeoJEfqdII",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-435a576b2d467277334d34",
+      "title": "Futarchy — Dr. Robin Hanson | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=CZWk-Frw3M4",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6c69626d736961695a426f",
+      "title": "History of MetaDAO — Proph3t | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=libmsiaiZBo",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-7758776a3955744c4d5651",
+      "title": "How mtnCapital Is Redefining Crypto Governance",
+      "sourceUrl": "https://www.youtube.com/watch?v=wXwj9UtLMVQ",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-497a715a74707242464251",
+      "title": "How Tokens Empower Early-Stage Crypto Founders to Succeed",
+      "sourceUrl": "https://www.youtube.com/watch?v=IzqZtprBFBQ",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-396f4b76423238486b7355",
+      "title": "JurassicFi: Putting Dinosaurs on the Blockchain — Vukan | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=9oKvB28HksU",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6a366f6f4e5672386e4145",
+      "title": "MetaDAO 2.0 — Proph3t | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=j6ooNVr8nAE",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6e7a49376f57713952426f",
+      "title": "MetaDAO's Investor Relations Partner: Novora — Connor King | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=nzI7oWq9RBo",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-36535f2d56554d4b38476b",
+      "title": "Pioneering Untapped Markets — David Khosroshvili | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=6S_-VUMK8Gk",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6642534e45594b6b737863",
+      "title": "Privacy for Humans, Frictionless for Agents — Hunter | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=fBSNEYKksxc",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6d5f476d42386e52445973",
+      "title": "Rip Cars: The world’s first Hot Wheels gacha platform",
+      "sourceUrl": "https://www.youtube.com/watch?v=m_GmB8nRDYs",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-556357467a30416b703545",
+      "title": "The Divine and The Profane — Kevin Heavey | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=UcWFz0Akp5E",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-705167346e75464b4a4e41",
+      "title": "The Future of Umbra — Abbas | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=pQg4nuFKJNA",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-326263677634504c6b4b4d",
+      "title": "How Investors Underwrite Ownership Coins — MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=2bcgv4PLkKM",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-314c4b386f73764c346a67",
+      "title": "How to Trade The First Jito Futarchy Vote: Step By Step Tutorial",
+      "sourceUrl": "https://www.youtube.com/watch?v=1LK8osvL4jg",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-37662d5a327a6358794949",
+      "title": "Laso Finance: private crypto spending today, agentic payments tomorrow",
+      "sourceUrl": "https://www.youtube.com/watch?v=7f-Z2zcXyII",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-7441554b6e754572654730",
+      "title": "Ownership Coins as Investments (Cut Audio) — Felipe | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=tAUKnuEreG0",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-336a6a69616d7a43717049",
+      "title": "Ownership Panel — MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=3jjiamzCqpI",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-30306142614b5659337555",
+      "title": "Should We Launch This Way? — MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=00aBaKVY3uU",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-537264613041453034436b",
+      "title": "Supply Chain of Capital — Clay Robbins | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=Srda0AE04Ck",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-795157494a6a4467646a6b",
+      "title": "Community Call #1",
+      "sourceUrl": "https://www.youtube.com/watch?v=yQWIJjDgdjk",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-547475756e625376703273",
+      "title": "Community Call #4",
+      "sourceUrl": "https://www.youtube.com/watch?v=TtuunbSvp2s",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-4b766c304c72777445386b",
+      "title": "Public epistemics and futarchy by Robin Hanson | Devcon SEA",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kvl0LrwtE8k",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-424c53325458314b787a49",
+      "title": "Robin Hanson, PhD: Prediction Markets/Futarchy for Efficient Governments and Resilient Economies",
+      "sourceUrl": "https://www.youtube.com/watch?v=BLS2TX1KxzI",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-35636b76576b5361685759",
+      "title": "Community Call #3",
+      "sourceUrl": "https://www.youtube.com/watch?v=5ckvWkSahWY",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6a425465556b4752434c4d",
+      "title": "Community Call #5",
+      "sourceUrl": "https://www.youtube.com/watch?v=jBTeUkGRCLM",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-4b66305747357973682d59",
+      "title": "Community Call #6",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kf0WG5ysh-Y",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-613171536a6b4c585a3959",
+      "title": "DAPPCON 2025: Launching Futarchy - Kelvin Santos & Robin Hanson",
+      "sourceUrl": "https://www.youtube.com/watch?v=a1qSjkLXZ9Y",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-546d684c4b7139487a7873",
+      "title": "Community Call #2",
+      "sourceUrl": "https://www.youtube.com/watch?v=TmhLKq9Hzxs",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-4c6d2d34664a396c385745",
+      "title": "Navigating the Future of Crypto: Insights on Tokens and Investment DAOs",
+      "sourceUrl": "https://www.youtube.com/watch?v=Lm-4fJ9l8WE",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-5676346c6b4d726d7a5838",
+      "title": "Hacking State 1 - Robin Hanson: Prediction Markets & Futarchy",
+      "sourceUrl": "https://www.youtube.com/watch?v=Vv4lkMrmzX8",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-453144366d554f42336141",
+      "title": "Innovation and cultural evolution, betting markets and futarchy - Robin Hanson (390I)",
+      "sourceUrl": "https://www.youtube.com/watch?v=E1D6mUOB3aA",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-694a627442315a67535f30",
+      "title": "Robin Hanson - Futarchy: A Status Report",
+      "sourceUrl": "https://www.youtube.com/watch?v=iJbtB1ZgS_0",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-4d594b664c3441556c5859",
+      "title": "Robin Hanson - Futarchy: Competent Governance Soon?!",
+      "sourceUrl": "https://www.youtube.com/watch?v=MYKfL4AUlXY",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-675a784c487a6b3758784d",
+      "title": "Robin Hanson & James Hughes - Futarchy vs Plutarchy: Vote on Values, or Pay to Play?",
+      "sourceUrl": "https://www.youtube.com/watch?v=gZxLHzk7XxM",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-54622d36696b58644f7a45",
+      "title": "Robin Hanson and \"Mencius Moldbug\" debate futarchy at Foresight 2010",
+      "sourceUrl": "https://www.youtube.com/watch?v=Tb-6ikXdOzE",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-557a5a54477977785f7549",
+      "title": "Robin Hanson, Eli Goldfine: Navigating Our Future with Futarchy",
+      "sourceUrl": "https://www.youtube.com/watch?v=UzZTGywx_uI",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "umbra-kru-index-podcast-2026-04-27",
+      "title": "Privacy Is the Future of Solana — Kru Shah of Umbra Explains Why",
+      "sourceUrl": "https://www.buzzsprout.com/2092514/episodes/19028963-privacy-is-the-future-of-solana-kru-shah-of-umbra-explains-why",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "bountive-archive-0925a353fb",
+      "title": "Bountive: founder Futardio pitch",
+      "sourceUrl": "https://www.youtube.com/watch?v=IUQ8MUXy2Ng",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "founder-umbra-bb0441e8e2",
+      "title": "Umbra founders Kru and Cal: Making Privacy the Default",
+      "sourceUrl": "https://www.youtube.com/watch?v=wneRrwMw61Y",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "founder-loyal-b0bb0d6dd8",
+      "title": "Loyal founder Chris: Agentic Finance for Everyday Users",
+      "sourceUrl": "https://www.youtube.com/watch?v=bx_n34xGYfQ",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "founder-p2p-protocol-7878ba6454",
+      "title": "P2P founder Sheldon: Seed Club pre-raise interview",
+      "sourceUrl": "https://www.youtube.com/watch?v=1x-cSsjFgt0",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-4d39316532587037656477",
+      "title": "Welcome to the MetaDAO Inaugural Ownership Meeting — Michael Rinko",
+      "sourceUrl": "https://www.youtube.com/watch?v=M91e2Xp7edw",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-4b455733396c664a626b6b",
+      "title": "The Importance and Challenges of Accounting in Crypto — Abbee | MetaDAO Inaugural Ownership Meeting",
+      "sourceUrl": "https://www.youtube.com/watch?v=KEW39lfJbkk",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-6633554347417951466745",
+      "title": "To Touch The Face of God",
+      "sourceUrl": "https://www.youtube.com/watch?v=f3UCGAyQFgE",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-707731506956614748626f",
+      "title": "Exploring Attention Capital Markets: The Future of Memecoins and Tokenization",
+      "sourceUrl": "https://www.youtube.com/watch?v=pw1PiVaGHbo",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-486b4a466a585277506263",
+      "title": "The First JITO Futarchy Decision is Live For Trading",
+      "sourceUrl": "https://www.youtube.com/watch?v=HkJFjXRwPbc",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-7430385169535253366938",
+      "title": "MetaDAO - The Future Of Governance - Futarchy",
+      "sourceUrl": "https://www.youtube.com/watch?v=t08QiSRS6i8",
+      "transcriptStatus": "permission-required"
+    },
+    {
+      "id": "video-review-365a36594576364c695149",
+      "title": "The-MetaDAO Backstory",
+      "sourceUrl": "https://www.youtube.com/watch?v=6Z6YEv6LiQI",
+      "transcriptStatus": "permission-required"
+    }
+  ],
+  "localVerification": {
+    "checkedAt": "2026-10-14T21:11:01.376Z",
+    "base": "http://127.0.0.1:3010",
+    "scopeCounts": {
+      "all": 623,
+      "historical": 23,
+      "everything": 640
+    },
+    "mediaCount": 167,
+    "withNotes": 124,
+    "withTranscripts": 57,
+    "excludedMedia": [
+      "res-198",
+      "res-205",
+      "tributary-archive-5ec2281509",
+      "tributary-archive-67aabeadbb",
+      "tributary-archive-19521722ff",
+      "video-review-655a326d6c774361364955"
+    ],
+    "requestCount": 449,
+    "failures": []
+  },
+  "structuredAccessAssertions": {
+    "resources": 640,
+    "passed": true
+  }
+}

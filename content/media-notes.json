@@ -4342,5 +4342,137 @@
       "status": "permission-required",
       "sha256": "a10cc0699f9ec191702e3fe0890007351cc262bde3ea9663071b5091397e64dc"
     }
+  },
+  {
+    "resourceId": "res-250",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Recovered exact episode link and publication date from the original publisher RSS item. Show notes reviewed; audio not independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-260",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Recovered exact episode link and publication date from the original publisher RSS item. Show notes reviewed; audio not independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "ownership-backfill-0",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "ownership-backfill-1",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "ownership-backfill-4",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "ownership-backfill-5",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "ownership-backfill-6",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "hanson-hodl-2026",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Publisher date, chapter list, and written interview summary reviewed; not a full audio review. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "venice-futarchy-2026",
+    "reviewMethod": "Previously documented publisher transcript review",
+    "reviewBoundary": "Author’s dated talk page and transcript reviewed. The historical and governance arguments are attributed to the speaker. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "elucidations-hanson-157",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Publisher episode page explicitly distinguishes the July 21, 2026 publication date from September 2022 recording. Summary based on the written episode introduction. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-08",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "ownership-s1-e1-anas-flashtrade",
+    "reviewMethod": "Previously documented publisher page or RSS show-note review",
+    "reviewBoundary": "Read the official podcast RSS episode title, publication timestamp and description. This summary is based on publisher show notes; the audio has not been independently listened to or transcribed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-11",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "umbra-kru-index-podcast-2026-04-27",
+    "reviewMethod": "Previously documented publisher transcript review",
+    "reviewBoundary": "Complete publisher transcript read from opening through closing at 32:50 (player duration 33:09). Transcript has obvious proper-name recognition errors. Audio and visuals not separately reviewed. Investor-relations bounty platform described as being built, not shipped; legal and security claims not independently verified. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
+    "checkedAt": "2026-10-12",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
   }
 ]

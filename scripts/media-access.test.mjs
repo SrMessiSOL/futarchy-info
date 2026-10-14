@@ -71,3 +71,19 @@ test('Radio reminders stay internal and available shows keep their original IDs'
     if (show) assert.ok(!show.catalogOnly)
   }
 })
+
+test('reading notes preserve source evidence and never advertise nonexistent transcript assets', () => {
+  assert.equal(new Set(notes.map(n => n.resourceId)).size, notes.length)
+  for (const note of notes) {
+    assert.ok(rows.some(row => row.id === note.resourceId))
+    assert.ok(note.reviewMethod && note.reviewBoundary && note.checkedAt)
+    assert.ok(['available', 'permission-required', 'unavailable', 'not-reviewed'].includes(note.transcript.status))
+    if (note.transcript.status === 'available') {
+      assert.equal(note.transcript.textUrl, `/api/transcripts/${note.resourceId}`)
+      assert.equal(note.transcript.jsonUrl, `/api/transcripts/${note.resourceId}?format=json`)
+    } else {
+      assert.equal(note.transcript.textUrl, undefined)
+      assert.equal(note.transcript.jsonUrl, undefined)
+    }
+  }
+})

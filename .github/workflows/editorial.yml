@@ -16,7 +16,7 @@ jobs:
     outputs:
       ready: ${{ steps.ready.outputs.ready }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
           persist-credentials: false
@@ -62,7 +62,7 @@ jobs:
           echo 'ready=true' >> "$GITHUB_OUTPUT"
       - name: Save trusted baseline and fetched evidence
         if: steps.ready.outputs.ready == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: editorial-evidence
           path: |
@@ -79,7 +79,7 @@ jobs:
           safety-strategy: drop-sudo
       - name: Export only reviewable content
         if: steps.ready.outputs.ready == 'true'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: editorial-proposal
           path: |
@@ -94,7 +94,7 @@ jobs:
     outputs:
       changed: ${{ steps.evidence-gate.outputs.changed }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           persist-credentials: false
       - uses: actions/setup-node@v4
@@ -127,7 +127,7 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: actions/download-artifact@v4
         with:
           name: editorial-proposal
@@ -136,7 +136,7 @@ jobs:
         run: |
           cp work/proposal/content/resources.json content/resources.json
           cp work/proposal/maintenance/editorial-report.md maintenance/editorial-report.md
-      - uses: peter-evans/create-pull-request@v7
+      - uses: peter-evans/create-pull-request@v8
         with:
           branch: automation/library-update
           title: 'content: verified library update'

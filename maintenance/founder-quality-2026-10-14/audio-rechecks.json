@@ -1,0 +1,927 @@
+[
+  {
+    "resourceId": "ownership-backfill-0",
+    "start": 1795,
+    "end": 1830,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "7b4687f20c6a9ab8e0dacc0d12ff506f3dd1244d69db3141edcd4df5850ce234",
+    "decodedClipSha256": "cf1874790a8daf2a2940de80dec15335adf98da8f3c73ace94ffca1463ae1e76",
+    "segments": [
+      {
+        "start": 1795,
+        "end": 1798.76,
+        "text": "of the amazing game that we believe we've built."
+      },
+      {
+        "start": 1798.76,
+        "end": 1801.76,
+        "text": "And then we realized that with a back-able token,"
+      },
+      {
+        "start": 1801.76,
+        "end": 1803.64,
+        "text": "with an ownership token,"
+      },
+      {
+        "start": 1803.64,
+        "end": 1805.76,
+        "text": "this same community can have a stake"
+      },
+      {
+        "start": 1805.76,
+        "end": 1807.44,
+        "text": "in the success of the company"
+      },
+      {
+        "start": 1807.44,
+        "end": 1810.36,
+        "text": "and can be just as excited about growth milestones"
+      },
+      {
+        "start": 1810.36,
+        "end": 1813.1,
+        "text": "within the free app that we're building"
+      },
+      {
+        "start": 1813.1,
+        "end": 1816.28,
+        "text": "as they are within the online browser crypto version"
+      },
+      {
+        "start": 1816.28,
+        "end": 1817.12,
+        "text": "of the game."
+      },
+      {
+        "start": 1817.12,
+        "end": 1819.04,
+        "text": "And that, for me, unlocked to huge things."
+      },
+      {
+        "start": 1819.04,
+        "end": 1822,
+        "text": "I was like, wow, that's amazing"
+      },
+      {
+        "start": 1822,
+        "end": 1824.68,
+        "text": "because that is something that a token"
+      },
+      {
+        "start": 1824.68,
+        "end": 1826.82,
+        "text": "like what we can launch Unbackable gives,"
+      },
+      {
+        "start": 1826.82,
+        "end": 1828.1,
+        "text": "that nothing else can,"
+      },
+      {
+        "start": 1828.1,
+        "end": 1830.18,
+        "text": "because it gives you that ownership of the-"
+      }
+    ]
+  },
+  {
+    "resourceId": "ownership-backfill-0",
+    "start": 2470,
+    "end": 2538,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "7b4687f20c6a9ab8e0dacc0d12ff506f3dd1244d69db3141edcd4df5850ce234",
+    "decodedClipSha256": "4f0742f36125349d7c1ba8db43a643b1aebb007a487ce8244f0a6c674a624444",
+    "segments": [
+      {
+        "start": 2470,
+        "end": 2473.4,
+        "text": "the real version where there were USDC prizes"
+      },
+      {
+        "start": 2473.4,
+        "end": 2476.28,
+        "text": "and there was a way for you to earn your prize money"
+      },
+      {
+        "start": 2476.28,
+        "end": 2477.32,
+        "text": "in the game through playing."
+      },
+      {
+        "start": 2477.32,
+        "end": 2482.28,
+        "text": "So since the 1st of June, in revenue numbers,"
+      },
+      {
+        "start": 2482.28,
+        "end": 2485.22,
+        "text": "we're at about $265,000 in revenue."
+      },
+      {
+        "start": 2485.22,
+        "end": 2489.08,
+        "text": "We also did have our first pack opening in the game,"
+      },
+      {
+        "start": 2489.08,
+        "end": 2491.16,
+        "text": "which we called our founder, Kapos,"
+      },
+      {
+        "start": 2491.16,
+        "end": 2493.4,
+        "text": "because they were the initial cards that launched it."
+      },
+      {
+        "start": 2493.4,
+        "end": 2496.68,
+        "text": "We also raised about 26,000 there through that."
+      },
+      {
+        "start": 2496.68,
+        "end": 2499.84,
+        "text": "So heading towards 300,000 in the space of about four numbers"
+      },
+      {
+        "start": 2499.84,
+        "end": 2504,
+        "text": "since we started in revenue, which is crazy exciting"
+      },
+      {
+        "start": 2504,
+        "end": 2506.28,
+        "text": "for something that people think that people don't"
+      },
+      {
+        "start": 2506.28,
+        "end": 2508.16,
+        "text": "want to spend money in."
+      },
+      {
+        "start": 2508.16,
+        "end": 2510.4,
+        "text": "And our retention rates are awesome."
+      },
+      {
+        "start": 2510.4,
+        "end": 2513.24,
+        "text": "So we're currently sitting at around about 850,"
+      },
+      {
+        "start": 2513.24,
+        "end": 2516.92,
+        "text": "860 daily active users, and about 16,"
+      },
+      {
+        "start": 2516.92,
+        "end": 2519.36,
+        "text": "1700 monthly active users."
+      },
+      {
+        "start": 2519.36,
+        "end": 2523.92,
+        "text": "That's been as high as sort of 1,000, 1,100 daily active users"
+      },
+      {
+        "start": 2523.92,
+        "end": 2526.64,
+        "text": "over the last few months, and has taper down"
+      },
+      {
+        "start": 2526.64,
+        "end": 2528.64,
+        "text": "a little bit at the moment."
+      },
+      {
+        "start": 2528.64,
+        "end": 2530.64,
+        "text": "But the thing that we're most focused on"
+      },
+      {
+        "start": 2530.64,
+        "end": 2531.86,
+        "text": "is our retention numbers."
+      },
+      {
+        "start": 2531.86,
+        "end": 2534.24,
+        "text": "So if we look at the last 30 days, for example,"
+      },
+      {
+        "start": 2534.24,
+        "end": 2537.14,
+        "text": "so this is just users within the last 30 days,"
+      },
+      {
+        "start": 2537.14,
+        "end": 2540.14,
+        "text": "55% of users within the last 30 days"
+      }
+    ]
+  },
+  {
+    "resourceId": "ownership-backfill-4",
+    "start": 1280,
+    "end": 1350,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "b62ab0e5af8e8546ed38ee1f30ba6cdb1292f158971d4c2bf2f0cb71387cac9b",
+    "decodedClipSha256": "88bd3df47163a233e7af697f9ab044dc974af3b49aabf4e9a756df8af6dc560f",
+    "segments": [
+      {
+        "start": 1280,
+        "end": 1282.88,
+        "text": "what is next, how are you going to scale Lasso?"
+      },
+      {
+        "start": 1282.88,
+        "end": 1286.88,
+        "text": "And because I think the design space for prepaid cards"
+      },
+      {
+        "start": 1286.88,
+        "end": 1290.8,
+        "text": "is can be pretty huge."
+      },
+      {
+        "start": 1290.8,
+        "end": 1295.8,
+        "text": "And so I'm wondering how you're going to expand Lasso"
+      },
+      {
+        "start": 1296.6,
+        "end": 1299.88,
+        "text": "once you've done this raise."
+      },
+      {
+        "start": 1299.88,
+        "end": 1300.84,
+        "text": "Yeah, got it."
+      },
+      {
+        "start": 1300.84,
+        "end": 1305.04,
+        "text": "So to kind of set the context of where we are now,"
+      },
+      {
+        "start": 1305.04,
+        "end": 1308.64,
+        "text": "pre-raise and that helps go into that"
+      },
+      {
+        "start": 1308.64,
+        "end": 1311.52,
+        "text": "so that it helps understand what will execute on post-race."
+      },
+      {
+        "start": 1311.52,
+        "end": 1313.48,
+        "text": "So in the last three days,"
+      },
+      {
+        "start": 1313.48,
+        "end": 1318.48,
+        "text": "we've had a little under $750,000 of volume"
+      },
+      {
+        "start": 1318.48,
+        "end": 1323.08,
+        "text": "into the platform, resulting in around 34, $35,000"
+      },
+      {
+        "start": 1323.08,
+        "end": 1328.08,
+        "text": "of revenue representing significant growth."
+      },
+      {
+        "start": 1328.28,
+        "end": 1332.44,
+        "text": "And ultimately, we wouldn't even really"
+      },
+      {
+        "start": 1332.44,
+        "end": 1333.92,
+        "text": "necessarily have to race like that."
+      },
+      {
+        "start": 1333.92,
+        "end": 1336.16,
+        "text": "It's profitable, it's default alive."
+      },
+      {
+        "start": 1336.16,
+        "end": 1343.1,
+        "text": "But there's a few different things that made Raising Now on Metadow make sense."
+      },
+      {
+        "start": 1343.1,
+        "end": 1349.9,
+        "text": "One is, right now, 96% of our volume is humans, just like I described."
+      }
+    ]
+  },
+  {
+    "resourceId": "ownership-backfill-4",
+    "start": 327,
+    "end": 358,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "b62ab0e5af8e8546ed38ee1f30ba6cdb1292f158971d4c2bf2f0cb71387cac9b",
+    "decodedClipSha256": "b12c6ea4b7c99a40fff1d29a4c33c73b8786df637be2e3bfbf408af10e42430b",
+    "segments": [
+      {
+        "start": 327,
+        "end": 332.52,
+        "text": "I went to SF for the Colosseum hackathon and I went there and I talked to the Colosseum"
+      },
+      {
+        "start": 332.52,
+        "end": 336.64,
+        "text": "team and I pulled my not interested in raising, doesn't make sense."
+      },
+      {
+        "start": 336.64,
+        "end": 344.76,
+        "text": "I met the Metadow team there and read through kind of all their docs in one shot while Prophet"
+      },
+      {
+        "start": 344.76,
+        "end": 348.36,
+        "text": "and Mista were there at that office and it just finally clicked."
+      },
+      {
+        "start": 348.36,
+        "end": 352.08,
+        "text": "Like I can't tell you how many times I've looked at ICO launches over the past three"
+      },
+      {
+        "start": 352.08,
+        "end": 355.9,
+        "text": "years or talked to VCs about raising and it's never fit and then it just immediately"
+      },
+      {
+        "start": 355.9,
+        "end": 357.9,
+        "text": "clicked then."
+      }
+    ]
+  },
+  {
+    "resourceId": "ownership-backfill-4",
+    "start": 825,
+    "end": 854,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "b62ab0e5af8e8546ed38ee1f30ba6cdb1292f158971d4c2bf2f0cb71387cac9b",
+    "decodedClipSha256": "27f0c83c90735c4915e10667de1cd86d158f2cadf423d5efb670992fc5c69717",
+    "segments": [
+      {
+        "start": 825,
+        "end": 830.28,
+        "text": "like I today can go around to a bunch of targets in Walmart and buy a bunch of these Visa gift cards"
+      },
+      {
+        "start": 830.28,
+        "end": 833.96,
+        "text": "with cash and exceed that $10,000 limit because I'm going in person, there's no traceability."
+      },
+      {
+        "start": 835.8,
+        "end": 840.68,
+        "text": "But Lasso can execute better on that front because when somebody connects their wallet,"
+      },
+      {
+        "start": 841.56,
+        "end": 846.92,
+        "text": "we first of course check chain analysis, Web AC to make sure they're not counterparty to"
+      },
+      {
+        "start": 846.92,
+        "end": 849.42,
+        "text": "to North Korea or whatever,"
+      },
+      {
+        "start": 850.92,
+        "end": 854.2,
+        "text": "we can look at device fingerprinting to see, okay."
+      }
+    ]
+  },
+  {
+    "resourceId": "ownership-backfill-6",
+    "start": 1995,
+    "end": 2040,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "cd1415664b11acaeb55e89204dccec7e51af0a59053bb3c5a170323efe9170c7",
+    "decodedClipSha256": "43b8cfbe55e103e46cae6f144fe62953e7c7b88b7c180fd58f7c41f4297ee758",
+    "segments": [
+      {
+        "start": 1995,
+        "end": 2002.52,
+        "text": "but in large part because they had a token or they had this distributed ownership or belief of ownership."
+      },
+      {
+        "start": 2002.52,
+        "end": 2006.68,
+        "text": "Hyperliquid is a great recent example where after they launched their token and they had all these"
+      },
+      {
+        "start": 2006.68,
+        "end": 2014.52,
+        "text": "people owning hype and owning what they perceive to be a piece of the network, the perp volume on"
+      },
+      {
+        "start": 2014.52,
+        "end": 2020.04,
+        "text": "Hyperliquid 6X. And then there's other great examples of that. I think Ethereum is a project"
+      },
+      {
+        "start": 2020.04,
+        "end": 2023.36,
+        "text": "that's benefited a lot from all the people that hold ETH,"
+      },
+      {
+        "start": 2023.36,
+        "end": 2027.02,
+        "text": "Meggie ETH, they're like Mindshare as measured by Kaido,"
+      },
+      {
+        "start": 2027.02,
+        "end": 2029.34,
+        "text": "went up 20X after their Echo round."
+      },
+      {
+        "start": 2030.56,
+        "end": 2032.64,
+        "text": "We have, I think Medidow itself,"
+      },
+      {
+        "start": 2032.64,
+        "end": 2035.56,
+        "text": "like we had an early stage token,"
+      },
+      {
+        "start": 2035.56,
+        "end": 2037.56,
+        "text": "which is pretty unconventional in crypto."
+      },
+      {
+        "start": 2037.56,
+        "end": 2040.08,
+        "text": "And I think it's increased our..."
+      }
+    ]
+  },
+  {
+    "resourceId": "ownership-backfill-6",
+    "start": 2418,
+    "end": 2457,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "cd1415664b11acaeb55e89204dccec7e51af0a59053bb3c5a170323efe9170c7",
+    "decodedClipSha256": "354c8167ced2b0402870233805b945c4a437a19ac3e695181a11de719b117ff6",
+    "segments": [
+      {
+        "start": 2418,
+        "end": 2424.24,
+        "text": "obviously wants money and can issue tokens. And so, yeah, the way that we've done it historically"
+      },
+      {
+        "start": 2424.24,
+        "end": 2430.24,
+        "text": "is you just raise a proposal to issue tokens can be in the proposal, you stipulate who those are"
+      },
+      {
+        "start": 2430.24,
+        "end": 2439.28,
+        "text": "going to or like the terms of that transaction. Or it can be that you give yourself or someone"
+      },
+      {
+        "start": 2439.28,
+        "end": 2446.72,
+        "text": "discretion to like sell them on the project's behalf. And but maybe at some terms, like maybe"
+      },
+      {
+        "start": 2446.72,
+        "end": 2449.64,
+        "text": "Maybe it has to be at a specific T-WAP,"
+      },
+      {
+        "start": 2449.64,
+        "end": 2450.8,
+        "text": "time by average price."
+      },
+      {
+        "start": 2452.6,
+        "end": 2455.06,
+        "text": "So yeah, it's pretty simple, I think."
+      }
+    ]
+  },
+  {
+    "resourceId": "res-260",
+    "start": 1038,
+    "end": 1068,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
+    "decodedClipSha256": "cec7cc4a8ece29ee309e4972ddd1fcf32570fbd6983e0de9a9e12420b7ee25bb",
+    "segments": [
+      {
+        "start": 1038,
+        "end": 1042.68,
+        "text": "by beta in November itself of this whole liquidity"
+      },
+      {
+        "start": 1042.68,
+        "end": 1047.08,
+        "text": "provisioning on Radium and Meteor."
+      },
+      {
+        "start": 1047.08,
+        "end": 1048.36,
+        "text": "We built the whole terminal."
+      },
+      {
+        "start": 1048.36,
+        "end": 1052.12,
+        "text": "We had sort of small sub-features, sub-site features,"
+      },
+      {
+        "start": 1052.12,
+        "end": 1055.04,
+        "text": "which were allowed to users to do a lot of stuff which"
+      },
+      {
+        "start": 1055.04,
+        "end": 1059.12,
+        "text": "they can't do on the main protocols on Radium and Meteor"
+      },
+      {
+        "start": 1059.12,
+        "end": 1059.84,
+        "text": "itself."
+      },
+      {
+        "start": 1059.84,
+        "end": 1061.92,
+        "text": "But around January, it was very much clear"
+      },
+      {
+        "start": 1061.92,
+        "end": 1066.68,
+        "text": "that Meteor is also moving into a direction where they are sort"
+      },
+      {
+        "start": 1066.68,
+        "end": 1068.08,
+        "text": "of like making these features."
+      }
+    ]
+  },
+  {
+    "resourceId": "res-260",
+    "start": 2178,
+    "end": 2245,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
+    "decodedClipSha256": "4d38d4782611f5de2b0f5415ee34e273139d58488da432933f451fcb7955eadd",
+    "segments": [
+      {
+        "start": 2178,
+        "end": 2185.74,
+        "text": "scenario. So we have been able to basically so far prove that it works even in Blackstone"
+      },
+      {
+        "start": 2185.74,
+        "end": 2192.44,
+        "text": "events like Tenton. In general case scenarios, we haven't also been able to prove the principal"
+      },
+      {
+        "start": 2192.44,
+        "end": 2197.08,
+        "text": "amount protection when it comes to open a position. Let's say you open a position where funding"
+      },
+      {
+        "start": 2197.08,
+        "end": 2203.2,
+        "text": "rates suddenly flip to a percent of it shouldn't been flipped. And this would have been sort"
+      },
+      {
+        "start": 2203.2,
+        "end": 2207.64,
+        "text": "of like coming through if you were tracking down the order book data itself, how many"
+      },
+      {
+        "start": 2207.64,
+        "end": 2209.88,
+        "text": "orders have been coming through on certain positions,"
+      },
+      {
+        "start": 2209.88,
+        "end": 2211.12,
+        "text": "you would have been able to gauge it."
+      },
+      {
+        "start": 2211.12,
+        "end": 2213.84,
+        "text": "Okay, this is sort of changing and funding rate might flip."
+      },
+      {
+        "start": 2213.84,
+        "end": 2216.6,
+        "text": "So you could have also given that sort of a notification"
+      },
+      {
+        "start": 2216.6,
+        "end": 2218.56,
+        "text": "to the end user also."
+      },
+      {
+        "start": 2218.56,
+        "end": 2219.8,
+        "text": "Those sort of principle production"
+      },
+      {
+        "start": 2219.8,
+        "end": 2220.88,
+        "text": "we have been able to build in"
+      },
+      {
+        "start": 2220.88,
+        "end": 2222.88,
+        "text": "and also along with this ADL."
+      },
+      {
+        "start": 2224.22,
+        "end": 2225.06,
+        "text": "The thing is,"
+      },
+      {
+        "start": 2227.32,
+        "end": 2230.08,
+        "text": "it has taken too much like time on this thing,"
+      },
+      {
+        "start": 2230.08,
+        "end": 2233.82,
+        "text": "specifically the black swan thing, when you're developing."
+      },
+      {
+        "start": 2233.82,
+        "end": 2239.74,
+        "text": "I cannot give you a guarantee though, because Black Sun events are called Black Sun events"
+      },
+      {
+        "start": 2239.74,
+        "end": 2242.26,
+        "text": "for a general reason, right?"
+      },
+      {
+        "start": 2242.26,
+        "end": 2244.9,
+        "text": "They tend to do something which was not supposed to happen."
+      }
+    ]
+  },
+  {
+    "resourceId": "res-260",
+    "start": 2328,
+    "end": 2400,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
+    "decodedClipSha256": "71faa809863877d1cc4d3704875eb13ee4e1fa4fb1b5ccbe6a901d1b323e5803",
+    "segments": [
+      {
+        "start": 2328,
+        "end": 2333.32,
+        "text": "Okay. How are you guys any different from other Delta neutral?"
+      },
+      {
+        "start": 2333.32,
+        "end": 2337,
+        "text": "Since you mentioned that nobody can do what you guys are doing,"
+      },
+      {
+        "start": 2337,
+        "end": 2338.68,
+        "text": "how are you different?"
+      },
+      {
+        "start": 2338.68,
+        "end": 2340.96,
+        "text": "Yeah. I think I will go straight on."
+      },
+      {
+        "start": 2340.96,
+        "end": 2344.16,
+        "text": "I think the biggest one is to join your people concerns like trend.fi."
+      },
+      {
+        "start": 2344.16,
+        "end": 2349.4,
+        "text": "Trend.fi is the biggest competitor in the market,"
+      },
+      {
+        "start": 2349.4,
+        "end": 2353.24,
+        "text": "which basically allows user to do a lot of stuff"
+      },
+      {
+        "start": 2353.24,
+        "end": 2357.42,
+        "text": "along with market making and Delta neutral bot."
+      },
+      {
+        "start": 2357.42,
+        "end": 2363.98,
+        "text": "The first thing is basically the way it works is like very measly, so only thing you can do is like"
+      },
+      {
+        "start": 2365.9,
+        "end": 2372.54,
+        "text": "it doesn't allow far much more niche control when you're considering opening a poetry like"
+      },
+      {
+        "start": 2372.54,
+        "end": 2378.14,
+        "text": "page string, so you're not aware of the problems which can happen. First thing is there that and"
+      },
+      {
+        "start": 2378.14,
+        "end": 2382.94,
+        "text": "second thing is there is no such thing as autoclose at all. The closest thing which they"
+      },
+      {
+        "start": 2382.94,
+        "end": 2386.14,
+        "text": "they have is like simply stop loss, which is completely"
+      },
+      {
+        "start": 2386.14,
+        "end": 2388.54,
+        "text": "different from what autoclose is, as you can pretty much"
+      },
+      {
+        "start": 2388.54,
+        "end": 2392.54,
+        "text": "understand. Stop loss, I don't think like there's if there's no"
+      },
+      {
+        "start": 2392.54,
+        "end": 2397.3,
+        "text": "safety protection for users, I don't think how they are better"
+      },
+      {
+        "start": 2397.3,
+        "end": 2399.94,
+        "text": "than us at any sense. And"
+      }
+    ]
+  },
+  {
+    "resourceId": "res-260",
+    "start": 235,
+    "end": 280,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
+    "decodedClipSha256": "9ecb917fc6cb912b57a3c30d72bc5d1c992c65b07c16758974a868316fcb56a1",
+    "segments": [
+      {
+        "start": 235,
+        "end": 241.08,
+        "text": "Colin was like, it's sort of out of your hand, so it doesn't matter, but luckily we were able to"
+      },
+      {
+        "start": 241.72,
+        "end": 248.2,
+        "text": "get decent amount of commitment and we chose to go with 750k out of which some goes to"
+      },
+      {
+        "start": 248.2,
+        "end": 254.52,
+        "text": "liquidity and respose to treasury. The whole procedure, if I have to summarize, would be like"
+      },
+      {
+        "start": 254.52,
+        "end": 263.4,
+        "text": "the days itself are sort of anxious, but overall it has been very, very well from the expectations"
+      },
+      {
+        "start": 263.4,
+        "end": 267.64,
+        "text": "that I had. It hasn't been over the expectation, the performance regarding the mechanism itself"
+      },
+      {
+        "start": 267.64,
+        "end": 274.92,
+        "text": "of Futaki. And the second thing, which is like metadour praise. So both have worked really well"
+      },
+      {
+        "start": 274.92,
+        "end": 279.64,
+        "text": "for us. And did you always want to do a token?"
+      }
+    ]
+  },
+  {
+    "resourceId": "res-260",
+    "start": 625,
+    "end": 665,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
+    "decodedClipSha256": "07d59b4b707a9a1be2a19d767d162d12ec8e90ff841d768a8389e3fdeaaff4cb",
+    "segments": [
+      {
+        "start": 625,
+        "end": 629.68,
+        "text": "It depends on your sort of putting in your perspective."
+      },
+      {
+        "start": 629.68,
+        "end": 632.52,
+        "text": "But yeah, as a mechanism, it has been working really, really good."
+      },
+      {
+        "start": 632.52,
+        "end": 637.56,
+        "text": "And coming back to the second question, which is how can founders take benefit from it?"
+      },
+      {
+        "start": 637.56,
+        "end": 643.52,
+        "text": "So far, Pastine has only won by by proposal, there's no other proposal have been."
+      },
+      {
+        "start": 643.52,
+        "end": 649.96,
+        "text": "So I've thought of some ways how founders can sort of take benefit from this."
+      },
+      {
+        "start": 649.96,
+        "end": 656.48,
+        "text": "And I think metadata is also allowed by cutting down the 3.5% fee which was required to launch"
+      },
+      {
+        "start": 656.48,
+        "end": 658.56,
+        "text": "a proposal from the team itself."
+      },
+      {
+        "start": 658.56,
+        "end": 663.6,
+        "text": "So if there's a proposal coming from the community, you have to pay that 3.5% and if it isn't"
+      },
+      {
+        "start": 663.6,
+        "end": 664.64,
+        "text": "coming from the community."
+      }
+    ]
+  },
+  {
+    "resourceId": "res-260",
+    "start": 895,
+    "end": 932,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine re-recognition, not manual listening",
+    "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
+    "decodedClipSha256": "640fda5e2508e35164f947477adffabf03a680ae16aded11853008ebdaf9fc40",
+    "segments": [
+      {
+        "start": 895,
+        "end": 900.22,
+        "text": "But from metadata itself, we haven't sort of faced any sort of a clashback."
+      },
+      {
+        "start": 900.22,
+        "end": 906.94,
+        "text": "Other than that token price is down in a bear market, which is not something which low cap"
+      },
+      {
+        "start": 906.94,
+        "end": 909.7,
+        "text": "token like PACE can do anything about."
+      },
+      {
+        "start": 909.7,
+        "end": 915.3,
+        "text": "So sold is what, like $81, Bitcoin is $65 or $66, I'm not sure."
+      },
+      {
+        "start": 915.3,
+        "end": 920.9,
+        "text": "So other than that itself, there's nothing that you can actually blame it on the team"
+      },
+      {
+        "start": 920.9,
+        "end": 921.9,
+        "text": "itself."
+      },
+      {
+        "start": 921.9,
+        "end": 927.34,
+        "text": "also see where is that criticism coming from that market has sort of like punishing these"
+      },
+      {
+        "start": 927.34,
+        "end": 931.98,
+        "text": "founders and the teams for reiterating very, very fast."
+      }
+    ]
+  }
+]

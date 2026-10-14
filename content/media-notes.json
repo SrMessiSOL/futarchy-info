@@ -4358,10 +4358,63 @@
   },
   {
     "resourceId": "res-260",
-    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewMethod": "Complete generated-text reading, contextual terminology review, selected local audio re-recognition and timestamped topic guide.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "checkedAt": "2026-10-14",
-    "sections": [],
+    "sections": [
+      {
+        "start": "00:40",
+        "topic": "Host introduction and fundraising figures"
+      },
+      {
+        "start": "01:38",
+        "topic": "Fundraising journey and initial plans"
+      },
+      {
+        "start": "04:33",
+        "topic": "Why a token and why futarchy"
+      },
+      {
+        "start": "07:41",
+        "topic": "Governance experience and proposal incentives"
+      },
+      {
+        "start": "12:54",
+        "topic": "Product pivots and community response"
+      },
+      {
+        "start": "16:53",
+        "topic": "From an LP terminal to funding-rate strategies"
+      },
+      {
+        "start": "21:58",
+        "topic": "Yield figures, liquidity depth and risk claims"
+      },
+      {
+        "start": "24:44",
+        "topic": "Smart-contract, strategy and wallet risks"
+      },
+      {
+        "start": "27:52",
+        "topic": "Perp-to-perp versus spot-perp strategies"
+      },
+      {
+        "start": "32:29",
+        "topic": "Deposits, withdrawals and execution delays"
+      },
+      {
+        "start": "34:23",
+        "topic": "Auto-close, stress tests and limits to guarantees"
+      },
+      {
+        "start": "38:52",
+        "topic": "Product comparisons and public-beta discussion"
+      },
+      {
+        "start": "43:21",
+        "topic": "Runway, revenue expectations and roadmap"
+      }
+    ],
     "transcript": {
       "status": "available",
       "sha256": "678e12de4df0f19966783ac14d898a3704befea57d0752749ffda0502d6f4751",
@@ -4372,8 +4425,53 @@
       {
         "start": 243.74,
         "end": 273.38,
-        "status": "uncertain-amount",
-        "note": "First-pass ASR renders the accepted amount as 75tk. Targeted small.en re-recognition of 235-280 seconds reads 750k, consistent with the host saying 750,000 earlier. This remains a machine-supported candidate, not manual audio confirmation or independently verified fundraising proceeds; raw first-pass amount retained.",
+        "status": "machine-supported-amount",
+        "note": "75tk corrected to 750k using targeted small.en re-recognition of 235-280 seconds, consistent with the host saying 750,000 earlier. This is a machine-supported reading, not manual audio confirmation or independently verified fundraising proceeds.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 630.3,
+        "end": 689.62,
+        "status": "speaker-described-proposal-mechanics",
+        "note": "The targeted recheck also renders 3.5% and calls it a fee. Preserve the speaker wording; this does not establish whether the underlying requirement was a fee, a token threshold, or a current rule.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 900,
+        "end": 924.93,
+        "status": "uncertain-market-figures",
+        "note": "The targeted recheck suggests SOL before $81 but still gives Bitcoin as 65 or 66 without a clear unit. No missing thousands or market price has been inferred.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 1436.4,
+        "end": 1641.98,
+        "status": "unverified-risk-claim",
+        "note": "Statements that principal cannot be lost are speaker claims. Later the guest explicitly declines a 100% guarantee; neither statement is independent validation of risk controls.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2187.18,
+        "end": 2213.78,
+        "status": "uncertain-negation",
+        "note": "The base transcript says haven’t also been able to prove principal protection. A targeted recheck is retained; uncertain wording must not be used to establish tested protection.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2332.03,
+        "end": 2430.77,
+        "status": "uncertain-competitor-name",
+        "note": "The competitor name is not confidently identified. Leave it unresolved rather than attributing criticism to a guessed company.",
         "sources": [
           "https://anchor.fm/s/10e854134/podcast/rss"
         ]
@@ -4382,16 +4480,81 @@
   },
   {
     "resourceId": "ownership-backfill-0",
-    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewMethod": "Complete generated-text reading, contextual terminology review, selected local audio re-recognition and timestamped topic guide.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "checkedAt": "2026-10-14",
-    "sections": [],
+    "sections": [
+      {
+        "start": "01:15",
+        "topic": "Tim’s background and the game’s origins"
+      },
+      {
+        "start": "05:59",
+        "topic": "The Syndicate’s gameplay and onboarding"
+      },
+      {
+        "start": "11:21",
+        "topic": "Character ownership and verifiable game outcomes"
+      },
+      {
+        "start": "15:32",
+        "topic": "Why separate gameplay from a tradable token"
+      },
+      {
+        "start": "22:23",
+        "topic": "Raising through Backable and community distribution"
+      },
+      {
+        "start": "27:35",
+        "topic": "Ownership tokens versus in-game currency"
+      },
+      {
+        "start": "30:53",
+        "topic": "Governance concerns and fundraising trade-offs"
+      },
+      {
+        "start": "35:00",
+        "topic": "Colosseum hackathon and accelerator experience"
+      },
+      {
+        "start": "40:29",
+        "topic": "Founder-reported revenue, users and retention"
+      },
+      {
+        "start": "43:03",
+        "topic": "V2, city-building and mobile plans"
+      },
+      {
+        "start": "46:41",
+        "topic": "Prize pools and closing invitation"
+      }
+    ],
     "transcript": {
       "status": "available",
       "sha256": "43a6571208fe8ebce893bd2ee2bbe72358ba8ab19b4cce8716c8a3b6f600e7c0",
       "textUrl": "/api/transcripts/ownership-backfill-0",
       "jsonUrl": "/api/transcripts/ownership-backfill-0?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 2479.74,
+        "end": 2554.69,
+        "status": "uncertain-user-counts",
+        "note": "Revenue and retention figures remain founder claims. The daily-user sequence is garbled in the base transcript; targeted re-recognition is retained for review, without substituting a guessed count.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2641.1,
+        "end": 2856.62,
+        "status": "historical-product-plans",
+        "note": "V2, mobile availability and larger prize pools are described plans or recording-time claims, not verified subsequent launches.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-1",
@@ -4408,16 +4571,98 @@
   },
   {
     "resourceId": "ownership-backfill-4",
-    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewMethod": "Complete generated-text reading, contextual terminology review, selected local audio re-recognition and timestamped topic guide.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "checkedAt": "2026-10-14",
-    "sections": [],
+    "sections": [
+      {
+        "start": "00:42",
+        "topic": "Hunter’s background and the first card product"
+      },
+      {
+        "start": "03:36",
+        "topic": "Why Laso considered raising through MetaDAO"
+      },
+      {
+        "start": "06:26",
+        "topic": "Supported chains and the privacy-at-spend thesis"
+      },
+      {
+        "start": "10:00",
+        "topic": "Prepaid-card differentiation and customer service"
+      },
+      {
+        "start": "12:22",
+        "topic": "Founder-described compliance approach and limits"
+      },
+      {
+        "start": "15:29",
+        "topic": "Card acceptance, fees and rewards"
+      },
+      {
+        "start": "17:28",
+        "topic": "Privacy technology and payment constraints"
+      },
+      {
+        "start": "20:56",
+        "topic": "Raise objectives, reported activity and use of funds"
+      },
+      {
+        "start": "26:55",
+        "topic": "Agentic commerce and businesses built with agents"
+      },
+      {
+        "start": "32:55",
+        "topic": "Consumer and agent product paths, with execution risks"
+      },
+      {
+        "start": "38:58",
+        "topic": "Merchant acceptance and optional identity checks"
+      },
+      {
+        "start": "41:28",
+        "topic": "Stablecoin adoption and the role of prepaid cards"
+      },
+      {
+        "start": "44:28",
+        "topic": "DeFi agents and the closing rationale for the raise"
+      }
+    ],
     "transcript": {
       "status": "available",
       "sha256": "3b0ac41ded3389745d67e2e6427ec7313d3adc9569faba6f73d5cb8e2671e73e",
       "textUrl": "/api/transcripts/ownership-backfill-4",
       "jsonUrl": "/api/transcripts/ownership-backfill-4?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 772.3,
+        "end": 883.12,
+        "status": "speaker-described-compliance",
+        "note": "Limits and screening practices are the founder’s description, not an independent legal or compliance finding.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 1287.54,
+        "end": 1345.74,
+        "status": "uncertain-reporting-period",
+        "note": "The base transcript splits 750 and $1,000 across segments and renders the reporting window as three days. Targeted re-recognition is retained; avoid extracting a precise period or volume from the original fragments without resolving them.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 329.63,
+        "end": 358.1,
+        "status": "uncertain-name",
+        "note": "The second MetaDAO team name after Proph3t is unclear in the original and targeted re-recognition; not assigned an identity.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-5",
@@ -4434,16 +4679,93 @@
   },
   {
     "resourceId": "ownership-backfill-6",
-    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewMethod": "Complete generated-text reading, contextual terminology review, selected local audio re-recognition and timestamped topic guide.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "checkedAt": "2026-10-14",
-    "sections": [],
+    "sections": [
+      {
+        "start": "01:08",
+        "topic": "How Proph3t discovered decision markets"
+      },
+      {
+        "start": "04:01",
+        "topic": "Decision markets explained with a hypothetical CEO decision"
+      },
+      {
+        "start": "06:26",
+        "topic": "Information aggregation, incentives and principal-agent problems"
+      },
+      {
+        "start": "10:24",
+        "topic": "New organizations and the wider ambition for futarchy"
+      },
+      {
+        "start": "13:02",
+        "topic": "Choosing a metric and the limits of decision markets"
+      },
+      {
+        "start": "20:31",
+        "topic": "From governance tooling to a fundraising platform"
+      },
+      {
+        "start": "24:16",
+        "topic": "Ownership coins, token alignment and team incentives"
+      },
+      {
+        "start": "27:18",
+        "topic": "Liquidation concerns and the adverse-selection problem"
+      },
+      {
+        "start": "32:21",
+        "topic": "Attracting founders and token-holder distribution"
+      },
+      {
+        "start": "39:12",
+        "topic": "Follow-on fundraising and proposed token issuance"
+      },
+      {
+        "start": "43:09",
+        "topic": "Insider information and proposal trading"
+      },
+      {
+        "start": "46:24",
+        "topic": "Founder experience and possible governance changes"
+      },
+      {
+        "start": "50:29",
+        "topic": "Buybacks and capital allocation"
+      },
+      {
+        "start": "54:18",
+        "topic": "Why Solana and closing reflections"
+      }
+    ],
     "transcript": {
       "status": "available",
       "sha256": "85dc40cbce3a29d155ff712401d2c968524fbdd42afc5aa6f7cac9a4ba3ce588",
       "textUrl": "/api/transcripts/ownership-backfill-6",
       "jsonUrl": "/api/transcripts/ownership-backfill-6?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 1583.14,
+        "end": 1612.02,
+        "status": "historical-speaker-claim",
+        "note": "Vesting periods, price targets and later fundraising or governance examples are the speakers’ descriptions at recording time, not a current specification or independently verified execution.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2001.07,
+        "end": 2030.38,
+        "status": "unverified-speaker-figures",
+        "note": "Growth multiples and the name rendered Kaido remain speaker/ASR material. Targeted re-recognition is retained for comparison; it does not independently verify growth statistics.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "hanson-hodl-2026",

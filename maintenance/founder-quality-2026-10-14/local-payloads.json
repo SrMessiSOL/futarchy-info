@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-14T23:28:08.980Z",
+  "baseUrl": "http://127.0.0.1:3010",
+  "results": [
+    {
+      "resourceId": "ownership-backfill-6",
+      "publishedSegmentsSha256": "2ba215ab2a3d3ec863d695bd5d92e4d34ffc750225553787b8db8caa6d0fa50f",
+      "exactJsonMatch": true,
+      "editorialChecksInText": true,
+      "guideEntries": 14,
+      "guidePresent": true,
+      "readerBoundaryPresent": true
+    },
+    {
+      "resourceId": "ownership-backfill-4",
+      "publishedSegmentsSha256": "19ebe7e58414bf6e2dfb05618aa113eece75aae4223a3e707a91c840056ca239",
+      "exactJsonMatch": true,
+      "editorialChecksInText": true,
+      "guideEntries": 13,
+      "guidePresent": true,
+      "readerBoundaryPresent": true
+    },
+    {
+      "resourceId": "res-260",
+      "publishedSegmentsSha256": "9de9081c8dea96d4ed8d522b23cdabcdd6f3f00e68284e555d881ea9930174cb",
+      "exactJsonMatch": true,
+      "editorialChecksInText": true,
+      "guideEntries": 13,
+      "guidePresent": true,
+      "readerBoundaryPresent": true
+    },
+    {
+      "resourceId": "ownership-backfill-0",
+      "publishedSegmentsSha256": "0d2e74e749df6717808dd42a853ebb93992116132aaa133bc54d2bebb0f36854",
+      "exactJsonMatch": true,
+      "editorialChecksInText": true,
+      "guideEntries": 11,
+      "guidePresent": true,
+      "readerBoundaryPresent": true
+    }
+  ]
+}

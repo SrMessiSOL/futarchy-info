@@ -1,0 +1,14 @@
+{
+  "pr": 32,
+  "commit": "7e03074712e8e12a7d64d32ee1d21f1065b425a2",
+  "deploymentRun": "https://github.com/SrMessiSOL/futarchy-info/actions/runs/38638605711",
+  "deploymentConclusion": "success",
+  "checkedAt": "2026-10-14T21:17:51.577Z",
+  "base": "https://futarchy.info",
+  "publicRecordings": 167,
+  "readingNotes": 124,
+  "hostedTranscripts": 57,
+  "endpointChecks": 449,
+  "failures": [],
+  "scope": "PR32 verified live before this new transcript batch. This does not establish deployment of the new transcripts."
+}

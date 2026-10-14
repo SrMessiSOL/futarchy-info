@@ -4345,79 +4345,104 @@
   },
   {
     "resourceId": "res-250",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Recovered exact episode link and publication date from the original publisher RSS item. Show notes reviewed; audio not independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-08",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
+      "status": "available",
+      "sha256": "6e43f75336aa0cf417adf250de175d7672f5c95e9deeb2fcc67c52e10a733215",
+      "textUrl": "/api/transcripts/res-250",
+      "jsonUrl": "/api/transcripts/res-250?format=json"
     }
   },
   {
     "resourceId": "res-260",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Recovered exact episode link and publication date from the original publisher RSS item. Show notes reviewed; audio not independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-08",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
-    }
+      "status": "available",
+      "sha256": "678e12de4df0f19966783ac14d898a3704befea57d0752749ffda0502d6f4751",
+      "textUrl": "/api/transcripts/res-260",
+      "jsonUrl": "/api/transcripts/res-260?format=json"
+    },
+    "editorialChecks": [
+      {
+        "start": 243.74,
+        "end": 273.38,
+        "status": "uncertain-amount",
+        "note": "First-pass ASR renders the accepted amount as 75tk. Targeted small.en re-recognition of 235-280 seconds reads 750k, consistent with the host saying 750,000 earlier. This remains a machine-supported candidate, not manual audio confirmation or independently verified fundraising proceeds; raw first-pass amount retained.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-0",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-08",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
+      "status": "available",
+      "sha256": "43a6571208fe8ebce893bd2ee2bbe72358ba8ab19b4cce8716c8a3b6f600e7c0",
+      "textUrl": "/api/transcripts/ownership-backfill-0",
+      "jsonUrl": "/api/transcripts/ownership-backfill-0?format=json"
     }
   },
   {
     "resourceId": "ownership-backfill-1",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-08",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
+      "status": "available",
+      "sha256": "b69cdb4162f89944d369e6a213663cacca8adc74c5b4ec6319372189174b6b49",
+      "textUrl": "/api/transcripts/ownership-backfill-1",
+      "jsonUrl": "/api/transcripts/ownership-backfill-1?format=json"
     }
   },
   {
     "resourceId": "ownership-backfill-4",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-08",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
+      "status": "available",
+      "sha256": "3b0ac41ded3389745d67e2e6427ec7313d3adc9569faba6f73d5cb8e2671e73e",
+      "textUrl": "/api/transcripts/ownership-backfill-4",
+      "jsonUrl": "/api/transcripts/ownership-backfill-4?format=json"
     }
   },
   {
     "resourceId": "ownership-backfill-5",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-08",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
+      "status": "available",
+      "sha256": "d6278b9e9a0550c69ee3d8cb829145ac8ad0a0fd5545197a5c9d509df13dcb96",
+      "textUrl": "/api/transcripts/ownership-backfill-5",
+      "jsonUrl": "/api/transcripts/ownership-backfill-5?format=json"
     }
   },
   {
     "resourceId": "ownership-backfill-6",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Original publisher RSS item checked for episode-specific link, pubDate, and show notes. Description is based on publisher notes; audio was not transcribed or independently reviewed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-08",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
+      "status": "available",
+      "sha256": "85dc40cbce3a29d155ff712401d2c968524fbdd42afc5aa6f7cac9a4ba3ce588",
+      "textUrl": "/api/transcripts/ownership-backfill-6",
+      "jsonUrl": "/api/transcripts/ownership-backfill-6?format=json"
     }
   },
   {
@@ -4455,13 +4480,15 @@
   },
   {
     "resourceId": "ownership-s1-e1-anas-flashtrade",
-    "reviewMethod": "Previously documented publisher page or RSS show-note review",
-    "reviewBoundary": "Read the official podcast RSS episode title, publication timestamp and description. This summary is based on publisher show notes; the audio has not been independently listened to or transcribed. Exposed as agent reading notes in the October 14 access audit; no additional audio or transcript review was performed in that audit.",
-    "checkedAt": "2026-10-11",
+    "reviewMethod": "Publisher RSS/show-note review plus local processing of the entire downloaded official audio; automated structural transcript checks.",
+    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification. One severe ASR repetition loop at 1092.91-1122.74 seconds was replaced with a targeted small.en re-recognition; this is machine repair, not manual audio verification.",
+    "checkedAt": "2026-10-14",
     "sections": [],
     "transcript": {
-      "status": "not-reviewed",
-      "sha256": null
+      "status": "available",
+      "sha256": "e73b0ac1a44be87a3be36d551f0ccd1e21569a8f4d4e99e5d63fd1b13ec21c48",
+      "textUrl": "/api/transcripts/ownership-s1-e1-anas-flashtrade",
+      "jsonUrl": "/api/transcripts/ownership-s1-e1-anas-flashtrade?format=json"
     }
   },
   {

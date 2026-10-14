@@ -47,7 +47,7 @@ export function LibraryFilters({
   ]
 
   return (
-    <div className="mb-8 space-y-6">
+    <div className="library-filters mb-7 space-y-5">
       <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
         <div className="flex items-center gap-3">
           <Filter className="h-5 w-5 text-muted-foreground" />
@@ -70,7 +70,7 @@ export function LibraryFilters({
             </SelectContent>
           </Select>
           <Select value={sortBy} onValueChange={setSortBy}>
-            <SelectTrigger className="w-[180px]">
+            <SelectTrigger className="w-[180px]" aria-label="Sort resources">
               <Calendar className="mr-2 h-4 w-4" />
               <SelectValue placeholder="Sort by" />
             </SelectTrigger>
@@ -84,7 +84,7 @@ export function LibraryFilters({
           </Select>
 
           <Select value={timePeriod} onValueChange={setTimePeriod}>
-            <SelectTrigger className="w-[180px]">
+            <SelectTrigger className="w-[180px]" aria-label="Filter by year">
               <SelectValue placeholder="Time period" />
             </SelectTrigger>
             <SelectContent>
@@ -103,7 +103,7 @@ export function LibraryFilters({
           const isActive = activeFilters.includes(category.id)
 
           return (
-            <Button key={category.id} variant={isActive ? "default" : "outline"} className="gap-2" onClick={() => toggleFilter(category.id)}>
+            <Button key={category.id} variant={isActive ? "default" : "outline"} aria-pressed={isActive} className="gap-2 rounded-full" onClick={() => toggleFilter(category.id)}>
               <Icon className="h-4 w-4" />
               {category.label}
               <Badge variant="secondary" className="bg-primary/10 text-foreground dark:text-primary">
@@ -115,7 +115,7 @@ export function LibraryFilters({
       </div>
 
       {activeFilters.length > 0 && (
-        <div className="flex items-center gap-3">
+        <div className="flex flex-wrap items-center gap-3">
           <span className="text-sm text-muted-foreground">Active filters:</span>
           {activeFilters.map((filter) => (
             <Badge key={filter} variant="secondary" className="cursor-pointer bg-primary/10 text-foreground dark:text-primary" onClick={() => toggleFilter(filter)}>

@@ -182,7 +182,8 @@ export function ResourceGrid({ project, activeFilters, sortBy, timePeriod, searc
   }
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-6">
+      <p role="status" className="text-sm text-muted-foreground">{filteredResources.length} resources{search ? ` matching “${search}”` : " to explore"}</p>
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {filteredResources.slice(0, visibleCount).map((resource) => (
           <ResourceCard
@@ -216,7 +217,7 @@ export function ResourceGrid({ project, activeFilters, sortBy, timePeriod, searc
       )}
 
       <Dialog open={voteModalOpen} onOpenChange={setVoteModalOpen}>
-        <DialogContent className="animate-bounce">
+        <DialogContent >
           <DialogHeader>
             <DialogTitle>Vote Information</DialogTitle>
             <DialogDescription>

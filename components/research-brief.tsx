@@ -10,8 +10,8 @@ const latest = resources.filter(r => r.addedAt && r.verification === 'source-che
   .sort((a,b) => (b.addedAt ?? '').localeCompare(a.addedAt ?? '') || (b.date ?? '').localeCompare(a.date ?? '')).slice(0,4)
 
 export function ResearchBrief() {
-  return <section className="border-b bg-muted/30">
-    <div className="container mx-auto grid gap-10 px-4 py-10 lg:grid-cols-2">
+  return <details className="reading-guide border-b bg-card/40"><summary className="library-shell cursor-pointer py-4 text-sm font-medium">New to the ecosystem? <span className="ml-2 font-normal text-muted-foreground">Open the reading guide</span></summary>
+    <div className="library-shell grid gap-8 pb-8 pt-3 lg:grid-cols-2">
       <div>
         <h2 className="mb-2 flex items-center gap-2 text-xl font-semibold"><BookOpen className="h-5 w-5 text-primary" />Start here</h2>
         <p className="mb-5 text-sm leading-6 text-muted-foreground">Follow the companies, their decisions, and the risks that emerge along the way.</p>
@@ -33,5 +33,5 @@ export function ResearchBrief() {
         </a>)}</div>
       </div>
     </div>
-  </section>
+  </details>
 }

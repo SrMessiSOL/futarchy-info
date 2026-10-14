@@ -19,13 +19,21 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
   const formattedDate = formatResourceDate(resource)
   const transcript = mediaNote(resource.id)?.transcript
 
-  const typeLabel = {
+  const formatLabel = {
     paper: "Paper",
     article: "Article",
     podcast: "Podcast",
     video: "Video",
     news: "News",
   }[resource.type]
+
+  const isMedia = resource.type === "podcast" || resource.type === "video"
+  const seriesLabel = isMedia ? ["Roadshow", "Report", "Forum", "Radio"].find(series =>
+    new RegExp(`Ownership\\s+${series}\\b`, "i").test(resource.title)
+  ) : undefined
+  const founderInterview = isMedia && /Ownership.*(?:Podcast|S[12]\s*E\d)/i.test(resource.title)
+  const typeLabel = seriesLabel ? `Ownership ${seriesLabel}` : founderInterview ? "Founder interview" : formatLabel
+  const actionLabel = resource.type === "podcast" ? "Listen" : resource.type === "video" ? "Watch" : "Read"
 
   const getIcon = () => {
     switch (resource.type) {
@@ -56,11 +64,11 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
           </Badge>
           {resource.featured && <Badge className="rounded-md bg-primary text-primary-foreground">Featured</Badge>}
         </div>
-        <h3 className="mt-3 text-lg font-semibold leading-snug tracking-tight line-clamp-3">{resource.title}</h3>
+        <h3 className="mt-2 text-xl font-semibold leading-snug tracking-tight"><button type="button" onClick={onView} className="text-left transition-colors hover:text-primary focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-primary">{resource.title}</button></h3>
       </CardHeader>
 
-      <CardContent className="flex flex-1 flex-col pt-5">
-        <div className="space-y-4">
+      <CardContent className="flex flex-1 flex-col pt-0">
+        <div className="space-y-3">
           <div className="grid gap-2 text-xs text-muted-foreground">
             <span className="flex items-center gap-2">
               <UserRound className="h-4 w-4 text-primary" />
@@ -73,14 +81,14 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
           </div>
 
           <p className="text-xs text-muted-foreground">{resource.verification === 'source-checked' ? 'Source checked · ' + resource.checkedAt : 'Archive entry · verification pending'}</p>
-          {resource.description && <p className="text-sm leading-6 text-muted-foreground line-clamp-4">{resource.description}</p>}
+          {resource.description && <p className="text-sm leading-6 text-muted-foreground line-clamp-3">{resource.description}</p>}
         </div>
 
         {resource.tags && resource.tags.length > 0 && (
-          <div className="mt-auto pt-5">
+          <div className="mt-auto pt-4">
             <div className="flex flex-wrap gap-1">
               {resource.tags.filter(tag => !tag.startsWith("project:")).slice(0, 3).map((tag) => (
-                <Badge key={tag} variant="outline" className="rounded-md border-primary/25 text-xs text-foreground/80">
+                <Badge key={tag} variant="outline" className="rounded-md border-border text-xs text-foreground/80">
                   {tag}
                 </Badge>
               ))}
@@ -89,28 +97,21 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
         )}
       </CardContent>
 
-      <CardFooter className="flex flex-wrap items-center justify-between gap-4 border-t pt-4">
-        <div className="flex items-center gap-4 text-sm text-muted-foreground">
-          <span className="flex items-center gap-1">
-            <Eye className="h-4 w-4" /> {viewCount}
-          </span>
-          <span className="flex items-center gap-1">
-            <Star className="h-4 w-4" /> {score}
-          </span>
+      <CardFooter className="flex flex-col items-stretch gap-3 border-t pt-4">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <Button size="sm" className="gap-2 rounded-lg" onClick={onView} aria-label={`${actionLabel}: ${resource.title}`}>
+            {actionLabel}<ExternalLink className="size-3.5" />
+          </Button>
+          {transcript?.status === 'available' && <a className="flex items-center gap-1.5 text-xs font-medium text-primary underline-offset-4 hover:underline" href={transcript.textUrl} target="_blank" rel="noopener noreferrer"><FileText className="size-3.5" />Transcript (machine)</a>}
         </div>
-        <div className="flex flex-wrap items-center gap-2">
-          <Button variant="outline" size="sm" aria-label="Like resource" title="Like" className="size-8 p-0 text-muted-foreground" onClick={() => onVote("like")}>
-            <ThumbsUp className="h-3.5 w-3.5" />
-          </Button>
-          <Button variant="outline" size="sm" aria-label="Dislike resource" title="Dislike" className="size-8 p-0 text-muted-foreground" onClick={() => onVote("dislike")}>
-            <ThumbsDown className="h-3.5 w-3.5" />
-          </Button>
-          <Button variant="ghost" size="sm" className="flex-shrink-0 text-primary hover:text-primary" onClick={onView}>
-            Source
-            <ExternalLink className="ml-2 h-4 w-4" />
-          </Button>
-          {mediaNote(resource.id) && <a className="text-sm font-medium text-primary underline underline-offset-4" href={`/api/library/${resource.id}`} target="_blank" rel="noopener noreferrer">Reading notes</a>}
-          {transcript?.status === 'available' && <a className="text-sm font-medium text-primary underline underline-offset-4" href={transcript.textUrl} target="_blank" rel="noopener noreferrer">Transcript (machine)</a>}
+        <div className="flex flex-wrap items-center justify-between gap-2 text-xs text-muted-foreground">
+          {mediaNote(resource.id) ? <a className="underline-offset-4 hover:text-foreground hover:underline" href={`/api/library/${resource.id}`} target="_blank" rel="noopener noreferrer">Reading notes ↗</a> : <span>Original source ↗</span>}
+          <div className="flex items-center gap-2">
+            <span className="flex items-center gap-1" aria-label={`${viewCount} views`}><Eye className="size-3" />{viewCount}</span>
+            <span className="flex items-center gap-1" aria-label={`Score: ${score}`}><Star className="size-3" />{score}</span>
+            <Button variant="ghost" size="sm" aria-label={`Like: ${resource.title}`} title="Like" className="size-8 p-0" onClick={() => onVote("like")}><ThumbsUp className="size-3.5" /></Button>
+            <Button variant="ghost" size="sm" aria-label={`Dislike: ${resource.title}`} title="Dislike" className="size-8 p-0" onClick={() => onVote("dislike")}><ThumbsDown className="size-3.5" /></Button>
+          </div>
         </div>
       </CardFooter>
     </Card>

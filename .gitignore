@@ -5,3 +5,7 @@ node_modules/
 work/
 *.tsbuildinfo
 .env*
+
+# npm is the sole package manager; do not generate alternate lockfiles.
+pnpm-lock.yaml
+yarn.lock

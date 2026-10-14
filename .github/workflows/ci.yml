@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           persist-credentials: false
       - uses: actions/setup-node@v4
@@ -20,3 +20,25 @@ jobs:
       - run: npm ci --ignore-scripts
       - run: npm run check
       - run: npm run build
+      - name: Prepare artifact compatibility fixture
+        run: |
+          mkdir -p work/artifact-fixture/content work/artifact-fixture/maintenance
+          printf 'catalog fixture\n' > work/artifact-fixture/content/resources.json
+          printf 'report fixture\n' > work/artifact-fixture/maintenance/editorial-report.md
+      - uses: actions/upload-artifact@v7
+        with:
+          name: artifact-compatibility
+          path: |
+            work/artifact-fixture/content/resources.json
+            work/artifact-fixture/maintenance/editorial-report.md
+          retention-days: 1
+          if-no-files-found: error
+      # Exercise the same uploader/downloader pair and nested paths as editorial.
+      - uses: actions/download-artifact@v4
+        with:
+          name: artifact-compatibility
+          path: work/artifact-roundtrip
+      - name: Verify artifact contents and paths
+        run: |
+          cmp work/artifact-fixture/content/resources.json work/artifact-roundtrip/content/resources.json
+          cmp work/artifact-fixture/maintenance/editorial-report.md work/artifact-roundtrip/maintenance/editorial-report.md

@@ -14,7 +14,9 @@ The 32 available OwnershipFM transcripts are published with explicit team permis
 
 ## Run locally
 
-Use Node.js 22.15 or newer and npm:
+Use Node.js 22.15 or newer and npm. Commit `package-lock.json` when updating dependencies; npm is the only supported package manager. Do not generate pnpm or Yarn lockfiles.
+
+Install and validate with:
 
 ```sh
 npm ci --ignore-scripts

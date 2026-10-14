@@ -1,86 +1,30 @@
-"use client";
-
-import { Search } from "lucide-react"
+"use client"
+import { ArrowDown, ArrowUpRight, Search, Library } from "lucide-react"
 import { Input } from "@/components/ui/input"
 import { ModeToggle } from "@/components/mode-toggle"
-import { Badge } from "@/components/ui/badge"
 import { mainResources as resources, lastLibraryUpdate } from "@/lib/resources-data"
-
 import projects from "@/content/projects.json"
-
-interface LibraryHeroProps {
-  search: string
-  setSearch: React.Dispatch<React.SetStateAction<string>>
-}
-
+interface LibraryHeroProps { search: string; setSearch: React.Dispatch<React.SetStateAction<string>> }
 export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
-  const totalResources = resources.length
-  const projectCount = projects.filter(p => p.coverage === "raise").length
-  const mediaCount = resources.filter((resource) => ["podcast", "video", "news"].includes(resource.type)).length
-
-  return (
-    <section className="relative overflow-hidden border-b bg-background">
-      <div className="absolute inset-0">
-        <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,var(--primary),transparent_65%)] opacity-10" />
-        <div className="absolute inset-0 bg-background/80" />
-        <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-background to-transparent" />
-      </div>
-
-      <div className="container relative z-10 mx-auto px-4 py-16 lg:py-24">
-        <div className="absolute right-4 top-4">
-          <ModeToggle />
+  const stats = [[resources.length, "Curated sources"], [projects.filter(p => p.coverage === "raise").length, "Active raised projects"], [resources.filter(r => ["podcast", "video", "news"].includes(r.type)).length, "Media items"]]
+  return <header className="library-hero border-b">
+    <a href="#library" className="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:bg-card focus:p-4">Skip to library</a>
+    <nav aria-label="Main navigation" className="library-shell flex items-center justify-between gap-4 border-b py-5">
+      <a href="/" className="flex items-center gap-2 text-lg font-semibold tracking-tight"><span className="brand-mark"><Library className="size-5" /></span>futarchy.info</a>
+      <div className="flex items-center gap-5 text-sm"><a href="#library" className="hidden hover:text-primary sm:inline">Library</a><a href="/llms.txt" className="flex items-center gap-1 hover:text-primary">For agents <ArrowUpRight className="size-3.5" /></a><ModeToggle /></div>
+    </nav>
+    <div className="library-shell py-10 md:py-14">
+      <div className="grid items-end gap-8 lg:grid-cols-[1fr_280px] lg:gap-16">
+        <div><p className="eyebrow mb-5">Independent research archive <span className="mx-2 text-primary">/</span> MetaDAO ecosystem</p>
+          <h1 className="max-w-3xl text-4xl font-semibold leading-[1.08] tracking-[-0.045em] sm:text-5xl lg:text-6xl">The ownership economy.<br /><span className="hero-serif text-primary">On the record.</span></h1>
+          <p className="mt-5 max-w-xl text-base leading-7 text-muted-foreground">Explore the projects that raised on MetaDAO. The launches, the decisions, the founder conversations—and what happened next.</p>
         </div>
-
-        <div className="mx-auto max-w-5xl space-y-8">
-          <Badge variant="outline" className="border-primary/30 bg-primary/10 px-4 py-1.5 text-sm font-medium text-primary">
-            <span className="relative mr-2 flex h-2 w-2">
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75" />
-              <span className="relative inline-flex h-2 w-2 rounded-full bg-primary" />
-            </span>
-            MetaDAO ecosystem archive
-          </Badge>
-
-          <h1 className="max-w-4xl text-5xl font-bold tracking-tight lg:text-6xl">
-            The MetaDAO ecosystem, documented
-          </h1>
-
-          <p className="max-w-3xl text-lg leading-8 text-muted-foreground lg:text-xl">
-            Follow the projects that raised on MetaDAO: launches, product updates, governance decisions,
-            founder interviews, and what happened next.
-          </p>
-
-          <p className="text-sm text-muted-foreground">Library updated {lastLibraryUpdate || "date unavailable"} · Independent research archive</p>
-
-          <div className="grid gap-3 sm:grid-cols-3">
-            <div className="border-l-2 border-primary bg-card/70 p-4">
-              <p className="text-3xl font-semibold">{totalResources}</p>
-              <p className="text-sm text-muted-foreground">curated sources</p>
-            </div>
-            <div className="border-l-2 border-primary bg-card/70 p-4">
-              <p className="text-3xl font-semibold">{projectCount}</p>
-              <p className="text-sm text-muted-foreground">active raised projects tracked</p>
-            </div>
-            <div className="border-l-2 border-primary bg-card/70 p-4">
-              <p className="text-3xl font-semibold">{mediaCount}</p>
-              <p className="text-sm text-muted-foreground">media items</p>
-            </div>
-          </div>
-
-          <div className="max-w-2xl">
-            <div className="relative">
-              <Search className="absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-muted-foreground" />
-              <Input
-                type="search"
-                aria-label="Search the research library"
-                placeholder="Search projects, people, media, ICOs..."
-                className="h-12 rounded-md bg-card/95 pl-12 pr-4 text-base shadow-md focus-visible:ring-2 focus-visible:ring-primary"
-                value={search}
-                onChange={(event) => setSearch(event.target.value)}
-              />
-            </div>
-          </div>
-        </div>
+        <div className="grid grid-cols-3 gap-4 border-t pt-5 lg:grid-cols-1 lg:gap-4 lg:border-l lg:border-t-0 lg:pl-7 lg:pt-0">{stats.map(([value,label])=><div key={label} className="lg:flex lg:items-baseline lg:justify-between lg:gap-3"><span className="block text-2xl font-medium tabular-nums tracking-tight">{value}</span><span className="text-xs leading-5 text-muted-foreground">{label}</span></div>)}</div>
       </div>
-    </section>
-  )
+      <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+        <div className="relative w-full sm:max-w-xl"><Search aria-hidden="true" className="absolute left-4 top-1/2 size-5 -translate-y-1/2 text-primary" /><Input type="search" aria-label="Search the research library" placeholder="Find a project, person or conversation…" className="h-14 rounded-xl border-border bg-card pl-12 pr-4 text-base shadow-sm" value={search} onChange={e=>setSearch(e.target.value)} /></div>
+        <a href="#library" className="flex items-center gap-2 text-sm font-medium text-primary">Explore the library <ArrowDown className="size-4" /></a>
+      </div><p className="mt-4 text-xs text-muted-foreground">Library updated {lastLibraryUpdate || "date unavailable"}</p>
+    </div>
+  </header>
 }

@@ -42,26 +42,13 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
     }
   }
 
-  const getTypeColor = () => {
-    switch (resource.type) {
-      case "paper":
-        return "bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300"
-      case "podcast":
-        return "bg-violet-50 text-violet-700 dark:bg-violet-950 dark:text-violet-300"
-      case "video":
-        return "bg-rose-50 text-rose-700 dark:bg-rose-950 dark:text-rose-300"
-      case "news":
-        return "bg-amber-50 text-amber-800 dark:bg-amber-950 dark:text-amber-300"
-      default:
-        return "bg-emerald-50 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300"
-    }
-  }
+  const getTypeColor = () => "bg-muted text-foreground border-border"
 
   const Icon = getIcon()
 
   return (
-    <Card className="group flex h-full flex-col overflow-hidden border-border/70 bg-card/95 shadow-sm transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-lg">
-      <CardHeader className="border-b bg-muted/20 pb-4">
+    <Card className="resource-card group flex h-full flex-col overflow-hidden border-border/70 bg-card/95 shadow-sm transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-lg">
+      <CardHeader className="pb-0">
         <div className="flex items-center justify-between">
           <Badge className={`gap-1 rounded-md px-2.5 py-1 ${getTypeColor()}`}>
             <Icon className="h-4 w-4" />
@@ -69,12 +56,12 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
           </Badge>
           {resource.featured && <Badge className="rounded-md bg-primary text-primary-foreground">Featured</Badge>}
         </div>
-        <h3 className="mt-3 text-lg font-semibold leading-snug line-clamp-2">{resource.title}</h3>
+        <h3 className="mt-3 text-lg font-semibold leading-snug tracking-tight line-clamp-3">{resource.title}</h3>
       </CardHeader>
 
       <CardContent className="flex flex-1 flex-col pt-5">
         <div className="space-y-4">
-          <div className="grid gap-2 text-sm text-muted-foreground">
+          <div className="grid gap-2 text-xs text-muted-foreground">
             <span className="flex items-center gap-2">
               <UserRound className="h-4 w-4 text-primary" />
               <span className="font-medium text-foreground">{resource.author}</span>
@@ -102,7 +89,7 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
         )}
       </CardContent>
 
-      <CardFooter className="flex flex-wrap items-center justify-between gap-4 border-t bg-muted/10 pt-4">
+      <CardFooter className="flex flex-wrap items-center justify-between gap-4 border-t pt-4">
         <div className="flex items-center gap-4 text-sm text-muted-foreground">
           <span className="flex items-center gap-1">
             <Eye className="h-4 w-4" /> {viewCount}
@@ -112,11 +99,11 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
           </span>
         </div>
         <div className="flex flex-wrap items-center gap-2">
-          <Button variant="outline" size="sm" className="flex-shrink-0 border-primary/40 text-primary hover:bg-primary hover:text-primary-foreground" onClick={() => onVote("like")}>
-            <ThumbsUp className="mr-1 h-4 w-4" /> Like
+          <Button variant="outline" size="sm" aria-label="Like resource" title="Like" className="size-8 p-0 text-muted-foreground" onClick={() => onVote("like")}>
+            <ThumbsUp className="h-3.5 w-3.5" />
           </Button>
-          <Button variant="outline" size="sm" className="flex-shrink-0 border-primary/40 text-primary hover:bg-primary hover:text-primary-foreground" onClick={() => onVote("dislike")}>
-            <ThumbsDown className="mr-1 h-4 w-4" /> Dislike
+          <Button variant="outline" size="sm" aria-label="Dislike resource" title="Dislike" className="size-8 p-0 text-muted-foreground" onClick={() => onVote("dislike")}>
+            <ThumbsDown className="h-3.5 w-3.5" />
           </Button>
           <Button variant="ghost" size="sm" className="flex-shrink-0 text-primary hover:text-primary" onClick={onView}>
             Source

@@ -18,7 +18,7 @@ export default function Page() {
     <div className="min-h-screen bg-background">
       <LibraryHero search={search} setSearch={setSearch} />
       <ResearchBrief />
-      <div className="container mx-auto px-4 py-12 lg:py-16">
+      <main id="library" className="library-shell scroll-mt-6 py-8 lg:py-10">
         <LibraryFilters
           project={project}
           setProject={setProject}
@@ -36,7 +36,8 @@ export default function Page() {
           timePeriod={timePeriod}
           search={search}
         />
-      </div>
+      </main>
+      <footer className="library-shell flex flex-wrap justify-between gap-3 border-t py-8 text-xs text-muted-foreground"><span>futarchy.info · An independent record of the MetaDAO ecosystem.</span><a href="/llms.txt" className="hover:text-primary">Library access for AI agents ↗</a></footer>
       <Toaster />
     </div>
   )

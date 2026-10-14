@@ -7,10 +7,13 @@ import { Button } from "@/components/ui/button"
 import { Loader2 } from "lucide-react"
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter } from "@/components/ui/dialog"
 
+import { resourceSeries } from "@/lib/media-series"
+
 import projects from "@/content/projects.json"
 import { selectProjectResources } from "@/lib/library-scope"
 
 interface ResourceGridProps {
+  series: string
   project: string
   activeFilters: string[]
   sortBy: string
@@ -23,7 +26,7 @@ interface Counts {
   scores: { [id: string]: number }
 }
 
-export function ResourceGrid({ project, activeFilters, sortBy, timePeriod, search }: ResourceGridProps) {
+export function ResourceGrid({ series, project, activeFilters, sortBy, timePeriod, search }: ResourceGridProps) {
   const [visibleCount, setVisibleCount] = useState(12)
   const [loading, setLoading] = useState(false)
   const [counts, setCounts] = useState<Counts>({ views: {}, scores: {} })
@@ -85,6 +88,8 @@ export function ResourceGrid({ project, activeFilters, sortBy, timePeriod, searc
       filtered = filtered.filter((r) => selectedTypes.includes(r.type))
     }
 
+    if (series !== "all") filtered = filtered.filter(resource => resourceSeries(resource) === series)
+
     if (timePeriod !== "all") filtered = filtered.filter(r => resourceTime(r) !== null && r.date?.slice(0, 4) === timePeriod)
 
     filtered.sort((a, b) => {
@@ -101,11 +106,11 @@ export function ResourceGrid({ project, activeFilters, sortBy, timePeriod, searc
     })
 
     return filtered
-  }, [project, activeFilters, sortBy, timePeriod, search, counts])
+  }, [series, project, activeFilters, sortBy, timePeriod, search, counts])
 
   useEffect(() => {
     setVisibleCount(12)
-  }, [project, activeFilters, timePeriod, search, sortBy])
+  }, [series, project, activeFilters, timePeriod, search, sortBy])
 
   const loadMore = () => {
     if (loading || visibleCount >= filteredResources.length) return

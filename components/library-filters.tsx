@@ -7,10 +7,14 @@ import { Badge } from "@/components/ui/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { resources } from "@/lib/resources-data"
 
+import { mediaSeries, resourceSeries } from "@/lib/media-series"
+
 import projects from "@/content/projects.json"
 import { selectProjectResources } from "@/lib/library-scope"
 
 interface LibraryFiltersProps {
+  series: string
+  setSeries: Dispatch<SetStateAction<string>>
   project: string
   setProject: Dispatch<SetStateAction<string>>
   activeFilters: string[]
@@ -22,6 +26,7 @@ interface LibraryFiltersProps {
 }
 
 export function LibraryFilters({
+  series, setSeries,
   project, setProject,
   activeFilters,
   setActiveFilters,
@@ -112,6 +117,15 @@ export function LibraryFilters({
             </Button>
           )
         })}
+      </div>
+
+      <div className="flex flex-wrap items-center gap-3 border-t pt-4">
+        <label htmlFor="media-series" className="text-sm font-medium">Media series</label>
+        <select id="media-series" value={series} onChange={event => setSeries(event.target.value)} className="max-w-full rounded-lg border border-border bg-background px-3 py-2 text-sm focus-visible:outline-primary">
+          <option value="all">All series</option>
+          {mediaSeries.map(item => <option key={item.id} value={item.id}>{item.label} ({scopedResources.filter(resource => resourceSeries(resource) === item.id).length})</option>)}
+        </select>
+        {series !== "all" && <Button variant="ghost" size="sm" onClick={() => setSeries("all")}>Clear series</Button>}
       </div>
 
       {activeFilters.length > 0 && (

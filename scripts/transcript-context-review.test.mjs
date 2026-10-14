@@ -6,9 +6,11 @@ const read=p=>JSON.parse(fs.readFileSync(p))
 
 test('context edits reconstruct all earlier segments and preserve audio provenance, numbers and uncertainty',()=>{
  const ts=read('content/transcripts.json'),notes=read('content/media-notes.json')
- assert.equal(evidence.reviews.length,ts.length)
- assert.equal(new Set(evidence.reviews.map(r=>r.resourceId)).size,ts.length)
- for(const t of ts){
+ // This evidence records the October 13 review, not future transcript additions.
+ assert.equal(new Set(evidence.reviews.map(r=>r.resourceId)).size,evidence.reviews.length)
+ for(const reviewed of evidence.reviews){
+  const t=ts.find(t=>t.resourceId===reviewed.resourceId)
+  assert.ok(t, `Previously reviewed transcript missing: ${reviewed.resourceId}`)
   const r=evidence.reviews.find(r=>r.resourceId===t.resourceId),before=beforeContextReview(t)
   assert.equal(before.length,t.segments.length)
   assert.equal(t.audioSha256,r.audioSha256)

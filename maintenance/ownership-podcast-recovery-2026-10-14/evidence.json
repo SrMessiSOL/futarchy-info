@@ -1,0 +1,1270 @@
+{
+  "checkedAt": "2026-10-14",
+  "feedUrl": "https://anchor.fm/s/10e854134/podcast/rss",
+  "feedSha256": "3e0b69d44bce9e4219f6df39d62689e2e66de07d9b1e0f94d3d70c4ad5bbb1dd",
+  "method": "Publisher enclosure length and audio hash checked; whole audio decoded and transcribed locally. Structural audit only; not complete manual content verification.",
+  "recordings": [
+    {
+      "id": "ownership-backfill-6",
+      "title": "Ownership Podcast S1 E7: Proph3t (MetaDAO)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E7-Proph3t-MetaDAO-e3iaen4",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/118880420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-22%2F422637496-44100-2-94c931b44c122.m4a",
+      "expectedBytes": 56391863,
+      "feedDuration": "00:58:06",
+      "file": "ownership-backfill-6.m4a",
+      "audioSha256": "cd1415664b11acaeb55e89204dccec7e51af0a59053bb3c5a170323efe9170c7",
+      "decodedDurationSeconds": 3486.8245,
+      "researchTranscriptSha256": "85dc40cbce3a29d155ff712401d2c968524fbdd42afc5aa6f7cac9a4ba3ce588",
+      "publishedSegmentsSha256": "dd64fc009f6e7a0787fd24b5250e8f6583b902d2304b94f7bf14525d640616ec",
+      "segmentCount": 128,
+      "terminologyCorrections": [
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 0,
+          "start": 2.77,
+          "original": "Welcome to ownership the podcast where we have conversations about capital formation and crypto and beyond I'm your host, Abe Penis. This is season one episode seven and today I'm joined by no other than prophet himself. Welcome prophet. Thanks for having me on. Yeah, this is a huge, huge pleasure of mine to have him on. He is the founder as",
+          "replacement": "Welcome to ownership the podcast where we have conversations about capital formation and crypto and beyond I'm your host, 8bitpenis. This is season one episode seven and today I'm joined by no other than Proph3t himself. Welcome Proph3t. Thanks for having me on. Yeah, this is a huge, huge pleasure of mine to have him on. He is the founder as",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 1,
+          "start": 40.32,
+          "original": "most of you know of or a deco founder of MediDow, the fundraising platform that is revolutionizing fundraising today. And they have also pioneered future Kion chain, at least on this scale, they definitely have. And yeah, let's jump right into it. So profit. I think one of the questions that I've always had is",
+          "replacement": "most of you know of or a deco founder of MetaDAO, the fundraising platform that is revolutionizing fundraising today. And they have also pioneered futarchy onchain, at least on this scale, they definitely have. And yeah, let's jump right into it. So Proph3t. I think one of the questions that I've always had is",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 2,
+          "start": 68.82,
+          "original": "How did you come across future? Like what was that like? Well, where did you find it? Was it where you just reading? Did you just read the original white paper or? Where did where did I come from? Yeah, so I actually found decision markets through a YouTube video I don't remember the specifics, but I think I was going through some Ethereum at the time I was working with the room defined I was",
+          "replacement": "How did you come across futarchy? Like what was that like? Well, where did you find it? Was it where you just reading? Did you just read the original white paper or? Where did where did I come from? Yeah, so I actually found decision markets through a YouTube video I don't remember the specifics, but I think I was going through some Ethereum at the time I was working with the room defined I was",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 7,
+          "start": 209.04,
+          "original": "because it looks good if you have a large team under you, even though that's expensive and time-wasting for the company. And so, yeah, it was those two things that I think made me really bullish on this idea. And, well, while we're at the topic of Futarkey, I feel like if there's anybody who's been explaining Futarkey, it's gonna be you, because you've probably done it.",
+          "replacement": "because it looks good if you have a large team under you, even though that's expensive and time-wasting for the company. And so, yeah, it was those two things that I think made me really bullish on this idea. And, well, while we're at the topic of futarchy, I feel like if there's anybody who's been explaining futarchy, it's gonna be you, because you've probably done it.",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 8,
+          "start": 241.54,
+          "original": "thousands of times. People probably come to you with this question a lot. And so I'm going to ask you that question again, which is what is for you the easiest way to explain future hockey and why it can make good decisions. Does it make better decisions in your opinion than humans do? And why? Yeah. So the way I generally explain decision markets, any eye.",
+          "replacement": "thousands of times. People probably come to you with this question a lot. And so I'm going to ask you that question again, which is what is for you the easiest way to explain futarchy and why it can make good decisions. Does it make better decisions in your opinion than humans do? And why? Yeah. So the way I generally explain decision markets, any eye.",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 21,
+          "start": 600,
+          "original": "that in crypto we can apply decision markets. Do you think decision markets can eat into traditional markets? Like do you see in the future a world where it's let's just say some board decisions are given up to future. Do you think that is the ultimate goal? Like what is the ultimate goal? I guess or",
+          "replacement": "that in crypto we can apply decision markets. Do you think decision markets can eat into traditional markets? Like do you see in the future a world where it's let's just say some board decisions are given up to futarchy. Do you think that is the ultimate goal? Like what is the ultimate goal? I guess or",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 22,
+          "start": 624.61,
+          "original": "North Star and the grand scheme of things between a meta-dow and then future. How do we bring this to the larger crowd? Yeah, I mean, the ultimate goal is quite radical. It's market-governed civilization or more rational decision-making, like civilization as a result of markets. And in terms of how we get there, I mean, there's a few ways.",
+          "replacement": "North Star and the grand scheme of things between a MetaDAO and then futarchy. How do we bring this to the larger crowd? Yeah, I mean, the ultimate goal is quite radical. It's market-governed civilization or more rational decision-making, like civilization as a result of markets. And in terms of how we get there, I mean, there's a few ways.",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 25,
+          "start": 706.13,
+          "original": "getting bigger as opposed to getting, I mean, maybe there will be some of the getting large organizations to adopt decision markets. But I think the main path is by getting like net new organizations and then having them grow. That's very interesting because not a lot of people would say that they want the whole civilization to be governed by Futarkey. You know, I think most",
+          "replacement": "getting bigger as opposed to getting, I mean, maybe there will be some of the getting large organizations to adopt decision markets. But I think the main path is by getting like net new organizations and then having them grow. That's very interesting because not a lot of people would say that they want the whole civilization to be governed by futarchy. You know, I think most",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 28,
+          "start": 782.13,
+          "original": "which also kind of brings us to the question of why price is a KPI for meta-doubt specific implementation of decision markets. For anybody who's listening, the original idea for future and decision markets, it didn't specifically say that it had to be the KPI had to be a price. It could have been any arbitrary KPI that people agreed on. And so, yeah, could you expand on that?",
+          "replacement": "which also kind of brings us to the question of why price is a KPI for MetaDAO specific implementation of decision markets. For anybody who's listening, the original idea for futarchy and decision markets, it didn't specifically say that it had to be the KPI had to be a price. It could have been any arbitrary KPI that people agreed on. And so, yeah, could you expand on that?",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 41,
+          "start": 1125.97,
+          "original": "Is there any decision and I think you already hinted at this but what are some decisions or some examples that you would not leave up to to Futarkey? What is something that you think shouldn't be left up to Futarkey and As you said with the central bank and into dollar that's that's a very good example, but are there any shortfalls I guess That you think Futarkey or and decision markets are vulnerable to",
+          "replacement": "Is there any decision and I think you already hinted at this but what are some decisions or some examples that you would not leave up to to futarchy? What is something that you think shouldn't be left up to futarchy and As you said with the central bank and into dollar that's that's a very good example, but are there any shortfalls I guess That you think futarchy or and decision markets are vulnerable to",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 45,
+          "start": 1231.41,
+          "original": "Yeah, so I think the as meta-doubt started was a future key platform or you guys started with basically a future key as service platform. Is that correct, right? Yeah, we spent about a year on yeah, I mean that is the obvious thing to build right if you're trying to build a new decision making system the obvious and your encrypto as me and Colin were",
+          "replacement": "Yeah, so I think the as MetaDAO started was a futarchy platform or you guys started with basically a futarchy as service platform. Is that correct, right? Yeah, we spent about a year on yeah, I mean that is the obvious thing to build right if you're trying to build a new decision making system the obvious and your encrypto as me and Kollan were",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed.",
+          "sources": [
+            "https://metadao.fi/team",
+            "https://metadao.fi/companies/avici"
+          ]
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 50,
+          "start": 1372.37,
+          "original": "many, most of them were arguably rugs. And, and yeah, it would decision if you had a system where instead of the money going to the team and it sits in this decision market treasury, that seemed like it would fix that problem. And so that was the motivation. I feel like you're a little bit underselling of what meta Dow pioneered, because meta Dow pioneered something that has never really been done before. Like it's",
+          "replacement": "many, most of them were arguably rugs. And, and yeah, it would decision if you had a system where instead of the money going to the team and it sits in this decision market treasury, that seemed like it would fix that problem. And so that was the motivation. I feel like you're a little bit underselling of what MetaDAO pioneered, because MetaDAO pioneered something that has never really been done before. Like it's",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 51,
+          "start": 1401.86,
+          "original": "To me, it wasn't just the decision markets. It was the fact that the treasury was, you know, we could liquidate the treasury. You could do basically, you could do buybacks, liquidations, and most importantly, or at least in my opinion, one of the most important things is that the intellectual property and the legal side is also nailed down. So that was what I experienced. And when I first saw Medadow,",
+          "replacement": "To me, it wasn't just the decision markets. It was the fact that the treasury was, you know, we could liquidate the treasury. You could do basically, you could do buybacks, liquidations, and most importantly, or at least in my opinion, one of the most important things is that the intellectual property and the legal side is also nailed down. So that was what I experienced. And when I first saw MetaDAO,",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 59,
+          "start": 1612.02,
+          "original": "Yeah, so yeah, I guess I'm not sure if that answers your question, but that's kind of how we thought about it Yeah, I mean that is absolutely fascinating and I think a lot of creative participants are You know, they're so used to these old token structures that when they look at something like meta-doubt they're kind of They get a little bit scared with the raise mechanism",
+          "replacement": "Yeah, so yeah, I guess I'm not sure if that answers your question, but that's kind of how we thought about it Yeah, I mean that is absolutely fascinating and I think a lot of creative participants are You know, they're so used to these old token structures that when they look at something like MetaDAO they're kind of They get a little bit scared with the raise mechanism",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 71,
+          "start": 1941.78,
+          "original": "There's not enough good founders and there's not enough high quality founders here. So how do you think we can get those people to launch on like a startup in crypto or a metadata? How do we get them on chain? What is the solution there? I mean, that's the million dollar question. I think about this all the time because obviously that's like the main that would be hugely unlock our growth, which is what I want. I want me to grow.",
+          "replacement": "There's not enough good founders and there's not enough high quality founders here. So how do you think we can get those people to launch on like a startup in crypto or a MetaDAO? How do we get them on chain? What is the solution there? I mean, that's the million dollar question. I think about this all the time because obviously that's like the main that would be hugely unlock our growth, which is what I want. I want me to grow.",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 75,
+          "start": 2060.11,
+          "original": "It's not always easy to replicate that. Like because you actually need people to buy the token or buy the alignment units and then to actually contribute by like in a Vechies case, a Vechies are a great example. So Vechies raised on Medadow, $3 million and then",
+          "replacement": "It's not always easy to replicate that. Like because you actually need people to buy the token or buy the alignment units and then to actually contribute by like in Avici's case, Avici are a great example. So Avici raised on MetaDAO, $3 million and then",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed.",
+          "sources": [
+            "https://metadao.fi/team",
+            "https://metadao.fi/companies/avici"
+          ]
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 86,
+          "start": 2352.75,
+          "original": "For all the founders who are looking to raise on either frittario the permissionless platform or a meta down What are some learnings that you have you know that these proposals have taught you about raising through future key With VCs or over-the-counter counter deals discounts, how do we raise it and how should founders approach?",
+          "replacement": "For all the founders who are looking to raise on either Futardio the permissionless platform or a MetaDAO What are some learnings that you have you know that these proposals have taught you about raising through futarchy With VCs or over-the-counter counter deals discounts, how do we raise it and how should founders approach?",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 101,
+          "start": 2757.44,
+          "original": "It's very hard to even track insider trading because most of the right most crypto is sued on well anonymous kind of So it's very very hard to track that which Kind of begs the question of is it even worse tracking it? But I think okay, so do you think that currently meta-dow is is is",
+          "replacement": "It's very hard to even track insider trading because most of the right most crypto is sued on well anonymous kind of So it's very very hard to track that which Kind of begs the question of is it even worse tracking it? But I think okay, so do you think that currently MetaDAO is is is",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 102,
+          "start": 2784.56,
+          "original": "to founder unfriendly because that's definitely, you know, some criticism that I also see. And how do we make it more, you know, how do we cater more to founders? How do you guys cater more to founders when it comes to raising a metadata? Is it no liquidations for a couple months or, you know, just having team-only proposals? I know you guys are doing...",
+          "replacement": "to founder unfriendly because that's definitely, you know, some criticism that I also see. And how do we make it more, you know, how do we cater more to founders? How do you guys cater more to founders when it comes to raising a MetaDAO? Is it no liquidations for a couple months or, you know, just having team-only proposals? I know you guys are doing...",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 107,
+          "start": 2933.54,
+          "original": "these liquidations of these buybacks happen in specific periods. Like every three months or so, P2P actually, when they raised, we said, are we put in the terms that there's no community proposals for three months? Only at Medidow's discretion, but only community or only team proposals for three months. And I think there's",
+          "replacement": "these liquidations of these buybacks happen in specific periods. Like every three months or so, P2P actually, when they raised, we said, are we put in the terms that there's no community proposals for three months? Only at MetaDAO's discretion, but only community or only team proposals for three months. And I think there's",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 124,
+          "start": 3382.38,
+          "original": "And also thank you to metadata for sponsoring the podcast. And I guess if you have anything else to say to close out, you can go ahead and say whatever you want. I guess the final thing I would say is just like recently I've been meeting a lot of liquid funds to explain our model better to them.",
+          "replacement": "And also thank you to MetaDAO for sponsoring the podcast. And I guess if you have anything else to say to close out, you can go ahead and say whatever you want. I guess the final thing I would say is just like recently I've been meeting a lot of liquid funds to explain our model better to them.",
+          "reason": "Targeted terminology correction from surrounding passage and established publisher/project spelling; no number changes or full audio verification claimed."
+        },
+        {
+          "resourceId": "ownership-backfill-6",
+          "index": 76,
+          "start": 2085.81,
+          "original": "immediately after they raised or like over the period of the next few months, they 10x their users largely because you had all these people on crypto Twitter who owned a Vichy or just who owned crypto who owned a Vichy and like told",
+          "replacement": "immediately after they raised or like over the period of the next few months, they 10x their users largely because you had all these people on crypto Twitter who owned Avici or just who owned crypto who owned Avici and like told",
+          "reason": "Proper-name spelling checked against official MetaDAO contributor/company pages and passage context; amounts retained.",
+          "sources": [
+            "https://metadao.fi/team",
+            "https://metadao.fi/companies/avici"
+          ]
+        }
+      ],
+      "asrRepair": null,
+      "issues": []
+    },
+    {
+      "id": "ownership-backfill-4",
+      "title": "Ownership Podcast S1 E9: Hunter (Laso)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E9-Hunter-Laso-e3lealb",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/122153067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-29%2F427043123-44100-2-df64b19edb451.m4a",
+      "expectedBytes": 46273852,
+      "feedDuration": "00:47:41",
+      "file": "ownership-backfill-4.m4a",
+      "audioSha256": "b62ab0e5af8e8546ed38ee1f30ba6cdb1292f158971d4c2bf2f0cb71387cac9b",
+      "decodedDurationSeconds": 2861.1860625,
+      "researchTranscriptSha256": "3b0ac41ded3389745d67e2e6427ec7313d3adc9569faba6f73d5cb8e2671e73e",
+      "publishedSegmentsSha256": "95c11504b6cbf39bcd866d33310bc99da1acbf1da89be524a188532ce18b8c42",
+      "segmentCount": 103,
+      "terminologyCorrections": [
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 0,
+          "start": 4.82,
+          "original": "Hey everyone and welcome to ownership podcast. Today I'm joined by Hunter from Lasso Finance. Welcome Hunter. Thank you, Ape, I really appreciate having me on here. Yeah Lasso is the next Medadow race. The one that we've been waiting for a long time seems like it's very timely to finally have another race there. So I don't want to waste any time.",
+          "replacement": "Hey everyone and welcome to ownership podcast. Today I'm joined by Hunter from Laso Finance. Welcome Hunter. Thank you, Ape, I really appreciate having me on here. Yeah Laso is the next MetaDAO race. The one that we've been waiting for a long time seems like it's very timely to finally have another race there. So I don't want to waste any time.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 4,
+          "start": 131.34,
+          "original": "Kraken didn't have cards. Koto.com was the only one. And so I made an early version of Lasso Finance under a different name that was no ID upload required, non-custodial, and built on Lightning, Bitcoin Lightning. And back then, Lightning user experience was really difficult. And so I launched that version of the card in 2020 at the Bitcoin conference. I think it was in Miami.",
+          "replacement": "Kraken didn't have cards. Koto.com was the only one. And so I made an early version of Laso Finance under a different name that was no ID upload required, non-custodial, and built on Lightning, Bitcoin Lightning. And back then, Lightning user experience was really difficult. And so I launched that version of the card in 2020 at the Bitcoin conference. I think it was in Miami.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 6,
+          "start": 185.14,
+          "original": "My friend said, hey, you should try the card thing again and kind of double down on the privacy aspect. The no ID upload, you essentially just connect your wallet, sign an odds, and you're assigned up, but you can get a card. That's how operates on Lasso today. So double down on that and launch that in 2023. And that was really successful. What are coincidence that you went from meta to raise a meta now? I think that there's definitely a funny coincidence right there.",
+          "replacement": "My friend said, hey, you should try the card thing again and kind of double down on the privacy aspect. The no ID upload, you essentially just connect your wallet, sign an odds, and you're assigned up, but you can get a card. That's how operates on Laso today. So double down on that and launch that in 2023. And that was really successful. What are coincidence that you went from meta to raise a MetaDAO? I think that there's definitely a funny coincidence right there.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 7,
+          "start": 216.3,
+          "original": "Tell me a little bit about how you came across MediDAL and and like what's your experience previously with with just raising money? Have you ever raised from traditional venture? Or is MediDAL like your first first time raising money? Yeah, I guess and just to give viewers a little bit of background on Lasso We sell prepaid cards at your consumers. No ID upload required. Just connect your wallet sign an aunt's and you're signed up Don't need any additional information",
+          "replacement": "Tell me a little bit about how you came across MetaDAO and and like what's your experience previously with with just raising money? Have you ever raised from traditional venture? Or is MetaDAO like your first first time raising money? Yeah, I guess and just to give viewers a little bit of background on Laso We sell prepaid cards at your consumers. No ID upload required. Just connect your wallet sign an aunt's and you're signed up Don't need any additional information",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 9,
+          "start": 271.28,
+          "original": "Really what I wanted to do is a coin launch for a long time, but basically, you know, in the beginning of Lasso, the regulatory environment was really not clear about what you can and can't do. As it became more clear, maybe in 2025, the meta, again, for lack of a better term, the meta strategy was like these pumped up fund launches where these coins that are pretty much",
+          "replacement": "Really what I wanted to do is a coin launch for a long time, but basically, you know, in the beginning of Laso, the regulatory environment was really not clear about what you can and can't do. As it became more clear, maybe in 2025, the meta, again, for lack of a better term, the meta strategy was like these pumped up fund launches where these coins that are pretty much",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 11,
+          "start": 329.63,
+          "original": "Hackathon and I went there and I talked to the call team team and I was and I pulled my Kate and not interested in raising doesn't doesn't make sense. I met the meta-doubt team there and Read through kind of all their docs in one shot While profit and mists that were there at that office and just it just finally clicked like I can't tell you how many times I've looked at I see a launches over the past three years or talked to BC is about raising and just never fit and then it just immediately clicked then",
+          "replacement": "Hackathon and I went there and I talked to the call team team and I was and I pulled my Kate and not interested in raising doesn't doesn't make sense. I met the MetaDAO team there and Read through kind of all their docs in one shot While profit and mists that were there at that office and just it just finally clicked like I can't tell you how many times I've looked at I see a launches over the past three years or talked to BC is about raising and just never fit and then it just immediately clicked then",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 12,
+          "start": 358.1,
+          "original": "because that alignment between the users and the team is so strong. So I went from three years of saying no on the raising front to a yes. They found that right balance. And so, I downloaded the app, the Lasso app not too long ago. And I really noticed that the user experience was pretty good.",
+          "replacement": "because that alignment between the users and the team is so strong. So I went from three years of saying no on the raising front to a yes. They found that right balance. And so, I downloaded the app, the Laso app not too long ago. And I really noticed that the user experience was pretty good.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 15,
+          "start": 445.78,
+          "original": "If that makes sense, they're the richest ones. We're good spenders. Yeah, you're good spenders, exactly. Yeah, so if you had to describe to somebody who's never heard of Lasso, who's never tried prepaid cards, what is the thesis behind Lasso? Yeah, what we're solving is privacy at the point of spend.",
+          "replacement": "If that makes sense, they're the richest ones. We're good spenders. Yeah, you're good spenders, exactly. Yeah, so if you had to describe to somebody who's never heard of Laso, who's never tried prepaid cards, what is the thesis behind Laso? Yeah, what we're solving is privacy at the point of spend.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 18,
+          "start": 534.58,
+          "original": "disintermediating the banking system or replacing it. We are just doing fiat banking with extra steps. It's worse by lot. And then we've lost our privacy. And the privacy is kind of a core tenant of what can make crypto as an industry be successful. And so instead, you can take your assets on chain with your wallet, connect it to Lasso and get a",
+          "replacement": "disintermediating the banking system or replacing it. We are just doing fiat banking with extra steps. It's worse by lot. And then we've lost our privacy. And the privacy is kind of a core tenant of what can make crypto as an industry be successful. And so instead, you can take your assets on chain with your wallet, connect it to Laso and get a",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 21,
+          "start": 600,
+          "original": "prepaid cards out there. So what makes you guys any different than all the other ones? Like what's, I mean, I don't think asking the question at this stage of what's your mode, is the right way to frame it, but what makes you, what makes Lasso any different than any other prepaid card? Yeah. Yeah. So, so our focus is on privacy. I think we require the least amount of information.",
+          "replacement": "prepaid cards out there. So what makes you guys any different than all the other ones? Like what's, I mean, I don't think asking the question at this stage of what's your mode, is the right way to frame it, but what makes you, what makes Laso any different than any other prepaid card? Yeah. Yeah. So, so our focus is on privacy. I think we require the least amount of information.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 24,
+          "start": 684.06,
+          "original": "3,000 contractors that are using it all across the world. This is kind of an invalid program. So that's another category. And then the last piece, which is maybe a little bit less tangible, is just kind of dedication to a good user experience. I am very, very confident in saying that on the customer service side, Lasso takes away better care of customers than any other platform. And that's...",
+          "replacement": "3,000 contractors that are using it all across the world. This is kind of an invalid program. So that's another category. And then the last piece, which is maybe a little bit less tangible, is just kind of dedication to a good user experience. I am very, very confident in saying that on the customer service side, Laso takes away better care of customers than any other platform. And that's...",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 29,
+          "start": 828.26,
+          "original": "and buy a bunch of these Visa gift cards with cash. And exceed that 10,000 dollar limit because I'm going in person, there's no traceability. But Lasso can execute better on that front because when somebody connects their wallet, we first of course check chain analysis, web-acy to make sure they're not counterpart to North Korea or whatever. We can look at device fingerprinting to see.",
+          "replacement": "and buy a bunch of these Visa gift cards with cash. And exceed that 10,000 dollar limit because I'm going in person, there's no traceability. But Laso can execute better on that front because when somebody connects their wallet, we first of course check chain analysis, web-acy to make sure they're not counterpart to North Korea or whatever. We can look at device fingerprinting to see.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 33,
+          "start": 929.07,
+          "original": "I think most people don't use prepaid cards and they would much rather use a credit card or a debit card. How are these prepaid cards or how is a lasso finance any better or how does it improve upon traditional credit cards or debit cards? So to just traditional credit cards which do require kind of a full enhanced",
+          "replacement": "I think most people don't use prepaid cards and they would much rather use a credit card or a debit card. How are these prepaid cards or how is a Laso finance any better or how does it improve upon traditional credit cards or debit cards? So to just traditional credit cards which do require kind of a full enhanced",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 34,
+          "start": 959.92,
+          "original": "invasive KOSC process. They will be accepted at higher rates at merchants and then you have that relitability essentially aspect which is a strength and so on those two factors. They are better than prepaid cards. Prepaid cards on the LASO platform are important just in terms of that maintaining the privacy. Currently today",
+          "replacement": "invasive KOSC process. They will be accepted at higher rates at merchants and then you have that relitability essentially aspect which is a strength and so on those two factors. They are better than prepaid cards. Prepaid cards on the Laso platform are important just in terms of that maintaining the privacy. Currently today",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 38,
+          "start": 1077.63,
+          "original": "Do you see any synergies between LASO and something like maybe RQM but not necessarily them, but something like along those lines with zero knowledge proofs or using the privacy technology to enhance the privacy of LASO? Yeah, yeah, absolutely. There are kind of new solutions like you're saying, DK Prose, RQM that",
+          "replacement": "Do you see any synergies between Laso and something like maybe RQM but not necessarily them, but something like along those lines with zero knowledge proofs or using the privacy technology to enhance the privacy of Laso? Yeah, yeah, absolutely. There are kind of new solutions like you're saying, DK Prose, RQM that",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 41,
+          "start": 1164.08,
+          "original": "Zoom out for a second. One point on the value of privacy is I think a lot of the times when people hear that about crypto, what they think about is all you just want to have privacy to be a criminal or whatever. And that's not really the point here. It's not even really possible on Lasso because you have to go and spend the card at a merchant that accepts prepaid cards. It's not like gold. You can just transfer around.",
+          "replacement": "Zoom out for a second. One point on the value of privacy is I think a lot of the times when people hear that about crypto, what they think about is all you just want to have privacy to be a criminal or whatever. And that's not really the point here. It's not even really possible on Laso because you have to go and spend the card at a merchant that accepts prepaid cards. It's not like gold. You can just transfer around.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 45,
+          "start": 1256.06,
+          "original": "you need to have that capability for it to be successful and for everybody to buy in. And so having privacy at the point of spend is the same kind of core tenant that we need. And to get back to the topic of the raise, I really just want to dig into what the intention behind the raise is, basically, what is next? How are you going to scale Lasso? Because I think the design space for prepaid cards is",
+          "replacement": "you need to have that capability for it to be successful and for everybody to buy in. And so having privacy at the point of spend is the same kind of core tenant that we need. And to get back to the topic of the raise, I really just want to dig into what the intention behind the raise is, basically, what is next? How are you going to scale Laso? Because I think the design space for prepaid cards is",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 46,
+          "start": 1287.54,
+          "original": "can be pretty, pretty huge. And so I'm wondering how you're going to expand Lasso once you've done this raise. Yeah, got it. So to kind of set the context of where we are now, pre-raise, and that helps, I'll go into that so that it helps understand what the X-Geedon post raise. So in the last three days, we've had a little under 750.",
+          "replacement": "can be pretty, pretty huge. And so I'm wondering how you're going to expand Laso once you've done this raise. Yeah, got it. So to kind of set the context of where we are now, pre-raise, and that helps, I'll go into that so that it helps understand what the X-Geedon post raise. So in the last three days, we've had a little under 750.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 48,
+          "start": 1345.74,
+          "original": "96% of our volume is humans, just like I described, you just go on a connection wallet, get your card. 4%, around 4%, volume is now coming from AI agents. So something that's really fun about this really frictionless signup process is your AI agent, meaning like Open Cloud Hermes, you can set it as single prompt and it can go get its own lasso card, go make its own transactions and tendons of bank transfers.",
+          "replacement": "96% of our volume is humans, just like I described, you just go on a connection wallet, get your card. 4%, around 4%, volume is now coming from AI agents. So something that's really fun about this really frictionless signup process is your AI agent, meaning like Open Cloud Hermes, you can set it as single prompt and it can go get its own Laso card, go make its own transactions and tendons of bank transfers.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 57,
+          "start": 1587.41,
+          "original": "which is embarrassing. So fixing that, that's the third one. And the fourth one is on the Agentic Program stuff, which is to give these agents all the tooling they need to fully participate in the internet economy. Once they have the prepaid cards, LASO has banking and reloadable credit card bins, now your agent could do every single thing a human can do. And then we can start to see them build businesses that either weren't going to happen from organic intelligence or just simply weren't possible.",
+          "replacement": "which is embarrassing. So fixing that, that's the third one. And the fourth one is on the Agentic Program stuff, which is to give these agents all the tooling they need to fully participate in the internet economy. Once they have the prepaid cards, Laso has banking and reloadable credit card bins, now your agent could do every single thing a human can do. And then we can start to see them build businesses that either weren't going to happen from organic intelligence or just simply weren't possible.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 71,
+          "start": 1975.47,
+          "original": "Let's say we're five years from now. And let's say Lasso is a super successful company with billions of dollars of revenue or volume. What do you think would be the decision that takes you there looking back? Like if you look back five years from now on what the decision, which decision puts you on the road towards being",
+          "replacement": "Let's say we're five years from now. And let's say Laso is a super successful company with billions of dollars of revenue or volume. What do you think would be the decision that takes you there looking back? Like if you look back five years from now on what the decision, which decision puts you on the road towards being",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 85,
+          "start": 2366.91,
+          "original": "The majority of the volume is in the United States, and then next is the EU, and then Canada, and then Australia. Pre-pay cards have existed for a long time before Lasso, and they'll exist for a long time after Lasso. So most of our focus is on creating the best pre-pay card experience that we can, rather than maybe trying to move the market of acceptance, but kind of invite default all your card processors. We'll accept it.",
+          "replacement": "The majority of the volume is in the United States, and then next is the EU, and then Canada, and then Australia. Pre-pay cards have existed for a long time before Laso, and they'll exist for a long time after Laso. So most of our focus is on creating the best pre-pay card experience that we can, rather than maybe trying to move the market of acceptance, but kind of invite default all your card processors. We'll accept it.",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 96,
+          "start": 2668.78,
+          "original": "Is there any synergy or overlap between Lasso and DeFi? Like, I'm not exactly sure how that would work, but I'm wondering if you've thought about it in any way. Yeah, it's, I mean, just it is an easy way to spend kind of your funds that you've earned on DeFi. I think the more interesting aspect is probably on the Agetic side. There are probably the Encrypto, the",
+          "replacement": "Is there any synergy or overlap between Laso and DeFi? Like, I'm not exactly sure how that would work, but I'm wondering if you've thought about it in any way. Yeah, it's, I mean, just it is an easy way to spend kind of your funds that you've earned on DeFi. I think the more interesting aspect is probably on the Agetic side. There are probably the Encrypto, the",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 100,
+          "start": 2784.26,
+          "original": "And we touched on it a little bit, but what I really want to emphasize is the reason that I'm launching on metadata is because it gives me the best chance of rewarding the users that have been with me and Lasso all this time. Like currently, the only way that Lasso users really are financially incentivized for the success of Lasso is to referral links, which just quite aren't quite the same alignment of incentives. And",
+          "replacement": "And we touched on it a little bit, but what I really want to emphasize is the reason that I'm launching on MetaDAO is because it gives me the best chance of rewarding the users that have been with me and Laso all this time. Like currently, the only way that Laso users really are financially incentivized for the success of Laso is to referral links, which just quite aren't quite the same alignment of incentives. And",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        },
+        {
+          "resourceId": "ownership-backfill-4",
+          "index": 101,
+          "start": 2814.45,
+          "original": "You know the the pump top fun launches also don't really align the team and the product and the users and MedDow does do that and that's really kind of my my top priority and I just want to Make sure that's that's clear. Lasso didn't necessarily need to do this raise it can accomplish all the goals it has just on a much longer time frame But really the reason is I want to be able to reward all the people that have been with me all this time Well, I think that's it then for today. Thank you hunter",
+          "replacement": "You know the the pump top fun launches also don't really align the team and the product and the users and MetaDAO does do that and that's really kind of my my top priority and I just want to Make sure that's that's clear. Laso didn't necessarily need to do this raise it can accomplish all the goals it has just on a much longer time frame But really the reason is I want to be able to reward all the people that have been with me all this time Well, I think that's it then for today. Thank you hunter",
+          "reason": "Publisher episode title confirms Laso and MetaDAO; spelling normalized only in reviewed project-specific contexts. Meta as the former employer and ordinary meta strategy retained."
+        }
+      ],
+      "asrRepair": null,
+      "issues": []
+    },
+    {
+      "id": "res-260",
+      "title": "Ownership Podcast S1E6: Maushish (Paystream)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E6-Maushish-Paystream-e3h62nf",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/117688495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-30%2F421049824-44100-2-1113c563d13c2.m4a",
+      "expectedBytes": 46928350,
+      "feedDuration": "00:48:21",
+      "file": "res-260.m4a",
+      "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
+      "decodedDurationSeconds": 2901.6584375,
+      "researchTranscriptSha256": "678e12de4df0f19966783ac14d898a3704befea57d0752749ffda0502d6f4751",
+      "publishedSegmentsSha256": "ff8edb8917045a5c226fadf0be56c6d78b9c3979982fea4c030094b07e9b347c",
+      "segmentCount": 104,
+      "terminologyCorrections": [
+        {
+          "resourceId": "res-260",
+          "index": 0,
+          "start": 1.42,
+          "original": "Welcome to ownership the podcast where we have conversations about capital formation in crypto and beyond I'm your host 8-bit penis and this is season 1 episode 6 and today I'm joined by mohish. Hopefully I got that right from pastream Pastream is building tooling for people to maximize their yield on every dollar and they have",
+          "replacement": "Welcome to ownership the podcast where we have conversations about capital formation in crypto and beyond I'm your host 8bitpenis and this is season 1 episode 6 and today I'm joined by Maushish. Hopefully I got that right from Paystream Paystream is building tooling for people to maximize their yield on every dollar and they have",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 1,
+          "start": 40.43,
+          "original": "raised a meta-dow and I believe they completed the raise on in October and in total they had around six million dollars committed and ended up taking I believe it was 750,000. Ever since then it's been quite a few months and so I thought it'd be very interesting to talk to them on how they're doing so welcome man how you doing?",
+          "replacement": "raised a MetaDAO and I believe they completed the raise on in October and in total they had around six million dollars committed and ended up taking I believe it was 750,000. Ever since then it's been quite a few months and so I thought it'd be very interesting to talk to them on how they're doing so welcome man how you doing?",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 2,
+          "start": 68.78,
+          "original": "Hey, thanks for inviting me. Yeah, it has been quite some time. I think believe like it has been how much like five months since we have raised from metadata and We have done a lot of insights when we have like compared to when we started building from the market regarding product itself initially But overall it has been like highs and lows kind of makes a bolt",
+          "replacement": "Hey, thanks for inviting me. Yeah, it has been quite some time. I think believe like it has been how much like five months since we have raised from MetaDAO and We have done a lot of insights when we have like compared to when we started building from the market regarding product itself initially But overall it has been like highs and lows kind of makes a bolt",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 3,
+          "start": 98.96,
+          "original": "Yes, so Can you can you take us back to to to the whole race and before that like can you tell us about? The the parameters of the race when you started thinking about raising money When did the idea of pay stream start? Are you are you met one man army?",
+          "replacement": "Yes, so Can you can you take us back to to to the whole race and before that like can you tell us about? The the parameters of the race when you started thinking about raising money When did the idea of Paystream start? Are you are you met one man army?",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 8,
+          "start": 243.74,
+          "original": "and we chose to go with 75tk out of which some goes to liquidity and breast post to treasury. The whole procedure, if I have to summarize with the days itself as sort of anxious, but overall it has been very, very well from the expectations that it has been over the expectation, the performance regarding the mechanism itself of Futaki and the second thing which is like metadow praise.",
+          "replacement": "and we chose to go with 75tk out of which some goes to liquidity and breast post to treasury. The whole procedure, if I have to summarize with the days itself as sort of anxious, but overall it has been very, very well from the expectations that it has been over the expectation, the performance regarding the mechanism itself of futarchy and the second thing which is like MetaDAO praise.",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 18,
+          "start": 552.82,
+          "original": "You need to have a lot of volume to make certain proposals very much, you could say, profit, table, viable. Yeah. Viability considering like a trader can make money. So that is sort of a mechanism problem. It's not a future problem. It's sort of like a mechanism problem of how meta-dival fix this in future. Other than this, as a government itself mechanism, yes, future has proven that it works, especially the last liquidation that happened with Ranger. Personally,",
+          "replacement": "You need to have a lot of volume to make certain proposals very much, you could say, profit, table, viable. Yeah. Viability considering like a trader can make money. So that is sort of a mechanism problem. It's not a futarchy problem. It's sort of like a mechanism problem of how MetaDAO fix this in future. Other than this, as a government itself mechanism, yes, futarchy has proven that it works, especially the last liquidation that happened with Ranger. Personally,",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 21,
+          "start": 630.3,
+          "original": "As a mechanism, it has been working really good. Coming back to the second question, which is how can founders take benefit from it? So far, pasteing has only one buyer proposal. There's no other proposal have been. I've thought of some ways how founders can take benefit from this. I think metadata has also allowed this by cutting down the 3.5% fee, which was required to launch a proposal from the team itself.",
+          "replacement": "As a mechanism, it has been working really good. Coming back to the second question, which is how can founders take benefit from it? So far, Paystream has only one buyer proposal. There's no other proposal have been. I've thought of some ways how founders can take benefit from this. I think MetaDAO has also allowed this by cutting down the 3.5% fee, which was required to launch a proposal from the team itself.",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 23,
+          "start": 689.62,
+          "original": "Those incentives in a metadata launch protocol are generally very hard to do. But in our case, we have gotten around how much? $225,000 at the time when we were doing the Biobikes. Those were the amount of tokens that we bought. We potentially could use that amount of tokens to incentivize our users. And that's sort of a thing.",
+          "replacement": "Those incentives in a MetaDAO launch protocol are generally very hard to do. But in our case, we have gotten around how much? $225,000 at the time when we were doing the Biobikes. Those were the amount of tokens that we bought. We potentially could use that amount of tokens to incentivize our users. And that's sort of a thing.",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 26,
+          "start": 774.19,
+          "original": "About fits our key meta down and these whole and the fact that it allows buybacks and liquidations is that Punishes teams who iterate fast and and change You know a lot of their products and make pivots and it doesn't allow them however pastry. I think is Has taken kind of a pivot",
+          "replacement": "About futarchy MetaDAO and these whole and the fact that it allows buybacks and liquidations is that Punishes teams who iterate fast and and change You know a lot of their products and make pivots and it doesn't allow them however Paystream. I think is Has taken kind of a pivot",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 27,
+          "start": 799.25,
+          "original": "Since you guys have raised do you think without hand any effect? Do you think meta-doubt allowed you to to make this switch or did you not feel it and is it just? Okay, okay, so here's here's something about pastry which I haven't to The pastry has Sort of a token which is not moving too much. It's isn't too much volatile",
+          "replacement": "Since you guys have raised do you think without hand any effect? Do you think MetaDAO allowed you to to make this switch or did you not feel it and is it just? Okay, okay, so here's here's something about Paystream which I haven't to The Paystream has Sort of a token which is not moving too much. It's isn't too much volatile",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 30,
+          "start": 887.04,
+          "original": "from John Lee, this will alone itself. So that's what we took the approach. So you can call it a pivot, you can call it a revolution. But from metadata itself, we haven't faced any sort of a crash break.",
+          "replacement": "from John Lee, this will alone itself. So that's what we took the approach. So you can call it a pivot, you can call it a revolution. But from MetaDAO itself, we haven't faced any sort of a crash break.",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 32,
+          "start": 924.93,
+          "original": "Market has sort of like punishing these founders and the teams for it retrittling very very fast If you have a lot of mercenary capital you will face this criticism always on so on It's pretty much comes to that so you need a lot of sticky capital Which I think like metadas some sort of solving with the pay-to-be race But yeah, this thing is not related to how these founders are",
+          "replacement": "Market has sort of like punishing these founders and the teams for it retrittling very very fast If you have a lot of mercenary capital you will face this criticism always on so on It's pretty much comes to that so you need a lot of sticky capital Which I think like MetaDAO some sort of solving with the pay-to-be race But yeah, this thing is not related to how these founders are",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 58,
+          "start": 1641.98,
+          "original": "more than 90% so you will 90% of the capital will always be saved just because we have this mechanism called auto close. But up to 10%, you can potentially lose depending on how you're opening operations. So yeah. And do both. So right now you have two of these strategies available on pay stream. And you tell me a little bit more about the difference between them are the risks. Yes. Why would I choose one over the other?",
+          "replacement": "more than 90% so you will 90% of the capital will always be saved just because we have this mechanism called auto close. But up to 10%, you can potentially lose depending on how you're opening operations. So yeah. And do both. So right now you have two of these strategies available on Paystream. And you tell me a little bit more about the difference between them are the risks. Yes. Why would I choose one over the other?",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 89,
+          "start": 2490.88,
+          "original": "Manos. Yeah. Okay. Yeah. I mean, that's pretty cool. So for anybody who's listening, you can just go to pay stream that finance and try out the app. And since everyone can do it, it's pretty cool. I actually love the design to be honest, like props to you guys. I love the colors. I love how it looks. I love the feel of the whole app quite quite a lot. And.",
+          "replacement": "Manos. Yeah. Okay. Yeah. I mean, that's pretty cool. So for anybody who's listening, you can just go to paystream.finance and try out the app. And since everyone can do it, it's pretty cool. I actually love the design to be honest, like props to you guys. I love the colors. I love how it looks. I love the feel of the whole app quite quite a lot. And.",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 101,
+          "start": 2815.73,
+          "original": "It's just no one was sort of like focusing on certain niches that we are. And if that's something which you would love to do, which is basically make more money without losing the principal capital, while also being aware that there are certain risks, then I would say you should consider owning a certain power of pay stream, which is our own token, which is completely ownership based. It's called pays and",
+          "replacement": "It's just no one was sort of like focusing on certain niches that we are. And if that's something which you would love to do, which is basically make more money without losing the principal capital, while also being aware that there are certain risks, then I would say you should consider owning a certain power of Paystream, which is our own token, which is completely ownership based. It's called pays and",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        },
+        {
+          "resourceId": "res-260",
+          "index": 103,
+          "start": 2877.38,
+          "original": "ownership FM follow us on on X formerly known as Twitter might I add and Yeah, follow pastry Mon on X and and Moshe also and Thank you for meta down for sponsoring the episode and I'll see you guys next time. Goodbye",
+          "replacement": "ownership FM follow us on on X formerly known as Twitter might I add and Yeah, follow pastry Mon on X and and Maushish also and Thank you for MetaDAO for sponsoring the episode and I'll see you guys next time. Goodbye",
+          "reason": "Targeted publisher-confirmed Paystream/Maushish/MetaDAO spelling and futarchy terminology; monetary amounts and attributed claims preserved."
+        }
+      ],
+      "asrRepair": null,
+      "issues": []
+    },
+    {
+      "id": "res-250",
+      "title": "Ownership S1E0: 8bitpenis (Ownership)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1E0-8bitpenis-Ownership-e3fbsfu",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/115781566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-20%2F418473046-44100-2-09f91e7d063c.mp3",
+      "expectedBytes": 11742144,
+      "feedDuration": "00:12:13",
+      "file": "res-250.mp3",
+      "audioSha256": "6468496df9185713ef9bbaeea5fdc56dfd4f59071f6d3718fb2d4f2adf8e5e93",
+      "decodedDurationSeconds": 733.8188125,
+      "researchTranscriptSha256": "6e43f75336aa0cf417adf250de175d7672f5c95e9deeb2fcc67c52e10a733215",
+      "publishedSegmentsSha256": "a8cc0c57e73310f004328dd1b2e742bee31d696c9fd30a5c90fe13025fa84edb",
+      "segmentCount": 25,
+      "terminologyCorrections": [
+        {
+          "resourceId": "res-250",
+          "index": 0,
+          "start": 4.72,
+          "original": "Welcome to ownership the podcast where we have conversations about capital formation in crypto and beyond I'm your host a bit penis and this is season one episode zero Today I want to talk about why ownership matters why I think capital formation in crypto is broken and why this podcast exists in the first place I've been thinking about this for a long time But the short version",
+          "replacement": "Welcome to ownership the podcast where we have conversations about capital formation in crypto and beyond I'm your host 8bitpenis and this is season one episode zero Today I want to talk about why ownership matters why I think capital formation in crypto is broken and why this podcast exists in the first place I've been thinking about this for a long time But the short version",
+          "reason": "Publisher-confirmed host and MetaDAO spellings, plus futarchy terminology; no factual or numerical claim edits."
+        },
+        {
+          "resourceId": "res-250",
+          "index": 17,
+          "start": 514.53,
+          "original": "Episode 1 might not drop immediately next week. It might be a little bit pushed out. But once we start, it'll be consistent. You know, in the first season, I will be covering and I will be talking to the ownership coin founders in the meta-dow ecosystem. They will be the first guests on the podcast. I'm very excited for the first one specifically. Of course, I'm excited for all of them, but the first one is going to be",
+          "replacement": "Episode 1 might not drop immediately next week. It might be a little bit pushed out. But once we start, it'll be consistent. You know, in the first season, I will be covering and I will be talking to the ownership coin founders in the MetaDAO ecosystem. They will be the first guests on the podcast. I'm very excited for the first one specifically. Of course, I'm excited for all of them, but the first one is going to be",
+          "reason": "Publisher-confirmed host and MetaDAO spellings, plus futarchy terminology; no factual or numerical claim edits."
+        },
+        {
+          "resourceId": "res-250",
+          "index": 18,
+          "start": 543.81,
+          "original": "very, very, very cool and I cannot wait for you guys to see it and I can't wait to talk to them. And so if you have any questions that you think I should ask these founders and the meta-down ecosystem, let me know. For now, I want to ask the questions everyone's thinking like why did you do it?",
+          "replacement": "very, very, very cool and I cannot wait for you guys to see it and I can't wait to talk to them. And so if you have any questions that you think I should ask these founders and the MetaDAO ecosystem, let me know. For now, I want to ask the questions everyone's thinking like why did you do it?",
+          "reason": "Publisher-confirmed host and MetaDAO spellings, plus futarchy terminology; no factual or numerical claim edits."
+        },
+        {
+          "resourceId": "res-250",
+          "index": 19,
+          "start": 568.77,
+          "original": "Would you do it again? What worked? What didn't? Like really why this structure and what would you change? And but I also want to you know talk a little bit about governance. Why Futarkey? Is it actually better than token voting? What is the difference? How does it work? What are the trade-offs? And you know I think the show will most likely have several seasons with different topics and for the further seasons.",
+          "replacement": "Would you do it again? What worked? What didn't? Like really why this structure and what would you change? And but I also want to you know talk a little bit about governance. Why futarchy? Is it actually better than token voting? What is the difference? How does it work? What are the trade-offs? And you know I think the show will most likely have several seasons with different topics and for the further seasons.",
+          "reason": "Publisher-confirmed host and MetaDAO spellings, plus futarchy terminology; no factual or numerical claim edits."
+        },
+        {
+          "resourceId": "res-250",
+          "index": 22,
+          "start": 661.62,
+          "original": "So if you have any suggestions or anything you can DM me on Twitter at 8-bit-penis and Yeah, this comment this podcast is as much about the conversation as it is about the answers Obviously, I don't think we're going to fix everything overnight Because that would be delusional, but if we can have better conversations",
+          "replacement": "So if you have any suggestions or anything you can DM me on Twitter at 8bitpenis and Yeah, this comment this podcast is as much about the conversation as it is about the answers Obviously, I don't think we're going to fix everything overnight Because that would be delusional, but if we can have better conversations",
+          "reason": "Publisher-confirmed host and MetaDAO spellings, plus futarchy terminology; no factual or numerical claim edits."
+        }
+      ],
+      "asrRepair": null,
+      "issues": []
+    },
+    {
+      "id": "ownership-backfill-0",
+      "title": "Ownership Podcast S2 E01: Tim (The Syndicate)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E01-Tim-The-Syndicate-e3purr9",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/126889257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F3c2103ee-144e-bb93-f807-a7eabec83841.mp3",
+      "expectedBytes": 71682348,
+      "feedDuration": "00:49:46",
+      "file": "ownership-backfill-0.mp3",
+      "audioSha256": "7b4687f20c6a9ab8e0dacc0d12ff506f3dd1244d69db3141edcd4df5850ce234",
+      "decodedDurationSeconds": 2986.7624375,
+      "researchTranscriptSha256": "43a6571208fe8ebce893bd2ee2bbe72358ba8ab19b4cce8716c8a3b6f600e7c0",
+      "publishedSegmentsSha256": "9893de2f255a43faf1a6ce3c52d1e036a19a30af611af548fd40587f078bcad1",
+      "segmentCount": 112,
+      "terminologyCorrections": [
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 0,
+          "start": 1.36,
+          "original": "Podcast episode it's been a while since we've recorded one The meta-doubt ecosystem has been a little bit quiet, but I think There's some excitement coming and I think this is a great way to start it off to kick it off again Today I'm joined by none other by NFTIM NFTIM is joining us from the syndicate. He's building a gaming product Which is very very unique, you know",
+          "replacement": "Podcast episode it's been a while since we've recorded one The MetaDAO ecosystem has been a little bit quiet, but I think There's some excitement coming and I think this is a great way to start it off to kick it off again Today I'm joined by none other by NFTIM NFTIM is joining us from the syndicate. He's building a gaming product Which is very very unique, you know",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        },
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 14,
+          "start": 416.19,
+          "original": "and the more terribly you hold, the more terribly you dominate, the higher the leaderboard you go, and the higher the leaderboard you go, the more you earn. So anyone can sign up, it is completely free to play, you can go to www.thesyndicate.games.games. And you can sign up right now.",
+          "replacement": "and the more terribly you hold, the more terribly you dominate, the higher the leaderboard you go, and the higher the leaderboard you go, the more you earn. So anyone can sign up, it is completely free to play, you can go to www.thesyndicate.games. And you can sign up right now.",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        },
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 50,
+          "start": 1372.61,
+          "original": "hopefully live of you are raising on backable also known as a frittario Which is the permission this launch pad of of of metadata So I'd love to hear your whole thought process I believe you may have been critical of metadata or like skeptical I think is probably the right word here of of metadata previously, so I'd love to hear what made you switch your your stance on that and",
+          "replacement": "hopefully live of you are raising on Backable also known as a Futardio Which is the permission this launch pad of of of MetaDAO So I'd love to hear your whole thought process I believe you may have been critical of MetaDAO or like skeptical I think is probably the right word here of of MetaDAO previously, so I'd love to hear what made you switch your your stance on that and",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        },
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 57,
+          "start": 1559.41,
+          "original": "have some sort of a stake in it. And then we realized that with Metadow, we can kind of have or with backable or you know ownership tokens, we can kind of have the best of both worlds where we can have the power and the strength of the distribution that comes with people holding a token related to a product, but then actually have something that's more than just air behind it. And actually that our community",
+          "replacement": "have some sort of a stake in it. And then we realized that with MetaDAO, we can kind of have or with Backable or you know ownership tokens, we can kind of have the best of both worlds where we can have the power and the strength of the distribution that comes with people holding a token related to a product, but then actually have something that's more than just air behind it. And actually that our community",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        },
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 61,
+          "start": 1655.54,
+          "original": "that isn't just a ponzi token. A gaming token that isn't earned in the game, you won't be able to earn our backable token in this indicate. You won't, but you will be able to have a stake in what we're building and what we're growing. And even bigger than that, and even more exciting than that for me was, when we were having conversations about whether we should raise this way, it was also at the same time as us talking about as a company,",
+          "replacement": "that isn't just a ponzi token. A gaming token that isn't earned in the game, you won't be able to earn our Backable token in The Syndicate. You won't, but you will be able to have a stake in what we're building and what we're growing. And even bigger than that, and even more exciting than that for me was, when we were having conversations about whether we should raise this way, it was also at the same time as us talking about as a company,",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        },
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 70,
+          "start": 1890.43,
+          "original": "other people participating governance outside of your control that some people may find it scary but I think what I find yeah go ahead. No sorry I don't want to interrupt you I was going to say for me that was a scary part and I think that came mainly from a lack of understanding about the way that ownership coins work or certainly the way the metadata was built out there ecosystem of ownership coins and Futaki I kind of just had this",
+          "replacement": "other people participating governance outside of your control that some people may find it scary but I think what I find yeah go ahead. No sorry I don't want to interrupt you I was going to say for me that was a scary part and I think that came mainly from a lack of understanding about the way that ownership coins work or certainly the way the MetaDAO was built out there ecosystem of ownership coins and futarchy I kind of just had this",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        },
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 74,
+          "start": 2008.27,
+          "original": "doesn't really matter about the down period because you know that there can be a further time when you go on and do better. And I think I was concerned about that. I would say, though, chatting with the meta-doubting, chatting with other people who I know who are incredibly bullish and excited about ownership tokens really started to help me realize the immense benefits that come with it that outweigh the negatives. And actually, the education that is",
+          "replacement": "doesn't really matter about the down period because you know that there can be a further time when you go on and do better. And I think I was concerned about that. I would say, though, chatting with the MetaDAO, chatting with other people who I know who are incredibly bullish and excited about ownership tokens really started to help me realize the immense benefits that come with it that outweigh the negatives. And actually, the education that is",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        },
+        {
+          "resourceId": "ownership-backfill-0",
+          "index": 111,
+          "start": 2968.03,
+          "original": "Thank you. Yeah, thank you to the audience for tuning in and I want to thank also Metadeal for sponsoring this episode and making all this possible. And I guess I'll see you guys next time. Goodbye.",
+          "replacement": "Thank you. Yeah, thank you to the audience for tuning in and I want to thank also MetaDAO for sponsoring this episode and making all this possible. And I guess I'll see you guys next time. Goodbye.",
+          "reason": "Targeted project-name and governance-term spelling in surrounding context. Backable/Futardio history preserved; website spelling matches project registry."
+        }
+      ],
+      "asrRepair": null,
+      "issues": []
+    },
+    {
+      "id": "ownership-backfill-1",
+      "title": "Ownership Podcast S1 E12: Tony (Epicentral)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E12-Tony-Epicentral-e3mashp",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/123088889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-20%2Ffae538c1-881f-5455-b8d2-39fe05b1f658.mp3",
+      "expectedBytes": 64241212,
+      "feedDuration": "00:44:36",
+      "file": "ownership-backfill-1.mp3",
+      "audioSha256": "70dee28c5b5779f0801ed906c18e8019e9a8e4d458d57ae8e85301149afd5725",
+      "decodedDurationSeconds": 2676.715125,
+      "researchTranscriptSha256": "b69cdb4162f89944d369e6a213663cacca8adc74c5b4ec6319372189174b6b49",
+      "publishedSegmentsSha256": "76445a2b49fdd9b4bd8771052d3cce5f35d877a6ca508848480df8a8a5ab771f",
+      "segmentCount": 100,
+      "terminologyCorrections": [
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 0,
+          "start": 2.58,
+          "original": "Hey everyone, this is David Penis at our ownership podcast. And today we have a very special guest on the show, somebody who I've known for quite some time now, somebody who I've been very bullish on, pretty much ever since I've known him. And...",
+          "replacement": "Hey everyone, this is 8bitpenis at our ownership podcast. And today we have a very special guest on the show, somebody who I've known for quite some time now, somebody who I've been very bullish on, pretty much ever since I've known him. And...",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 1,
+          "start": 34.51,
+          "original": "I'll just let him introduce himself. We have Tony here from epicentral just as a background and like as a disclaimer ownership incubator is incubating epicentral so we officially do endorsion. Appessential and Tony and his journey. So hey Tony how you doing? How you feeling?",
+          "replacement": "I'll just let him introduce himself. We have Tony here from Epicentral just as a background and like as a disclaimer ownership incubator is incubating Epicentral so we officially do endorsion. Epicentral and Tony and his journey. So hey Tony how you doing? How you feeling?",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 23,
+          "start": 631.2,
+          "original": "I'd love to hear a little bit more about not just what others have done wrong, but what Epic Central is doing, you know, in a different, differently, you know? How are you guys in the different than all the other platforms? Yeah, definitely. That's a good question. So, as I previously mentioned, like, and when I say options have failed, doesn't mean that they've completely failed. It's just that they're not...",
+          "replacement": "I'd love to hear a little bit more about not just what others have done wrong, but what Epicentral is doing, you know, in a different, differently, you know? How are you guys in the different than all the other platforms? Yeah, definitely. That's a good question. So, as I previously mentioned, like, and when I say options have failed, doesn't mean that they've completely failed. It's just that they're not...",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 34,
+          "start": 917.78,
+          "original": "in crypto period because that requires margin that's called under collateralized options and if it goes south you get liquidated on money you don't own and so we don't have a way to margin call different wallets on the blockchain it just doesn't work that way it would require some kind of centralized process of some kind but if we want to build a platform it's like epistential that's non-custodial and has something like this where virtually any token can have its own option contract",
+          "replacement": "in crypto period because that requires margin that's called under collateralized options and if it goes south you get liquidated on money you don't own and so we don't have a way to margin call different wallets on the blockchain it just doesn't work that way it would require some kind of centralized process of some kind but if we want to build a platform it's like Epicentral that's non-custodial and has something like this where virtually any token can have its own option contract",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 43,
+          "start": 1169.14,
+          "original": "Maybe it's collateral for something or maybe someone wants to kind of trade that between different wallets. Maybe they want to transfer positions. Maybe we want to create privacy related things with that. And that's something that I'm really excited about is the salon option standard is the standard for salon options. That's literally in the name. So it's designed for seamless integration with other protocols. The way I envision that central is",
+          "replacement": "Maybe it's collateral for something or maybe someone wants to kind of trade that between different wallets. Maybe they want to transfer positions. Maybe we want to create privacy related things with that. And that's something that I'm really excited about is the Solana option standard is the standard for Solana options. That's literally in the name. So it's designed for seamless integration with other protocols. The way I envision that central is",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 62,
+          "start": 1632.53,
+          "original": "There's essentially nothing that translates over to even the existing option protocols today off that material. So, yeah, the education is a really big deal and something I really definitely want to focus on as well. It's definitely going to be a very important role in Epic Central is educating people about this because the best thing that could happen is we create a chain of chain reaction of different option protocols popping up here and there trying to do the same thing.",
+          "replacement": "There's essentially nothing that translates over to even the existing option protocols today off that material. So, yeah, the education is a really big deal and something I really definitely want to focus on as well. It's definitely going to be a very important role in Epicentral is educating people about this because the best thing that could happen is we create a chain of chain reaction of different option protocols popping up here and there trying to do the same thing.",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 79,
+          "start": 2100,
+          "original": "and it's the perfect tool for something like this. So, yeah. We've talked about options. We've talked about how our Y options have failed so far and why you think Epic Central is going to do it differently or why Epic Central is different. We've also kind of hinted at what the future is going to be for Epic Central. But if you could just give us a",
+          "replacement": "and it's the perfect tool for something like this. So, yeah. We've talked about options. We've talked about how our Y options have failed so far and why you think Epicentral is going to do it differently or why Epicentral is different. We've also kind of hinted at what the future is going to be for Epicentral. But if you could just give us a",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 86,
+          "start": 2303.28,
+          "original": "How will options generate revenue for Epic Central? Like, how do you plan? Are there any plans on exactly how you're going to monetize the business? Or is that to be decided? Do you have any plans for that? Yeah, absolutely. I'm not really talking about projecting revenue, just revenue streams themselves and what would you like?",
+          "replacement": "How will options generate revenue for Epicentral? Like, how do you plan? Are there any plans on exactly how you're going to monetize the business? Or is that to be decided? Do you have any plans for that? Yeah, absolutely. I'm not really talking about projecting revenue, just revenue streams themselves and what would you like?",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 98,
+          "start": 2623.57,
+          "original": "You know for doing this a pleasure. I also want you to give thanks to Medadow for sponsoring ownership and and helping us Not only start out but keep keep this whole media company going and I wouldn't give the same type of thing to Umbra privacy Go check out ombra as well and if you're listening to this they're an awesome team with a great mission",
+          "replacement": "You know for doing this a pleasure. I also want you to give thanks to MetaDAO for sponsoring ownership and and helping us Not only start out but keep keep this whole media company going and I wouldn't give the same type of thing to Umbra privacy Go check out Umbra as well and if you're listening to this they're an awesome team with a great mission",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        },
+        {
+          "resourceId": "ownership-backfill-1",
+          "index": 99,
+          "start": 2652.46,
+          "original": "to make crypto private again. And it's a great wall. I recommend everybody to try it out. And again, thank you, Meddow. Thank you, Tony. And thank you, Umbra. And thank you to the audience, to listening to this episode. I'll see you guys in the next one. Goodbye. Bye-bye.",
+          "replacement": "to make crypto private again. And it's a great wall. I recommend everybody to try it out. And again, thank you, MetaDAO. Thank you, Tony. And thank you, Umbra. And thank you to the audience, to listening to this episode. I'll see you guys in the next one. Goodbye. Bye-bye.",
+          "reason": "Targeted publisher-confirmed guest/company/host names and Solana terminology in reviewed passages. DevNet and projected Mainnet statements retained as spoken claims."
+        }
+      ],
+      "asrRepair": null,
+      "issues": []
+    },
+    {
+      "id": "ownership-backfill-5",
+      "title": "Ownership Podcast S1 E8: Arad (Lightcone)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S1-E8-Arad-Lightcone-e3jse3e",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/120518190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-25%2F424856813-44100-2-43a5b9b71a0a2.m4a",
+      "expectedBytes": 50188620,
+      "feedDuration": "00:51:43",
+      "file": "ownership-backfill-5.m4a",
+      "audioSha256": "b2c5f3c988980ea546ecb14fb66516bead42f6fff6f9619c898f87f1292bfe3b",
+      "decodedDurationSeconds": 3103.2540625,
+      "researchTranscriptSha256": "d6278b9e9a0550c69ee3d8cb829145ac8ad0a0fd5545197a5c9d509df13dcb96",
+      "publishedSegmentsSha256": "c1c82f5682959c009b5860b156438c0060b279c17d02accccef3b9c26a3f42f1",
+      "segmentCount": 113,
+      "terminologyCorrections": [
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 1,
+          "start": 41.14,
+          "original": "Cool, thanks for having me. I mean, I don't like to do introductions, to be honest with you. Let's keep it vague. But as for history, I would say. But yeah, I'm the co-founder of Lightcone. I have been very much involved in Medadow for the past more than...",
+          "replacement": "Cool, thanks for having me. I mean, I don't like to do introductions, to be honest with you. Let's keep it vague. But as for history, I would say. But yeah, I'm the co-founder of Lightcone. I have been very much involved in MetaDAO for the past more than...",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 2,
+          "start": 65.14,
+          "original": "Is it more than two years now? Yeah, it's more than two years. So I created proposals, traded proposals, bothered, profit and call in way too much, et cetera, et cetera. And yeah, I would say future key and now, like on an impact markets have been together my obsession over the past two years. So, big fan of the pod and happy to be here.",
+          "replacement": "Is it more than two years now? Yeah, it's more than two years. So I created proposals, traded proposals, bothered, Proph3t and Kollan way too much, et cetera, et cetera. And yeah, I would say futarchy and now, like on an impact markets have been together my obsession over the past two years. So, big fan of the pod and happy to be here.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims.",
+          "sources": [
+            "https://metadao.fi/team",
+            "https://metadao.fi/companies/avici"
+          ]
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 3,
+          "start": 90.35,
+          "original": "Yeah, thank you for that non-introduction introduction. Yeah, I, as you know, I'm also a big fan of metadata. I think I'm more, I've gotten more involved in the past one year. And so you've been here, you're more of an OG than I am. But I do wonder, how did you get started or?",
+          "replacement": "Yeah, thank you for that non-introduction introduction. Yeah, I, as you know, I'm also a big fan of MetaDAO. I think I'm more, I've gotten more involved in the past one year. And so you've been here, you're more of an OG than I am. But I do wonder, how did you get started or?",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 4,
+          "start": 115.02,
+          "original": "Where did this obsession with meta-doubt come from? Is it just an obsession with markets? Especially because the thing that you're building which we'll get to very soon like cone does It's sort of very similar to to meta-doubt in future key so was it always something that you've been obsessed about? Has have markets always been something that you found interesting what exactly is? The thing that you've kind of note snipe you",
+          "replacement": "Where did this obsession with MetaDAO come from? Is it just an obsession with markets? Especially because the thing that you're building which we'll get to very soon Lightcone does It's sort of very similar to to MetaDAO in futarchy so was it always something that you've been obsessed about? Has have markets always been something that you found interesting what exactly is? The thing that you've kind of note snipe you",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 9,
+          "start": 262.13,
+          "original": "Yeah, I would say that's What made future key immediately click for me other than just being a very cool market primitive and just as a market sky I think we all tend to think that the market has this innate wisdom in it that can just be unleashed unleashed and it often trumps the Kind of bureaucratic processes. So obviously there's there's that but yeah certainly for from personal experiences as well Do you think there's any connection?",
+          "replacement": "Yeah, I would say that's What made futarchy immediately click for me other than just being a very cool market primitive and just as a market sky I think we all tend to think that the market has this innate wisdom in it that can just be unleashed unleashed and it often trumps the Kind of bureaucratic processes. So obviously there's there's that but yeah certainly for from personal experiences as well Do you think there's any connection?",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 11,
+          "start": 300,
+          "original": "of popularity, even with its disadvantages and cons, I do think people are slowly starting to realize that that metadata is a very good way to raise money through the internet and decision markets are a very powerful primitive. And not only that, so we have that on the fundraising side and the governance side, but on a more of a trading side and a retail side, we're also trying to",
+          "replacement": "of popularity, even with its disadvantages and cons, I do think people are slowly starting to realize that that MetaDAO is a very good way to raise money through the internet and decision markets are a very powerful primitive. And not only that, so we have that on the fundraising side and the governance side, but on a more of a trading side and a retail side, we're also trying to",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 12,
+          "start": 330.19,
+          "original": "sort of seeing more of an interest for regular people in prediction markets, which is it has a lot to do with Futarkey, especially the origins because they both come from Robin Hanson. But do you see any connection between Futarkey's success and the success of prediction markets?",
+          "replacement": "sort of seeing more of an interest for regular people in prediction markets, which is it has a lot to do with futarchy, especially the origins because they both come from Robin Hanson. But do you see any connection between futarchy's success and the success of prediction markets?",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 16,
+          "start": 443.74,
+          "original": "We all felt that the attention towards future key is going to come pretty shortly after. Now, I do want to give massive credit to Prof. Colin for taking the idea of decision-marketing future key and using that as a kind of a raising capital slash",
+          "replacement": "We all felt that the attention towards futarchy is going to come pretty shortly after. Now, I do want to give massive credit to Proph3t, Kollan for taking the idea of decision-marketing futarchy and using that as a kind of a raising capital slash",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims.",
+          "sources": [
+            "https://metadao.fi/team",
+            "https://metadao.fi/companies/avici"
+          ]
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 17,
+          "start": 470.93,
+          "original": "ownership angle, which I think was not obvious in the first year of metadata. And I think most people will not have realized that that's the wedge where you can start bringing decision markets into mainstream. It was kind of obvious that the world is too early for that, or that it's going to be a very slow journey to bring about the future key, but they did a really good job in kind of using that.",
+          "replacement": "ownership angle, which I think was not obvious in the first year of MetaDAO. And I think most people will not have realized that that's the wedge where you can start bringing decision markets into mainstream. It was kind of obvious that the world is too early for that, or that it's going to be a very slow journey to bring about the futarchy, but they did a really good job in kind of using that.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 18,
+          "start": 499.07,
+          "original": "to create a new much more go-to-market-ready system that is differentiated. Did I answer the question? I think so. I think you brought up something very interesting, which is information and how these markets help surface information. In one of your articles where you criticize Futarkey,",
+          "replacement": "to create a new much more go-to-market-ready system that is differentiated. Did I answer the question? I think so. I think you brought up something very interesting, which is information and how these markets help surface information. In one of your articles where you criticize futarchy,",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 19,
+          "start": 525.2,
+          "original": "I think it's called when future key fails, is that it? Yeah. Yeah. So you basically, in that article for anybody who's listening, you basically criticized some of the meta-doubt proposals because they basically didn't, the proposals themselves didn't contain all the informations for markets to properly price those decisions. Is that correct? Am I framing that correctly?",
+          "replacement": "I think it's called when futarchy fails, is that it? Yeah. Yeah. So you basically, in that article for anybody who's listening, you basically criticized some of the MetaDAO proposals because they basically didn't, the proposals themselves didn't contain all the informations for markets to properly price those decisions. Is that correct? Am I framing that correctly?",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 25,
+          "start": 680.3,
+          "original": "kind of extract value from other people. So other people are essentially buying a mispriced asset. They have insider information. But the most important reason is the market can't assess the real EV or it can't do a best attempt at assessing the EV of the proposal. So there have been many cases in the history of metadata so far where...",
+          "replacement": "kind of extract value from other people. So other people are essentially buying a mispriced asset. They have insider information. But the most important reason is the market can't assess the real EV or it can't do a best attempt at assessing the EV of the proposal. So there have been many cases in the history of MetaDAO so far where...",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 28,
+          "start": 766.03,
+          "original": "But with meta though, with decision markets, we're kind of off-handing it. There doesn't seem to be a robust system or attempt to really standardize what does a proper proposal look like. And I think that's the point of improvement. Okay, just talking about information and how we can surface it and how decision markets use it and prediction markets use it.",
+          "replacement": "But with MetaDAO, with decision markets, we're kind of off-handing it. There doesn't seem to be a robust system or attempt to really standardize what does a proper proposal look like. And I think that's the point of improvement. Okay, just talking about information and how we can surface it and how decision markets use it and prediction markets use it.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 38,
+          "start": 1041.55,
+          "original": "raising capital, firing profit, God no, but yeah, things in our control. And then also the asset that is correlated to the company that we control, right? So if we wanted to do a fire Elon Musk market, we have to get, if metadata wanted to do that, they would have to get the approval of Tesla.",
+          "replacement": "raising capital, firing Proph3t, God no, but yeah, things in our control. And then also the asset that is correlated to the company that we control, right? So if we wanted to do a fire Elon Musk market, we have to get, if MetaDAO wanted to do that, they would have to get the approval of Tesla.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 46,
+          "start": 1231.6,
+          "original": "Is it similar to prediction markets where upon the event happening or not, you settled the trades or could you give me some insight into how that happens? Yeah, it's very hard for people to imagine. And I don't blame them. I think if you were to try to explain to someone how a decision market works in practice and how do you trade decision markets before metadata was actually live, it would have been extremely difficult. Same thing here.",
+          "replacement": "Is it similar to prediction markets where upon the event happening or not, you settled the trades or could you give me some insight into how that happens? Yeah, it's very hard for people to imagine. And I don't blame them. I think if you were to try to explain to someone how a decision market works in practice and how do you trade decision markets before MetaDAO was actually live, it would have been extremely difficult. Same thing here.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 64,
+          "start": 1755.95,
+          "original": "Sorry, I think I missed the first part. Can you repeat the question? Yeah, yeah. So do you see impact markets slash light cone as complimentary to prediction markets or more as a contender or a competitor? Yeah, I believe it's all speculation right now because the product doesn't exist and we may all be humbled. But I believe it's not. It's certainly adjacent and complimentary.",
+          "replacement": "Sorry, I think I missed the first part. Can you repeat the question? Yeah, yeah. So do you see impact markets slash Lightcone as complimentary to prediction markets or more as a contender or a competitor? Yeah, I believe it's all speculation right now because the product doesn't exist and we may all be humbled. But I believe it's not. It's certainly adjacent and complimentary.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 78,
+          "start": 2129.2,
+          "original": "I'm willing to bid up the token higher, great. I did my service, I made decision markets better. But if I, Arada, are making a proposal and I withhold some information intentionally and then I trade based on that without a good reason and then I trade based on that, I think that's minus CV. So this new one's there. So in general, with information markets, I do mind insider trading.",
+          "replacement": "I'm willing to bid up the token higher, great. I did my service, I made decision markets better. But if I, Arad, are making a proposal and I withhold some information intentionally and then I trade based on that without a good reason and then I trade based on that, I think that's minus CV. So this new one's there. So in general, with information markets, I do mind insider trading.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 81,
+          "start": 2210.05,
+          "original": "Even though insider trading can cause one prediction market or one impact market, trade better. And more accurately, I would be concerned if that becomes a pattern. And I think that's long-term bad for the accuracy of them. So that's that. I will say what I'm definitely, definitely against is mixed incentives, specifically through decision markets, since we're in a future key.",
+          "replacement": "Even though insider trading can cause one prediction market or one impact market, trade better. And more accurately, I would be concerned if that becomes a pattern. And I think that's long-term bad for the accuracy of them. So that's that. I will say what I'm definitely, definitely against is mixed incentives, specifically through decision markets, since we're in a futarchy.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        },
+        {
+          "resourceId": "ownership-backfill-5",
+          "index": 91,
+          "start": 2492.59,
+          "original": "I really hated the EVM. It was designed at a time where we had no idea what we're going to do on programmable public blockchains. Vitalik was at the time thinking we're going to do immutable legal contracts. Things have changed. Even though Vitalik has projected a lot of great things forward, I mean, he wrote about future key in 2014, if I recall, or 2016.",
+          "replacement": "I really hated the EVM. It was designed at a time where we had no idea what we're going to do on programmable public blockchains. Vitalik was at the time thinking we're going to do immutable legal contracts. Things have changed. Even though Vitalik has projected a lot of great things forward, I mean, he wrote about futarchy in 2014, if I recall, or 2016.",
+          "reason": "Targeted MetaDAO/futarchy and publisher-confirmed Lightcone/Arad spelling in reviewed contexts; preserve criticism, dates and financial claims."
+        }
+      ],
+      "asrRepair": null,
+      "issues": []
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "title": "Ownership S1 E1: Anas (FlashTrade)",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E1-Anas-FlashTrade-e3fap4m",
+      "audioUrl": "https://anchor.fm/s/10e854134/podcast/play/115745366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418425577-44100-2-d6f93b5228abe.mp3",
+      "expectedBytes": 52117837,
+      "feedDuration": "00:54:17",
+      "file": "ownership-s1-e1-anas-flashtrade.mp3",
+      "audioSha256": "3768958eb121dcf8395807bbda358b3c0817188927d36eef913c7abfee701756",
+      "decodedDurationSeconds": 3257.2938125,
+      "researchTranscriptSha256": "e73b0ac1a44be87a3be36d551f0ccd1e21569a8f4d4e99e5d63fd1b13ec21c48",
+      "publishedSegmentsSha256": "ae3dea34c7dbfd8111a3d53ed3ee0589cb977b7f07309130d316a04fa6d09445",
+      "segmentCount": 119,
+      "terminologyCorrections": [
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 0,
+          "start": 12.46,
+          "original": "Welcome to ownership the podcast where we have conversations about capital formation in crypto and beyond I'm your host a bit penis and this is season one episode one and today I'm joined by Anas how do you pronounce that even? Cool so Anas is joining us from flash trade This is the first episode of ownership",
+          "replacement": "Welcome to ownership the podcast where we have conversations about capital formation in crypto and beyond I'm your host 8bitpenis and this is season one episode one and today I'm joined by Anas how do you pronounce that even? Cool so Anas is joining us from FlashTrade This is the first episode of ownership",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 1,
+          "start": 42.99,
+          "original": "So I'm very excited about it and I think Flash is probably the perfect candidate to talk about ownership coins because they have recently converted to an ownership coin from just a regular Futaki-controlled token. Flash is a perps product on Solana and yeah, I don't want to waste any more time so let's get right into the conversation. So, Anas.",
+          "replacement": "So I'm very excited about it and I think Flash is probably the perfect candidate to talk about ownership coins because they have recently converted to an ownership coin from just a regular futarchy-controlled token. Flash is a perps product on Solana and yeah, I don't want to waste any more time so let's get right into the conversation. So, Anas.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 2,
+          "start": 73.25,
+          "original": "How was Flash Trade before TGE? So how did you get funding? What was the process like? How did the bootstrapping go? And sort of when was that even? Yep. So it all started with this dream of making an exchange at this fully permissionless and capable of handling.",
+          "replacement": "How was FlashTrade before TGE? So how did you get funding? What was the process like? How did the bootstrapping go? And sort of when was that even? Yep. So it all started with this dream of making an exchange at this fully permissionless and capable of handling.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 11,
+          "start": 300,
+          "original": "with big packages, but we basically up-skilled ourselves, which essentially helped us to run faster overall and then the biggest hurdle when you're building it, is not building it, it's maintaining. So I think that's how we were able to maintain it throughout. But overall, in terms of raw numbers, flash trade in its journey of two years, it has made more than 4.5 million dollars.",
+          "replacement": "with big packages, but we basically up-skilled ourselves, which essentially helped us to run faster overall and then the biggest hurdle when you're building it, is not building it, it's maintaining. So I think that's how we were able to maintain it throughout. But overall, in terms of raw numbers, FlashTrade in its journey of two years, it has made more than 4.5 million dollars.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 27,
+          "start": 729.17,
+          "original": "We are in defined, we are into experimentation. This is a new form of finance and it needs to be done in a much democratized way than what we have out. I think that's actually a perfect segue, the topic of democracy and then governance. Okay, so you did a token and you've been using Futarkey for it through Medi-Dow. I am curious on why go that route, like why have governance at all? Why?",
+          "replacement": "We are in defined, we are into experimentation. This is a new form of finance and it needs to be done in a much democratized way than what we have out. I think that's actually a perfect segue, the topic of democracy and then governance. Okay, so you did a token and you've been using futarchy for it through MetaDAO. I am curious on why go that route, like why have governance at all? Why?",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 32,
+          "start": 873.17,
+          "original": "acts as a guardrail where, you know, if I wanted to rug flash trade, I cannot rug it because there will be always money coming in who knows what is valuable and what is not and will try to make money off of based off that decision and not allow me to rug it. But if we were to do token based voting where I essentially as a team or if I am a guy who has a lot of money, I can",
+          "replacement": "acts as a guardrail where, you know, if I wanted to rug FlashTrade, I cannot rug it because there will be always money coming in who knows what is valuable and what is not and will try to make money off of based off that decision and not allow me to rug it. But if we were to do token based voting where I essentially as a team or if I am a guy who has a lot of money, I can",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 34,
+          "start": 928.62,
+          "original": "riding the hype I think before you guys. Yeah, I think. Before Metadow was launched, I essentially met the founder of Metadow and we had intense discussion of why if you talk is actually better than the token based market voting that we have. And we actually spent a day together in Malaysia when they had their offices there.",
+          "replacement": "riding the hype I think before you guys. Yeah, I think. Before MetaDAO was launched, I essentially met the founder of MetaDAO and we had intense discussion of why futarchy is actually better than the token based market voting that we have. And we actually spent a day together in Malaysia when they had their offices there.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 35,
+          "start": 957.95,
+          "original": "So that actually helped me a lot to understand where I might be wrong. So yeah, that is like the backstory. Yeah, I want to know a little bit more about that because I always wonder how profit and colon ownership coin pill or future key pill.",
+          "replacement": "So that actually helped me a lot to understand where I might be wrong. So yeah, that is like the backstory. Yeah, I want to know a little bit more about that because I always wonder how Proph3t and Kollan ownership coin pill or futarchy pill.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged.",
+          "sources": [
+            "https://metadao.fi/team",
+            "https://metadao.fi/companies/avici"
+          ]
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 52,
+          "start": 1432.5,
+          "original": "$150,000 worth of USDC and FAF into the LP of Metadow AMM, QDOT AMM. Yeah, I think you also mentioned revenue share. I think Flash is one of the only protocols that has revenue share, right? I think a common criticism of doing revenue share is spending the money on sharing the revenue instead of growth.",
+          "replacement": "$150,000 worth of USDC and FAF into the LP of MetaDAO AMM, QDOT AMM. Yeah, I think you also mentioned revenue share. I think Flash is one of the only protocols that has revenue share, right? I think a common criticism of doing revenue share is spending the money on sharing the revenue instead of growth.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 53,
+          "start": 1459.87,
+          "original": "Everybody loves growth. Everybody talks about growth. So why share the revenue instead of putting it back into flash trade? Yes. The interesting part about growth is like the revenue sharing is also a marketing thing if you were to look closely. Like when you are getting revenue from a token, you talk about the token. And when things grow,",
+          "replacement": "Everybody loves growth. Everybody talks about growth. So why share the revenue instead of putting it back into FlashTrade? Yes. The interesting part about growth is like the revenue sharing is also a marketing thing if you were to look closely. Like when you are getting revenue from a token, you talk about the token. And when things grow,",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 58,
+          "start": 1586.21,
+          "original": "It's a very good number and yeah, that's really really crazy. Okay. So I have an interesting question here, which is if you look back on Flash and how you guys did the fundraising and the revenue share and all and the ownership coin meta down, would you do anything differently you think?",
+          "replacement": "It's a very good number and yeah, that's really really crazy. Okay. So I have an interesting question here, which is if you look back on Flash and how you guys did the fundraising and the revenue share and all and the ownership coin MetaDAO, would you do anything differently you think?",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 66,
+          "start": 1800,
+          "original": "by itself, you know, like it becomes the tool to bring people into Flash. So that's why it essentially becomes a product. Have you found token holders helpful in that way? Because I guess it creates an army of holders who want to pump their bags and people who will be loud about Flash trade and FAF. Have you experienced that? Yes.",
+          "replacement": "by itself, you know, like it becomes the tool to bring people into Flash. So that's why it essentially becomes a product. Have you found token holders helpful in that way? Because I guess it creates an army of holders who want to pump their bags and people who will be loud about FlashTrade and FAF. Have you experienced that? Yes.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 68,
+          "start": 1850.86,
+          "original": "What would you change about Metadow and maybe Fyutarke? It could be anything from the implementation, the interface, whatever, just something that you think could be improved. I think right now Medadow is having a bit of the goal for it being a protocol for governance or a launchpad. There seems to be a bit of",
+          "replacement": "What would you change about MetaDAO and maybe futarchy? It could be anything from the implementation, the interface, whatever, just something that you think could be improved. I think right now MetaDAO is having a bit of the goal for it being a protocol for governance or a launchpad. There seems to be a bit of",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 69,
+          "start": 1877.52,
+          "original": "no direction overall right now, like from my perspective as far as I've seen. So, see both things are valuable, being a launchpad is also a very valuable thing and being a place to make sure valuable products can use the governance model and then you can help them to make it more valuable. That is also one direction. And I think right now, metadata is split between two and there.",
+          "replacement": "no direction overall right now, like from my perspective as far as I've seen. So, see both things are valuable, being a launchpad is also a very valuable thing and being a place to make sure valuable products can use the governance model and then you can help them to make it more valuable. That is also one direction. And I think right now, MetaDAO is split between two and there.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 71,
+          "start": 1936.56,
+          "original": "what I see from my perspective and what I think, like, if I want to change something about metadata, I can't comment on that because when it launched, I had no clue that it could have become the phenomenon to be honest because it was very hard to understand and the founders have done their hard job of propagating the idea of Yudaki.",
+          "replacement": "what I see from my perspective and what I think, like, if I want to change something about MetaDAO, I can't comment on that because when it launched, I had no clue that it could have become the phenomenon to be honest because it was very hard to understand and the founders have done their hard job of propagating the idea of futarchy.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 106,
+          "start": 2887.3,
+          "original": "make the state recognizable around the world. That is very important. Now, the way we are building the solution for flash trade is like it essentially scales with the underlying upgrade of Solana. So tomorrow if al-Glu comes and things become more faster, it basically boosts our thing that we are building on Solana itself because we are using Solana as our foundation. So the",
+          "replacement": "make the state recognizable around the world. That is very important. Now, the way we are building the solution for FlashTrade is like it essentially scales with the underlying upgrade of Solana. So tomorrow if al-Glu comes and things become more faster, it basically boosts our thing that we are building on Solana itself because we are using Solana as our foundation. So the",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 111,
+          "start": 3024.67,
+          "original": "and why are there many options which one I could choose is it basically like an asset basket or um yeah so FTP is basically an index which market makes on flash trade so the index if you take an example of FLP1 it's an index of Solana, Ethereum, Bitcoin, Zcash and USDC so it",
+          "replacement": "and why are there many options which one I could choose is it basically like an asset basket or um yeah so FTP is basically an index which market makes on FlashTrade so the index if you take an example of FLP1 it's an index of Solana, Ethereum, Bitcoin, Zcash and USDC so it",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        },
+        {
+          "resourceId": "ownership-s1-e1-anas-flashtrade",
+          "index": 118,
+          "start": 3226.42,
+          "original": "So that's what we're trying to do. Nice. OK, that's a perfect, I think that's a perfect one to wrap up the episode. Thank you, Anas, for joining us today. And for anybody tuning in, thank you for listening. And I also want to give a shout out and thank you to Matta Dow for sponsoring the episode. And I guess I'll see you guys in the next episode.",
+          "replacement": "So that's what we're trying to do. Nice. OK, that's a perfect, I think that's a perfect one to wrap up the episode. Thank you, Anas, for joining us today. And for anybody tuning in, thank you for listening. And I also want to give a shout out and thank you to MetaDAO for sponsoring the episode. And I guess I'll see you guys in the next episode.",
+          "reason": "Publisher-confirmed FlashTrade and host spelling; MetaDAO/futarchy normalized in reviewed governance contexts. Financial figures and other uncertain terms unchanged."
+        }
+      ],
+      "asrRepair": {
+        "start": 1092.91,
+        "end": 1122.74,
+        "method": "small.en CPU int8 beam5 VAD disabled; targeted machine repair, not manual listening",
+        "repairSha256": "29752ed152d8c6f314b17f2d372f1358399bb6d5eb3a71c5899b22a66679e699",
+        "original": {
+          "start": 1092.91,
+          "end": 1122.74,
+          "text": "to become an ownership coin and not just a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+        },
+        "replacement": {
+          "start": 1092.91,
+          "end": 1122.74,
+          "text": "to become an ownership coin and not just a protocol governed by futarchy. See, one interesting thing that a lot of people might take it as a different direction is like, at Flash we do things that make more sense for us than others. That is what we do a lot of times. So essentially the ownership thing that we did is like more of a better legal structure for FlashTrade than we had before. Because the legal structure that we had before was between."
+        },
+        "rawSegments": [
+          {
+            "start": 1092.91,
+            "end": 1095.27,
+            "text": " to become an ownership coin and not just"
+          },
+          {
+            "start": 1095.27,
+            "end": 1098.47,
+            "text": " a protocol governed by FutarKey."
+          },
+          {
+            "start": 1098.47,
+            "end": 1101.79,
+            "text": " See, one interesting thing that a lot of people"
+          },
+          {
+            "start": 1101.79,
+            "end": 1104.79,
+            "text": " might take it as a different direction is like,"
+          },
+          {
+            "start": 1104.79,
+            "end": 1108.95,
+            "text": " at Flash we do things that make more sense for us than others."
+          },
+          {
+            "start": 1108.95,
+            "end": 1110.39,
+            "text": " That is what we do a lot of times."
+          },
+          {
+            "start": 1110.39,
+            "end": 1113.43,
+            "text": " So essentially the ownership thing that we did is like"
+          },
+          {
+            "start": 1113.43,
+            "end": 1118.03,
+            "text": " more of a better legal structure for flash trade than we had before."
+          },
+          {
+            "start": 1118.03,
+            "end": 1121.83,
+            "text": " Because the legal structure that we had before was"
+          },
+          {
+            "start": 1121.83,
+            "end": 1122.67,
+            "text": " between."
+          }
+        ]
+      },
+      "issues": []
+    }
+  ],
+  "amountRecheck": {
+    "resourceId": "res-260",
+    "start": 235,
+    "end": 280,
+    "model": "small.en CPU int8 beam5 VAD disabled; targeted machine recheck, not manual listening",
+    "segments": [
+      {
+        "start": 235,
+        "end": 241.08,
+        "text": " Colin was like, it's sort of out of your hand, so it doesn't matter, but luckily we were able to"
+      },
+      {
+        "start": 241.72,
+        "end": 248.2,
+        "text": " get decent amount of commitment and we chose to go with 750k out of which some goes to"
+      },
+      {
+        "start": 248.2,
+        "end": 254.52,
+        "text": " liquidity and respose to treasury. The whole procedure, if I have to summarize, would be like"
+      },
+      {
+        "start": 254.52,
+        "end": 263.4,
+        "text": " the days itself are sort of anxious, but overall it has been very, very well from the expectations"
+      },
+      {
+        "start": 263.4,
+        "end": 267.64,
+        "text": " that I had. It hasn't been over the expectation, the performance regarding the mechanism itself"
+      },
+      {
+        "start": 267.64,
+        "end": 274.92,
+        "text": " of Futaki. And the second thing, which is like metadour praise. So both have worked really well"
+      },
+      {
+        "start": 274.92,
+        "end": 279.64,
+        "text": " for us. And did you always want to do a token?"
+      }
+    ]
+  }
+}

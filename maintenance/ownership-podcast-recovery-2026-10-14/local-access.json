@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-14T21:45:46.864Z",
+  "base": "http://127.0.0.1:3010",
+  "scopeCounts": {
+    "all": 623,
+    "historical": 23,
+    "everything": 640
+  },
+  "mediaCount": 167,
+  "withNotes": 124,
+  "withTranscripts": 65,
+  "excludedMedia": [
+    "res-198",
+    "res-205",
+    "tributary-archive-5ec2281509",
+    "tributary-archive-67aabeadbb",
+    "tributary-archive-19521722ff",
+    "video-review-655a326d6c774361364955"
+  ],
+  "requestCount": 473,
+  "failures": [],
+  "newTranscriptPayloadsMatched": 8,
+  "previousTranscriptsUnchanged": 57,
+  "validation": {
+    "tests": 49,
+    "check": "passed",
+    "build": "passed"
+  }
+}

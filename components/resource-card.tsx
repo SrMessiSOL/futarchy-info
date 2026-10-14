@@ -42,20 +42,7 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
     }
   }
 
-  const getTypeColor = () => {
-    switch (resource.type) {
-      case "paper":
-        return "bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300"
-      case "podcast":
-        return "bg-violet-50 text-violet-700 dark:bg-violet-950 dark:text-violet-300"
-      case "video":
-        return "bg-rose-50 text-rose-700 dark:bg-rose-950 dark:text-rose-300"
-      case "news":
-        return "bg-amber-50 text-amber-800 dark:bg-amber-950 dark:text-amber-300"
-      default:
-        return "bg-emerald-50 text-emerald-700 dark:bg-emerald-950 dark:text-emerald-300"
-    }
-  }
+  const getTypeColor = () => "bg-muted text-foreground border-border"
 
   const Icon = getIcon()
 

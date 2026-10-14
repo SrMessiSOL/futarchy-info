@@ -36,4 +36,9 @@ test('production deployment validates on main and retains manual deployment',()=
   assert.ok('workflow_dispatch' in doc.on);
   const steps=doc.jobs.deploy.steps;
   assert.ok(steps.findIndex(s=>s.run==='npm run check')<steps.findIndex(s=>s.id==='deploy'));
+  const commands=steps.filter(s=>/vercel.*(?:pull|build|deploy)/.test(s.run??'')).map(s=>s.run);
+  assert.equal(commands.length,3);
+  const versions=commands.map(command=>command.match(/npx --yes vercel@(\d+\.\d+\.\d+) /)?.[1]);
+  assert.ok(versions.every(Boolean),'All Vercel commands must use an exact version');
+  assert.equal(new Set(versions).size,1,'Pull, build and deploy must use the same CLI version');
 });

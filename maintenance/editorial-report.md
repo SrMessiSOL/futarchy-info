@@ -1,3 +1,13 @@
+## Remaining transcript terminology — October 13, 2026
+
+Reprocessed all 12 selected outstanding passages from official recording audio with medium.en, without a spelling prompt. Compared the machine output with the original segments and nearby discussion. Seven segments in six transcripts received supported contextual corrections: Umbra's “Pranay and Cal” (the official hub confirms Pranay's spelling; Cal's identity is not expanded), Loyal's “futarchy-pilled” question and split MetaDAO name, JurassicFi in Radio #6 and #11, MetaDAO in Forum #1, and futarchy in Report #16. Report #16 audio was newly recovered from the official YouTube upload; the original caption hashes remain intact.
+
+Six passages remain unresolved: Radio #1 at 38:04, Radio #10 at 1:16:39 and 1:42:35, Radio #17 at 8:12, Radio #24 at 1:01:22, and Radio #6 at 1:07:55. Their text remains unchanged because re-transcription did not establish reliable wording. The first is still confused with “metadata”; the others include garbled compounds, platform references, participant greetings and a legal-framework name. See maintenance/remaining-audio-review-2026-10-13/decisions.json for decisions and audio-rechecks.json for exact machine outputs and recording hashes. The old Umbra queue pointed to the preceding segment; the actual name phrase starts at 168.05 seconds.
+
+This is targeted ASR and editorial comparison, not manual listening or a fresh review of every word. User decisions on the five listening clips, including Loyal's circulating-token wording and tentative Arihant name, are preserved. Catalog records, dates, funding classifications and publication scope are unchanged. PR #24's automatic deployment succeeded and all 57 live transcript JSON/text endpoints matched the merged version before starting this pass. New corrections await PR review.
+
+Validation: npm run check passes (content validation, 44 tests and TypeScript); npm run build passes.
+
 ## Transcript quality audit — October 12, 2026
 
 Scanned all 57 published transcripts (55,588 original segments across 89.52 recording hours). This is structural and repetition triage, not a full manual listening or factual review. Re-transcribed 17 severe repetition intervals across ten recordings from hash-matched original audio, using non-batched base.en beam 3. Compared replacement text for removal of loops; names, amounts and speaker attribution remain unverified. Sorted seven transcripts by existing segment timestamps without changing timestamp values. Evidence, original segment hashes and before/after scans are retained in maintenance/transcript-quality-2026-10-12.

@@ -1,3 +1,9 @@
+## Founder transcript quality and navigation — October 14, 2026
+
+Read all 447 generated segments of the MetaDAO/Proph3t, Laso/Hunter, Paystream/Maushish and The Syndicate/Tim interviews. Corrected 103 segments and added 51 timestamped topic entries. Reprocessed 13 selected audio clips totaling 608 seconds with local small.en; this is machine re-recognition, not full human listening or independent verification. Paystream's garbled 75tk is now 750k, supported by the targeted recheck and host introduction. Remaining ambiguous figures, names and a negation are explicitly flagged rather than guessed.
+
+The source-audio and original research hashes remain intact. maintenance/founder-quality-2026-10-14 contains before/after evidence, raw targeted rechecks, review limits and local endpoint results. Tests reconstruct the previous published edition and validate current hashes. Guides distinguish speaker claims and plans from verified outcomes; product/funding classifications and publication gates are unchanged. The 43 recordings without notes remain a separate backlog.
+
 ## Remaining transcript terminology — October 13, 2026
 
 Reprocessed all 12 selected outstanding passages from official recording audio with medium.en, without a spelling prompt. Compared the machine output with the original segments and nearby discussion. Seven segments in six transcripts received supported contextual corrections: Umbra's “Pranay and Cal” (the official hub confirms Pranay's spelling; Cal's identity is not expanded), Loyal's “futarchy-pilled” question and split MetaDAO name, JurassicFi in Radio #6 and #11, MetaDAO in Forum #1, and futarchy in Report #16. Report #16 audio was newly recovered from the official YouTube upload; the original caption hashes remain intact.

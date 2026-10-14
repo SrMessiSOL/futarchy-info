@@ -282037,7 +282037,7 @@
     "audioSha256": "cd1415664b11acaeb55e89204dccec7e51af0a59053bb3c5a170323efe9170c7",
     "researchTranscriptSha256": "85dc40cbce3a29d155ff712401d2c968524fbdd42afc5aa6f7cac9a4ba3ce588",
     "warning": "Machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. Not a verified verbatim record.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "timestampAdjustments": "Floating-point timestamp artifacts normalized to microsecond precision; overrun end times clipped to measured decoded audio duration with originalEnd retained; segments starting beyond duration omitted.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -282089,7 +282089,7 @@
       {
         "start": 272.29,
         "end": 300,
-        "text": "I generally call I don't use the word for you, Tarki anymore, just because I think it sounds too much like a alien space technology as opposed to a commercial thing. Although other people are obviously welcome to use that term. But yeah, so the way I generally explain decision markets is be an example. So imagine Apple is deciding whether to fire the CEO who's Tim Cook. Today, that's a board of directors that makes that decision right."
+        "text": "I generally call I don't use the word futarchy anymore, just because I think it sounds too much like a alien space technology as opposed to a commercial thing. Although other people are obviously welcome to use that term. But yeah, so the way I generally explain decision markets is be an example. So imagine Apple is deciding whether to fire the CEO who's Tim Cook. Today, that's a board of directors that makes that decision right."
       },
       {
         "start": 300,
@@ -282104,7 +282104,7 @@
       {
         "start": 357.31,
         "end": 386.85,
-        "text": "And then, yeah, you take both of these, the prices of both these markets. So like, if Apple stock is worth $110 in the, if you fire some cook market and $100 if you don't, and if you don't market, then that's the market sending a signal, hey, Apple would be more valuable as a company if we got rid of this current CEO. And so, and so you can use that as information to make the decision or to directly make the decision."
+        "text": "And then, yeah, you take both of these, the prices of both these markets. So like, if Apple stock is worth $110 in the, if you fire Tim Cook market and $100 if you don't, and if you don't market, then that's the market sending a signal, hey, Apple would be more valuable as a company if we got rid of this current CEO. And so, and so you can use that as information to make the decision or to directly make the decision."
       },
       {
         "start": 386.85,
@@ -282274,12 +282274,12 @@
       {
         "start": 1260.03,
         "end": 1288.34,
-        "text": "the obvious thing to build is a governance platform. So yeah, we spent like about a year focused on that. Yeah, so you guys spent a year and working on a few Turkey. You got a bunch of dows trying it out. But what I am wondering is how did you guys arrive at the conclusion that yes, we do have to make something more, something that uses"
+        "text": "the obvious thing to build is a governance platform. So yeah, we spent like about a year focused on that. Yeah, so you guys spent a year and working on futarchy. You got a bunch of DAOs trying it out. But what I am wondering is how did you guys arrive at the conclusion that yes, we do have to make something more, something that uses"
       },
       {
         "start": 1288.34,
         "end": 1318.77,
-        "text": "this few Turkey that we've been working on for so long. How did you guys arrive at the conclusion that, okay, we're going to make a launch bet. Is it something that you as an investor, as a trader, as a crypto participant experienced, was this an opportunity that you thought was a good opportunity because there was a hole in the market? Or, yeah. Yeah. So we didn't really find PMF. I think that was"
+        "text": "this futarchy that we've been working on for so long. How did you guys arrive at the conclusion that, okay, we're going to make a launchpad. Is it something that you as an investor, as a trader, as a crypto participant experienced, was this an opportunity that you thought was a good opportunity because there was a hole in the market? Or, yeah. Yeah. So we didn't really find PMF. I think that was"
       },
       {
         "start": 1319.18,
@@ -282309,7 +282309,7 @@
       {
         "start": 1456.88,
         "end": 1481.71,
-        "text": "Mental gymnastics that tokens had done before I'm at a doubt and and so That is something I'm also curious about like where did the idea of? of an ownership coin come from like this this name has stuck with you guys and and so so I'm wondering where did I come from and yeah?"
+        "text": "Mental gymnastics that tokens had done before MetaDAO and and so That is something I'm also curious about like where did the idea of? of an ownership coin come from like this this name has stuck with you guys and and so so I'm wondering where did I come from and yeah?"
       },
       {
         "start": 1482.32,
@@ -282394,7 +282394,7 @@
       {
         "start": 1913.44,
         "end": 1941.46,
-        "text": "and that signal is like you, if things aren't working out or if we're trying to like rug, which is a broad term that encompasses both hard rugs and slow rugs, then you can get your piranha share of the money back. I think one very interesting point you touched on was that there's a big adverse selection in crypto. Yeah. And that that is a huge problem of"
+        "text": "and that signal is like you, if things aren't working out or if we're trying to like rug, which is a broad term that encompasses both hard rugs and slow rugs, then you can get your pro rata share of the money back. I think one very interesting point you touched on was that there's a big adverse selection in crypto. Yeah. And that that is a huge problem of"
       },
       {
         "start": 1941.78,
@@ -282414,7 +282414,7 @@
       {
         "start": 2030.38,
         "end": 2060.11,
-        "text": "We have a much, I think, MedDOT itself. We had an early stage token, which is pretty unconventional in crypto. And I think it's increased our probability of success that we have people who are aligned with MedDOT on one MedDOT on a win financially. And so I think that is a huge unlock. There is this problem of like, it's not like we have"
+        "text": "We have a much, I think, MetaDAO itself. We had an early stage token, which is pretty unconventional in crypto. And I think it's increased our probability of success that we have people who are aligned with MetaDAO on one MetaDAO on a win financially. And so I think that is a huge unlock. There is this problem of like, it's not like we have"
       },
       {
         "start": 2060.11,
@@ -282489,7 +282489,7 @@
       {
         "start": 2427.33,
         "end": 2455.25,
-        "text": "can be in the proposal you stipulate who those are going to or like the terms of of that transaction or it can be That you give yourself or someone discretion to like sell them on the projects behalf and But but maybe at some terms like maybe it has to be it as specific T. Wop time I'd average price So yeah, it's pretty simple I think"
+        "text": "can be in the proposal you stipulate who those are going to or like the terms of of that transaction or it can be That you give yourself or someone discretion to like sell them on the projects behalf and But but maybe at some terms like maybe it has to be it as specific TWAP, time-weighted average price So yeah, it's pretty simple I think"
       },
       {
         "start": 2457.42,
@@ -282584,7 +282584,7 @@
       {
         "start": 2960.06,
         "end": 2987.89,
-        "text": "I mean, maybe we actually don't need these buybacks to happen to be a proposal at all. Maybe we just, like one idea is we just get rid of community proposals or we make them like very hard and we just have the team can raise proposals and we have some rug committee, which is maybe just like the MedDOT team today or maybe some like broader cohort of people that can all raise proposals if there's been like an outright rug."
+        "text": "I mean, maybe we actually don't need these buybacks to happen to be a proposal at all. Maybe we just, like one idea is we just get rid of community proposals or we make them like very hard and we just have the team can raise proposals and we have some rug committee, which is maybe just like the MetaDAO team today or maybe some like broader cohort of people that can all raise proposals if there's been like an outright rug."
       },
       {
         "start": 2987.89,
@@ -282604,7 +282604,7 @@
       {
         "start": 3055.34,
         "end": 3085.98,
-        "text": "flippers trying to exit from the market or the ICA immediately, is this something that's on the ICO side? Like, where do these keep happening? Yeah. I think Bivax are like a very nuanced topic that most people who have public opinions on don't, haven't done enough, who basic math or just like thought about the system enough to have a public opinion on?"
+        "text": "flippers trying to exit from the market or the ICO immediately, is this something that's on the ICO side? Like, where do these keep happening? Yeah. I think buybacks are like a very nuanced topic that most people who have public opinions on don't, haven't done enough, who basic math or just like thought about the system enough to have a public opinion on?"
       },
       {
         "start": 3085.98,
@@ -282639,7 +282639,7 @@
       {
         "start": 3258.35,
         "end": 3287.89,
-        "text": "You know, you used to be, as far as I know, you come from Ethereum land, or you were an Ethereum developer from, right? Yep. Yep. And so that does bring out the question of why did you guys end up choosing Solana? What was, especially when Meddao started, Solana was nowhere near in the shape that it is today. And ever since then, obviously,"
+        "text": "You know, you used to be, as far as I know, you come from Ethereum land, or you were an Ethereum developer from, right? Yep. Yep. And so that does bring out the question of why did you guys end up choosing Solana? What was, especially when MetaDAO started, Solana was nowhere near in the shape that it is today. And ever since then, obviously,"
       },
       {
         "start": 3287.89,
@@ -282649,12 +282649,12 @@
       {
         "start": 3300.05,
         "end": 3327.5,
-        "text": "Yeah, that was probably a top five decision along with rebranding to ownership coins. And the motivations were basically two. A, I was bullish on Solana and both the asset and the chain itself and B, at the time, all the important doubts were on Ethereum mainnet."
+        "text": "Yeah, that was probably a top five decision along with rebranding to ownership coins. And the motivations were basically two. A, I was bullish on Solana and both the asset and the chain itself and B, at the time, all the important DAOs were on Ethereum mainnet."
       },
       {
         "start": 3327.5,
         "end": 3357.25,
-        "text": "And you really just cannot run decision markets, or you couldn't run decision markets on a theory made that right like At that point even snapshot didn't put its voting on chain because it was too expensive Now we have decision markets that do Say like 20 or 40 40 trades per participant on average Like if you can't do one you can't do 40 And so yeah, Solana I think was like"
+        "text": "And you really just cannot run decision markets, or you couldn't run decision markets on Ethereum mainnet right like At that point even snapshot didn't put its voting on chain because it was too expensive Now we have decision markets that do Say like 20 or 40 40 trades per participant on average Like if you can't do one you can't do 40 And so yeah, Solana I think was like"
       },
       {
         "start": 3357.25,
@@ -282688,8 +282688,28 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "dd64fc009f6e7a0787fd24b5250e8f6583b902d2304b94f7bf14525d640616ec"
-    }
+      "publishedSegmentsSha256": "2ba215ab2a3d3ec863d695bd5d92e4d34ffc750225553787b8db8caa6d0fa50f"
+    },
+    "editorialChecks": [
+      {
+        "start": 1583.14,
+        "end": 1612.02,
+        "status": "historical-speaker-claim",
+        "note": "Vesting periods, price targets and later fundraising or governance examples are the speakers’ descriptions at recording time, not a current specification or independently verified execution.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2001.07,
+        "end": 2030.38,
+        "status": "unverified-speaker-figures",
+        "note": "Growth multiples and the name rendered Kaido remain speaker/ASR material. Targeted re-recognition is retained for comparison; it does not independently verify growth statistics.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-4",
@@ -282708,14 +282728,14 @@
     "audioSha256": "b62ab0e5af8e8546ed38ee1f30ba6cdb1292f158971d4c2bf2f0cb71387cac9b",
     "researchTranscriptSha256": "3b0ac41ded3389745d67e2e6427ec7313d3adc9569faba6f73d5cb8e2671e73e",
     "warning": "Machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. Not a verified verbatim record.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "timestampAdjustments": "Floating-point timestamp artifacts normalized to microsecond precision; overrun end times clipped to measured decoded audio duration with originalEnd retained; segments starting beyond duration omitted.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
       {
         "start": 4.82,
         "end": 42.67,
-        "text": "Hey everyone and welcome to ownership podcast. Today I'm joined by Hunter from Laso Finance. Welcome Hunter. Thank you, Ape, I really appreciate having me on here. Yeah Laso is the next MetaDAO race. The one that we've been waiting for a long time seems like it's very timely to finally have another race there. So I don't want to waste any time."
+        "text": "Hey everyone and welcome to ownership podcast. Today I'm joined by Hunter from Laso Finance. Welcome Hunter. Thank you, Ape, I really appreciate having me on here. Yeah Laso is the next MetaDAO raise. The one that we've been waiting for a long time seems like it's very timely to finally have another raise there. So I don't want to waste any time."
       },
       {
         "start": 42.67,
@@ -282730,12 +282750,12 @@
       {
         "start": 102.38,
         "end": 131.34,
-        "text": "I'm super deep into it. I'm around 2019. I joined MedUp as an engineer. And while I was there on the side was kind of building some crypto projects, just kind of for fun. One thing I noticed is back then, 2019, 2020, there really wasn't that many good crypto card options to spend them. I think it was really crypto.com was kind of the only one. Coinbase."
+        "text": "I'm super deep into it. I'm around 2019. I joined Meta as an engineer. And while I was there on the side was kind of building some crypto projects, just kind of for fun. One thing I noticed is back then, 2019, 2020, there really wasn't that many good crypto card options to spend them. I think it was really crypto.com was kind of the only one. Coinbase."
       },
       {
         "start": 131.34,
         "end": 160.46,
-        "text": "Kraken didn't have cards. Koto.com was the only one. And so I made an early version of Laso Finance under a different name that was no ID upload required, non-custodial, and built on Lightning, Bitcoin Lightning. And back then, Lightning user experience was really difficult. And so I launched that version of the card in 2020 at the Bitcoin conference. I think it was in Miami."
+        "text": "Kraken didn't have cards. Crypto.com was the only one. And so I made an early version of Laso Finance under a different name that was no ID upload required, non-custodial, and built on Lightning, Bitcoin Lightning. And back then, Lightning user experience was really difficult. And so I launched that version of the card in 2020 at the Bitcoin conference. I think it was in Miami."
       },
       {
         "start": 160.46,
@@ -282755,7 +282775,7 @@
       {
         "start": 245.2,
         "end": 271.28,
-        "text": "You can get a prepaid card to spend online, on Apple Pay, etc. And yeah, so it started that kind of in 2023. So that's been offering for about three years now. And there's certainly been offers for kind of venture capital, typical rounds along the way. And it's never quite made sense because last was profitable from day one."
+        "text": "You can get a prepaid card to spend online, on Apple Pay, etc. And yeah, so it started that kind of in 2023. So that's been offering for about three years now. And there's certainly been offers for kind of venture capital, typical rounds along the way. And it's never quite made sense because Laso was profitable from day one."
       },
       {
         "start": 271.28,
@@ -282765,7 +282785,7 @@
       {
         "start": 300,
         "end": 329.63,
-        "text": "totally divorced from the business. And that just didn't feel good. What was really important to me was that, especially the existing last-time users get to be aligned with the success of the project. And there isn't any kind of disconnect between team or investors or users taking care of the people that have been with me for three years is the top priority. So in April of this year, 2026, went to SF for the Coliseum."
+        "text": "totally divorced from the business. And that just didn't feel good. What was really important to me was that, especially the existing Laso users get to be aligned with the success of the project. And there isn't any kind of disconnect between team or investors or users taking care of the people that have been with me for three years is the top priority. So in April of this year, 2026, went to SF for the Colosseum."
       },
       {
         "start": 329.63,
@@ -282780,12 +282800,12 @@
       {
         "start": 386.16,
         "end": 415.49,
-        "text": "I noticed that it was mostly Solana wallets. Is that correct or do you have like any other wallets from other chains? Because I know I just used Soulfare, but yeah, I was wondering whether this is a Solana exclusive product at the moment and why or why not? It's not Solana exclusive. It launched originally on Ethereum, Maine, that and that's still"
+        "text": "I noticed that it was mostly Solana wallets. Is that correct or do you have like any other wallets from other chains? Because I know I just used Solflare, but yeah, I was wondering whether this is a Solana exclusive product at the moment and why or why not? It's not Solana exclusive. It launched originally on Ethereum mainnet and that's still"
       },
       {
         "start": 415.49,
         "end": 445.71,
-        "text": "I believe it's still the majority of our volume, but Ethereum may net the big EVML2's, Arbitrum-based, of Optimism, BSC, Stellar, Solana, and you can also send in Bitcoin and Lightning deposits. So it's pretty on me, chain. I'm not just Solana specific, but I will point out that Solana users are by far the highest volume per user."
+        "text": "I believe it's still the majority of our volume, but Ethereum mainnet the big EVM L2's, Arbitrum, Base, Optimism, BSC, Stellar, Solana, and you can also send in Bitcoin and Lightning deposits. So it's pretty omnichain. I'm not just Solana specific, but I will point out that Solana users are by far the highest volume per user."
       },
       {
         "start": 445.78,
@@ -282845,7 +282865,7 @@
       {
         "start": 742.19,
         "end": 772.3,
-        "text": "credit card or prepaid card or anything like that. So how does the last Odu compliance and basically what are the steps that you ensure that you stay compliant and why do you think that matters even? Yeah, well, great question. So the structure, the regulatory structure that we operate under is the same one that allows you to go to Target or Walmart or"
+        "text": "credit card or prepaid card or anything like that. So how does the Laso do compliance and basically what are the steps that you ensure that you stay compliant and why do you think that matters even? Yeah, well, great question. So the structure, the regulatory structure that we operate under is the same one that allows you to go to Target or Walmart or"
       },
       {
         "start": 772.3,
@@ -282855,7 +282875,7 @@
       {
         "start": 798.14,
         "end": 828.26,
-        "text": "And then having processes in place to reasonably prevent somebody from getting $10,000 or more of what is called prepaid access, that's like prepaid cards. Overall, it's called prepaid access. $10,000 or prepaid access in a single day. And what I am excited about is last so can can and does a better job of preventing that $10,000 limit than Target or Walmart possibly can. Like I today can go around to a bunch of targets and Walmart."
+        "text": "And then having processes in place to reasonably prevent somebody from getting $10,000 or more of what is called prepaid access, that's like prepaid cards. Overall, it's called prepaid access. $10,000 or prepaid access in a single day. And what I am excited about is Laso can can and does a better job of preventing that $10,000 limit than Target or Walmart possibly can. Like I today can go around to a bunch of targets and Walmart."
       },
       {
         "start": 828.26,
@@ -282885,12 +282905,12 @@
       {
         "start": 959.92,
         "end": 989.25,
-        "text": "invasive KOSC process. They will be accepted at higher rates at merchants and then you have that relitability essentially aspect which is a strength and so on those two factors. They are better than prepaid cards. Prepaid cards on the Laso platform are important just in terms of that maintaining the privacy. Currently today"
+        "text": "invasive KYC process. They will be accepted at higher rates at merchants and then you have that reloadability essentially aspect which is a strength and so on those two factors. They are better than prepaid cards. Prepaid cards on the Laso platform are important just in terms of that maintaining the privacy. Currently today"
       },
       {
         "start": 989.25,
         "end": 1016.59,
-        "text": "users for some cards, they don't pay any fees. We get revenue essentially off the interchange for some of the cards they do have to pay fees. So one of the goals with this, with this raises is ultimately we want to get to the user experience of spending with a credit card. And part of that is not having fees and eventually kind of having rewards. Those are kind of two gaps as well that makes last so not as quite as good of user experience on the credit card side. So."
+        "text": "users for some cards, they don't pay any fees. We get revenue essentially off the interchange for some of the cards they do have to pay fees. So one of the goals with this, with this raises is ultimately we want to get to the user experience of spending with a credit card. And part of that is not having fees and eventually kind of having rewards. Those are kind of two gaps as well that makes Laso not as quite as good of user experience on the credit card side. So."
       },
       {
         "start": 1016.85,
@@ -282900,17 +282920,17 @@
       {
         "start": 1048.4,
         "end": 1077.63,
-        "text": "Privacy is very much a hot topic now. Everybody everybody's talking about privacy seems like Two years ago nobody really cared about it too much but in the last year or so people have realized that you know privacy actually matters a lot and and the way a lot of people think that the way to solve it is with all these I don't know I'm just gonna say an example but with something like Arceum or or Umbra"
+        "text": "Privacy is very much a hot topic now. Everybody everybody's talking about privacy seems like Two years ago nobody really cared about it too much but in the last year or so people have realized that you know privacy actually matters a lot and and the way a lot of people think that the way to solve it is with all these I don't know I'm just gonna say an example but with something like Arcium or or Umbra"
       },
       {
         "start": 1077.63,
         "end": 1107.01,
-        "text": "Do you see any synergies between Laso and something like maybe RQM but not necessarily them, but something like along those lines with zero knowledge proofs or using the privacy technology to enhance the privacy of Laso? Yeah, yeah, absolutely. There are kind of new solutions like you're saying, DK Prose, RQM that"
+        "text": "Do you see any synergies between Laso and something like maybe Arcium but not necessarily them, but something like along those lines with zero knowledge proofs or using the privacy technology to enhance the privacy of Laso? Yeah, yeah, absolutely. There are kind of new solutions like you're saying, ZK proofs, Arcium that"
       },
       {
         "start": 1107.01,
         "end": 1135.12,
-        "text": "that allow you to maintain privacy in a way that really wasn't possible before. Like obviously we'd love to be able to just take a scenario or whatever. One of the difficulties with that is we can't ensure that limit, like we can't ensure all these are just really one person with that. But with kind of a CK-proose and a belief-arcing as well, you can kind of verify that this is coming from"
+        "text": "that allow you to maintain privacy in a way that really wasn't possible before. Like obviously we'd love to be able to just take a scenario or whatever. One of the difficulties with that is we can't ensure that limit, like we can't ensure all these are just really one person with that. But with kind of a ZK proofs and a believe Arcium as well, you can kind of verify that this is coming from"
       },
       {
         "start": 1135.12,
@@ -282930,7 +282950,7 @@
       {
         "start": 1200,
         "end": 1228.93,
-        "text": "risk of seizure or robbery is if your funds are in a bank. If your wallet on chain is docked, you can say, oh, I lost my private key in a voting accident, but if those coins ever move, then the jig is up. You're still bad identified. You're at the risk of seizure, risk of robbery, just the same as with your original banking system. And so being able to fully"
+        "text": "risk of seizure or robbery is if your funds are in a bank. If your wallet on chain is docked, you can say, oh, I lost my private key in a boating accident, but if those coins ever move, then the jig is up. You're still bad identified. You're at the risk of seizure, risk of robbery, just the same as with your original banking system. And so being able to fully"
       },
       {
         "start": 1228.93,
@@ -282950,7 +282970,7 @@
       {
         "start": 1316.37,
         "end": 1345.74,
-        "text": "$1,000 of volume into the platform, resulting in around $34,000, $35,000 of revenue. It represents any significant growth. And ultimately, we wouldn't even really necessarily have to raise. It's profitable. It's default to live. But there's a few different things that made raising now on Meddow make sense. One is right now,"
+        "text": "$1,000 of volume into the platform, resulting in around $34,000, $35,000 of revenue. It represents any significant growth. And ultimately, we wouldn't even really necessarily have to raise. It's profitable. It's default to live. But there's a few different things that made raising now on MetaDAO make sense. One is right now,"
       },
       {
         "start": 1345.74,
@@ -282960,22 +282980,22 @@
       {
         "start": 1374.74,
         "end": 1404.88,
-        "text": "a gift card, things like that. It seems inevitable that within 18 months, two years, a gente commerce will start being a very significant part of the market. And we want to make sure that we have the funds to execute on that as well. Right now it's just 4%. But what I'm really excited about is not the use cases we're seeing a lot right now, which is you use your agent to"
+        "text": "a gift card, things like that. It seems inevitable that within 18 months, two years, agentic commerce will start being a very significant part of the market. And we want to make sure that we have the funds to execute on that as well. Right now it's just 4%. But what I'm really excited about is not the use cases we're seeing a lot right now, which is you use your agent to"
       },
       {
         "start": 1404.88,
         "end": 1434.78,
-        "text": "like, buy tickets for your trip or something, like essentially incremental increase in consumer consumption. I think what's more exciting is using these agents to go build businesses to be kind of like a gentic entrepreneurship, build their own website, get their own hosting domain, and to do that they need all this financial tooling. Sorry, right now the agents can go and get a card to go buy domain hosting and buy ads for their, whatever their, you know, GLP one reseller website is or whatever the business is."
+        "text": "like, buy tickets for your trip or something, like essentially incremental increase in consumer consumption. I think what's more exciting is using these agents to go build businesses to be kind of like agentic entrepreneurship, build their own website, get their own hosting domain, and to do that they need all this financial tooling. Sorry, right now the agents can go and get a card to go buy domain hosting and buy ads for their, whatever their, you know, GLP one reseller website is or whatever the business is."
       },
       {
         "start": 1434.78,
         "end": 1465.65,
-        "text": "But they need all the tools. So we want to add the ability for agents to have bank accounts. They can receive funds into and send out and then also a relatable credit card bin, which which requires an enhanced KYC process. So to achieve that and to achieve the increased volume I talked about earlier that allows us to get to the point where there's no fees and you get rewards. Those are the kind of the two goals for the raise. So in the raise, you have a $750,000 minimum."
+        "text": "But they need all the tools. So we want to add the ability for agents to have bank accounts. They can receive funds into and send out and then also a reloadable credit card bin, which which requires an enhanced KYC process. So to achieve that and to achieve the increased volume I talked about earlier that allows us to get to the point where there's no fees and you get rewards. Those are the kind of the two goals for the raise. So in the raise, you have a $750,000 minimum."
       },
       {
         "start": 1465.97,
         "end": 1497.55,
-        "text": "And what that allows us to do is kind of for 18 months, cover essentially payroll for me, for a new marketing user experience role from the longtime user of WASO that I'm really excited about and upgrade our customer service side from just eight hours a day to 24 hours a day. And then executing on increasing volume through a combination of doubling down to the marketing channels that are working well, like Google PPC."
+        "text": "And what that allows us to do is kind of for 18 months, cover essentially payroll for me, for a new marketing user experience role from the longtime user of Laso that I'm really excited about and upgrade our customer service side from just eight hours a day to 24 hours a day. And then executing on increasing volume through a combination of doubling down to the marketing channels that are working well, like Google PPC."
       },
       {
         "start": 1497.55,
@@ -283005,7 +283025,7 @@
       {
         "start": 1615.73,
         "end": 1645.42,
-        "text": "Let's uh, let's continue talking about a genteq finance because I think it's a very It's very much a topic that's been coming up more and more as people iterate on how to actually do it There's been many tries. I think you know, there's been the x4o2 which has not really been that successful There's also tries with smart wallets and and I think prepaid cards are something I've never thought of as being"
+        "text": "Let's uh, let's continue talking about agentic finance because I think it's a very It's very much a topic that's been coming up more and more as people iterate on how to actually do it There's been many tries. I think you know, there's been the x402 which has not really been that successful There's also tries with smart wallets and and I think prepaid cards are something I've never thought of as being"
       },
       {
         "start": 1645.42,
@@ -283040,12 +283060,12 @@
       {
         "start": 1800,
         "end": 1830.24,
-        "text": "as big of a deal as the part that I'm excited about, which is using these agents to build businesses. I think that's why the TAM of Agentec Commerce is so large is what people are hoping for, what we're excited about is not like this digital butler for me that goes and books my flights. That's maybe nice. I probably won't increase my own personal consumption that much more, right?"
+        "text": "as big of a deal as the part that I'm excited about, which is using these agents to build businesses. I think that's why the TAM of agentic commerce is so large is what people are hoping for, what we're excited about is not like this digital butler for me that goes and books my flights. That's maybe nice. I probably won't increase my own personal consumption that much more, right?"
       },
       {
         "start": 1830.24,
         "end": 1859.28,
-        "text": "The total GDP probably doesn't increase that much more if it's slightly easier for me to book a flight with an agent than it is to type it in. I think the bigger deal is using those agents to build businesses that otherwise wouldn't exist. I just did a podcast with Profit at Medidow. And he gave this example of, so there's these Pokemon gotcha machines. Are you familiar with gotcha? Like little? Yep. I think they've been, they've been just blowing up."
+        "text": "The total GDP probably doesn't increase that much more if it's slightly easier for me to book a flight with an agent than it is to type it in. I think the bigger deal is using those agents to build businesses that otherwise wouldn't exist. I just did a podcast with Proph3t at MetaDAO. And he gave this example of, so there's these Pokemon gotcha machines. Are you familiar with gotcha? Like little? Yep. I think they've been, they've been just blowing up."
       },
       {
         "start": 1859.28,
@@ -283085,7 +283105,7 @@
       {
         "start": 2067.76,
         "end": 2091.34,
-        "text": "return rewards because we can earn interest on those balances that are sitting there. Currently, if you come on to last when you buy a $1000 card, we spend that $1000 at the partner card issuer immediately. And if you take a year to spend that $1000 card, no interest is gained on it. It just sits there inactive. It's very capital inefficient. That's because we're not."
+        "text": "return rewards because we can earn interest on those balances that are sitting there. Currently, if you come on to Laso when you buy a $1000 card, we spend that $1000 at the partner card issuer immediately. And if you take a year to spend that $1000 card, no interest is gained on it. It just sits there inactive. It's very capital inefficient. That's because we're not."
       },
       {
         "start": 2091.73,
@@ -283095,12 +283115,12 @@
       {
         "start": 2100,
         "end": 2129.89,
-        "text": "and have a much higher level of capital efficiency. So at those higher volumes, no fees, be able to return rewards that are generated from interest, you know, on those cards kind of before they're spent. And another piece that we need to build there is sort of possibly synthetically creating relatable cards by being able to automatically pull value off of the cards. I think both of those things together clearly can get"
+        "text": "and have a much higher level of capital efficiency. So at those higher volumes, no fees, be able to return rewards that are generated from interest, you know, on those cards kind of before they're spent. And another piece that we need to build there is sort of possibly synthetically creating reloadable cards by being able to automatically pull value off of the cards. I think both of those things together clearly can get"
       },
       {
         "start": 2129.89,
         "end": 2160.51,
-        "text": "kind of to the valuation you described. The number one competitor in the space to last it was Bit Refill. They started a long time ago. They're focused as much more on the gift card side. But from some on-chain sleuthing, we can see with a very high confidence that their volumes are around half a billion dollars a year. They're not necessarily trying to recreate the credit card experience, user experience. They're just kind of a big catalog, and they do an excellent job at that, a phenomenal job."
+        "text": "kind of to the valuation you described. The number one competitor in the space to Laso was Bitrefill. They started a long time ago. They're focused as much more on the gift card side. But from some on-chain sleuthing, we can see with a very high confidence that their volumes are around half a billion dollars a year. They're not necessarily trying to recreate the credit card experience, user experience. They're just kind of a big catalog, and they do an excellent job at that, a phenomenal job."
       },
       {
         "start": 2160.51,
@@ -283110,7 +283130,7 @@
       {
         "start": 2189.81,
         "end": 2218.35,
-        "text": "It could just be that what really works on the Agentec commerce side is kind of what you describe, which is essentially an extension of asking Chad GBT what weed killer I should buy from my house. It improves the GDP of the world, but just kind of the same way that like an improved checkout on Stripe does. It could also be that we don't get the level of intelligence where"
+        "text": "It could just be that what really works on the agentic commerce side is kind of what you describe, which is essentially an extension of asking ChatGPT what weed killer I should buy from my house. It improves the GDP of the world, but just kind of the same way that like an improved checkout on Stripe does. It could also be that we don't get the level of intelligence where"
       },
       {
         "start": 2218.35,
@@ -283125,7 +283145,7 @@
       {
         "start": 2279.89,
         "end": 2309.98,
-        "text": "Like kind of what you were saying is like X4 O2 is this agent native way to transact, but not a lot of businesses have accepted it. Last though is essentially like X4 O2 for normal fiat rails, if that makes sense. Like it, now your agent can go and transact kind of anywhere that prepaid cards are accepted. They don't have to accept X4 O2. And it is a way of executing on X4 O2's goal without requiring the supply side to adopt it."
+        "text": "Like kind of what you were saying is like x402 is this agent native way to transact, but not a lot of businesses have accepted it. Laso is essentially like x402 for normal fiat rails, if that makes sense. Like it, now your agent can go and transact kind of anywhere that prepaid cards are accepted. They don't have to accept x402. And it is a way of executing on x402's goal without requiring the supply side to adopt it."
       },
       {
         "start": 2309.98,
@@ -283150,7 +283170,7 @@
       {
         "start": 2400,
         "end": 2429.22,
-        "text": "relationship with the issuing bank that allows us to enable things like 3DS for example, which is a form of verification to make sure the card isn't stolen. So there's quite a few things where you can get to the prepaid card acceptance is very, very close to a relatable credit card. And on the on the agent side kind of our thinking there is we want to give the tools as much, we want to give the agent as much tools as it can from a frictionless perspective."
+        "text": "relationship with the issuing bank that allows us to enable things like 3DS for example, which is a form of verification to make sure the card isn't stolen. So there's quite a few things where you can get to the prepaid card acceptance is very, very close to a reloadable credit card. And on the on the agent side kind of our thinking there is we want to give the tools as much, we want to give the agent as much tools as it can from a frictionless perspective."
       },
       {
         "start": 2429.22,
@@ -283175,7 +283195,7 @@
       {
         "start": 2551.04,
         "end": 2583.09,
-        "text": "These prepaid cards can be used via crypto if that makes sense. Yeah. That's another great point and a great risk is if all businesses start accepting crypto naturally, then you probably don't need last-up prepaid cards in that example. And that's absolutely something that can happen and kind of ideally it does happen at some point, right? That's kind of like all of our goals."
+        "text": "These prepaid cards can be used via crypto if that makes sense. Yeah. That's another great point and a great risk is if all businesses start accepting crypto naturally, then you probably don't need Laso prepaid cards in that example. And that's absolutely something that can happen and kind of ideally it does happen at some point, right? That's kind of like all of our goals."
       },
       {
         "start": 2583.09,
@@ -283190,12 +283210,12 @@
       {
         "start": 2641.55,
         "end": 2668.78,
-        "text": "Yeah, that absolutely is the goal that we're all accepting, stablecoin payments. It just, it still hasn't happened after all these years. And so all that so can do is fill the gap to make private spending possible with what we have now. And I think that'll, that'll continue for, for, for quite a while. And my second question, which I don't know if, if it kind of connects, but"
+        "text": "Yeah, that absolutely is the goal that we're all accepting, stablecoin payments. It just, it still hasn't happened after all these years. And so all Laso can do is fill the gap to make private spending possible with what we have now. And I think that'll, that'll continue for, for, for quite a while. And my second question, which I don't know if, if it kind of connects, but"
       },
       {
         "start": 2668.78,
         "end": 2700,
-        "text": "Is there any synergy or overlap between Laso and DeFi? Like, I'm not exactly sure how that would work, but I'm wondering if you've thought about it in any way. Yeah, it's, I mean, just it is an easy way to spend kind of your funds that you've earned on DeFi. I think the more interesting aspect is probably on the Agetic side. There are probably the Encrypto, the"
+        "text": "Is there any synergy or overlap between Laso and DeFi? Like, I'm not exactly sure how that would work, but I'm wondering if you've thought about it in any way. Yeah, it's, I mean, just it is an easy way to spend kind of your funds that you've earned on DeFi. I think the more interesting aspect is probably on the agentic side. There are probably the Encrypto, the"
       },
       {
         "start": 2700,
@@ -283205,7 +283225,7 @@
       {
         "start": 2730.06,
         "end": 2758.29,
-        "text": "you know, last school is to be able to give all the tools so an agent can do anything that it needs to. And then as those verticals started to spring up, like maybe DeFi agents are one of them, then be able to build around it. But we're still so early in the crossing the chasm that it's just more about being sure they can do everything they want to first. Awesome. I think I'm sort of out of questions. We answered."
+        "text": "you know, Laso's goal is to be able to give all the tools so an agent can do anything that it needs to. And then as those verticals started to spring up, like maybe DeFi agents are one of them, then be able to build around it. But we're still so early in the crossing the chasm that it's just more about being sure they can do everything they want to first. Awesome. I think I'm sort of out of questions. We answered."
       },
       {
         "start": 2758.29,
@@ -283225,7 +283245,7 @@
       {
         "start": 2844.72,
         "end": 2859.18,
-        "text": "for coming on the show. Thank you to Meddow for sponsoring and also thank you Umbra for sponsoring the episode. And I will see you guys next time. Goodbye. Wonderful. Thank you."
+        "text": "for coming on the show. Thank you to MetaDAO for sponsoring and also thank you Umbra for sponsoring the episode. And I will see you guys next time. Goodbye. Wonderful. Thank you."
       }
     ],
     "qualityAudit": {
@@ -283234,8 +283254,37 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "95c11504b6cbf39bcd866d33310bc99da1acbf1da89be524a188532ce18b8c42"
-    }
+      "publishedSegmentsSha256": "19ebe7e58414bf6e2dfb05618aa113eece75aae4223a3e707a91c840056ca239"
+    },
+    "editorialChecks": [
+      {
+        "start": 772.3,
+        "end": 883.12,
+        "status": "speaker-described-compliance",
+        "note": "Limits and screening practices are the founder’s description, not an independent legal or compliance finding.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 1287.54,
+        "end": 1345.74,
+        "status": "uncertain-reporting-period",
+        "note": "The base transcript splits 750 and $1,000 across segments and renders the reporting window as three days. Targeted re-recognition is retained; avoid extracting a precise period or volume from the original fragments without resolving them.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 329.63,
+        "end": 358.1,
+        "status": "uncertain-name",
+        "note": "The second MetaDAO team name after Proph3t is unclear in the original and targeted re-recognition; not assigned an identity.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "res-260",
@@ -283254,7 +283303,7 @@
     "audioSha256": "ae9357f46f1aa75c54575b7425140a2607beabc201c620d36edb5f2786e9f644",
     "researchTranscriptSha256": "678e12de4df0f19966783ac14d898a3704befea57d0752749ffda0502d6f4751",
     "warning": "Machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. Not a verified verbatim record.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "timestampAdjustments": "Floating-point timestamp artifacts normalized to microsecond precision; overrun end times clipped to measured decoded audio duration with originalEnd retained; segments starting beyond duration omitted.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -283281,17 +283330,17 @@
       {
         "start": 122.82,
         "end": 154.5,
-        "text": "how big is the team and what were your initial plans before starting the ICO? I think after winning the Colosseum Hakethon which happened last year we started contributing raising money for mainstream and I think it was June and July when I got in touch with profit and we had a call. I think that was the first call which I had the profit."
+        "text": "how big is the team and what were your initial plans before starting the ICO? I think after winning the Colosseum hackathon which happened last year we started contributing raising money for Paystream and I think it was June and July when I got in touch with Proph3t and we had a call. I think that was the first call which I had the Proph3t."
       },
       {
         "start": 154.5,
         "end": 186.51,
-        "text": "And after that, we were sort of going back and forth with a couple of VCs, along with profit and column. It was around after Omnipair raised itself. I was sort of confident that, okay, if we were to go with Matador out, we would be able to raise. I was just not, you could say, wasn't that much confidence in the..."
+        "text": "And after that, we were sort of going back and forth with a couple of VCs, along with Proph3t and Kollan. It was around after Omnipair raised itself. I was sort of confident that, okay, if we were to go with MetaDAO route, we would be able to raise. I was just not, you could say, wasn't that much confidence in the..."
       },
       {
         "start": 186.51,
         "end": 216.62,
-        "text": "a few darky itself around that time. And I think after Umbra, around the scene we get self-assigned to profit, we can start the initial race. And by, I would say, the fourth week of October, around 27, we sort of finalized that. And yeah, it was a mix of like a..."
+        "text": "futarchy itself around that time. And I think after Umbra, around the scene we get self-assigned to Proph3t, we can start the initial race. And by, I would say, the fourth week of October, around 27, we sort of finalized that. And yeah, it was a mix of like a..."
       },
       {
         "start": 216.62,
@@ -283301,7 +283350,7 @@
       {
         "start": 243.74,
         "end": 273.38,
-        "text": "and we chose to go with 75tk out of which some goes to liquidity and breast post to treasury. The whole procedure, if I have to summarize with the days itself as sort of anxious, but overall it has been very, very well from the expectations that it has been over the expectation, the performance regarding the mechanism itself of futarchy and the second thing which is like MetaDAO praise."
+        "text": "and we chose to go with 750k out of which some goes to liquidity and breast post to treasury. The whole procedure, if I have to summarize with the days itself as sort of anxious, but overall it has been very, very well from the expectations that it has been over the expectation, the performance regarding the mechanism itself of futarchy and the second thing which is like MetaDAO raise."
       },
       {
         "start": 273.38,
@@ -283316,32 +283365,32 @@
       {
         "start": 332.56,
         "end": 362.37,
-        "text": "and zero exploit, zero exploit sort of thing. So I was like, token has to be there because otherwise there will be no governance. And through Turkey is some sort of a governance which hasn't been around for a long time. The traditional governance has been already simply worthwhile tokens. So I was like, okay, it's new. Are we sure that it's gonna work? And do we think it has enough potential to actually beat the traditional one?"
+        "text": "and zero exploit, zero exploit sort of thing. So I was like, token has to be there because otherwise there will be no governance. And futarchy is some sort of a governance which hasn't been around for a long time. The traditional governance has been already simply worthwhile tokens. So I was like, okay, it's new. Are we sure that it's gonna work? And do we think it has enough potential to actually beat the traditional one?"
       },
       {
         "start": 362.37,
         "end": 392.64,
-        "text": "So only pair was sort of test towards that and also along with the capital. That was the first thing. Even when we are raising our VCs, I think I shouldn't say this, but one of the tier one VC from managing partners sort of asked me, will there be a token for this? And I did say, yeah, there will be as soon as we hit certain metrics. So yeah, token was always in mind mainly because of governance."
+        "text": "So Omnipair was sort of test towards that and also along with the capital. That was the first thing. Even when we are raising our VCs, I think I shouldn't say this, but one of the tier one VC from managing partners sort of asked me, will there be a token for this? And I did say, yeah, there will be as soon as we hit certain metrics. So yeah, token was always in mind mainly because of governance."
       },
       {
         "start": 392.64,
         "end": 425.76,
-        "text": "And then I was approaching few targets. So I was not much worried about that if a token goes like the capital, what kind of sort of like repercussions of launching a token would be much more worried towards two targets. Because it hasn't proved that it will work better than the traditional governance. And luckily, Omni-Pair and Russell-Roories had enough time to sort of give me that confidence."
+        "text": "And then I was approaching futarchy. So I was not much worried about that if a token goes like the capital, what kind of sort of like repercussions of launching a token would be much more worried towards futarchy. Because it hasn't proved that it will work better than the traditional governance. And luckily, Omnipair and Russell-Roories had enough time to sort of give me that confidence."
       },
       {
         "start": 425.76,
         "end": 461.49,
-        "text": "It can work. So I guess you weren't really sold at the first when you first met with Prophet and when he was pitching you this you were very skeptical about Futaki, right? So the thing is like I've been bullish on founders from Deidido. I don't know what's there's like what Prophet and Colin. They got bullish on them. I know 1%. But I was not just sold on Futaki itself because it hasn't been around for that long. Gotcha gotcha."
+        "text": "It can work. So I guess you weren't really sold at the first when you first met with Proph3t and when he was pitching you this you were very skeptical about futarchy, right? So the thing is like I've been bullish on founders from Deidido. I don't know what's there's like what Proph3t and Kollan. They got bullish on them. I know 1%. But I was not just sold on futarchy itself because it hasn't been around for that long. Gotcha gotcha."
       },
       {
         "start": 461.9,
         "end": 491.7,
-        "text": "Do you think Futaki and token voting really make that big of a difference? And now that you have actually lived experience with Futaki, can you see a difference in these two governance mechanisms that you know you could maybe benefit from? And how do you think founders could use Futaki to their advantage if they can even do that? Or should they even do that? Okay, so I'll take a look."
+        "text": "Do you think futarchy and token voting really make that big of a difference? And now that you have actually lived experience with futarchy, can you see a difference in these two governance mechanisms that you know you could maybe benefit from? And how do you think founders could use futarchy to their advantage if they can even do that? Or should they even do that? Okay, so I'll take a look."
       },
       {
         "start": 491.95,
         "end": 520.86,
-        "text": "First question weren't like how is it better than the traditional government so? Until you like sort of like it's there's a sort of a mechanism problem here also like if you talk it trading proposals itself are not something which People can make some money from now technically governance proposal other than there to make any money from but in traditional sense every token holder was sort of"
+        "text": "First question weren't like how is it better than the traditional government so? Until you like sort of like it's there's a sort of a mechanism problem here also like futarchy trading proposals itself are not something which People can make some money from now technically governance proposal other than there to make any money from but in traditional sense every token holder was sort of"
       },
       {
         "start": 520.86,
@@ -283356,7 +283405,7 @@
       {
         "start": 583.98,
         "end": 600,
-        "text": "I was against it, but yeah, depending on how investors saw the money and what sort of details they were so long and they were raising, yeah, it made sense. So TLDR, Futagism mechanism seems to be better so far."
+        "text": "I was against it, but yeah, depending on how investors saw the money and what sort of details they were so long and they were raising, yeah, it made sense. So TLDR, futarchy as a mechanism seems to be better so far."
       },
       {
         "start": 600,
@@ -283366,7 +283415,7 @@
       {
         "start": 630.3,
         "end": 658.24,
-        "text": "As a mechanism, it has been working really good. Coming back to the second question, which is how can founders take benefit from it? So far, Paystream has only one buyer proposal. There's no other proposal have been. I've thought of some ways how founders can take benefit from this. I think MetaDAO has also allowed this by cutting down the 3.5% fee, which was required to launch a proposal from the team itself."
+        "text": "As a mechanism, it has been working really good. Coming back to the second question, which is how can founders take benefit from it? So far, Paystream has only one buyback proposal. There's no other proposal have been. I've thought of some ways how founders can take benefit from this. I think MetaDAO has also allowed this by cutting down the 3.5% fee, which was required to launch a proposal from the team itself."
       },
       {
         "start": 658.24,
@@ -283376,7 +283425,7 @@
       {
         "start": 689.62,
         "end": 718.42,
-        "text": "Those incentives in a MetaDAO launch protocol are generally very hard to do. But in our case, we have gotten around how much? $225,000 at the time when we were doing the Biobikes. Those were the amount of tokens that we bought. We potentially could use that amount of tokens to incentivize our users. And that's sort of a thing."
+        "text": "Those incentives in a MetaDAO launch protocol are generally very hard to do. But in our case, we have gotten around how much? $225,000 at the time when we were doing the buybacks. Those were the amount of tokens that we bought. We potentially could use that amount of tokens to incentivize our users. And that's sort of a thing."
       },
       {
         "start": 718.77,
@@ -283436,12 +283485,12 @@
       {
         "start": 1013.62,
         "end": 1043.6,
-        "text": "Can you walk me through how the iterating process looked at pastrium in a little bit more detail on how you guys decided on the initial product when you guys decided, okay, it's time to move, as you said, to something that may generate more value and revenue. The thing was when we launched with this, and we have gotten sort of a very early version of the bio beta in November itself of this whole liquidity provisioning."
+        "text": "Can you walk me through how the iterating process looked at Paystream in a little bit more detail on how you guys decided on the initial product when you guys decided, okay, it's time to move, as you said, to something that may generate more value and revenue. The thing was when we launched with this, and we have gotten sort of a very early version of the bio beta in November itself of this whole liquidity provisioning."
       },
       {
         "start": 1043.6,
         "end": 1073.14,
-        "text": "on radio man material. We build a whole terminal. We had like sort of small sub features, sub-side features, which were allowed to use us to do a lot of stuff which they can't do on the main protocols on like radio on material itself. But around January, it was very much clear that material is also moving into a direction where they are sort of like meeting these features by themselves. So that was like, okay, if the staggering one which we are making is"
+        "text": "on Raydium and Meteora. We build a whole terminal. We had like sort of small sub features, sub-side features, which were allowed to use us to do a lot of stuff which they can't do on the main protocols on like Raydium and Meteora itself. But around January, it was very much clear that Meteora is also moving into a direction where they are sort of like meeting these features by themselves. So that was like, okay, if the staggering one which we are making is"
       },
       {
         "start": 1073.14,
@@ -283456,7 +283505,7 @@
       {
         "start": 1132.05,
         "end": 1161.97,
-        "text": "If I wanted to be as close to the metal, which is in this case, as material or radium, and they are adapting these features, why would I use base-trend? So that's sort of a problem. I'll start it to arise itself. And we could have solved that problem by building a far much more liquid reversion of the product itself. But in the end, nothing can beat a smart contract function itself, which is just the same thing as what you're doing on a terminal, which is sort of made on that particular contract. So I was like, OK."
+        "text": "If I wanted to be as close to the metal, which is in this case, as Meteora or Raydium, and they are adapting these features, why would I use Paystream? So that's sort of a problem. I'll start it to arise itself. And we could have solved that problem by building a far much more liquid reversion of the product itself. But in the end, nothing can beat a smart contract function itself, which is just the same thing as what you're doing on a terminal, which is sort of made on that particular contract. So I was like, OK."
       },
       {
         "start": 1161.97,
@@ -283476,17 +283525,17 @@
       {
         "start": 1230.03,
         "end": 1258.16,
-        "text": "and they have said this one thing that they would rather have walls than the manual process of it. So now we are focusing on automating these things altogether. So, and these automation, so this is like a, I will put it like this. So there's a typical simple to use, like a typical maximum yield vault where you can just come deposit money and forget about it. And then there's a, your own conflicts which you can make and"
+        "text": "and they have said this one thing that they would rather have vaults than the manual process of it. So now we are focusing on automating these things altogether. So, and these automation, so this is like a, I will put it like this. So there's a typical simple to use, like a typical maximum yield vault where you can just come deposit money and forget about it. And then there's a, your own configs which you can make and"
       },
       {
         "start": 1258.45,
         "end": 1286.99,
-        "text": "automation works on that. And then there's a third, which is a manual way to do it. But if you can think from this, we have to develop the first manual and fraud to do it. And then we can do the automated part. And then we can have the walls also. So for the walls, we are building the vault in the Ranger Hackathon. So you might see something there and two three weeks. And for the automation part, which is sort of I'm testing right now with my own capital."
+        "text": "automation works on that. And then there's a third, which is a manual way to do it. But if you can think from this, we have to develop the first manual and fraud to do it. And then we can do the automated part. And then we can have the vaults also. So for the vaults, we are building the vault in the Ranger Hackathon. So you might see something there and two three weeks. And for the automation part, which is sort of I'm testing right now with my own capital."
       },
       {
         "start": 1286.99,
         "end": 1318.03,
-        "text": "And I will share the whole strategy is how much I made with how much capital in a month with what sort of strategy on base stream. So to answer your question, how does pivot looks like inside a product? It just depends on how market is reacting from your communications when you're telling them, hey, we have made this. What do you think about this? And if they think they're using it and rather than what they're actually telling you, focus on the actions. Are they actually using it?"
+        "text": "And I will share the whole strategy is how much I made with how much capital in a month with what sort of strategy on Paystream. So to answer your question, how does pivot looks like inside a product? It just depends on how market is reacting from your communications when you're telling them, hey, we have made this. What do you think about this? And if they think they're using it and rather than what they're actually telling you, focus on the actions. Are they actually using it?"
       },
       {
         "start": 1318.16,
@@ -283496,7 +283545,7 @@
       {
         "start": 1349.49,
         "end": 1378.9,
-        "text": "So the thing is like first of all, I need to tackle the API question because people might get confused. So it's technically an API coming from the current funding rate of which exist. Now every funding rate of has some sort of liquidity depth, which is basically a fancy way of saying, okay, this particular arbitrage funding rate exists between hyper liquor and drift. How much capital would it take to fill this arbitrage to get the funding rates to the normal state, normal values itself?"
+        "text": "So the thing is like first of all, I need to tackle the APY question because people might get confused. So it's technically an APY coming from the current funding rate of which exist. Now every funding rate of has some sort of liquidity depth, which is basically a fancy way of saying, okay, this particular arbitrage funding rate exists between Hyperliquid and drift. How much capital would it take to fill this arbitrage to get the funding rates to the normal state, normal values itself?"
       },
       {
         "start": 1378.9,
@@ -283511,7 +283560,7 @@
       {
         "start": 1436.4,
         "end": 1465.76,
-        "text": "The best thing about Page Stream right now is you will never lose a principal amount, no matter what, because we have this thing running called Auto-Close, which we have tested across every Blackstone event happened in the last three years. And the maximum drawdown that we have seen is like 50 cents over $100. So there's literally no way you're going to lose the whole principal capital amount when you're trading on Page Stream."
+        "text": "The best thing about Paystream right now is you will never lose a principal amount, no matter what, because we have this thing running called Auto-Close, which we have tested across every black-swan event happened in the last three years. And the maximum drawdown that we have seen is like 50 cents over $100. So there's literally no way you're going to lose the whole principal capital amount when you're trading on Paystream."
       },
       {
         "start": 1465.76,
@@ -283526,7 +283575,7 @@
       {
         "start": 1500,
         "end": 1531.07,
-        "text": "I'm not taking directional risk, is it smart contract risk? So there's all, yeah, yeah. So when you're depositing money on page stream, so it goes through a privy account, which is safe, right? And we generate sort of two sort of embedded wallets, which one is on SVM, one is on EVM. And the first risk which you take on is the smart contract, which these pops have been using."
+        "text": "I'm not taking directional risk, is it smart contract risk? So there's all, yeah, yeah. So when you're depositing money on Paystream, so it goes through a Privy account, which is safe, right? And we generate sort of two sort of embedded wallets, which one is on SVM, one is on EVM. And the first risk which you take on is the smart contract, which these pops have been using."
       },
       {
         "start": 1531.07,
@@ -283536,7 +283585,7 @@
       {
         "start": 1561.36,
         "end": 1586.35,
-        "text": "So it basically boils down to one thing. Does any of the perp taxes have a smart contract vulnerability? That's the first risk. The second risk is does your strategy works the way that you wanted to work? That's the second thing. Third thing you could say even privy. Privy does carry some sort of a risk. But if someday privy gets hacked, right?"
+        "text": "So it basically boils down to one thing. Does any of the perp DEXs have a smart contract vulnerability? That's the first risk. The second risk is does your strategy works the way that you wanted to work? That's the second thing. Third thing you could say even Privy. Privy does carry some sort of a risk. But if someday Privy gets hacked, right?"
       },
       {
         "start": 1586.67,
@@ -283561,7 +283610,7 @@
       {
         "start": 1700.37,
         "end": 1730.13,
-        "text": "Now comes to what are these two started the first one is a as the name goes funding rate arbitrage so every pop-text has a mark price and an Oracle price And what happens is sometimes when a certain token has been longed by too many users Every are what every four are or every it are depending on what they're using a certain amount of fee gets paid by log Long users to the short users to get to them to get the mark price basically"
+        "text": "Now comes to what are these two started the first one is a as the name goes funding rate arbitrage so every perp DEX has a mark price and an Oracle price And what happens is sometimes when a certain token has been longed by too many users Every are what every four are or every it are depending on what they're using a certain amount of fee gets paid by log Long users to the short users to get to them to get the mark price basically"
       },
       {
         "start": 1730.13,
@@ -283571,17 +283620,17 @@
       {
         "start": 1760.06,
         "end": 1791.3,
-        "text": "There will always be discrepancies and due to which there will always be arbitrage. Now, mainstream pop to pop or funding rate farmer basically allows user to deposit capital from Solana itself. And this is only possible in Solana because the gas fees and the way it works is very fast due to which this thing can only be made of sort of like only for Solana users. So if I deposit from Solana, it goes to a privy."
+        "text": "There will always be discrepancies and due to which there will always be arbitrage. Now, Paystream perp-to-perp or funding rate farmer basically allows user to deposit capital from Solana itself. And this is only possible in Solana because the gas fees and the way it works is very fast due to which this thing can only be made of sort of like only for Solana users. So if I deposit from Solana, it goes to a Privy."
       },
       {
         "start": 1791.3,
         "end": 1800,
-        "text": "then you can deposit any of the DEXs, close the operation, open all the positions and withdraw back to private without worrying about any of the measly things."
+        "text": "then you can deposit any of the DEXs, close the operation, open all the positions and withdraw back to Privy without worrying about any of the measly things."
       },
       {
         "start": 1800,
         "end": 1831.07,
-        "text": "which involve bridging and those sort of things. That's pretty much the funding rate funding thing. Spot purpose is also the same thing in which you are simply opening a spot position of the token and at the same time you're also opening a per position of the same token just on another decks. And that's how you're founding the basically the funding rate and a little bit of directional risk. So that what happens is let's say you open a thousand dollar value for a $500 spot."
+        "text": "which involve bridging and those sort of things. That's pretty much the funding rate funding thing. Spot-perps is also the same thing in which you are simply opening a spot position of the token and at the same time you're also opening a perp position of the same token just on another DEX. And that's how you're founding the basically the funding rate and a little bit of directional risk. So that what happens is let's say you open a thousand dollar value for a $500 spot."
       },
       {
         "start": 1831.07,
@@ -283591,17 +283640,17 @@
       {
         "start": 1858.83,
         "end": 1888,
-        "text": "only difference between those two strategies and if you have one to choose one as a user what we want, you want higher returns, okay? And you want lowest risk, okay? So it has to be tested a lot, okay? So which one has been tested now? Bob to Bob, which gives more returns, Bob to Bob. And those are the two basic reasons by which users should generally trust something. And from both of these factors, I would say Bob to Bob."
+        "text": "only difference between those two strategies and if you have one to choose one as a user what we want, you want higher returns, okay? And you want lowest risk, okay? So it has to be tested a lot, okay? So which one has been tested now? perp-to-perp, which gives more returns, perp-to-perp. And those are the two basic reasons by which users should generally trust something. And from both of these factors, I would say perp-to-perp."
       },
       {
         "start": 1888,
         "end": 1917.33,
-        "text": "tends to be better. I'm personally I'm using it for the testing also. So you could say, yeah, but why do we have a spot pub then? So the thing is, spot pub is a really good alternative to even hand your risk up to a more extent from what you're doing. Because delta NITL is already very much good, right? But you can go one step further by checking out this spot pub. So for that purpose, it is important. But for most of the users, it won't be because they don't have that much sort of capital to deploy."
+        "text": "tends to be better. I'm personally I'm using it for the testing also. So you could say, yeah, but why do we have a spot-perp then? So the thing is, spot-perp is a really good alternative to even hand your risk up to a more extent from what you're doing. Because delta neutral is already very much good, right? But you can go one step further by checking out this spot-perp. So for that purpose, it is important. But for most of the users, it won't be because they don't have that much sort of capital to deploy."
       },
       {
         "start": 1917.33,
         "end": 1949.1,
-        "text": "to take benefit from the spot pump. But for a vault, it is very much important and we had the emphasis we had to put it up. I think like we might remove it if you can just consider it for the wall feature itself. But yes, to answer your question, pop to pop or for any great farmers seems to be the best one, which I also like love to use. Yeah, I mean, perp to perp, arbitrage farming relies a lot on"
+        "text": "to take benefit from the spot-perp. But for a vault, it is very much important and we had the emphasis we had to put it up. I think like we might remove it if you can just consider it for the vault feature itself. But yes, to answer your question, perp-to-perp or funding-rate farming seems to be the best one, which I also like love to use. Yeah, I mean, perp to perp, arbitrage farming relies a lot on"
       },
       {
         "start": 1949.1,
@@ -283631,7 +283680,7 @@
       {
         "start": 2091.98,
         "end": 2100,
-        "text": "Yeah, so and so I'm wondering what pastream does friend"
+        "text": "Yeah, so and so I'm wondering what Paystream does friend"
       },
       {
         "start": 2100,
@@ -283646,7 +283695,7 @@
       {
         "start": 2158.94,
         "end": 2187.18,
-        "text": "a parameter sort of base testing 24 seven to break it even now. So we have tested it and of course every Blackstone event including the 10 10 thing and it would have tracked the position after I think like it was second threshold where it got the 10 10 scenario. So we have been able to basically so far prove that it works even in Blackstone events like 10 10."
+        "text": "a parameter sort of base testing 24 seven to break it even now. So we have tested it and of course every black-swan event including the 10 10 thing and it would have tracked the position after I think like it was second threshold where it got the 10 10 scenario. So we have been able to basically so far prove that it works even in black-swan events like 10 10."
       },
       {
         "start": 2187.18,
@@ -283656,7 +283705,7 @@
       {
         "start": 2213.78,
         "end": 2245.23,
-        "text": "So you could have also given that sort of a notification to the end user also. Those sort of principal production we have been able to build in and also along with this idea. The thing is, it has took too much time on this thing, specifically the Black Swan thing when they're developing. I cannot give you a guarantee though, because Black Swan events are called Black Swan events for general reason. They tend to do something which was not supposed to happen."
+        "text": "So you could have also given that sort of a notification to the end user also. Those sort of principal protection we have been able to build in and also along with this idea. The thing is, it has took too much time on this thing, specifically the Black Swan thing when they're developing. I cannot give you a guarantee though, because Black Swan events are called Black Swan events for general reason. They tend to do something which was not supposed to happen."
       },
       {
         "start": 2245.36,
@@ -283666,7 +283715,7 @@
       {
         "start": 2274.56,
         "end": 2304.4,
-        "text": "basically necessary changes to ensure that we are always on top of all of these updates to ensure that your safety has never been compromised when it comes to opening to ultra-position on these taxes. But if you're looking for sort of like 100% guarantee, we can never do that because blacks on events or blacks on events were reason itself, right? They tend to do something which was not something which we can think of. But so far we have been able to do it very very, you know,"
+        "text": "basically necessary changes to ensure that we are always on top of all of these updates to ensure that your safety has never been compromised when it comes to opening to ultra-position on these taxes. But if you're looking for sort of like 100% guarantee, we can never do that because black-swan events or black-swan events were reason itself, right? They tend to do something which was not something which we can think of. But so far we have been able to do it very very, you know,"
       },
       {
         "start": 2304.4,
@@ -283681,7 +283730,7 @@
       {
         "start": 2360.05,
         "end": 2389.36,
-        "text": "The way it works is like very measly. So only thing you can do is like it doesn't allow far much more niche control when you're considering opening a position like mainstream. So you're not aware of the problems which can happen. First thing is there that and second thing is there is no such thing as autoclos at all. The closest thing which they have is simply star plus which is completely different from what autoclos is as you can pretty much understand."
+        "text": "The way it works is like very measly. So only thing you can do is like it doesn't allow far much more niche control when you're considering opening a position like Paystream. So you're not aware of the problems which can happen. First thing is there that and second thing is there is no such thing as auto-close at all. The closest thing which they have is simply stop-loss which is completely different from what auto-close is as you can pretty much understand."
       },
       {
         "start": 2389.36,
@@ -283691,12 +283740,12 @@
       {
         "start": 2400,
         "end": 2430.58,
-        "text": "I would love to do this experiment actually after this. That's sort of my goal is where I will sort of put myself along and try not to fly along with pastry and sort of compare what it looks like to be a user for both of these services as a user. And can anybody try this product right now or is it still in private? So what's like the automation part of which one like are you talking about pastry?"
+        "text": "I would love to do this experiment actually after this. That's sort of my goal is where I will sort of put myself along and try not to fly along with Paystream and sort of compare what it looks like to be a user for both of these services as a user. And can anybody try this product right now or is it still in private? So what's like the automation part of which one like are you talking about Paystream?"
       },
       {
         "start": 2430.77,
         "end": 2459.41,
-        "text": "Yeah, pastry. Yeah pastry. Yeah, so pastry you can try it's a not in private. It's public beta. It's like you can try it out everything and it works automation is something which we haven't given in on the public side yet because I'm testing it personally and The best the testing takes a lot of time because I'm running a sort of like a 30 day arbitrage farming sort of strategy where I'm doing this myself and"
+        "text": "Yeah, Paystream. Yeah Paystream. Yeah, so Paystream you can try it's a not in private. It's public beta. It's like you can try it out everything and it works automation is something which we haven't given in on the public side yet because I'm testing it personally and The best the testing takes a lot of time because I'm running a sort of like a 30 day arbitrage farming sort of strategy where I'm doing this myself and"
       },
       {
         "start": 2459.41,
@@ -283721,12 +283770,12 @@
       {
         "start": 2572.93,
         "end": 2601.5,
-        "text": "There's a lot of things which are upcoming default automation so there's that also. But yeah, tomorrow they're launching the sort of hard works, how you can use it. And yeah, it's not anymore private beta or public beta. Yep, so for anybody who's listening, which the episode is going to come out on Monday, hopefully, pasting is going to drop public access on the same day. And."
+        "text": "There's a lot of things which are upcoming default automation so there's that also. But yeah, tomorrow they're launching the sort of hard works, how you can use it. And yeah, it's not anymore private beta or public beta. Yep, so for anybody who's listening, which the episode is going to come out on Monday, hopefully, Paystream is going to drop public access on the same day. And."
       },
       {
         "start": 2601.5,
         "end": 2631.17,
-        "text": "Well, I guess that also brings us to the question of, well, you guys, how much of the treasury do you guys have left? Like five months of it? Yeah, five months. Yeah, yes. Just if you look in the future of pastrium in the next year or so, how do you envision pastrium evolving into something? If you think maybe the LP stuff will come back or are you going to stick to this finally until you get product market fit and what do you think?"
+        "text": "Well, I guess that also brings us to the question of, well, you guys, how much of the treasury do you guys have left? Like five months of it? Yeah, five months. Yeah, yes. Just if you look in the future of Paystream in the next year or so, how do you envision Paystream evolving into something? If you think maybe the LP stuff will come back or are you going to stick to this finally until you get product market fit and what do you think?"
       },
       {
         "start": 2631.17,
@@ -283741,7 +283790,7 @@
       {
         "start": 2690.75,
         "end": 2700,
-        "text": "With that itself, I think within three months, we should be able to hit what our bond rate is giving if the strategy does seem to work now."
+        "text": "With that itself, I think within three months, we should be able to hit what our burn rate is giving if the strategy does seem to work now."
       },
       {
         "start": 2700,
@@ -283761,7 +283810,7 @@
       {
         "start": 2790.18,
         "end": 2815.73,
-        "text": "tokens have been going to rational or drums tweeting something BS and you're losing money left and right. You should start considering making money from eel and if you are tired from making money from eel in that sense that it only gives you measly 5% or 10% returns. I think they should consider visiting app.pasteem.finance and we might be able to change a perspective all together on eel because the market is very huge."
+        "text": "tokens have been going to rational or drums tweeting something BS and you're losing money left and right. You should start considering making money from yield and if you are tired from making money from yield in that sense that it only gives you measly 5% or 10% returns. I think they should consider visiting app.pasteem.finance and we might be able to change a perspective all together on yield because the market is very huge."
       },
       {
         "start": 2815.73,
@@ -283776,7 +283825,7 @@
       {
         "start": 2877.38,
         "end": 2899.06,
-        "text": "ownership FM follow us on on X formerly known as Twitter might I add and Yeah, follow pastry Mon on X and and Maushish also and Thank you for MetaDAO for sponsoring the episode and I'll see you guys next time. Goodbye"
+        "text": "ownership FM follow us on on X formerly known as Twitter might I add and Yeah, follow Paystream on X and and Maushish also and Thank you for MetaDAO for sponsoring the episode and I'll see you guys next time. Goodbye"
       }
     ],
     "qualityAudit": {
@@ -283785,14 +283834,59 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "ff8edb8917045a5c226fadf0be56c6d78b9c3979982fea4c030094b07e9b347c"
+      "publishedSegmentsSha256": "9de9081c8dea96d4ed8d522b23cdabcdd6f3f00e68284e555d881ea9930174cb"
     },
     "editorialChecks": [
       {
         "start": 243.74,
         "end": 273.38,
-        "status": "uncertain-amount",
-        "note": "First-pass ASR renders the accepted amount as 75tk. Targeted small.en re-recognition of 235-280 seconds reads 750k, consistent with the host saying 750,000 earlier. This remains a machine-supported candidate, not manual audio confirmation or independently verified fundraising proceeds; raw first-pass amount retained.",
+        "status": "machine-supported-amount",
+        "note": "75tk corrected to 750k using targeted small.en re-recognition of 235-280 seconds, consistent with the host saying 750,000 earlier. This is a machine-supported reading, not manual audio confirmation or independently verified fundraising proceeds.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 630.3,
+        "end": 689.62,
+        "status": "speaker-described-proposal-mechanics",
+        "note": "The targeted recheck also renders 3.5% and calls it a fee. Preserve the speaker wording; this does not establish whether the underlying requirement was a fee, a token threshold, or a current rule.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 900,
+        "end": 924.93,
+        "status": "uncertain-market-figures",
+        "note": "The targeted recheck suggests SOL before $81 but still gives Bitcoin as 65 or 66 without a clear unit. No missing thousands or market price has been inferred.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 1436.4,
+        "end": 1641.98,
+        "status": "unverified-risk-claim",
+        "note": "Statements that principal cannot be lost are speaker claims. Later the guest explicitly declines a 100% guarantee; neither statement is independent validation of risk controls.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2187.18,
+        "end": 2213.78,
+        "status": "uncertain-negation",
+        "note": "The base transcript says haven’t also been able to prove principal protection. A targeted recheck is retained; uncertain wording must not be used to establish tested protection.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2332.03,
+        "end": 2430.77,
+        "status": "uncertain-competitor-name",
+        "note": "The competitor name is not confidently identified. Leave it unresolved rather than attributing criticism to a guessed company.",
         "sources": [
           "https://anchor.fm/s/10e854134/podcast/rss"
         ]
@@ -283972,7 +284066,7 @@
     "audioSha256": "7b4687f20c6a9ab8e0dacc0d12ff506f3dd1244d69db3141edcd4df5850ce234",
     "researchTranscriptSha256": "43a6571208fe8ebce893bd2ee2bbe72358ba8ab19b4cce8716c8a3b6f600e7c0",
     "warning": "Machine transcription. May contain invented or repeated passages, inaccurate names, numbers and timestamps. Not a verified verbatim record.",
-    "reviewBoundary": "Entire official podcast RSS audio decoded and processed locally in five-minute chunks. All segments structurally scanned for timing and severe repetition; not a complete manual reading, listening or factual review. Voice activity detection may omit speech. Names, numbers and other recognition errors may remain. Existing catalog summary remains based on publisher show notes. Targeted terminology corrections are logged separately; these are contextual spelling decisions, not full audio verification.",
+    "reviewBoundary": "Complete generated transcript read for topic navigation and contextual terminology on 2026-10-14. Selected audio intervals reprocessed locally with small.en; not a complete manual listening or factual review. Voice activity detection may omit speech. Remaining unclear names, amounts and wording are flagged in editorial checks. Speaker statements, including fundraising, compliance, product availability, yields and risk controls, are historical claims rather than independently verified outcomes. Original research hashes are preserved; contextual changes and machine rechecks are logged separately.",
     "timestampAdjustments": "Floating-point timestamp artifacts normalized to microsecond precision; overrun end times clipped to measured decoded audio duration with originalEnd retained; segments starting beyond duration omitted.",
     "omittedOutOfRangeSegments": 0,
     "segments": [
@@ -284004,7 +284098,7 @@
       {
         "start": 161.12,
         "end": 189.28,
-        "text": "helping to sort of mold that as a product, but especially working with VIP traders and kind of focusing on the community side of the users who were using Vector until that then got acquired by Coinbase. And after that acquisition then, I was with Camino for a short time and then with Backpack working on marketing for Backpack and then left that role in order to focus on the syndicate, which at the time was just a"
+        "text": "helping to sort of mold that as a product, but especially working with VIP traders and kind of focusing on the community side of the users who were using Vector until that then got acquired by Coinbase. And after that acquisition then, I was with Kamino for a short time and then with Backpack working on marketing for Backpack and then left that role in order to focus on the syndicate, which at the time was just a"
       },
       {
         "start": 189.28,
@@ -284074,7 +284168,7 @@
       {
         "start": 551.07,
         "end": 579.94,
-        "text": "and if you don't have that you can't play. That's great for a crypto audience but for your mate down the parball, for people who have no knowledge of crypto whatsoever, they cannot access that. So we built this indicate that anyone can sign up, anyone can log in, anyone can start playing the actual game for absolutely free. Then you can spend in the game if you want to to further your progress. Then you can open packs, paid packs for paid NFTs, then you can buy on the marketplace from other players in the game."
+        "text": "and if you don't have that you can't play. That's great for a crypto audience but for your mate down the parball, for people who have no knowledge of crypto whatsoever, they cannot access that. So we built The Syndicate that anyone can sign up, anyone can log in, anyone can start playing the actual game for absolutely free. Then you can spend in the game if you want to to further your progress. Then you can open packs, paid packs for paid NFTs, then you can buy on the marketplace from other players in the game."
       },
       {
         "start": 579.94,
@@ -284084,7 +284178,7 @@
       {
         "start": 600,
         "end": 628.64,
-        "text": "Love competition is a PvP game. So you don't play in isolation. You are playing against the other players in the game. Your job is to dominate as much as you can. And that's where it comes from. So I think Matthew is such like an evergreen theme, right? Everyone loves gangster films, everyone loves gangster series. Everyone loves the idea of building up some sort of family that you can dominate and you can be the boss and be the strongest. And with this game, you can do that."
+        "text": "Love competition is a PvP game. So you don't play in isolation. You are playing against the other players in the game. Your job is to dominate as much as you can. And that's where it comes from. So I think mafia is such like an evergreen theme, right? Everyone loves gangster films, everyone loves gangster series. Everyone loves the idea of building up some sort of family that you can dominate and you can be the boss and be the strongest. And with this game, you can do that."
       },
       {
         "start": 628.64,
@@ -284159,7 +284253,7 @@
       {
         "start": 984.11,
         "end": 1011.63,
-        "text": "How do you circumvent that or why is this indica different than that? Yeah, so I think When we first started looking at building this game We were asking ourselves the question, you know What what is crypto's role in this? How does this look and just naturally because it seems like the most natural way to go is what everyone does you start thinking about token and we think right so initially so the"
+        "text": "How do you circumvent that or why is The Syndicate different than that? Yeah, so I think When we first started looking at building this game We were asking ourselves the question, you know What what is crypto's role in this? How does this look and just naturally because it seems like the most natural way to go is what everyone does you start thinking about token and we think right so initially so the"
       },
       {
         "start": 1011.63,
@@ -284229,7 +284323,7 @@
       {
         "start": 1372.61,
         "end": 1401.1,
-        "text": "hopefully live of you are raising on Backable also known as a Futardio Which is the permission this launch pad of of of MetaDAO So I'd love to hear your whole thought process I believe you may have been critical of MetaDAO or like skeptical I think is probably the right word here of of MetaDAO previously, so I'd love to hear what made you switch your your stance on that and"
+        "text": "hopefully live of you are raising on Backable also known as a Futardio Which is the permissionless launchpad of of of MetaDAO So I'd love to hear your whole thought process I believe you may have been critical of MetaDAO or like skeptical I think is probably the right word here of of MetaDAO previously, so I'd love to hear what made you switch your your stance on that and"
       },
       {
         "start": 1401.1,
@@ -284294,7 +284388,7 @@
       {
         "start": 1711.46,
         "end": 1740.05,
-        "text": "And this was really for us, we saw this is a real open door for people to come and join the game, get to know it, play it because the great thing about it being a game that doesn't just revolve around a token is that people can just play the game because they enjoy it. So we can have a complete free to play version that operates on the app store and on the people play store that people can be a part of and join. And it's a great open door into the crypto game because it's a great thing. Like you love this game, you can actually play and earn."
+        "text": "And this was really for us, we saw this is a real open door for people to come and join the game, get to know it, play it because the great thing about it being a game that doesn't just revolve around a token is that people can just play the game because they enjoy it. So we can have a complete free to play version that operates on the app store and on the Google Play Store that people can be a part of and join. And it's a great open door into the crypto game because it's a great thing. Like you love this game, you can actually play and earn."
       },
       {
         "start": 1740.05,
@@ -284314,7 +284408,7 @@
       {
         "start": 1800,
         "end": 1827.98,
-        "text": "with a back-of-the-topan with an ownership token, this same community can have a stake in the success of the company and can be just as excited about growth milestones within the free app that we're building as they are within the online browser crypto version of the game. And that, for me, a lot of huge things. I was like, wow, that's amazing because that is something that a token like what we can launch on back-of-the-topan gives that nothing else can."
+        "text": "with a Backable token with an ownership token, this same community can have a stake in the success of the company and can be just as excited about growth milestones within the free app that we're building as they are within the online browser crypto version of the game. And that, for me, a lot of huge things. I was like, wow, that's amazing because that is something that a token like what we can launch on Backable gives that nothing else can."
       },
       {
         "start": 1827.98,
@@ -284369,12 +284463,12 @@
       {
         "start": 2100,
         "end": 2129.81,
-        "text": "pros and cons and you have to wait him. Okay, another question kind of popped into my head when you were talking about investors and so on and so on and this is just a short one. Were you guys participating in the Coliseum hackathon? I know Coliseum backs you guys in some way or have you seen some of the Coliseum guys talk about you a lot so could you just tell me a little bit more about that?"
+        "text": "pros and cons and you have to wait him. Okay, another question kind of popped into my head when you were talking about investors and so on and so on and this is just a short one. Were you guys participating in the Colosseum hackathon? I know Colosseum backs you guys in some way or have you seen some of the Colosseum guys talk about you a lot so could you just tell me a little bit more about that?"
       },
       {
         "start": 2129.84,
         "end": 2157.52,
-        "text": "Yeah, absolutely. So just as we... I'm going to tell a bit of a longer story, but it does culminate in this. We started building it together just as a hobby, realized that as we went through the beta that this game was actually really good and that this deserved more of our time, it was at that point where I took the step of a real step of faith really and I resigned it back back and I basically just told that I said, guys, I've got..."
+        "text": "Yeah, absolutely. So just as we... I'm going to tell a bit of a longer story, but it does culminate in this. We started building it together just as a hobby, realized that as we went through the beta that this game was actually really good and that this deserved more of our time, it was at that point where I took the step of a real step of faith really and I resigned it Backpack and I basically just told that I said, guys, I've got..."
       },
       {
         "start": 2157.52,
@@ -284404,17 +284498,17 @@
       {
         "start": 2291.86,
         "end": 2314.94,
-        "text": "as we were building, as we were doing it, that we did get noticed by some of the judges, by the Coliseum guys. And we grinded hard over that month period to prove that what we were building was something that was worthy of investing in, that was worthy of taking a punt on. And I don't think that the decision"
+        "text": "as we were building, as we were doing it, that we did get noticed by some of the judges, by the Colosseum guys. And we grinded hard over that month period to prove that what we were building was something that was worthy of investing in, that was worthy of taking a punt on. And I don't think that the decision"
       },
       {
         "start": 2314.94,
         "end": 2344.53,
-        "text": "came easy and there was so much back and forth between us and connoisseur at the time around like what are you building and what are the numbers and kind of going back and forth and I genuinely felt right up until the day that we found out that we had been one of the winners of the hackathon that we were not going to win and that it wasn't going to be anything like that and I certainly didn't think that we would have made it onto the accelerator because I thought well maybe then if we do end up being one of the 25 winners I hope may be the worst."
+        "text": "came easy and there was so much back and forth between us and Colosseum at the time around like what are you building and what are the numbers and kind of going back and forth and I genuinely felt right up until the day that we found out that we had been one of the winners of the hackathon that we were not going to win and that it wasn't going to be anything like that and I certainly didn't think that we would have made it onto the accelerator because I thought well maybe then if we do end up being one of the 25 winners I hope may be the worst."
       },
       {
         "start": 2344.53,
         "end": 2373.78,
-        "text": "maybe that's possible just about but there's no chance that we'd make on to the accelerator and then we did we won the hackathon we were one of the 25 winners and we were also one of the projects that were selected for the Coliseum accelerator as well and they have just been so insanely supportive to us and what I really love about the Coliseum guys is that we've had loads of conversations where I've said look nobody likes games in crypto nobody wants to invest in games in crypto and they've kind of come out and goes yeah but"
+        "text": "maybe that's possible just about but there's no chance that we'd make on to the accelerator and then we did we won the hackathon we were one of the 25 winners and we were also one of the projects that were selected for the Colosseum accelerator as well and they have just been so insanely supportive to us and what I really love about the Colosseum guys is that we've had loads of conversations where I've said look nobody likes games in crypto nobody wants to invest in games in crypto and they've kind of come out and goes yeah but"
       },
       {
         "start": 2373.78,
@@ -284424,7 +284518,7 @@
       {
         "start": 2400,
         "end": 2429.95,
-        "text": "and connoissement have been really helpful in helping us to unlock that and what that looks like. So yeah, we're delighted with the journey we've been on. The night before we found out that we've been accepted onto the accelerator and that we were one of the winners of the Acathon. I sat down with my brothers and I said, look guys, we haven't won, you know, it was worth doing anyway because we were convinced it was over. And then, yeah, the rest is history. So it's been a good journey since then. And how's the traction been? Like how many people?"
+        "text": "and Colosseum have been really helpful in helping us to unlock that and what that looks like. So yeah, we're delighted with the journey we've been on. The night before we found out that we've been accepted onto the accelerator and that we were one of the winners of the Acathon. I sat down with my brothers and I said, look guys, we haven't won, you know, it was worth doing anyway because we were convinced it was over. And then, yeah, the rest is history. So it's been a good journey since then. And how's the traction been? Like how many people?"
       },
       {
         "start": 2429.95,
@@ -284439,7 +284533,7 @@
       {
         "start": 2479.74,
         "end": 2507.49,
-        "text": "We've in revenue numbers, we're at about $265,000 in revenue. We also did have our first pack opening in the game, which we called our founder, Caphose, because they were the initial cards that launched it. We also raised about 26,000 there through that. So heading towards 300,000 in the space of our four members since we started in revenue, which is crazy exciting for some people think that people don't want to spend money in."
+        "text": "We've in revenue numbers, we're at about $265,000 in revenue. We also did have our first pack opening in the game, which we called our founder, Capos, because they were the initial cards that launched it. We also raised about 26,000 there through that. So heading towards 300,000 in the space of our four members since we started in revenue, which is crazy exciting for some people think that people don't want to spend money in."
       },
       {
         "start": 2507.49,
@@ -284543,8 +284637,28 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "9893de2f255a43faf1a6ce3c52d1e036a19a30af611af548fd40587f078bcad1"
-    }
+      "publishedSegmentsSha256": "0d2e74e749df6717808dd42a853ebb93992116132aaa133bc54d2bebb0f36854"
+    },
+    "editorialChecks": [
+      {
+        "start": 2479.74,
+        "end": 2554.69,
+        "status": "uncertain-user-counts",
+        "note": "Revenue and retention figures remain founder claims. The daily-user sequence is garbled in the base transcript; targeted re-recognition is retained for review, without substituting a guessed count.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      },
+      {
+        "start": 2641.1,
+        "end": 2856.62,
+        "status": "historical-product-plans",
+        "note": "V2, mobile availability and larger prize pools are described plans or recording-time claims, not verified subsequent launches.",
+        "sources": [
+          "https://anchor.fm/s/10e854134/podcast/rss"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-backfill-1",

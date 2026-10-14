@@ -1,0 +1,177 @@
+{
+  "checkedAt": "2026-10-13",
+  "baseCommit": "169ebc289a601c958e230036c2bd30f158982ac4",
+  "method": "Targeted medium.en audio re-transcription, CPU int8, beam 5, no prompt, no context conditioning, VAD disabled. Compared with original text and surrounding context. Not manual listening or complete transcript verification.",
+  "reviews": [
+    {
+      "resourceId": "res-199",
+      "originalSegmentsSha256": "8a0c081d6000b3cec708154faa44b6442921b8ad0457da615a739849c85a53bb",
+      "audioSha256": "eba01c832ea3567faaf494d033966b074ebb37d697abc0829f0a40ef6eb9ecf3",
+      "researchTranscriptSha256": "f3e081be4f2d56b16b4fdd3b977d5ebe2b964bbab4d985573b87991678b3351d",
+      "captionSourceSha256": null,
+      "publishedSegmentsSha256": "519c901e30719882029ec770300e86cbf2c36bebc7855e16de4ec833d7d3c6aa"
+    },
+    {
+      "resourceId": "res-258",
+      "originalSegmentsSha256": "214a0549014a7db370f780c1f43b55f227cdce17c64b119358617cd32b5c54f9",
+      "audioSha256": "e04b8b87a46ad759cd913d772b409478c001d29d33934c179cc0d0787bf7d59e",
+      "researchTranscriptSha256": "130da7d65122e28486f53ca014d1bd7ed83c9b74d37fabf01a5e24ec2387720f",
+      "captionSourceSha256": null,
+      "publishedSegmentsSha256": "834c05d55c518dfedf3e9e25a5ed1fc0bb2314ec76568b76e4463f1c7aeb3a0e"
+    },
+    {
+      "resourceId": "ownership-forum-1-recording",
+      "originalSegmentsSha256": "9f23326d9028556ebf96ae85c86d80167ae20afa15214fdc545f168792ff6820",
+      "audioSha256": null,
+      "researchTranscriptSha256": "e65b294784510fff47ffdc20c9ddaaaff37403e67e555459fdc524343eb6a96c",
+      "captionSourceSha256": "e65b294784510fff47ffdc20c9ddaaaff37403e67e555459fdc524343eb6a96c",
+      "publishedSegmentsSha256": "c62e862b14f6a1814bcaa9d1fb44c890c6cd86756d8f762de6e1f9c33678c651"
+    },
+    {
+      "resourceId": "ownership-report-16-recording",
+      "originalSegmentsSha256": "46f90362668432467f4dab4093bf95ceedaeeec468e4e089cccc1e49ba652957",
+      "audioSha256": null,
+      "researchTranscriptSha256": "b4be363f8788ab683c23d81a1020e280e965e9584e24ce9aef62c684147c131b",
+      "captionSourceSha256": "b4be363f8788ab683c23d81a1020e280e965e9584e24ce9aef62c684147c131b",
+      "publishedSegmentsSha256": "e476334f74ed68ee1d1331cded47abbd396594e1d8b8d917c8f28c5bdedb208d"
+    },
+    {
+      "resourceId": "ownership-radio-11-recording",
+      "originalSegmentsSha256": "6894407b423a6f6bf3fbea99d374e01d40ce0c7581ce51c481604dcf606b1da3",
+      "audioSha256": "6628341dfdb83e7be8beddd164540664dfaaa72f92c01975b94d20bd1fb11a72",
+      "researchTranscriptSha256": "48f7ab7fbfc59a630e6fd92599d09931fa0fe92b77aa625eccac2206e0ec2340",
+      "captionSourceSha256": null,
+      "publishedSegmentsSha256": "bfd257368e44d178b18365621ff989d81ad09700dc83121396749ea1ac6be139"
+    },
+    {
+      "resourceId": "ownership-radio-6-recording",
+      "originalSegmentsSha256": "e24494a3087c41c84d8c3bbf18f6d1c428269332d1f7c24b16b544b20c1dd168",
+      "audioSha256": "b304f8da2e53fcb319cbf64caf749a24d1097be17a0b20c6b084df2c8e42355a",
+      "researchTranscriptSha256": "a9bf73d9ed91d7e8d139e589612446eab6915a3929dbeea1495eef63e4337c8f",
+      "captionSourceSha256": null,
+      "publishedSegmentsSha256": "4bc70d6d42392d83f0e39694694db353a9fa75d93fed625f44aa0dbdd1832a06"
+    }
+  ],
+  "changes": [
+    {
+      "resourceId": "res-199",
+      "segmentIndex": 39,
+      "original": {
+        "start": 168.05,
+        "end": 171.05,
+        "text": " It was just me, Pranayang, Cal building before that."
+      },
+      "replacement": {
+        "start": 168.05,
+        "end": 171.05,
+        "text": " It was just me, Pranay and Cal building before that."
+      },
+      "reason": "New ASR separates Pranay and Cal. Umbra official hub identifies Pranay Bagde as a core contributor; Cal is retained from the original rather than expanded into an unverified identity.",
+      "sources": [
+        "https://hub.umbraprivacy.com/"
+      ]
+    },
+    {
+      "resourceId": "res-258",
+      "segmentIndex": 386,
+      "original": {
+        "start": 1562,
+        "end": 1569.88,
+        "text": " It tries to argue, are you more on the ownership or like, I guess, futarchy PILDSIDE or is met"
+      },
+      "replacement": {
+        "start": 1562,
+        "end": 1569.88,
+        "text": " It tries to arb you, or are you more on the ownership or like, I guess, futarchy-pilled side, or is MetaDAO"
+      },
+      "reason": "Fresh ASR supports arb you and futarchy-pilled side, followed by MetaDAO; repair the organization name split across original segments.",
+      "sources": []
+    },
+    {
+      "resourceId": "res-258",
+      "segmentIndex": 387,
+      "original": {
+        "start": 1569.88,
+        "end": 1574.9,
+        "text": " a dam for you just to wait to token the right way or do you actually believe in futarchy"
+      },
+      "replacement": {
+        "start": 1569.88,
+        "end": 1574.9,
+        "text": " for you just a way to do the token the right way, or do you actually believe in futarchy"
+      },
+      "reason": "Fresh ASR recovers the question about token issuance; preserve original segment timing and the following deeply? segment.",
+      "sources": []
+    },
+    {
+      "resourceId": "ownership-forum-1-recording",
+      "segmentIndex": 98,
+      "original": {
+        "start": 629,
+        "text": "reasons I started with MetaV um because",
+        "end": 632
+      },
+      "replacement": {
+        "start": 629,
+        "text": "reasons I started with MetaDAO um because",
+        "end": 632
+      },
+      "reason": "Original captions give MetaV; new ASR gives metadata. In the surrounding fundraising discussion, the speaker describes starting with MetaDAO alongside Loyal and other founders. This is an editorial contextual correction, not a verbatim ASR claim.",
+      "sources": [
+        "https://metadao.fi/companies/loyal"
+      ]
+    },
+    {
+      "resourceId": "ownership-report-16-recording",
+      "segmentIndex": 422,
+      "original": {
+        "start": 1072,
+        "text": "Futuri via MetaDAO, uh almost like two",
+        "end": 1076
+      },
+      "replacement": {
+        "start": 1072,
+        "text": "futarchy via MetaDAO, uh almost like two",
+        "end": 1076
+      },
+      "reason": "Recovered official audio recheck gives Futarki via Meddao; surrounding discussion refers to discovering the governance concept and futarchy as a service, supporting futarchy rather than Futardio.",
+      "sources": []
+    },
+    {
+      "resourceId": "ownership-radio-11-recording",
+      "segmentIndex": 336,
+      "original": {
+        "start": 1767.84,
+        "end": 1772.28,
+        "text": " But pretty bullish on Shurasi 5, pretty bullish on the token,"
+      },
+      "replacement": {
+        "start": 1767.84,
+        "end": 1772.28,
+        "text": " But pretty bullish on JurassicFi, pretty bullish on the token,"
+      },
+      "reason": "New ASR renders Jurassic five. Primary company profile uses @JurassicFi and the discussion is about its fossil tokens; five/5 is a misrendering of the Fi brand suffix, not a quantity.",
+      "sources": [
+        "https://metadao.fi/companies/jurassic-finance"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-6-recording",
+      "segmentIndex": 394,
+      "original": {
+        "start": 2225.33,
+        "end": 2235.73,
+        "text": " you have any question guys to to Sora and Shurasik five. Hey guys, I mean just just one I guess I'm"
+      },
+      "replacement": {
+        "start": 2225.33,
+        "end": 2235.73,
+        "text": " you have any question guys to to Sora and JurassicFi. Hey guys, I mean just just one I guess I'm"
+      },
+      "reason": "Correct the company name Shurasik five to JurassicFi; the primary company profile identifies Sora as CEO and @JurassicFi as its account. The apparent number is the brand suffix, not a financial quantity.",
+      "sources": [
+        "https://metadao.fi/companies/jurassic-finance"
+      ]
+    }
+  ]
+}

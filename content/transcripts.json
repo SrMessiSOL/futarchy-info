@@ -13048,7 +13048,7 @@
       {
         "start": 1767.84,
         "end": 1772.28,
-        "text": " But pretty bullish on Shurasi 5, pretty bullish on the token,"
+        "text": " But pretty bullish on JurassicFi, pretty bullish on the token,"
       },
       {
         "start": 1772.28,
@@ -21788,7 +21788,7 @@
       ],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "6894407b423a6f6bf3fbea99d374e01d40ce0c7581ce51c481604dcf606b1da3",
+      "publishedSegmentsSha256": "bfd257368e44d178b18365621ff989d81ad09700dc83121396749ea1ac6be139",
       "audioGapReview": {
         "checkedAt": "2026-10-13",
         "method": "All original intervals processed with small.en VAD and base.en without VAD; selected candidates checked with small.en word timestamps and surrounding audio. Machine analysis, not manual listening.",
@@ -21812,6 +21812,16 @@
           "https://metadao.fi/companies/futardio-cult",
           "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
           "https://www.backable.biz/docs/whats-new",
+          "https://metadao.fi/companies/jurassic-finance"
+        ]
+      },
+      {
+        "start": 1767.84,
+        "end": 1772.28,
+        "status": "targeted-asr-context-correction",
+        "note": "New ASR renders Jurassic five. Primary company profile uses @JurassicFi and the discussion is about its fossil tokens; five/5 is a misrendering of the Fi brand suffix, not a quantity. Targeted machine re-transcription and editorial comparison, not manual listening or independent verification of the speaker’s claims.",
+        "sources": [
+          "https://x.com/i/spaces/1oKMvRwmBBoGQ",
           "https://metadao.fi/companies/jurassic-finance"
         ]
       }
@@ -83106,7 +83116,7 @@
       {
         "start": 2225.33,
         "end": 2235.73,
-        "text": " you have any question guys to to Sora and Shurasik five. Hey guys, I mean just just one I guess I'm"
+        "text": " you have any question guys to to Sora and JurassicFi. Hey guys, I mean just just one I guess I'm"
       },
       {
         "start": 2235.73,
@@ -89146,7 +89156,7 @@
       ],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "e24494a3087c41c84d8c3bbf18f6d1c428269332d1f7c24b16b544b20c1dd168",
+      "publishedSegmentsSha256": "4bc70d6d42392d83f0e39694694db353a9fa75d93fed625f44aa0dbdd1832a06",
       "audioGapReview": {
         "checkedAt": "2026-10-13",
         "method": "All original intervals processed with small.en VAD and base.en without VAD; selected candidates checked with small.en word timestamps and surrounding audio. Machine analysis, not manual listening.",
@@ -89171,6 +89181,16 @@
           "https://metadao.fi/companies/jurassic-finance",
           "https://www.backable.biz/docs/whats-new",
           "https://metadao.fi/decisions/metadao-035"
+        ]
+      },
+      {
+        "start": 2225.33,
+        "end": 2235.73,
+        "status": "targeted-asr-context-correction",
+        "note": "Correct the company name Shurasik five to JurassicFi; the primary company profile identifies Sora as CEO and @JurassicFi as its account. The apparent number is the brand suffix, not a financial quantity. Targeted machine re-transcription and editorial comparison, not manual listening or independent verification of the speaker’s claims.",
+        "sources": [
+          "https://x.com/i/spaces/1nxeLywQRkLJX",
+          "https://metadao.fi/companies/jurassic-finance"
         ]
       }
     ]
@@ -119437,12 +119457,12 @@
       {
         "start": 1562,
         "end": 1569.88,
-        "text": " It tries to argue, are you more on the ownership or like, I guess, futarchy PILDSIDE or is met"
+        "text": " It tries to arb you, or are you more on the ownership or like, I guess, futarchy-pilled side, or is MetaDAO"
       },
       {
         "start": 1569.88,
         "end": 1574.9,
-        "text": " a dam for you just to wait to token the right way or do you actually believe in futarchy"
+        "text": " for you just a way to do the token the right way, or do you actually believe in futarchy"
       },
       {
         "start": 1574.9,
@@ -122907,7 +122927,7 @@
       "untranscribedIntervals": [],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "214a0549014a7db370f780c1f43b55f227cdce17c64b119358617cd32b5c54f9",
+      "publishedSegmentsSha256": "834c05d55c518dfedf3e9e25a5ed1fc0bb2314ec76568b76e4463f1c7aeb3a0e",
       "founderReferenceReview": {
         "checkedAt": "2026-10-13",
         "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
@@ -122966,6 +122986,24 @@
         "sources": [
           "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
           "https://metadao.fi/decisions/metadao-035"
+        ]
+      },
+      {
+        "start": 1562,
+        "end": 1569.88,
+        "status": "targeted-asr-context-correction",
+        "note": "Fresh ASR supports arb you and futarchy-pilled side, followed by MetaDAO; repair the organization name split across original segments. Targeted machine re-transcription and editorial comparison, not manual listening or independent verification of the speaker’s claims.",
+        "sources": [
+          "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E4-Chris-Loyal-e3ghnna"
+        ]
+      },
+      {
+        "start": 1569.88,
+        "end": 1574.9,
+        "status": "targeted-asr-context-correction",
+        "note": "Fresh ASR recovers the question about token issuance; preserve original segment timing and the following deeply? segment. Targeted machine re-transcription and editorial comparison, not manual listening or independent verification of the speaker’s claims.",
+        "sources": [
+          "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-S1-E4-Chris-Loyal-e3ghnna"
         ]
       }
     ]
@@ -126143,7 +126181,7 @@
       {
         "start": 168.05,
         "end": 171.05,
-        "text": " It was just me, Pranayang, Cal building before that."
+        "text": " It was just me, Pranay and Cal building before that."
       },
       {
         "start": 171.05,
@@ -129692,7 +129730,7 @@
       "untranscribedIntervals": [],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "8a0c081d6000b3cec708154faa44b6442921b8ad0457da615a739849c85a53bb",
+      "publishedSegmentsSha256": "519c901e30719882029ec770300e86cbf2c36bebc7855e16de4ec833d7d3c6aa",
       "founderReferenceReview": {
         "checkedAt": "2026-10-13",
         "method": "Targeted editorial spelling corrections, material-number triage and selected local ASR rechecks. Sources and original words preserved in maintenance evidence; uncertain figures kept separate from factual reference notes.",
@@ -129756,6 +129794,16 @@
           "https://metadao.fi/companies/omnipair",
           "https://metadao.fi/decisions/metadao-035",
           "https://metadao.fi/companies/umbra"
+        ]
+      },
+      {
+        "start": 168.05,
+        "end": 171.05,
+        "status": "targeted-asr-context-correction",
+        "note": "New ASR separates Pranay and Cal. Umbra official hub identifies Pranay Bagde as a core contributor; Cal is retained from the original rather than expanded into an unverified identity. Targeted machine re-transcription and editorial comparison, not manual listening or independent verification of the speaker’s claims.",
+        "sources": [
+          "https://podcasts.apple.com/bm/podcast/ownership-s1e3-kru-umbra/id1888100311?i=1000757454033",
+          "https://hub.umbraprivacy.com/"
         ]
       }
     ]
@@ -157814,7 +157862,7 @@
       },
       {
         "start": 629,
-        "text": "reasons I started with MetaV um because",
+        "text": "reasons I started with MetaDAO um because",
         "end": 632
       },
       {
@@ -162665,7 +162713,7 @@
       ],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "9f23326d9028556ebf96ae85c86d80167ae20afa15214fdc545f168792ff6820",
+      "publishedSegmentsSha256": "c62e862b14f6a1814bcaa9d1fb44c890c6cd86756d8f762de6e1f9c33678c651",
       "audioGapReview": {
         "checkedAt": "2026-10-13",
         "method": "All original intervals processed with small.en VAD and base.en without VAD; selected candidates checked with small.en word timestamps and surrounding audio. Machine analysis, not manual listening.",
@@ -162687,6 +162735,16 @@
         "note": "Targeted terminology review corrected 12 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
         "sources": [
           "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      },
+      {
+        "start": 629,
+        "end": 632,
+        "status": "targeted-asr-context-correction",
+        "note": "Original captions give MetaV; new ASR gives metadata. In the surrounding fundraising discussion, the speaker describes starting with MetaDAO alongside Loyal and other founders. This is an editorial contextual correction, not a verbatim ASR claim. Targeted machine re-transcription and editorial comparison, not manual listening or independent verification of the speaker’s claims.",
+        "sources": [
+          "https://www.youtube.com/watch?v=sUgOoILivO4",
+          "https://metadao.fi/companies/loyal"
         ]
       }
     ]
@@ -218438,7 +218496,7 @@
       },
       {
         "start": 1072,
-        "text": "Futuri via MetaDAO, uh almost like two",
+        "text": "futarchy via MetaDAO, uh almost like two",
         "end": 1076
       },
       {
@@ -222823,7 +222881,7 @@
       "untranscribedIntervals": [],
       "chronologySorted": false,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "46f90362668432467f4dab4093bf95ceedaeeec468e4e089cccc1e49ba652957",
+      "publishedSegmentsSha256": "e476334f74ed68ee1d1331cded47abbd396594e1d8b8d917c8f28c5bdedb208d",
       "terminologyReview": {
         "checkedAt": "2026-10-13",
         "changedSegments": 19,
@@ -222840,6 +222898,15 @@
         "sources": [
           "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
           "https://www.backable.biz/docs/whats-new"
+        ]
+      },
+      {
+        "start": 1072,
+        "end": 1076,
+        "status": "targeted-asr-context-correction",
+        "note": "Recovered official audio recheck gives Futarki via Meddao; surrounding discussion refers to discovering the governance concept and futarchy as a service, supporting futarchy rather than Futardio. Targeted machine re-transcription and editorial comparison, not manual listening or independent verification of the speaker’s claims.",
+        "sources": [
+          "https://www.youtube.com/watch?v=NwqGg5E4mr0"
         ]
       }
     ]

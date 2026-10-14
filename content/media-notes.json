@@ -3029,8 +3029,8 @@
       {
         "start": 1859.38,
         "end": 1868.44,
-        "status": "unresolved-units",
-        "note": "The circulating-token count remains unclear: original ASR gives 600, a prior recheck 600,700, and medium.en six or seven hundred. Missing thousands are not inferred. Separately, Loyal's governance proposal explicitly describes changing the staking requirement from 500,000 to 1,000,000 LOYAL, corroborating the historical 500k threshold discussed here. This does not establish execution of that proposed increase.",
+        "status": "listener-confirmed-wording",
+        "note": "On 2026-10-13 the OwnershipFM team member reviewing the clip in this chat confirmed the wording as six or seven hundred tokens in free circulation, with 500k required for raising a proposal. This records the listener's reading, not independent verification of circulating supply. No unspoken thousands unit is added. Loyal's governance proposal separately corroborates the historical 500k threshold; execution of its proposed increase is not established.",
         "sources": [
           "https://vercel.metadao.fi/projects/loyal/proposal/98zXsz1RtvYw4zHrxaZDdGBU3BgqfsX9XJbXBLSJUBST"
         ]

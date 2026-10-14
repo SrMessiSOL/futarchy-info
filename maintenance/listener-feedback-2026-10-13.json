@@ -1,0 +1,88 @@
+{
+  "checkedAt": "2026-10-13",
+  "resourceId": "res-258",
+  "authority": "User listening feedback in this chat; OwnershipFM team member",
+  "originalSegmentsSha256": "5504bc2f5ac5fa99f129abc5b24ba16e85f5539632020b61d14547fca6d0d681",
+  "original": {
+    "start": 1859.38,
+    "end": 1864.38,
+    "text": " there's around [unclear circulating-token count] in free circulation"
+  },
+  "originalEditorialChecks": [
+    {
+      "start": 0,
+      "end": 60,
+      "status": "publisher-identity",
+      "note": "The publisher identifies this guest as Chris and the host as 8bitpenis. Targeted spellings were corrected; this is not speaker diarization or a fully verified verbatim transcript.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss",
+        "https://metadao.fi/companies/loyal"
+      ]
+    },
+    {
+      "start": 18.74,
+      "end": 23.74,
+      "status": "publisher-numbering",
+      "note": "Audio recheck also renders episode five, while the publisher labels this interview S1 E4. Preserve the spoken number; use S1 E4 for catalog identification.",
+      "sources": [
+        "https://anchor.fm/s/10e854134/podcast/rss"
+      ]
+    },
+    {
+      "start": 1782.87,
+      "end": 1828.48,
+      "status": "arithmetic-clarification",
+      "note": "MetaDAO lists $2.5 million raised. The guest reports $1.5 million spent on buybacks; that amount is 60% of $2.5 million. The nearby 70–75% token-holding claim uses a different denominator and remains unverified. No buyback execution or treasury holdings were independently checked.",
+      "sources": [
+        "https://metadao.fi/companies/loyal"
+      ]
+    },
+    {
+      "start": 1859.38,
+      "end": 1868.44,
+      "status": "unresolved-units",
+      "note": "The circulating-token count remains unclear: original ASR gives 600, a prior recheck 600,700, and medium.en six or seven hundred. Missing thousands are not inferred. Separately, Loyal's governance proposal explicitly describes changing the staking requirement from 500,000 to 1,000,000 LOYAL, corroborating the historical 500k threshold discussed here. This does not establish execution of that proposed increase.",
+      "sources": [
+        "https://vercel.metadao.fi/projects/loyal/proposal/98zXsz1RtvYw4zHrxaZDdGBU3BgqfsX9XJbXBLSJUBST"
+      ]
+    },
+    {
+      "start": 0,
+      "end": 4085.1795,
+      "status": "contextual-terminology-review",
+      "note": "Targeted terminology review corrected 23 segments. Historical Futardio and the Backable rename are distinguished from futarchy governance. Source pages establish spellings, not proof of every spoken word. Remaining uncertain names, amounts and other machine-transcription errors are not resolved by this pass.",
+      "sources": [
+        "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e",
+        "https://metadao.fi/decisions/metadao-035"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "clip": 1,
+      "decision": "Leave unchanged, including uncertainty."
+    },
+    {
+      "clip": 2,
+      "decision": "Leave unchanged, including uncertainty."
+    },
+    {
+      "clip": 3,
+      "decision": "Leave unchanged, including uncertainty."
+    },
+    {
+      "clip": 4,
+      "decision": "User heard six or seven hundred tokens in free circulation, with 500k required for raising a proposal. No thousands inferred."
+    },
+    {
+      "clip": 5,
+      "decision": "Leave unchanged. Arihant suggested but another name remains possible; not a confirmed identification."
+    }
+  ],
+  "replacement": {
+    "start": 1859.38,
+    "end": 1864.38,
+    "text": " there's around six or seven hundred tokens in free circulation"
+  },
+  "publishedSegmentsSha256": "214a0549014a7db370f780c1f43b55f227cdce17c64b119358617cd32b5c54f9"
+}

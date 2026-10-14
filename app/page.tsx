@@ -12,6 +12,7 @@ export default function Page() {
   const [sortBy, setSortBy] = useState("added")
   const [timePeriod, setTimePeriod] = useState("all")
   const [project, setProject] = useState("all")
+  const [series, setSeries] = useState("all")
   const [search, setSearch] = useState("")
 
   return (
@@ -20,6 +21,8 @@ export default function Page() {
       <ResearchBrief />
       <main id="library" className="library-shell scroll-mt-6 py-8 lg:py-10">
         <LibraryFilters
+          series={series}
+          setSeries={setSeries}
           project={project}
           setProject={setProject}
           activeFilters={activeFilters}
@@ -30,6 +33,7 @@ export default function Page() {
           setTimePeriod={setTimePeriod}
         />
         <ResourceGrid
+          series={series}
           project={project}
           activeFilters={activeFilters}
           sortBy={sortBy}

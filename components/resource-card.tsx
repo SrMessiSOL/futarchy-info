@@ -5,6 +5,7 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { formatResourceDate, type Resource } from "@/lib/resources-data"
+import { resourceSeries, mediaSeries } from "@/lib/media-series"
 import { mediaNote } from "@/lib/agent-media"
 
 interface ResourceCardProps {
@@ -27,12 +28,8 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
     news: "News",
   }[resource.type]
 
-  const isMedia = resource.type === "podcast" || resource.type === "video"
-  const seriesLabel = isMedia ? ["Roadshow", "Report", "Forum", "Radio"].find(series =>
-    new RegExp(`Ownership\\s+${series}\\b`, "i").test(resource.title)
-  ) : undefined
-  const founderInterview = isMedia && /Ownership.*(?:Podcast|S[12]\s*E\d)/i.test(resource.title)
-  const typeLabel = seriesLabel ? `Ownership ${seriesLabel}` : founderInterview ? "Founder interview" : formatLabel
+  const series = resourceSeries(resource)
+  const typeLabel = mediaSeries.find(item => item.id === series)?.label ?? formatLabel
   const actionLabel = resource.type === "podcast" ? "Listen" : resource.type === "video" ? "Watch" : "Read"
 
   const getIcon = () => {
@@ -102,7 +99,7 @@ export function ResourceCard({ resource, viewCount, score, onView, onVote }: Res
           <Button size="sm" className="gap-2 rounded-lg" onClick={onView} aria-label={`${actionLabel}: ${resource.title}`}>
             {actionLabel}<ExternalLink className="size-3.5" />
           </Button>
-          {transcript?.status === 'available' && <a className="flex items-center gap-1.5 text-xs font-medium text-primary underline-offset-4 hover:underline" href={transcript.textUrl} target="_blank" rel="noopener noreferrer"><FileText className="size-3.5" />Transcript (machine)</a>}
+          {transcript?.status === 'available' && <a className="flex items-center gap-1.5 text-xs font-medium text-primary underline-offset-4 hover:underline" href={`/transcripts/${resource.id}`}><FileText className="size-3.5" />Transcript (machine)</a>}
         </div>
         <div className="flex flex-wrap items-center justify-between gap-2 text-xs text-muted-foreground">
           {mediaNote(resource.id) ? <a className="underline-offset-4 hover:text-foreground hover:underline" href={`/api/library/${resource.id}`} target="_blank" rel="noopener noreferrer">Reading notes ↗</a> : <span>Original source ↗</span>}

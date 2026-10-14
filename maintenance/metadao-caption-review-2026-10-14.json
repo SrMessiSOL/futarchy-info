@@ -1,0 +1,383 @@
+{
+  "checkedAt": "2026-10-14",
+  "channelNavigation": {
+    "source": "https://www.youtube.com/@metaDAOproject",
+    "visibleTabs": [
+      "Home",
+      "Videos",
+      "Playlists"
+    ],
+    "liveTabVisible": false,
+    "shortsTabVisible": false,
+    "conclusion": "No separate Live or Shorts tabs were exposed in the public channel navigation during this check. This does not establish absence of unlisted, removed or region-dependent content."
+  },
+  "reviews": [
+    {
+      "resourceId": "video-review-4d39316532587037656477",
+      "videoId": "M91e2Xp7edw",
+      "method": "Complete available English automatic captions reviewed",
+      "range": "0:03–10:55",
+      "duration": "11:01",
+      "transcriptSha256": "c19a3eb93f852ac6c7b16e6e646f2777d978986d980ec2b948ef6c7f0986210b",
+      "remainingChecks": [
+        {
+          "start": 44,
+          "end": 105,
+          "status": "name-uncertain",
+          "note": "Acknowledgement names are inconsistently rendered in captions. Keep the publisher-confirmed speaker Michael Rinko; do not infer the identities of other attendees.",
+          "sources": [
+            "https://www.youtube.com/watch?v=M91e2Xp7edw"
+          ]
+        },
+        {
+          "start": 405,
+          "end": 494,
+          "status": "claim-not-verified",
+          "note": "Company valuations, IPO timing and future access are speaker claims or aspirations; not independently checked and omitted from the summary.",
+          "sources": [
+            "https://www.youtube.com/watch?v=M91e2Xp7edw"
+          ]
+        }
+      ]
+    },
+    {
+      "resourceId": "video-review-4b455733396c664a626b6b",
+      "videoId": "KEW39lfJbkk",
+      "method": "Complete available English automatic captions reviewed",
+      "range": "0:01–11:54",
+      "duration": "11:56",
+      "transcriptSha256": "a85920b42b8c3c655b992a75771521875269ab863b664fa232b7fba9bb27e613",
+      "remainingChecks": [
+        {
+          "start": 8,
+          "end": 22,
+          "status": "name-bounded",
+          "note": "Use Abbee as spelled in the publisher title and Ornate as confirmed by the firm website. The caption and video description disagree on the full surname; it remains unresolved.",
+          "sources": [
+            "https://www.ornate.finance/about-us"
+          ]
+        },
+        {
+          "start": 600,
+          "end": 616,
+          "status": "illustrative-amount",
+          "note": "The 200K smart-contract-audit payment is a hypothetical accounting example, not a verified MetaDAO expense.",
+          "sources": [
+            "https://www.youtube.com/watch?v=KEW39lfJbkk"
+          ]
+        },
+        {
+          "start": 306,
+          "end": 501,
+          "status": "recommendation-not-policy",
+          "note": "Quarterly reporting and GAAP/IFRS adoption are the speaker’s recommendations and forecasts, not evidence of current protocol compliance.",
+          "sources": [
+            "https://www.youtube.com/watch?v=KEW39lfJbkk"
+          ]
+        }
+      ]
+    },
+    {
+      "resourceId": "video-review-6633554347417951466745",
+      "videoId": "f3UCGAyQFgE",
+      "method": "Complete available English automatic captions reviewed",
+      "range": "0:04–14:22",
+      "duration": "14:52",
+      "transcriptSha256": "62f77a9577710a8dd09267a367e2bc4b147b8e279b6cb1ce94071fdc213f908f",
+      "remainingChecks": [
+        {
+          "start": 344,
+          "end": 464,
+          "status": "historical-reference",
+          "note": "Challenger’s accident date is January 28, 1986. This reference check does not verify the film’s stock-market timing claims.",
+          "sources": [
+            "https://www.nasa.gov/challenger-sts-51l-accident/"
+          ]
+        },
+        {
+          "start": 574,
+          "end": 632,
+          "status": "timing-unverified",
+          "note": "The film gives a 16-minute market-response claim; the backstory captions give 14 minutes. Neither timing is independently established here, so no precise interval is asserted in the summary.",
+          "sources": [
+            "https://www.youtube.com/watch?v=f3UCGAyQFgE"
+          ]
+        },
+        {
+          "start": 4,
+          "end": 862,
+          "status": "caption-limit",
+          "note": "Archival audio and music yield garbled captions. No diarization or exact speaker assignment is inferred from caption arrows; no speech-completeness claim is made.",
+          "sources": [
+            "https://www.youtube.com/watch?v=f3UCGAyQFgE"
+          ]
+        }
+      ]
+    },
+    {
+      "resourceId": "video-review-707731506956614748626f",
+      "videoId": "pw1PiVaGHbo",
+      "method": "Complete available English automatic captions reviewed",
+      "range": "0:00–14:46",
+      "duration": "14:49",
+      "transcriptSha256": "bd01e86d6cc1dcb5b827f4f843f92c02a0b59c2a2a9836c7d2c630351cd95762",
+      "remainingChecks": [
+        {
+          "start": 0,
+          "end": 30,
+          "status": "speaker-and-name-uncertain",
+          "note": "The publisher does not identify the speaker. The opening company reference rendered as mountain capital is unclear; no founder identity or project tag is inferred.",
+          "sources": [
+            "https://www.youtube.com/watch?v=pw1PiVaGHbo"
+          ]
+        },
+        {
+          "start": 159,
+          "end": 205,
+          "status": "figures-unverified",
+          "note": "Token valuations, lifespan comparisons and token-launch forecasts are not independently verified; avoid presenting them as measured facts.",
+          "sources": [
+            "https://www.youtube.com/watch?v=pw1PiVaGHbo"
+          ]
+        },
+        {
+          "start": 120,
+          "end": 886,
+          "status": "timestamp-correction",
+          "note": "The publisher chapter guide ends with a conclusion at 10:45, but the caption track continues with questions and revenue-distribution discussion through 14:46. This topic guide follows the actual caption timestamps.",
+          "sources": [
+            "https://www.youtube.com/watch?v=pw1PiVaGHbo"
+          ]
+        }
+      ]
+    },
+    {
+      "resourceId": "video-review-486b4a466a585277506263",
+      "videoId": "HkJFjXRwPbc",
+      "method": "Complete available English automatic captions reviewed",
+      "range": "0:00–1:15",
+      "duration": "1:20",
+      "transcriptSha256": "ce03abe698d163915d9d980287c1829130bf6e395ce41c486040991a15c8aca7",
+      "remainingChecks": [
+        {
+          "start": 20,
+          "end": 60,
+          "status": "mechanism-bounded",
+          "note": "The clip gives a simplified higher-price explanation. Do not interpret conditional-token prices as approval probabilities or infer an executed outcome.",
+          "sources": [
+            "https://www.youtube.com/watch?v=HkJFjXRwPbc"
+          ]
+        },
+        {
+          "start": 0,
+          "end": 15,
+          "status": "name-context",
+          "note": "Jito and MetaDAO spellings follow the official video title and description; the caption variants are recognition errors.",
+          "sources": [
+            "https://www.youtube.com/watch?v=HkJFjXRwPbc"
+          ]
+        }
+      ]
+    },
+    {
+      "resourceId": "video-review-365a36594576364c695149",
+      "videoId": "6Z6YEv6LiQI",
+      "method": "Complete available English automatic captions reviewed",
+      "range": "0:01–28:15",
+      "duration": "28:16",
+      "transcriptSha256": "60d7cbd2a32b4906fd843a90b02bbd807319af2d0f25127db041c58482145f99",
+      "remainingChecks": [
+        {
+          "start": 235,
+          "end": 259,
+          "status": "historical-date-correction",
+          "note": "The caption says 1980 for Challenger. NASA records January 28, 1986. Do not repeat the caption year as fact or assume it faithfully represents the audio.",
+          "sources": [
+            "https://www.nasa.gov/challenger-sts-51l-accident/"
+          ]
+        },
+        {
+          "start": 1098,
+          "end": 1111,
+          "status": "recording-date-unconfirmed",
+          "note": "The speaker states January 29, 2024 within the caption track. Keep this separate from the February 29 upload date; recording date not independently verified.",
+          "sources": [
+            "https://www.youtube.com/watch?v=6Z6YEv6LiQI"
+          ]
+        },
+        {
+          "start": 1188,
+          "end": 1237,
+          "status": "target-versus-demand",
+          "note": "The speaker distinguishes a $75,000 target, a tentative $35,000 liquidity allocation and about $160,000 of form-reported demand. These are not independently verified accepted proceeds or deployed liquidity.",
+          "sources": [
+            "https://www.youtube.com/watch?v=6Z6YEv6LiQI"
+          ]
+        },
+        {
+          "start": 1344,
+          "end": 1387,
+          "status": "conflicting-amounts",
+          "note": "Captions render roughly $40,000 at 22:29 and $440,000 at 22:58. No exact treasury balance is adopted without audio and primary balance evidence.",
+          "sources": [
+            "https://www.youtube.com/watch?v=6Z6YEv6LiQI"
+          ]
+        },
+        {
+          "start": 840,
+          "end": 1020,
+          "status": "names-unresolved",
+          "note": "Several early contributor handles are garbled. Do not resolve their identities from phonetic guesses. Proph3t is normalized to the spelling used by the same official channel.",
+          "sources": [
+            "https://www.youtube.com/watch?v=6Z6YEv6LiQI"
+          ]
+        }
+      ]
+    },
+    {
+      "resourceId": "video-review-655a326d6c774361364955",
+      "videoId": "eZ2mlwCa6IU",
+      "method": "faster-whisper small.en CPU int8 beam 3; VAD; no previous-text conditioning; locally generated, not manual listening",
+      "durationSeconds": 1027.9253125,
+      "segmentCount": 331,
+      "audioSha256": "8c86169e9941702fba104c4c5b5d2100975f02a540b8e2bca9e37431a5966692",
+      "transcriptSha256": "ac19135745e791384d52c7d52967f9f408c31061120a9c50ffcd52c119b9b637",
+      "captionExport": "unavailable",
+      "localResearchTranscript": "recovered-and-read",
+      "publicDisposition": "Held by existing Ranger publication cutoff; no exception added.",
+      "remainingChecks": [
+        {
+          "start": 0,
+          "end": 33,
+          "status": "name-confirmed",
+          "note": "Noah Goldberg and Theia follow the official publisher title and description; ASR variants are not alternative identities.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU"
+          ]
+        },
+        {
+          "start": 216,
+          "end": 233,
+          "status": "conditional-example",
+          "note": "The $1 spot / $3 pass example and $2 difference are hypothetical and explicitly conditional on passage; not a guaranteed return.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU"
+          ]
+        },
+        {
+          "start": 469,
+          "end": 572,
+          "status": "historical-observation",
+          "note": "The 24-hour timing and overnight trading examples describe the speaker’s experience. He explicitly says the time-zone observation is not backed by a completed data analysis; do not generalize these as current protocol parameters.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU"
+          ]
+        },
+        {
+          "start": 622,
+          "end": 644,
+          "status": "illustrative-scale",
+          "note": "The 50K versus one-million trading-capital example illustrates scale; it is not a verified fund balance or executed trade.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU"
+          ]
+        },
+        {
+          "start": 654,
+          "end": 723,
+          "status": "name-unresolved",
+          "note": "The first case-study company is rendered inconsistently as mountain / amount of capital. No exact project identity is inferred from ASR alone.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU"
+          ]
+        },
+        {
+          "start": 724,
+          "end": 798,
+          "status": "publication-held",
+          "note": "This July 2026 upload discusses Ranger after its stored March 2 cutoff. Apply the existing lifecycle publication gate to the entire mixed recording; preserve the ID and notes internally. Allegations mentioned by the speaker are not independently established.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU",
+            "https://metadao.fi/decisions/RNGR-003"
+          ]
+        },
+        {
+          "start": 799,
+          "end": 866,
+          "status": "proposal-name-unresolved",
+          "note": "The Solomon proposal nickname is unclear in ASR. Keep the general case-study description; do not invent its title or infer on-chain execution.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU"
+          ]
+        },
+        {
+          "start": 904,
+          "end": 940,
+          "status": "question-gap",
+          "note": "The generated text does not recover the full audience question before the answer at 15:39. Do not reconstruct it from the answer.",
+          "sources": [
+            "https://www.youtube.com/watch?v=eZ2mlwCa6IU"
+          ]
+        }
+      ]
+    },
+    {
+      "resourceId": "video-review-7430385169535253366938",
+      "videoId": "t08QiSRS6i8",
+      "method": "faster-whisper small.en CPU int8 beam 3; VAD; no previous-text conditioning; locally generated, not manual listening",
+      "durationSeconds": 202.816,
+      "segmentCount": 51,
+      "audioSha256": "432f4182e2bac19dd0461bd2098a6083b319e5d48ac3d140cd9dc7627c7b543d",
+      "transcriptSha256": "a10cc0699f9ec191702e3fe0890007351cc262bde3ea9663071b5091397e64dc",
+      "captionExport": "unavailable",
+      "localResearchTranscript": "recovered-and-read",
+      "publicDisposition": "Public reading notes; full transcript remains research-only.",
+      "remainingChecks": [
+        {
+          "start": 0,
+          "end": 186,
+          "status": "archival-attribution-limit",
+          "note": "Multiple archival voices and excerpts are present. No speaker identities, clip provenance or quotes are inferred from machine transcription alone.",
+          "sources": [
+            "https://www.youtube.com/watch?v=t08QiSRS6i8"
+          ]
+        },
+        {
+          "start": 96,
+          "end": 162,
+          "status": "claims-not-verified",
+          "note": "Political allegations, percentages and economic figures are montage claims. They are not endorsed or independently checked and are not reproduced as factual findings.",
+          "sources": [
+            "https://www.youtube.com/watch?v=t08QiSRS6i8"
+          ]
+        },
+        {
+          "start": 162,
+          "end": 186,
+          "status": "name-context",
+          "note": "ASR renders A16Z and Binance in the token-voting excerpt. This does not establish which DAO or proposal is shown; no project tags are inferred.",
+          "sources": [
+            "https://www.youtube.com/watch?v=t08QiSRS6i8"
+          ]
+        },
+        {
+          "start": 186,
+          "end": 203,
+          "status": "coverage-limit",
+          "note": "The last recovered speech ends around 3:06, while decoded audio lasts 3:22.816. The remaining interval is not automatically classified as missing speech; visuals and music were not manually reviewed.",
+          "sources": [
+            "https://www.youtube.com/watch?v=t08QiSRS6i8"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "captionTracksRead": 6,
+    "localTranscriptsGeneratedAndRead": 2,
+    "readingNotesPrepared": 8,
+    "publicReadingNotes": 7,
+    "heldByExistingLifecyclePolicy": 1,
+    "fullTranscriptsPublished": 0
+  }
+}

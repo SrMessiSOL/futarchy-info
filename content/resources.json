@@ -17386,7 +17386,7 @@
     "date": "2026-07-24",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=M91e2Xp7edw",
-    "description": "Michael Rinko opens the inaugural Ownership Meeting, introducing its agenda and MetaDAO’s vision for market-based governance. Recorded in San Francisco on July 10, 2026. Summary based on the publisher description and chapters.",
+    "description": "Michael Rinko opens the inaugural Ownership Meeting and presents three ambitions: reduce rug pulls, broaden access to early-stage companies, and improve decisions through markets. These are goals, not demonstrated guarantees. Recorded July 10, 2026; uploaded July 24.",
     "tags": [
       "MetaDAO",
       "Talk / Interview"
@@ -17397,7 +17397,7 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. The publisher separately identifies July 10, 2026 as the recording date; catalog date is the upload publication day. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Publication day and event-date distinction remain as verified in the October 14 watch-page review. Follow-up: Complete available English automatic-caption export read (0:03–10:55; displayed recording duration 11:01). Captions may omit speech or misrecognize names and numbers; no complete manual listening, visual review or independent validation of speaker claims. Original notes, not a verbatim transcript. Full-transcript redistribution permission is not established for MetaDAO uploads. See timestamped editorial checks for unresolved details."
   },
   {
     "id": "video-review-655a326d6c774361364955",
@@ -17406,10 +17406,12 @@
     "date": "2026-07-23",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=eZ2mlwCa6IU",
-    "description": "Noah Goldberg brings an investor’s perspective to pricing and trading decision markets. Recorded at the inaugural Ownership Meeting in San Francisco on July 10, 2026. Summary based on the publisher description.",
+    "description": "Noah Goldberg of Theia explains conditional tokens, arbitrage, liquidation incentives and large-holder participation in decision markets, including Ranger and Solomon case studies. Trade outcomes and strategy observations are speaker-reported; they are not independent evidence of execution or guaranteed returns.",
     "tags": [
       "MetaDAO",
-      "Talk / Interview"
+      "Talk / Interview",
+      "project:ranger",
+      "project:solomon"
     ],
     "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=eZ2mlwCa6IU",
@@ -17417,7 +17419,7 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. The publisher separately identifies July 10, 2026 as the recording date; catalog date is the upload publication day. Caption access: the export tool returned no transcript in this session. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Original watch-page publication date is unchanged. Follow-up: Complete locally generated research transcript read (331 segments; 1027.925 seconds of decoded audio). faster-whisper small.en CPU int8 beam 3; VAD; no previous-text conditioning; locally generated, not manual listening. Automatic captions were not recovered from the publisher. ASR can omit questions or misrecognize names and numbers; no full manual listening, visual review or independent verification of speaker claims. No full transcript redistribution permission established for MetaDAO. Held by existing Ranger publication cutoff; no exception added."
   },
   {
     "id": "video-review-4b455733396c664a626b6b",
@@ -17426,7 +17428,7 @@
     "date": "2026-07-22",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=KEW39lfJbkk",
-    "description": "Abbee discusses crypto accounting challenges, including token valuation, transaction reconciliation and DAO treasuries. Recorded at the inaugural Ownership Meeting in San Francisco on July 10, 2026. Summary based on the publisher description.",
+    "description": "Abbee of Ornate argues that decision markets need complete financial statements, not just on-chain transaction data. She discusses voluntary disclosure, comparability, audits, wallet reconciliation and accrual accounting. Her reporting recommendations are proposals, not adopted MetaDAO requirements.",
     "tags": [
       "MetaDAO",
       "Talk / Interview"
@@ -17437,7 +17439,7 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. The publisher separately identifies July 10, 2026 as the recording date; catalog date is the upload publication day. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Publication day and event-date distinction remain as verified in the October 14 watch-page review. Follow-up: Complete available English automatic-caption export read (0:01–11:54; displayed recording duration 11:56). Captions may omit speech or misrecognize names and numbers; no complete manual listening, visual review or independent validation of speaker claims. Original notes, not a verbatim transcript. Full-transcript redistribution permission is not established for MetaDAO uploads. See timestamped editorial checks for unresolved details."
   },
   {
     "id": "video-review-6633554347417951466745",
@@ -17446,7 +17448,7 @@
     "date": "2026-02-02",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=f3UCGAyQFgE",
-    "description": "A short film featuring Robin Hanson and MetaDAO, produced by Josh Minogue / Blairdog Productions. The publisher uses the Challenger disaster’s market response to introduce questions about markets and policy decisions. Summary based on the publisher description.",
+    "description": "A Josh Minogue / Blairdog Productions film featuring Robin Hanson and MetaDAO. It combines Challenger archival material with arguments about information aggregation, institutional failures and decision markets. Market-response timings and claims of market superiority remain attributed to the film.",
     "tags": [
       "MetaDAO",
       "Talk / Interview"
@@ -17457,7 +17459,7 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Publication day and event-date distinction remain as verified in the October 14 watch-page review. Follow-up: Complete available English automatic-caption export read (0:04–14:22; displayed recording duration 14:52). Captions may omit speech or misrecognize names and numbers; no complete manual listening, visual review or independent validation of speaker claims. Original notes, not a verbatim transcript. Full-transcript redistribution permission is not established for MetaDAO uploads. See timestamped editorial checks for unresolved details."
   },
   {
     "id": "video-review-707731506956614748626f",
@@ -17466,7 +17468,7 @@
     "date": "2025-05-27",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=pw1PiVaGHbo",
-    "description": "MetaDAO explores attention, memecoins, tokenization and consumer applications, with examples including pump.fun and time.fun. Summary based on the publisher description and chapter guide; the discussion is broader market context.",
+    "description": "A talk on attention-driven token markets, speculative consumer apps and token distribution. It uses pump.fun and time.fun as examples, then discusses product-token alignment, community expectations and reinvestment versus distributions. Growth forecasts and market figures are the speaker’s views, not validated outcomes.",
     "tags": [
       "MetaDAO",
       "Talk / Interview"
@@ -17477,7 +17479,7 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Publication day and event-date distinction remain as verified in the October 14 watch-page review. Follow-up: Complete available English automatic-caption export read (0:00–14:46; displayed recording duration 14:49). Captions may omit speech or misrecognize names and numbers; no complete manual listening, visual review or independent validation of speaker claims. Original notes, not a verbatim transcript. Full-transcript redistribution permission is not established for MetaDAO uploads. See timestamped editorial checks for unresolved details."
   },
   {
     "id": "video-review-486b4a466a585277506263",
@@ -17486,7 +17488,7 @@
     "date": "2025-01-13",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=HkJFjXRwPbc",
-    "description": "A short historical introduction to Jito’s first decision market, contrasting conditional-market prices with token voting. The description links JIP-10. This January 2025 explainer does not establish the proposal’s outcome or execution.",
+    "description": "A January 2025 introduction to Jito’s first decision market, contrasting conditional-market prices with token voting. The linked JIP-10 concerns JTO in TipRouter. This simplified historical explanation does not establish the proposal’s outcome, execution or current trading rules.",
     "tags": [
       "MetaDAO",
       "Talk / Interview"
@@ -17497,7 +17499,7 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Also read the complete available automatic caption export; its simplified decision rule is speaker-reported, not independently validated. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Publication day and event-date distinction remain as verified in the October 14 watch-page review. Follow-up: Complete available English automatic-caption export read (0:00–1:15; displayed recording duration 1:20). Captions may omit speech or misrecognize names and numbers; no complete manual listening, visual review or independent validation of speaker claims. Original notes, not a verbatim transcript. Full-transcript redistribution permission is not established for MetaDAO uploads. See timestamped editorial checks for unresolved details."
   },
   {
     "id": "video-review-7430385169535253366938",
@@ -17506,7 +17508,7 @@
     "date": "2024-08-08",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=t08QiSRS6i8",
-    "description": "An early introduction to MetaDAO’s goal of using markets for decisions and building a decision-market platform. Summary based on the publisher description, which also invites contributors interested in markets and mechanism design.",
+    "description": "An early MetaDAO film uses archival speeches and news excerpts to frame concerns about political incentives, concentrated influence and token-voting power. The publisher presents decision markets as its alternative. The montage’s allegations and statistics are not independently verified here.",
     "tags": [
       "MetaDAO",
       "Talk / Interview"
@@ -17517,7 +17519,7 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: the export tool returned no transcript in this session. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Original watch-page publication date is unchanged. Follow-up: Complete locally generated research transcript read (51 segments; 202.816 seconds of decoded audio). faster-whisper small.en CPU int8 beam 3; VAD; no previous-text conditioning; locally generated, not manual listening. Automatic captions were not recovered from the publisher. ASR can omit questions or misrecognize names and numbers; no full manual listening, visual review or independent verification of speaker claims. No full transcript redistribution permission established for MetaDAO. Public reading notes; full transcript remains research-only."
   },
   {
     "id": "video-review-365a36594576364c695149",
@@ -17526,7 +17528,7 @@
     "date": "2024-02-29",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=6Z6YEv6LiQI",
-    "description": "MetaDAO’s backstory before its first community call. The publisher’s chapters trace discovery of futarchy, building on Solana, launch, early proposals, community and treasury context. Summary based on the description and chapters; proposal execution is not independently verified.",
+    "description": "Proph3t recounts MetaDAO’s origins, Solana implementation, initial token distribution, early governance proposals and liquidity challenges. The conversation distinguishes proposed work from ongoing development. Its historical dates and treasury figures are recollections; the upload date remains February 29, 2024.",
     "tags": [
       "MetaDAO",
       "Talk / Interview"
@@ -17537,6 +17539,6 @@
     "checkedAt": "2026-10-14",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Verified title, channel, full publisher description and displayed publication day on the official YouTube watch page on 2026-10-14. Summary limited to publisher metadata and any supplied chapter guide; full recording and caption text not reviewed. Caption access: export recovered for research; recovery does not establish completeness or accuracy. No full transcript republished; existing OwnershipFM permission does not cover this publisher."
+    "evidenceNote": "Publication day and event-date distinction remain as verified in the October 14 watch-page review. Follow-up: Complete available English automatic-caption export read (0:01–28:15; displayed recording duration 28:16). Captions may omit speech or misrecognize names and numbers; no complete manual listening, visual review or independent validation of speaker claims. Original notes, not a verbatim transcript. Full-transcript redistribution permission is not established for MetaDAO uploads. See timestamped editorial checks for unresolved details."
   }
 ]

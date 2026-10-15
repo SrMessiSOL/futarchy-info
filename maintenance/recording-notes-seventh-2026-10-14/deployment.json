@@ -1,0 +1,10 @@
+{
+  "pr": 42,
+  "mergeCommit": "c729a39b92c6f6bd743e979fd18c69a9b0e39151",
+  "run": "https://github.com/SrMessiSOL/futarchy-info/actions/runs/38664177457",
+  "conclusion": "success",
+  "production": "https://futarchy.info",
+  "exactMergedNotesVerified": true,
+  "productionAccessRequests": 541,
+  "productionAccessFailures": 0
+}

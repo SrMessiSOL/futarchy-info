@@ -1,3 +1,9 @@
+## Recording review, seventh batch (October 14, 2026)
+
+Verified PR #42 deployed successfully to futarchy.info: both merged guides match live Markdown and JSON, with all 541 production access checks passing. Added the 21-marker publisher guide for Jup & Juice’s interview with MetaDAO co-founder Kollan. Corrected the previous endorsement-like description; the interview discusses futarchy versus voting but does not independently prove superiority. No full listening or transcript review claimed.
+
+The no-notes backlog falls from 14 to 13. Five additional source checks are documented without fabricated completion: Pine Analytics media recovery failed, Future Podcast lacks chapters, MCG’s founder segment is not located, ThreadGuy’s direct replay fails playback, and The Armen Show provides further recovery leads. Loyal’s previously verified private-video gap remains. No records removed or project status changed. Evidence: maintenance/recording-notes-seventh-2026-10-14.
+
 ## Recording review, sixth batch (October 14, 2026)
 
 Added two MetaDAO founder reading guides with 37 topic markers: Midcurve with Kollan and Switchboard’s Mitch, and the recovered Alpha Liquid episode with Proph3t. Read the entire available Midcurve caption export and both publisher chapter lists. Midcurve captions end before the displayed duration and differ from chapter offsets; use publisher timestamps and disclose the gap. Alpha Liquid is a chapter-based review, not full listening or transcript review. No third-party transcript published.

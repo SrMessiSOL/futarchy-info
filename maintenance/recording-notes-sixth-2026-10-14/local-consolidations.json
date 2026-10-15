@@ -1,0 +1,21 @@
+{
+  "preservedOriginalRecords": 795,
+  "preservedFields": [
+    "id",
+    "url",
+    "sourceUrl",
+    "date",
+    "addedAt"
+  ],
+  "hiddenReferences": [
+    "res-43",
+    "res-47"
+  ],
+  "canonicalEpisodes": [
+    "res-44",
+    "alpha-liquid-proph3t-2025-04-15"
+  ],
+  "canonicalEpisodesVisibleWithNotes": true,
+  "remainingQueueMatchesPublicAudit": true,
+  "remainingWithoutNotes": 14
+}

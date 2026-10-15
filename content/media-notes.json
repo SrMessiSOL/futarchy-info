@@ -5911,5 +5911,177 @@
       "status": "not-reviewed",
       "sha256": null
     }
+  },
+  {
+    "resourceId": "res-44",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Entire available automatic-caption export and complete publisher description and chapter list reviewed",
+    "reviewBoundary": "Read all available exported captions from 00:00 through 01:03:48; the player displays 01:05:30. Caption timings differ from publisher chapters, and the uncovered tail is not reconstructed. This guide uses the publisher’s chapter timestamps. Automatic captions contain garbled names and terminology; no manual audio verification was performed. Reported grant payments, economic targets and market prices are speaker accounts, not independently verified execution. Future releases and governance discussions are recording-time plans; Switchboard’s appearance does not establish a MetaDAO raise. No third-party transcript is republished. Promotional clip: https://x.com/jito_sol/status/1915469158386483471; the full episode is retained here.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction"
+      },
+      {
+        "start": "02:06",
+        "topic": "Guest backgrounds"
+      },
+      {
+        "start": "04:38",
+        "topic": "Switchboard overview"
+      },
+      {
+        "start": "05:55",
+        "topic": "Why oracles matter"
+      },
+      {
+        "start": "07:25",
+        "topic": "Custom data feeds"
+      },
+      {
+        "start": "09:05",
+        "topic": "Oracle security model"
+      },
+      {
+        "start": "10:24",
+        "topic": "Latency and benchmarks"
+      },
+      {
+        "start": "12:55",
+        "topic": "Liquidations"
+      },
+      {
+        "start": "14:08",
+        "topic": "Trusted execution environments"
+      },
+      {
+        "start": "15:33",
+        "topic": "Oracle performance"
+      },
+      {
+        "start": "17:45",
+        "topic": "Mitch’s experience with TEEs"
+      },
+      {
+        "start": "20:32",
+        "topic": "Oracle incentives"
+      },
+      {
+        "start": "22:20",
+        "topic": "Stake-based access"
+      },
+      {
+        "start": "24:40",
+        "topic": "Vaults and operators"
+      },
+      {
+        "start": "28:05",
+        "topic": "Fees and subsidies"
+      },
+      {
+        "start": "34:00",
+        "topic": "Task distribution and stake routing"
+      },
+      {
+        "start": "38:10",
+        "topic": "Token economic design"
+      },
+      {
+        "start": "40:00",
+        "topic": "MetaDAO’s futarchy model"
+      },
+      {
+        "start": "45:00",
+        "topic": "Jito’s futarchy grant experiment"
+      },
+      {
+        "start": "53:15",
+        "topic": "Future use cases"
+      },
+      {
+        "start": "59:10",
+        "topic": "Discussion of TEEs"
+      },
+      {
+        "start": "01:04:21",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "1461054e2be4d0e54394165f4544c5af75a342788b55286670b629f5464eee91"
+    }
+  },
+  {
+    "resourceId": "alpha-liquid-proph3t-2025-04-15",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete original Spotify description and all publisher chapter entries reviewed",
+    "reviewBoundary": "Read the full publisher description and all 15 chapter entries for the 48:38 episode. No full transcript or audio review. Topic markers follow Spotify’s guide; its broken line between 17:10 and 21:24 is normalized. Launchpad, regulatory, institutional-adoption and AI discussions reflect April 2025 topics, not verified delivery, legal conclusions or current capabilities. Spotify dates the episode April 15, 2025; April 23 is the later press-release date retained on internal res-47. The old Blockchain Wire URL currently displays Article Not Found. No third-party transcript is republished.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction"
+      },
+      {
+        "start": "01:27",
+        "topic": "Futarchy overview"
+      },
+      {
+        "start": "04:45",
+        "topic": "Proph3t’s path to MetaDAO"
+      },
+      {
+        "start": "07:12",
+        "topic": "Proposal trading"
+      },
+      {
+        "start": "09:32",
+        "topic": "Manipulation concerns"
+      },
+      {
+        "start": "17:10",
+        "topic": "Launchpad announcement"
+      },
+      {
+        "start": "21:24",
+        "topic": "Regulatory and legal structure discussion"
+      },
+      {
+        "start": "25:36",
+        "topic": "Metrics beyond token price"
+      },
+      {
+        "start": "28:00",
+        "topic": "Building on Solana"
+      },
+      {
+        "start": "31:18",
+        "topic": "Monetization discussion"
+      },
+      {
+        "start": "32:21",
+        "topic": "Encouraging market participation"
+      },
+      {
+        "start": "34:10",
+        "topic": "AI traders"
+      },
+      {
+        "start": "39:00",
+        "topic": "Institutional adoption discussion"
+      },
+      {
+        "start": "42:22",
+        "topic": "Pseudonymity and the mask"
+      },
+      {
+        "start": "46:49",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
   }
 ]

@@ -1,0 +1,495 @@
+{
+  "checkedAt": "2026-10-14",
+  "originalCount": 43,
+  "notesAdded": 24,
+  "remainingWithoutNotes": 14,
+  "entries": [
+    {
+      "id": "res-11",
+      "title": "Pine Analytics Podcast with Proph3t",
+      "sourceUrl": "https://x.com/pineanalytics/status/1732095165177749869",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-20",
+      "title": "SRC:TLK Ep. #12 - MetaDAO",
+      "sourceUrl": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "full-publisher-transcript-notes-added",
+      "nextStep": "Complete machine transcript reviewed; manual audio verification and third-party republication permission remain separate."
+    },
+    {
+      "id": "res-22",
+      "title": "Futarchy: As a Service",
+      "sourceUrl": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-23",
+      "title": "MetaDAO and the Future of APAC with Kollan",
+      "sourceUrl": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "full-publisher-transcript-notes-added",
+      "nextStep": "Audio verification remains separate; no third-party transcript hosted."
+    },
+    {
+      "id": "res-24",
+      "title": "What Futarchy Looks Like in Practice with Kollan House",
+      "sourceUrl": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "written-source-notes-added",
+      "nextStep": "Audio verification remains separate; no third-party transcript hosted."
+    },
+    {
+      "id": "res-29",
+      "title": "MetaDAO: Why the World Needs Decision-Making Markets",
+      "sourceUrl": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "written-source-notes-added",
+      "nextStep": "Full transcript and audio review remain separate."
+    },
+    {
+      "id": "res-30",
+      "title": "Product Keynote: How MetaDAO's Futards Are Building a Market-Governed Civilization",
+      "sourceUrl": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "available-caption-notes-added",
+      "nextStep": "Caption gaps and audio verification remain; no full transcript published."
+    },
+    {
+      "id": "res-31",
+      "title": "FUTARDS FIXING FRAMEWORKS",
+      "sourceUrl": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
+      "projects": [],
+      "priority": "background",
+      "status": "pending",
+      "nextStep": "2026-10-14: video accessible (58:39), caption export unavailable, no publisher description. Audio recovery still required; no completed note claimed."
+    },
+    {
+      "id": "res-45",
+      "title": "Revolutionizing Governance: Futarchy with Proph3t",
+      "sourceUrl": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "full-publisher-transcript-notes-added",
+      "nextStep": "Audio verification remains separate; no third-party transcript hosted."
+    },
+    {
+      "id": "res-47",
+      "title": "Futarchy, Prediction Markets & the Future of Governance",
+      "sourceUrl": "https://blockchainwire.io/press-release/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "promotional-reference-consolidated",
+      "nextStep": "Public full episode and guide: alpha-liquid-proph3t-2025-04-15. Original ID and URL preserved internally."
+    },
+    {
+      "id": "res-43",
+      "title": "Jito's Midcurve Podcast Featuring MetaDAO",
+      "sourceUrl": "https://x.com/jito_sol/status/1915469158386483471",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "promotional-reference-consolidated",
+      "nextStep": "Public full episode and guide: res-44. Original ID and URL preserved internally."
+    },
+    {
+      "id": "res-44",
+      "title": "Plug In With Switchboard | ep. 41",
+      "sourceUrl": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
+      "projects": [],
+      "priority": "background",
+      "status": "available-caption-notes-added",
+      "nextStep": "Entire available caption export read. Publisher timestamps retained because offsets differ; audio and uncovered tail remain unverified."
+    },
+    {
+      "id": "res-53",
+      "title": "Plasma, Prediction Markets, BNB, and More",
+      "sourceUrl": "https://x.com/0xResearch/status/1972679362639167492",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Original post reviewed and unsupported dedicated-MetaDAO wording corrected. Full 1:00:51 recording and any MetaDAO segment remain unreviewed."
+    },
+    {
+      "id": "res-83",
+      "title": "MetaDAO, ICOs, and Solana ETFs | Livestream",
+      "sourceUrl": "https://m.youtube.com/watch?v=zDi-BWL5tZQ",
+      "projects": [
+        {
+          "id": "umbra",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-60",
+      "title": "ThreadGuy Live with Proph3t",
+      "sourceUrl": "https://x.com/0xSrMessi/status/1976083763999437047",
+      "projects": [],
+      "priority": "background",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-61",
+      "title": "MCG Stream: Futarchy and ICOs Are Back!?",
+      "sourceUrl": "https://x.com/MCGlive/status/1976324856905072700",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-63",
+      "title": "MCG Stream: Token Holder Rights and Ownership Coins",
+      "sourceUrl": "https://x.com/MCGlive/status/1976747062709629405",
+      "projects": [],
+      "priority": "background",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-82",
+      "title": "How Do The MetaDAO ICOs work: Umbra Success",
+      "sourceUrl": "https://www.youtube.com/watch?v=yMJjilUU21o",
+      "projects": [
+        {
+          "id": "umbra",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-97",
+      "title": "Avici Presale Live on MetaDAO: Participate Step-by-step",
+      "sourceUrl": "https://www.youtube.com/watch?v=vbnZwFl8FHk",
+      "projects": [
+        {
+          "id": "avici",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-87",
+      "title": "Umbra just raised $155M fully on-chain via MetaDAO on Solana!",
+      "sourceUrl": "https://podscan.fm/podcasts/sol-brothers/episodes/umbra-just-raised-155m-fully-on-chain-via-metadao-on-solana",
+      "projects": [
+        {
+          "id": "umbra",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-64",
+      "title": "How Futarchy Ends the Rug Pull Era - Bankless",
+      "sourceUrl": "https://x.com/BanklessHQ/status/1980242608107716824",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "alternate-upload-consolidated",
+      "nextStep": "Public episode and podcast-version guide: res-246. X version has different chapter offsets."
+    },
+    {
+      "id": "res-102",
+      "title": "Loyal ICO on Metadao Review",
+      "sourceUrl": "https://www.youtube.com/watch?v=LVSMJkWOrzY",
+      "projects": [
+        {
+          "id": "loyal",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "blocked-private-video",
+      "nextStep": "2026-10-14 browser recheck: YouTube video still private. No content review claimed."
+    },
+    {
+      "id": "res-77",
+      "title": "$OMFG - OMNIPAIR TOKEN CRYPTO COIN HOW TO BUY SOLANA BLOCKCHAIN SOL METADAO NEW ICO METEORA JUPITER",
+      "sourceUrl": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
+      "projects": [
+        {
+          "id": "omnipair",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "full-local-asr-notes-added",
+      "nextStep": "Complete machine transcript reviewed; manual audio verification and third-party republication permission remain separate."
+    },
+    {
+      "id": "res-89",
+      "title": "Crypto ICOs Are Back: Echo, Legion & MetaDAO Investor Playbook",
+      "sourceUrl": "https://www.youtube.com/watch?v=Kn8n5aXwdy4",
+      "projects": [
+        {
+          "id": "umbra",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-116",
+      "title": "SOLOMON LABS TOKEN CRYPTO COIN HOW TO BUY",
+      "sourceUrl": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
+      "projects": [
+        {
+          "id": "solomon",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "full-local-asr-notes-added",
+      "nextStep": "Complete machine transcript reviewed; manual audio verification and third-party republication permission remain separate."
+    },
+    {
+      "id": "res-118",
+      "title": "This ICO is Live For 4 Days",
+      "sourceUrl": "https://www.youtube.com/watch?v=NUrLnI1tiLs",
+      "projects": [
+        {
+          "id": "solomon",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-127",
+      "title": "MetaDAO Deep Dive: Why Ownership Coins Will Outperform",
+      "sourceUrl": "https://www.youtube.com/watch?v=0MjnoK8C9Ug",
+      "projects": [
+        {
+          "id": "solomon",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-42",
+      "title": "The Colosseum Podcast | Episode 3 with Proph3t",
+      "sourceUrl": "https://rss.com/podcasts/colosseum-podcast/1966321/",
+      "projects": [],
+      "priority": "background",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-90",
+      "title": "Umbra: Building the Future of Privacy on Solana",
+      "sourceUrl": "https://x.com/UmbraPrivacy/status/1973785682872062014",
+      "projects": [
+        {
+          "id": "umbra",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "reclassified-article",
+      "nextStep": "Written article reviewed; not a recording."
+    },
+    {
+      "id": "res-151",
+      "title": "Seb Monty with cobra (Barret, co-founder of Ranger)",
+      "sourceUrl": "https://x.com/SebMontgomery/status/2009362257529196833",
+      "projects": [
+        {
+          "id": "ranger",
+          "coverage": "historical-raise"
+        }
+      ],
+      "priority": "funded-project-history",
+      "status": "written-source-notes-added",
+      "nextStep": "Audio verification remains separate; no third-party transcript hosted."
+    },
+    {
+      "id": "res-152",
+      "title": "Ranger’s ICO, MetaDAO’s Momentum",
+      "sourceUrl": "https://x.com/0xcarlosg/status/2008560236794191921",
+      "projects": [
+        {
+          "id": "ranger",
+          "coverage": "historical-raise"
+        }
+      ],
+      "priority": "funded-project-history",
+      "status": "reclassified-article",
+      "nextStep": "Article body reviewed; embedded chart images not reviewed."
+    },
+    {
+      "id": "res-158",
+      "title": "FULL CONVERSATION w/ MetaProph3t, Co-Founder of MetaDAO. LIVE at Solana Breakpoint 2025",
+      "sourceUrl": "https://x.com/11AMdotclub/status/1999204697857786087",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "2026-10-14 original 11AM post confirms Proph3t at Breakpoint, December 11, 2025, and a 32:54 replay. No chapters or transcript recovered; remains pending."
+    },
+    {
+      "id": "res-159",
+      "title": "threadguy INTERVIEWING @metaproph3t",
+      "sourceUrl": "https://x.com/notthreadguy/status/1998492210564837451",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-160",
+      "title": "New episode with @metanallok out now!",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "written-source-notes-added",
+      "nextStep": "Full transcript and audio review remain separate."
+    },
+    {
+      "id": "res-161",
+      "title": "Ownership Coins Are Taking Over!",
+      "sourceUrl": "https://x.com/seppmos/status/1998375343539781875",
+      "projects": [
+        {
+          "id": "solomon",
+          "coverage": "raise"
+        },
+        {
+          "id": "ranger",
+          "coverage": "historical-raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "alternate-upload-consolidated",
+      "nextStep": "See public res-127; original ID preserved internally."
+    },
+    {
+      "id": "res-163",
+      "title": "New episode out now: Solana's Next Big Catalyst In 2026",
+      "sourceUrl": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "written-source-notes-added",
+      "nextStep": "Full transcript and audio review remain separate."
+    },
+    {
+      "id": "res-176",
+      "title": "FUTARCHY VS TRADITIONAL VOTING",
+      "sourceUrl": "https://x.com/JUPANDJUICE/status/2011856601603293565",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-178",
+      "title": "Understanding ownership coins w/@Abbasshaikh from @UmbraPrivacy (ex scout at @MetaDAOProject)",
+      "sourceUrl": "https://x.com/rachit/status/2011021526662046047",
+      "projects": [
+        {
+          "id": "umbra",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-180",
+      "title": "Robin Hanson on Cultural Evolution, Cultural Drift, and Futarchy",
+      "sourceUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-201",
+      "title": "MetaDAO's Permissionless Launchpad",
+      "sourceUrl": "https://solana.com/podcasts/lightspeed/episodes/metadao-s-permissionless-launchpad-2026-03-12",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-246",
+      "title": "How Futarchy Ends the Rug Pull Era",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+      "projects": [
+        {
+          "id": "umbra",
+          "coverage": "raise"
+        }
+      ],
+      "priority": "funded-project",
+      "status": "written-source-notes-added",
+      "nextStep": "Full recording or transcript review remains separate."
+    },
+    {
+      "id": "res-263",
+      "title": "Robin Hanson: Futarchy, Cultural Drift, and the Future of Adaptiveness",
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "res-265",
+      "title": "Futarchy: Prediction Markets and the Challenge of Disruptive Technology",
+      "sourceUrl": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "pending",
+      "nextStep": "Review source material before writing notes."
+    },
+    {
+      "id": "alpha-liquid-proph3t-2025-04-15",
+      "title": "Futarchy as Humanity’s Newest Model for Governance with MetaDAO | Proph3t",
+      "sourceUrl": "https://open.spotify.com/episode/3Xmvz837ROUiKGqpwcJwLw",
+      "projects": [],
+      "priority": "metadao-context",
+      "status": "written-source-notes-added",
+      "nextStep": "Full transcript and audio review remain separate."
+    }
+  ],
+  "previousRemainingWithoutNotes": 17,
+  "notesAddedThisPass": 2,
+  "reclassifiedArticlesThisPass": 0,
+  "alternateUploadsHiddenThisPass": 0,
+  "existingRecordingsReviewedThisPass": 1,
+  "newRecordingsWithNotesThisPass": 1,
+  "promotionalReferencesHiddenThisPass": 2
+}

@@ -1,3 +1,9 @@
+## Recording review, sixth batch (October 14, 2026)
+
+Added two MetaDAO founder reading guides with 37 topic markers: Midcurve with Kollan and Switchboard’s Mitch, and the recovered Alpha Liquid episode with Proph3t. Read the entire available Midcurve caption export and both publisher chapter lists. Midcurve captions end before the displayed duration and differ from chapter offsets; use publisher timestamps and disclose the gap. Alpha Liquid is a chapter-based review, not full listening or transcript review. No third-party transcript published.
+
+Consolidated Jito’s promotional clip into res-44. Preserved the missing Blockchain Wire announcement internally and added the actual Alpha Liquid episode dated April 15, separately from the April 23 press release. Corrected the unsupported dedicated-MetaDAO title on the 0xResearch roundup; it remains pending. Loyal is still private, and 11AM’s Proph3t replay still needs content recovery. Public no-notes backlog: 17 to 14, through one existing guide and two promotional-reference consolidations; the newly recovered episode already has notes. Evidence: maintenance/recording-notes-sixth-2026-10-14.
+
 ## Recording review, fifth batch (October 14, 2026)
 
 Added four guides and 39 topic markers: the Breakpoint 2024 Proph3t keynote, The Edge Podcast with Proph3t, Lightspeed with Kollan, and Lightspeed’s December 2025 roundup. Read all available keynote captions with explicit gaps; the other guides are limited to complete publisher descriptions and chapter lists. No manual audio verification or third-party transcript republication. Corrected the Lightspeed author spelling.

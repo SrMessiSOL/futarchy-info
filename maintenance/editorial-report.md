@@ -1,3 +1,9 @@
+## Recording review, fourth batch (October 14, 2026)
+
+Added guides for funded Omnipair and Solomon plus the early SRC:TLK Proph3t interview. Recovered public audio for the two CRYPTO VIDEOZ videos and read complete locally generated research transcripts; read the complete publisher automatic captions for SRC:TLK. This is machine-transcript review, not manual listening. Third-party audio and full transcripts remain unpublished. Token-buying tutorials are described as historical presenter commentary, without endorsing routes, prices, referral claims or technical assertions. Solomon’s previously accepted date remains unchanged despite the documented display-date discrepancy.
+
+The public recording backlog falls from 25 to 22. Loyal’s previously private video remains unresolved. Prior PR #39 notes were verified live with exact JSON matches. Evidence and queue: maintenance/recording-notes-fourth-2026-10-14.
+
 ## Recording review, third batch (October 14, 2026)
 
 Added four guides with 52 topic markers: the historical Ranger/Barrett interview, Gramajo/Proph3t, Solana/Kollan, and Jito/Kollan. Read the full publisher transcripts for Gramajo and Jito; the other two guides use publisher descriptions and chapter lists. No audio verification or third-party transcript republication is claimed. The Jito automatic captions contain a contradictory liquidity figure near 07:00, omitted from the summary rather than guessed. Early launchpad and AMM descriptions remain historical designs.

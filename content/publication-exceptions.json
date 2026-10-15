@@ -39,5 +39,15 @@
     "ownership-radio-16-recording",
     "blockrock-failed-raise-j7cmlqfm",
     "blockrock-archive-fa443fbd12"
-  ]
+  ],
+  "recoveredRadio": {
+    "approvedAt": "2026-10-15",
+    "authorization": "User explicitly requested transcription, review and addition of the newly found OwnershipFM recordings, with Radio 5 labelled partial clips. These exact historical recordings may include discussion of closed projects; this does not authorize new promotional updates.",
+    "resourceIds": [
+      "ownership-radio-3-recording",
+      "ownership-radio-5-recording",
+      "ownership-radio-7-recording",
+      "ownership-radio-15-recording"
+    ]
+  }
 }

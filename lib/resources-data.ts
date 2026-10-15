@@ -34,7 +34,7 @@ export interface Resource {
 
 // Keep legacy IDs in the catalog so stored engagement keys are never reassigned.
 export const catalog = data as Resource[]
-export const resources = catalog.filter(resource => !resource.catalogOnly && !resource.duplicateOf && !excludedByProjectRetention(resource, projects, radioProjects) && !publicationBlockReason(resource, lifecycle, publicationExceptions.resourceIds))
+export const resources = catalog.filter(resource => !resource.catalogOnly && !resource.duplicateOf && !excludedByProjectRetention(resource, projects, radioProjects) && !publicationBlockReason(resource, lifecycle, [...publicationExceptions.resourceIds, ...publicationExceptions.recoveredRadio.resourceIds]))
 export const mainResources = selectProjectResources(resources, projects, 'all')
 export const lastLibraryUpdate = mainResources.reduce((latest, r) => r.addedAt && r.addedAt > latest ? r.addedAt : latest, '')
 export function resourceTime(resource: Resource) {

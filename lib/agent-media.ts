@@ -23,6 +23,10 @@ export function agentResource(resource: Resource) {
     mediaAccess: ['video', 'podcast'].includes(resource.type) ? {
       readingNotes: note ? 'available' : 'not-reviewed',
       transcript: note?.transcript.status ?? 'not-reviewed',
+      transcriptDownloads: note?.transcript.status === 'available' ? {
+        text: `/api/transcripts/${resource.id}?download=1`,
+        json: `/api/transcripts/${resource.id}?format=json&download=1`,
+      } : null,
     } : null,
   }
 }
@@ -40,9 +44,11 @@ export function mediaMarkdown(resource: Resource, note: MediaNote) {
     ...(note.sections.length ? note.sections.map(section => `- ${section.start}: ${section.topic}`) : ['No timestamp guide was recorded for this review.']), '',
     '## Transcript access', '',
     ...(note.transcript.status === 'available' ? [
-      `Full machine transcript (text): ${note.transcript.textUrl}`,
+      `Available machine transcript (text): ${note.transcript.textUrl}`,
       `Timestamped segments (JSON): ${note.transcript.jsonUrl}`,
-      'Published with OwnershipFM team permission. Uncorrected machine transcription may contain invented or repeated passages, name/number errors and inaccurate timestamps. Review boundaries above still apply.',
+      `Download text: /api/transcripts/${resource.id}?download=1`,
+      `Download JSON: /api/transcripts/${resource.id}?format=json&download=1`,
+      'Published with OwnershipFM team permission. Machine transcription may contain invented or repeated passages, name/number errors and inaccurate timestamps, including after targeted corrections. Review boundaries above still apply.',
     ] : note.transcript.status === 'unavailable' ? [
       'No transcript was recovered from this recording. Metadata and chapter descriptions are not a full transcript. Consult the original recording and its publisher transcript controls.',
     ] : note.transcript.status === 'not-reviewed' ? [

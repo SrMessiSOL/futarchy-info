@@ -1,0 +1,925 @@
+{
+  "checkedAt": "2026-10-15",
+  "authorization": "User requested transcription, review and publication of these OwnershipFM team backups, with Radio 5 labelled partial clips. No other publisher permission inferred.",
+  "reviewBoundary": "All accepted generated text read; targeted name and terminology correction. No full manual listening, independent financial verification, or claim of complete speech recovery.",
+  "opening": {
+    "audioSha256": "49cd498de771d5d564ecd565f1681fc7e67927bb1baee84e16bdbf058b0d9b07",
+    "durationSeconds": 1674.6453125,
+    "segments": 43,
+    "researchTranscriptSha256": "a9b1759cf3b07d69215dffc9416bb44ccb2efe1f5cc8f3d066b03be8ee2ce17f",
+    "publishedSegmentsSha256": "3c36b884a2dc654e3b0c57026f56efdab5dac55e9e04cc7938184401404a8f54"
+  },
+  "recordings": [
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "durationSeconds": 5721.8346875,
+      "segments": 200,
+      "audioSha256": "05fce22aa8628e71711bf2e0fa62957a6ef9e5f58eefec4b610c226ab8e2ade7",
+      "researchTranscriptSha256": "95d5a7211f36c9f0e7e5af5887749703409f73556fc03f11ca316b72a26c984e",
+      "publishedSegmentsSha256": "c20f960f7bb8cf22e0d36dcf1c95ee7c5bd80c345959c8ee198af9cd93d68d45"
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "durationSeconds": 12597.8453125,
+      "segments": 457,
+      "audioSha256": "b32fb1017193f41bef47d376e43daee863c730142958693ebad3e93db9b68d00",
+      "researchTranscriptSha256": "4b0cdc3504038c98b581995f6e9bb5d05cde8cff478ca24537e79c050495a1b6",
+      "publishedSegmentsSha256": "839d50a699b30c445df13643bd3e913776e7b96e9a729f7cfe626d2932d85854"
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "durationSeconds": 7974.059,
+      "segments": 291,
+      "audioSha256": "01e87fe4063ce317a5c513644e7e7bc3fe6405fa400ca7d2755475a3ec94f6ec",
+      "researchTranscriptSha256": "f6615225d82bf53d7a0060e69c7e4816165e6e443e5c19b73e347cc86c8898d3",
+      "publishedSegmentsSha256": "f24417e3d1ef208e3c112b360c6e0bc156aa6630a57906701ccb9ec84377853e"
+    },
+    {
+      "resourceId": "ownership-radio-5-recording",
+      "durationSeconds": 5958.121687499999,
+      "segments": 1309,
+      "audioSha256": null,
+      "researchTranscriptSha256": "a77a411d91eccd1b6a44623cf6545df04dd8be81a0a4c288b28c37422d7fb629",
+      "publishedSegmentsSha256": "86a9b4e97d3ffdc02ebef3e42f911c8424aefdc4ef60230f41157dff2e4e489c"
+    }
+  ],
+  "clipParts": [
+    {
+      "label": "Clip 1: @d3h3d_ on Ownership and MetaDAO",
+      "clipNumber": 1,
+      "originalFilename": "Clip 1 - @d3h3d_ on Ownership and MetaDAO.mp3",
+      "offset": 0,
+      "durationSeconds": 62.325,
+      "audioSha256": "8692b7cdeace76210c89f985ebe8f9fa70d2d79e8387e923b5e1f2ef7e523589",
+      "researchTranscriptSha256": "71aae5baf74a7517e11aa26fc247bbfef1a477eac96193d556318944a9dd81d6"
+    },
+    {
+      "label": "Clip 2: @d3h3d_ background",
+      "clipNumber": 2,
+      "originalFilename": "Clip 2 - @d3h3d_ background.mp3",
+      "offset": 62.325,
+      "durationSeconds": 69.626,
+      "audioSha256": "cb26d9fcb7d640d750854e7e3b35dd6f596ecb48edf153a429259b1285f65c5b",
+      "researchTranscriptSha256": "17cdd311cc162750775c7ff80bb2732a86d9e7153702ef2ca91ceffcad7dc254"
+    },
+    {
+      "label": "Clip 3: @d3h3d_ about the problems",
+      "clipNumber": 3,
+      "originalFilename": "Clip 3 - @d3h3d_ about the problems.mp3",
+      "offset": 131.95100000000002,
+      "durationSeconds": 83.026,
+      "audioSha256": "3e7063ab3703cfd7465b14c67ce73a576e70f183110d82e96fadf4e9ec64f854",
+      "researchTranscriptSha256": "7f9f1e7f66b7c6982787550403a2a2b380de26ba7a180ef1212745ce96dc2a2f"
+    },
+    {
+      "label": "Clip 4: @d3h3d_ about Ika",
+      "clipNumber": 4,
+      "originalFilename": "Clip 4 - @d3h3d_ about Ika.mp3",
+      "offset": 214.97700000000003,
+      "durationSeconds": 56.926,
+      "audioSha256": "8bac02c54b0c8ca740459382c7f4d3e265e0c57385dabd4ccda5f264302cb79f",
+      "researchTranscriptSha256": "2cb2d637128ee2b1067d01e0db95c4a4edca5d33742029b5941800e64fca8568"
+    },
+    {
+      "label": "Clip 5: @d3h3d_ about wallets",
+      "clipNumber": 5,
+      "originalFilename": "Clip 5 - @d3h3d_ about wallets.mp3",
+      "offset": 271.903,
+      "durationSeconds": 115.926,
+      "audioSha256": "5b8c61332b68340c5575cba7650ce89e22796bbaa14bdb38b633d073b82bff5d",
+      "researchTranscriptSha256": "2de7caeb2b1598e49a60a39cf1dc851d03d249fc1de28b960b053d3ae61226db"
+    },
+    {
+      "label": "Clip 6: @d3h3d_ about wallets 2",
+      "clipNumber": 6,
+      "originalFilename": "Clip 6 - @d3h3d_ about wallets 2.mp3",
+      "offset": 387.829,
+      "durationSeconds": 82.926,
+      "audioSha256": "b7bfdbdb1a5290e806aa16e06baee2e586a9509b6fb9e3eff5ded8d1717d598b",
+      "researchTranscriptSha256": "3e24089c72c7e0c2f63fce58f2339c11c1e1336c40b483929001060539520c3c"
+    },
+    {
+      "label": "Clip 7: @d3h3d_ about retail custody",
+      "clipNumber": 7,
+      "originalFilename": "Clip 7 - @d3h3d_ about retail custody.mp3",
+      "offset": 470.755,
+      "durationSeconds": 86.126,
+      "audioSha256": "7a0e5c6ef4bccca2bf36bbeb98d231f3de3ffd851e1e9dd21597a991ba83a2a2",
+      "researchTranscriptSha256": "fb7175041a771355e3c960ecc1c16c7f4dea868c2a86b06b360695d49a9fdacd"
+    },
+    {
+      "label": "Clip 8: @d3h3d_ What can we do with Ika",
+      "clipNumber": 8,
+      "originalFilename": "Clip 8 - @d3h3d_ What can we do with Ika.mp3",
+      "offset": 556.881,
+      "durationSeconds": 205.3710625,
+      "audioSha256": "4fa50db07072e3e171f876b0046c1c48f433a15dcc639ddba66b100383810540",
+      "researchTranscriptSha256": "2c492d2dba4f83e10a175903537ed327de4980dca14dc34923cb0e4e55bce0c5"
+    },
+    {
+      "label": "Clip 9: @d3h3d_ on dWallets",
+      "clipNumber": 9,
+      "originalFilename": "Clip 9 - @d3h3d_ on dWallets.mp3",
+      "offset": 762.2520625,
+      "durationSeconds": 252.261375,
+      "audioSha256": "89bd18c9ee0ece5e84f33d03c00087ac9bedadc3602413fc0f5d7b39861b6b9c",
+      "researchTranscriptSha256": "bf36e66283f9ffc0c3f080f4ad2dfb4f984694cbd12e829f46eecd20d96dbcc1"
+    },
+    {
+      "label": "Clip 10: @d3h3d_ on prediction and decision markets and futarchy",
+      "clipNumber": 10,
+      "originalFilename": "Clip 10 - @d3h3d_ on prediction and decision markets and futarchy.mp3",
+      "offset": 1014.5134375,
+      "durationSeconds": 335.053875,
+      "audioSha256": "33ec2b7fdecafbeccb76c0baadff0da9936bdf3f027139dcfcdc406833d9b685",
+      "researchTranscriptSha256": "ca0ea55b9283fb85e136352f9a5031790af79d38765a45b67dccf48b795488c2"
+    },
+    {
+      "label": "Clip 11: @d3h3d_ about protection mechanism and risk_reward",
+      "clipNumber": 11,
+      "originalFilename": "Clip 11 - @d3h3d_ about protection mechanism and risk_reward.mp3",
+      "offset": 1349.5673125,
+      "durationSeconds": 203.982125,
+      "audioSha256": "15310da435d6f3625738170ebdca0006056c34f2aec19126ec2de8b8407eb737",
+      "researchTranscriptSha256": "23985abf8eb70190062d9fb5c47bc4df29118ba91c693401ab1db0234282905e"
+    },
+    {
+      "label": "Clip 12: @d3h3d_ about Encrypt",
+      "clipNumber": 12,
+      "originalFilename": "Clip 12 - @d3h3d_ about Encrypt.mp3",
+      "offset": 1553.5494375,
+      "durationSeconds": 209.4395,
+      "audioSha256": "5dd5caedc806d15e18e090ac01640ae7ac8103e55b7009740602ec375c5b4126",
+      "researchTranscriptSha256": "f004ea9340a79b31e6c58c9b059b256041e2d2bd3d7a742bb45098cbff1cfb75"
+    },
+    {
+      "label": "Clip 13: @d3h3d_ Ika & Encrypt",
+      "clipNumber": 13,
+      "originalFilename": "Clip 13 - @d3h3d_ Ika & Encrypt.mp3",
+      "offset": 1762.9889375,
+      "durationSeconds": 89.331375,
+      "audioSha256": "f2d847da5561acf34772a3fca5fc4a24992d8f1b60203c2c879de344ffd34c17",
+      "researchTranscriptSha256": "284b19f88d8befd27fb95a4f758baee10704d44391c9c51ba6b5fa3461a31c82"
+    },
+    {
+      "label": "Clip 14: @d3h3d_ How Encrypt works",
+      "clipNumber": 14,
+      "originalFilename": "Clip 14 - @d3h3d_ How Encrypt works.mp3",
+      "offset": 1852.3203125,
+      "durationSeconds": 226.9583125,
+      "audioSha256": "93a64da96904cef9c31c3455c3d11a1b55a76b87fcbdbb8e94371df33529e736",
+      "researchTranscriptSha256": "a51de69ea7a0fa82a4ddc6827fe6468f9f5d5d22ce23f5d079a584c17c4dac62"
+    },
+    {
+      "label": "Clip 15: @d3h3d_ $ENCRYPT alpha",
+      "clipNumber": 15,
+      "originalFilename": "Clip 15 - @d3h3d_ $ENCRYPT alpha.mp3",
+      "offset": 2079.278625,
+      "durationSeconds": 50.1474375,
+      "audioSha256": "f791ba964bfd01f775a0b3b7bd7119c62756e2adddfa97f48f36900779d5db86",
+      "researchTranscriptSha256": "0e7016fcf7d926ffa4b7fd71d692bb9ab6c45179243163d19f7f842763b35cba"
+    },
+    {
+      "label": "Clip 16: @wassielawyer the issue of tokenholders",
+      "clipNumber": 16,
+      "originalFilename": "Clip 16 - @wassielawyer the issue of tokenholders.mp3",
+      "offset": 2129.4260624999997,
+      "durationSeconds": 127.159375,
+      "audioSha256": "ce55e6297e8c1e75ae7c14118afba4d5f7f1dd55cd8daef97bdb061cfc9276f9",
+      "researchTranscriptSha256": "af2252f41563d500dfea13845ff24a18d8d91aff79269c5251da2d491f5f723e"
+    },
+    {
+      "label": "Clip 17: @wassielawyer the issue #2",
+      "clipNumber": 17,
+      "originalFilename": "Clip 17 - @wassielawyer the issue #2.mp3",
+      "offset": 2256.5854375,
+      "durationSeconds": 128.589375,
+      "audioSha256": "80265b1844a3c1f277cb323f18b703aa7d8a643e199be52106eef841602460b0",
+      "researchTranscriptSha256": "d96bccb4286ca8e922aa7fdcb31e4f3350f9fcaa49cb93c437dff27cf32bd133"
+    },
+    {
+      "label": "Clip 18: @wassielawyer about holders protection",
+      "clipNumber": 18,
+      "originalFilename": "Clip 18 - @wassielawyer about holders protection.mp3",
+      "offset": 2385.1748125,
+      "durationSeconds": 127.410875,
+      "audioSha256": "b91a02e779e86d9db8fcf9e44e6e87a8c44c714fcd40f1ca59290f3405427ccb",
+      "researchTranscriptSha256": "88ce5f4f6a46a508869d33e88c7fff2b702010048204bd8e99888ebceeae01fe"
+    },
+    {
+      "label": "Clip 19: @wassielawyer How Bedrock works",
+      "clipNumber": 19,
+      "originalFilename": "Clip 19 - @wassielawyer How Bedrock works.mp3",
+      "offset": 2512.5856875,
+      "durationSeconds": 116.6709375,
+      "audioSha256": "f8b09976af9b2c369b65b2d36f6e77789e2331f9b32560900a515eefad1a71e6",
+      "researchTranscriptSha256": "b94b6cabcbff5aff619d10222edacc75a0704fb6b9ba54e841d257d4484578ab"
+    },
+    {
+      "label": "Clip 20: @wassielawyer Bedrock #2",
+      "clipNumber": 20,
+      "originalFilename": "Clip 20 - @wassielawyer Bedrock #2.mp3",
+      "offset": 2629.256625,
+      "durationSeconds": 138.9389375,
+      "audioSha256": "a3346e954aaca4ef8fe60a3c668df3883e003e6cf1a7bd5f8b0392161f51af7a",
+      "researchTranscriptSha256": "444a161a574935bd9eae3fe59aeedbe20c52a1d2f3250c7905c7a625a3a3f0f8"
+    },
+    {
+      "label": "Clip 21: @wassielawyer Bedrock #3",
+      "clipNumber": 21,
+      "originalFilename": "Clip 21 - @wassielawyer Bedrock #3.mp3",
+      "offset": 2768.1955625,
+      "durationSeconds": 76.83425,
+      "audioSha256": "1b97947a5373b3cda6d7a6d1ec0cfc7055675a097d7c96d0034ad4b2be61cbe4",
+      "researchTranscriptSha256": "f63be72c1aa44fd121b46b6b43ad605d2ab286179014ef63dbc4b0bed4fc9175"
+    },
+    {
+      "label": "Clip 22: @wassielawyer Bedrock golden share",
+      "clipNumber": 22,
+      "originalFilename": "Clip 22 -  @wassielawyer Bedrock golden share.mp3",
+      "offset": 2845.0298125,
+      "durationSeconds": 137.3205625,
+      "audioSha256": "62b58885bf9c1e244d3b3179942e9871ee6266975c7cdfccdbb5520e1f5ae294",
+      "researchTranscriptSha256": "41f7ed410f354baf3e15a17ea974ecc156b8490bd5b5ddc51aa459a0956dbd31"
+    },
+    {
+      "label": "Clip 23: @d3h3d_ and @wassielawyer about futarchy",
+      "clipNumber": 23,
+      "originalFilename": "Clip 23 - @d3h3d_ and @wassielawyer about futarchy.mp3",
+      "offset": 2982.350375,
+      "durationSeconds": 138.780875,
+      "audioSha256": "182fb5f09b7bbf22b1820ef945371f90500ea9465a69a411681ccc095b67b2bc",
+      "researchTranscriptSha256": "6706bedc67938a5fb00697ea1a1597158d2ecf039c401bce1dfbc0e5c8f0d94d"
+    },
+    {
+      "label": "Clip 24: @wassielawyer about venture investing",
+      "clipNumber": 24,
+      "originalFilename": "Clip 24 - @wassielawyer about venture investing.mp3",
+      "offset": 3121.13125,
+      "durationSeconds": 37.23025,
+      "audioSha256": "f194c625a03f4933c83812933e4e709f4bc4a9bf7e1e4100b936e9fe022d49ef",
+      "researchTranscriptSha256": "6085980cff3b4ed2551e1cbd6d11498669b08843103365134c2a7da158984068"
+    },
+    {
+      "label": "Clip 25: @wassielawyer about fraud",
+      "clipNumber": 25,
+      "originalFilename": "Clip 25 - @wassielawyer about fraud.mp3",
+      "offset": 3158.3615,
+      "durationSeconds": 98.27375,
+      "audioSha256": "c211e8646dbd5fa06381d01f027373b23de84f04d94ca4f9bee305647817a132",
+      "researchTranscriptSha256": "8e7ddecb602be6f5ffbfc2eb78ae7d1ea5f8964fc5e16a7c42546abb0c99ca09"
+    },
+    {
+      "label": "Clip 26: @wassielawyer how to use Bedrock",
+      "clipNumber": 26,
+      "originalFilename": "Clip 26 - @wassielawyer how to use Bedrock.mp3",
+      "offset": 3256.63525,
+      "durationSeconds": 64.760125,
+      "audioSha256": "7661336026a0095999ac3d7f2dfcb83549d12edf3820e93504a48ce6bc8663a1",
+      "researchTranscriptSha256": "0b5ab1f9f8e0acca4825eb6d55ce92dc4312dc2c20800de00657770caf020d7a"
+    },
+    {
+      "label": "Clip 27: @wassielawyer about MetaDAO",
+      "clipNumber": 27,
+      "originalFilename": "Clip 27 - @wassielawyer about MetaDAO.mp3",
+      "offset": 3321.3953749999996,
+      "durationSeconds": 417.6105,
+      "audioSha256": "566fe5e10aaf4127a9097f3ed0f5063efde82dc735d7bb9fda413423becf103d",
+      "researchTranscriptSha256": "b1ffb378784a3688a43ab5be3b83048bf2ae043c4268e6c93a49dac0d65ffd69"
+    },
+    {
+      "label": "Clip 29: @metanallok about rugs",
+      "clipNumber": 29,
+      "originalFilename": "Clip 29 - @metanallok about rugs.mp3",
+      "offset": 3739.005875,
+      "durationSeconds": 120.836,
+      "audioSha256": "e9b2a3f60f937a09db78ec88279967cea7bd295b57ffc08d3e4d23fbb3c71174",
+      "researchTranscriptSha256": "fe3ee2293face53b1a9c8d7b2e1c71a34b80319a0d0d81ebd6a410802bf8c9e5"
+    },
+    {
+      "label": "Clip 30: @metanallok about futarchy",
+      "clipNumber": 30,
+      "originalFilename": "Clip 30 - @metanallok about futarchy.mp3",
+      "offset": 3859.8418749999996,
+      "durationSeconds": 48.6559375,
+      "audioSha256": "1cabc294bdb638b3fcfd51a70a7c56f7a5966d73d96ab38948cd9c898d4e2d2d",
+      "researchTranscriptSha256": "1ee84c4f9041b2a128648d0c4f36be3ec2a2823ffe3027262070cdcd6478d610"
+    },
+    {
+      "label": "Clip 31: @metanallok and @wassielawyer round #1",
+      "clipNumber": 31,
+      "originalFilename": "Clip 31 - @metanallok and @wassielawyer round #1.mp3",
+      "offset": 3908.4978125,
+      "durationSeconds": 137.9255625,
+      "audioSha256": "25210e16b4aae5afd260b7b8e52b36c72fb31d40ed614912d8ba255ddfc8303c",
+      "researchTranscriptSha256": "a403a487040794682d8f4f0e1100be16c0742f32b0f99ca24d5d0d4ffe55571d"
+    },
+    {
+      "label": "Clip 32: @metanallok and @wassielawyer round #2",
+      "clipNumber": 32,
+      "originalFilename": "Clip 32 - @metanallok and @wassielawyer round #2.mp3",
+      "offset": 4046.423375,
+      "durationSeconds": 110.798625,
+      "audioSha256": "a8f2b3504d3a1f488547a8bc733e5968b317a0a0d624c0573d9fb08c70a22144",
+      "researchTranscriptSha256": "41eb80cf9597f661f3068de2096e5206416afdf90395d73ac15e081188860ffb"
+    },
+    {
+      "label": "Clip 33: @wassielawyer and @metanallok round #3",
+      "clipNumber": 33,
+      "originalFilename": "Clip 33 - @wassielawyer and @metanallok round #3.mp3",
+      "offset": 4157.222,
+      "durationSeconds": 136.6310625,
+      "audioSha256": "fb27c83bd4d23e1fd0fba989285a8bed9d1ad478ec0dd9646da09137a46348ca",
+      "researchTranscriptSha256": "0877c46571ff347ce733bb162d67056553d0831f6a053726f80c6e4f420a8bbf"
+    },
+    {
+      "label": "Clip 34: @metanallok and @wassielawyer round #4",
+      "clipNumber": 34,
+      "originalFilename": "Clip 34 - @metanallok and @wassielawyer round #4.mp3",
+      "offset": 4293.853062499999,
+      "durationSeconds": 84.8751875,
+      "audioSha256": "a24245ab2623c189cff340ef1a0b8a0636c2f365ad3b590d5c5cf3ebf52738ed",
+      "researchTranscriptSha256": "c4adb10fe19405f9eca45cd3694d36bbdda9c5890cd770d0a33aaa66f2c3d965"
+    },
+    {
+      "label": "Clip 35: @wassielawyer and @metanallok round #5",
+      "clipNumber": 35,
+      "originalFilename": "Clip 35 - @wassielawyer and @metanallok round #5.mp3",
+      "offset": 4378.728249999999,
+      "durationSeconds": 119.5936875,
+      "audioSha256": "9c54f7811df292940b3683665b4c4324f36e83e3eb9e108ff36b9c916091451f",
+      "researchTranscriptSha256": "1daaad82cdbfca7f960717069f8f7872007a3c6542902ba4f502ef9c87bf421d"
+    },
+    {
+      "label": "Clip 36: @metanallok and @wassielawyer round #6",
+      "clipNumber": 36,
+      "originalFilename": "Clip 36 - @metanallok and @wassielawyer round #6.mp3",
+      "offset": 4498.321937499999,
+      "durationSeconds": 139.0200625,
+      "audioSha256": "d12f7873c6038c65ebc77989d88d615ef7749ea5055a1bb16d7e0fafb47ca653",
+      "researchTranscriptSha256": "d83deabbbe89b5022872b0ec105372eef24e28fa0d0910f09519f62e77ae0dcf"
+    },
+    {
+      "label": "Clip 37: @wassielawyer and @metanallok round #7",
+      "clipNumber": 37,
+      "originalFilename": "Clip 37 - @wassielawyer and @metanallok round #7.mp3",
+      "offset": 4637.341999999999,
+      "durationSeconds": 134.1870625,
+      "audioSha256": "2167ee7c2df6880adae947eb486541a14918a5a86839b19ce9081f4c27cfd661",
+      "researchTranscriptSha256": "125d982a6a7ee6b0dabab68abf0fe0e82e89bf241f3f5ed56f678f56306d6223"
+    },
+    {
+      "label": "Clip 38: @metanallok The MetaDAO path",
+      "clipNumber": 38,
+      "originalFilename": "Clip 38 - @metanallok The MetaDAO path.mp3",
+      "offset": 4771.529062499999,
+      "durationSeconds": 15.8020625,
+      "audioSha256": "5e57ebc779a0202aa33b2e54336b1f16fabe52e6646154d1d0cbd3f7ad07bbe5",
+      "researchTranscriptSha256": "5198f9c358027864e560585488c1ca33029463868f10b7c858c3c0855ad57430"
+    },
+    {
+      "label": "Clip 39: @wassielawyer and @metanallok round #8",
+      "clipNumber": 39,
+      "originalFilename": "Clip 39 - @wassielawyer and @metanallok round #8.mp3",
+      "offset": 4787.331124999999,
+      "durationSeconds": 138.119625,
+      "audioSha256": "e03ad59cb32021347af44172a2392f79ff5fbc8f857abf87716fa368a35366b8",
+      "researchTranscriptSha256": "d9126c526c7df6ce9bc188632503052230b52ad7747a117639ab16f415421790"
+    },
+    {
+      "label": "Clip 40: @wassielawyer and @metanallok round #9",
+      "clipNumber": 40,
+      "originalFilename": "Clip 40 - @wassielawyer and @metanallok round #9.mp3",
+      "offset": 4925.450749999999,
+      "durationSeconds": 134.3920625,
+      "audioSha256": "fbdafaa995c4bc80ec7cd08c67399466e6499f794be0e864239008c91398c92b",
+      "researchTranscriptSha256": "ed7618d3be8142d390a03c4422da16def7ab9f190f6a87d9b1d7e81ac1d8e748"
+    },
+    {
+      "label": "Clip 41: @wassielawyer and @metanallok round #10",
+      "clipNumber": 41,
+      "originalFilename": "Clip 41 - @wassielawyer and @metanallok round #10.mp3",
+      "offset": 5059.842812499999,
+      "durationSeconds": 133.341625,
+      "audioSha256": "0905e6c517fdb0ced6ec14d46d715d99064b1178179bda1ae5039ba08266b254",
+      "researchTranscriptSha256": "3dcecc2e07bc52113720bcafa389b79cdbbea03e7472878a55c156b65fcb64d3"
+    },
+    {
+      "label": "Clip 42: @d3h3d_ and @metanallok",
+      "clipNumber": 42,
+      "originalFilename": "Clip 42 - @d3h3d_ and @metanallok.mp3",
+      "offset": 5193.184437499999,
+      "durationSeconds": 135.2945625,
+      "audioSha256": "c14697865a32605f5c2f4b1aa71399305c072dda24893cc737342eaec63199ee",
+      "researchTranscriptSha256": "361c5796ec62601a8a1a6da68b2f55dcd3fcf46069616732258aa8e8e416a212"
+    },
+    {
+      "label": "Clip 43: @metanallok takes",
+      "clipNumber": 43,
+      "originalFilename": "Clip 43 - @metanallok takes.mp3",
+      "offset": 5328.478999999999,
+      "durationSeconds": 209.4169375,
+      "audioSha256": "6966978c734f4d7148f8d2e02a748dd0de74e056c6f240e77d239eeb52582d25",
+      "researchTranscriptSha256": "8083985b3b73f02b58e13089be812563c087486b53d3cec51911de0906fee8ff"
+    },
+    {
+      "label": "Clip 44: @d3h3d_ and @metanallok round #2",
+      "clipNumber": 44,
+      "originalFilename": "Clip 44 - @d3h3d_ and @metanallok round #2.mp3",
+      "offset": 5537.8959374999995,
+      "durationSeconds": 148.8521875,
+      "audioSha256": "18b41cf2086ed46da2ea7e9756018700662c9504d15ed192a17dc1111660214f",
+      "researchTranscriptSha256": "06457fa933b755e748efd98af7af681a33f7548c586e34330c3a76b1b1ed8f2d"
+    },
+    {
+      "label": "Clip 45: @metanallok about MetaDAO",
+      "clipNumber": 45,
+      "originalFilename": "Clip 45 - @metanallok about MetaDAO.mp3",
+      "offset": 5686.748124999999,
+      "durationSeconds": 137.0575625,
+      "audioSha256": "0f58dcb6327053be9f9c4c606e645e4d9dabfc19d8eaee388b469eadb049ebec",
+      "researchTranscriptSha256": "5bd7e052cc3f078093fb57b21ce3a1ac83890ddef605c458a7872379f8788c7d"
+    },
+    {
+      "label": "Clip 46: @metanallok about MetaDAO #2",
+      "clipNumber": 46,
+      "originalFilename": "Clip 46 - @metanallok about MetaDAO #2.mp3",
+      "offset": 5823.805687499999,
+      "durationSeconds": 134.316,
+      "audioSha256": "a55b361028094a426fcb50f792ac2bcce5798f322f4eb785886176a4b4358522",
+      "researchTranscriptSha256": "f783c3c58ec8144308f92bfd59d30c8fef041124571dbbe69aa0d66c444a5cd7"
+    }
+  ],
+  "referenceSources": [
+    "https://metadao.fi/companies/gesim",
+    "https://ika.xyz/ika-whitepaper.pdf",
+    "https://github.com/dwallet-labs/ika",
+    "https://www.gvrn.ai/about",
+    "https://bedrock.meteora.ag/learn",
+    "https://www.overcomingbias.com/p/no-corner-futarchy",
+    "https://www.futard.io/launch/F5A6BchpqGbbBABtgRycJZGkqy2i5AgVJP1VKW5AGotG",
+    "https://www.metalex.tech/cyberraise",
+    "https://superteam.fun/earn/t/Daniel_Authensus",
+    "https://docs.bench.markets/introduction/what-is-bench",
+    "https://github.com/anonmesh",
+    "https://superteam.fun/earn/listing/encrypt-ika-frontier-april-2026",
+    "https://www.linkedin.com/company/stealf-finance",
+    "https://fr.linkedin.com/in/louis-spaccesi-136573233"
+  ],
+  "decodedSources": [
+    {
+      "file": "radio1-opening.ts",
+      "bytes": 21479450,
+      "sha256": "49cd498de771d5d564ecd565f1681fc7e67927bb1baee84e16bdbf058b0d9b07",
+      "decodedSeconds": 1674.64,
+      "exitCode": 0
+    },
+    {
+      "file": "radio13.m4a",
+      "bytes": 85310288,
+      "sha256": "4123c8de50e1f4f1017e1efce0f6aaccdf2ac2eb359c4a7defed73a0e0fa9322",
+      "decodedSeconds": 7171.84,
+      "exitCode": 0
+    },
+    {
+      "file": "radio15.m4a",
+      "bytes": 94858593,
+      "sha256": "01e87fe4063ce317a5c513644e7e7bc3fe6405fa400ca7d2755475a3ec94f6ec",
+      "decodedSeconds": 7974.05,
+      "exitCode": 0
+    },
+    {
+      "file": "radio3.ts",
+      "bytes": 74713165,
+      "sha256": "05fce22aa8628e71711bf2e0fa62957a6ef9e5f58eefec4b610c226ab8e2ade7",
+      "decodedSeconds": 5721.83,
+      "exitCode": 0
+    },
+    {
+      "file": "radio7.m4a",
+      "bytes": 149874096,
+      "sha256": "b32fb1017193f41bef47d376e43daee863c730142958693ebad3e93db9b68d00",
+      "decodedSeconds": 12597.84,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 1 - @d3h3d_ on Ownership and MetaDAO.mp3",
+      "bytes": 1497284,
+      "sha256": "8692b7cdeace76210c89f985ebe8f9fa70d2d79e8387e923b5e1f2ef7e523589",
+      "decodedSeconds": 62.32,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 2 - @d3h3d_ background.mp3",
+      "bytes": 1672964,
+      "sha256": "cb26d9fcb7d640d750854e7e3b35dd6f596ecb48edf153a429259b1285f65c5b",
+      "decodedSeconds": 69.62,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 3 - @d3h3d_ about the problems.mp3",
+      "bytes": 1994372,
+      "sha256": "3e7063ab3703cfd7465b14c67ce73a576e70f183110d82e96fadf4e9ec64f854",
+      "decodedSeconds": 83.02,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 4 - @d3h3d_ about Ika.mp3",
+      "bytes": 1367684,
+      "sha256": "8bac02c54b0c8ca740459382c7f4d3e265e0c57385dabd4ccda5f264302cb79f",
+      "decodedSeconds": 56.92,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 5 - @d3h3d_ about wallets.mp3",
+      "bytes": 2784068,
+      "sha256": "5b8c61332b68340c5575cba7650ce89e22796bbaa14bdb38b633d073b82bff5d",
+      "decodedSeconds": 115.92,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 6 - @d3h3d_ about wallets 2.mp3",
+      "bytes": 1992068,
+      "sha256": "b7bfdbdb1a5290e806aa16e06baee2e586a9509b6fb9e3eff5ded8d1717d598b",
+      "decodedSeconds": 82.92,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 7 - @d3h3d_ about retail custody.mp3",
+      "bytes": 2068676,
+      "sha256": "7a0e5c6ef4bccca2bf36bbeb98d231f3de3ffd851e1e9dd21597a991ba83a2a2",
+      "decodedSeconds": 86.12,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 8 - @d3h3d_ What can we do with Ika.mp3",
+      "bytes": 4930605,
+      "sha256": "4fa50db07072e3e171f876b0046c1c48f433a15dcc639ddba66b100383810540",
+      "decodedSeconds": 205.37,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 9 - @d3h3d_ on dWallets.mp3",
+      "bytes": 6055533,
+      "sha256": "89bd18c9ee0ece5e84f33d03c00087ac9bedadc3602413fc0f5d7b39861b6b9c",
+      "decodedSeconds": 252.26,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 10 - @d3h3d_ on prediction and decision markets and futarchy.mp3",
+      "bytes": 8042733,
+      "sha256": "33ec2b7fdecafbeccb76c0baadff0da9936bdf3f027139dcfcdc406833d9b685",
+      "decodedSeconds": 335.05,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 11 - @d3h3d_ about protection mechanism and risk_reward.mp3",
+      "bytes": 4897197,
+      "sha256": "15310da435d6f3625738170ebdca0006056c34f2aec19126ec2de8b8407eb737",
+      "decodedSeconds": 203.98,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 12 - @d3h3d_ about Encrypt.mp3",
+      "bytes": 5027949,
+      "sha256": "5dd5caedc806d15e18e090ac01640ae7ac8103e55b7009740602ec375c5b4126",
+      "decodedSeconds": 209.43,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 13 - @d3h3d_ Ika & Encrypt.mp3",
+      "bytes": 2145645,
+      "sha256": "f2d847da5561acf34772a3fca5fc4a24992d8f1b60203c2c879de344ffd34c17",
+      "decodedSeconds": 89.33,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 14 - @d3h3d_ How Encrypt works.mp3",
+      "bytes": 5448429,
+      "sha256": "93a64da96904cef9c31c3455c3d11a1b55a76b87fcbdbb8e94371df33529e736",
+      "decodedSeconds": 226.95,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 15 - @d3h3d_ $ENCRYPT alpha.mp3",
+      "bytes": 1205037,
+      "sha256": "f791ba964bfd01f775a0b3b7bd7119c62756e2adddfa97f48f36900779d5db86",
+      "decodedSeconds": 50.14,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 16 - @wassielawyer the issue of tokenholders.mp3",
+      "bytes": 3053421,
+      "sha256": "ce55e6297e8c1e75ae7c14118afba4d5f7f1dd55cd8daef97bdb061cfc9276f9",
+      "decodedSeconds": 127.15,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 17 - @wassielawyer the issue #2.mp3",
+      "bytes": 3087405,
+      "sha256": "80265b1844a3c1f277cb323f18b703aa7d8a643e199be52106eef841602460b0",
+      "decodedSeconds": 128.58,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 18 - @wassielawyer about holders protection.mp3",
+      "bytes": 3059181,
+      "sha256": "b91a02e779e86d9db8fcf9e44e6e87a8c44c714fcd40f1ca59290f3405427ccb",
+      "decodedSeconds": 127.41,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 19 - @wassielawyer How Bedrock works.mp3",
+      "bytes": 2801709,
+      "sha256": "f8b09976af9b2c369b65b2d36f6e77789e2331f9b32560900a515eefad1a71e6",
+      "decodedSeconds": 116.67,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 20 - @wassielawyer Bedrock #2.mp3",
+      "bytes": 3336237,
+      "sha256": "a3346e954aaca4ef8fe60a3c668df3883e003e6cf1a7bd5f8b0392161f51af7a",
+      "decodedSeconds": 138.93,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 21 - @wassielawyer Bedrock #3.mp3",
+      "bytes": 1845549,
+      "sha256": "1b97947a5373b3cda6d7a6d1ec0cfc7055675a097d7c96d0034ad4b2be61cbe4",
+      "decodedSeconds": 76.83,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 22 -  @wassielawyer Bedrock golden share.mp3",
+      "bytes": 3297069,
+      "sha256": "62b58885bf9c1e244d3b3179942e9871ee6266975c7cdfccdbb5520e1f5ae294",
+      "decodedSeconds": 137.32,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 23 - @d3h3d_ and @wassielawyer about futarchy.mp3",
+      "bytes": 3332205,
+      "sha256": "182fb5f09b7bbf22b1820ef945371f90500ea9465a69a411681ccc095b67b2bc",
+      "decodedSeconds": 138.78,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 24 - @wassielawyer about venture investing.mp3",
+      "bytes": 895149,
+      "sha256": "f194c625a03f4933c83812933e4e709f4bc4a9bf7e1e4100b936e9fe022d49ef",
+      "decodedSeconds": 37.23,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 25 - @wassielawyer about fraud.mp3",
+      "bytes": 2359917,
+      "sha256": "c211e8646dbd5fa06381d01f027373b23de84f04d94ca4f9bee305647817a132",
+      "decodedSeconds": 98.27000000000001,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 26 - @wassielawyer how to use Bedrock.mp3",
+      "bytes": 1555821,
+      "sha256": "7661336026a0095999ac3d7f2dfcb83549d12edf3820e93504a48ce6bc8663a1",
+      "decodedSeconds": 64.76,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 27 - @wassielawyer about MetaDAO.mp3",
+      "bytes": 10024173,
+      "sha256": "566fe5e10aaf4127a9097f3ed0f5063efde82dc735d7bb9fda413423becf103d",
+      "decodedSeconds": 417.61,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 29 - @metanallok about rugs.mp3",
+      "bytes": 2901357,
+      "sha256": "e9b2a3f60f937a09db78ec88279967cea7bd295b57ffc08d3e4d23fbb3c71174",
+      "decodedSeconds": 120.83,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 30 - @metanallok about futarchy.mp3",
+      "bytes": 1169325,
+      "sha256": "1cabc294bdb638b3fcfd51a70a7c56f7a5966d73d96ab38948cd9c898d4e2d2d",
+      "decodedSeconds": 48.65,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 31 - @metanallok and @wassielawyer round #1.mp3",
+      "bytes": 3311469,
+      "sha256": "25210e16b4aae5afd260b7b8e52b36c72fb31d40ed614912d8ba255ddfc8303c",
+      "decodedSeconds": 137.92000000000002,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 32 - @metanallok and @wassielawyer round #2.mp3",
+      "bytes": 2660589,
+      "sha256": "a8f2b3504d3a1f488547a8bc733e5968b317a0a0d624c0573d9fb08c70a22144",
+      "decodedSeconds": 110.78999999999999,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 33 - @wassielawyer and @metanallok round #3.mp3",
+      "bytes": 3280365,
+      "sha256": "fb27c83bd4d23e1fd0fba989285a8bed9d1ad478ec0dd9646da09137a46348ca",
+      "decodedSeconds": 136.63,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 34 - @metanallok and @wassielawyer round #4.mp3",
+      "bytes": 2038509,
+      "sha256": "a24245ab2623c189cff340ef1a0b8a0636c2f365ad3b590d5c5cf3ebf52738ed",
+      "decodedSeconds": 84.87,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 35 - @wassielawyer and @metanallok round #5.mp3",
+      "bytes": 2871981,
+      "sha256": "9c54f7811df292940b3683665b4c4324f36e83e3eb9e108ff36b9c916091451f",
+      "decodedSeconds": 119.59,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 36 - @metanallok and @wassielawyer round #6.mp3",
+      "bytes": 3337965,
+      "sha256": "d12f7873c6038c65ebc77989d88d615ef7749ea5055a1bb16d7e0fafb47ca653",
+      "decodedSeconds": 139.02,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 37 - @wassielawyer and @metanallok round #7.mp3",
+      "bytes": 3222189,
+      "sha256": "2167ee7c2df6880adae947eb486541a14918a5a86839b19ce9081f4c27cfd661",
+      "decodedSeconds": 134.18,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 38 - @metanallok The MetaDAO path.mp3",
+      "bytes": 380781,
+      "sha256": "5e57ebc779a0202aa33b2e54336b1f16fabe52e6646154d1d0cbd3f7ad07bbe5",
+      "decodedSeconds": 15.8,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 39 - @wassielawyer and @metanallok round #8.mp3",
+      "bytes": 3316077,
+      "sha256": "e03ad59cb32021347af44172a2392f79ff5fbc8f857abf87716fa368a35366b8",
+      "decodedSeconds": 138.11,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 40 - @wassielawyer and @metanallok round #9.mp3",
+      "bytes": 3226797,
+      "sha256": "fbdafaa995c4bc80ec7cd08c67399466e6499f794be0e864239008c91398c92b",
+      "decodedSeconds": 134.39,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 41 - @wassielawyer and @metanallok round #10.mp3",
+      "bytes": 3201453,
+      "sha256": "0905e6c517fdb0ced6ec14d46d715d99064b1178179bda1ae5039ba08266b254",
+      "decodedSeconds": 133.34,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 42 - @d3h3d_ and @metanallok.mp3",
+      "bytes": 3248685,
+      "sha256": "c14697865a32605f5c2f4b1aa71399305c072dda24893cc737342eaec63199ee",
+      "decodedSeconds": 135.29,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 43 - @metanallok takes.mp3",
+      "bytes": 5027373,
+      "sha256": "6966978c734f4d7148f8d2e02a748dd0de74e056c6f240e77d239eeb52582d25",
+      "decodedSeconds": 209.41,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 44 - @d3h3d_ and @metanallok round #2.mp3",
+      "bytes": 3574125,
+      "sha256": "18b41cf2086ed46da2ea7e9756018700662c9504d15ed192a17dc1111660214f",
+      "decodedSeconds": 148.85,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 45 - @metanallok about MetaDAO.mp3",
+      "bytes": 3290733,
+      "sha256": "0f58dcb6327053be9f9c4c606e645e4d9dabfc19d8eaee388b469eadb049ebec",
+      "decodedSeconds": 137.05,
+      "exitCode": 0
+    },
+    {
+      "file": "Clip 46 - @metanallok about MetaDAO #2.mp3",
+      "bytes": 3225069,
+      "sha256": "a55b361028094a426fcb50f792ac2bcce5798f322f4eb785886176a4b4358522",
+      "decodedSeconds": 134.31,
+      "exitCode": 0
+    }
+  ],
+  "targetedRechecks": [
+    {
+      "key": "radio5-clip10-negation",
+      "sourceStart": 200,
+      "method": "medium.en int8 CPU beam5 noVAD no prompt",
+      "segments": [
+        {
+          "start": 200,
+          "end": 205.84,
+          "text": " to Web 2 as well. So I think from that angle, that's kind of the last part of your question."
+        },
+        {
+          "start": 205.84,
+          "end": 211.56,
+          "text": " The first part of your question is, I think future key is interesting. I'm interested"
+        },
+        {
+          "start": 211.56,
+          "end": 224.52,
+          "text": " by it. I can't say I'm 100% sold. I think if I have to say what I believe the potential"
+        },
+        {
+          "start": 224.52,
+          "end": 231.16,
+          "text": " I believe that there's potential for certain types of decisions for certain types of companies."
+        },
+        {
+          "start": 231.16,
+          "end": 233.88,
+          "text": " So mature companies who have very clear"
+        }
+      ]
+    },
+    {
+      "key": "radio3-raise-cap",
+      "sourceStart": 5175,
+      "method": "medium.en int8 CPU beam5 noVAD no prompt",
+      "segments": [
+        {
+          "start": 5175,
+          "end": 5182.88,
+          "text": " and explain a little more how you are going to, what are the plans to make the platform"
+        },
+        {
+          "start": 5182.88,
+          "end": 5186.88,
+          "text": " grows with the money of the investors."
+        },
+        {
+          "start": 5186.88,
+          "end": 5189.08,
+          "text": " And yeah, yeah."
+        },
+        {
+          "start": 5189.08,
+          "end": 5190.08,
+          "text": " Thank you."
+        },
+        {
+          "start": 5190.08,
+          "end": 5191.08,
+          "text": " Thank you."
+        },
+        {
+          "start": 5191.08,
+          "end": 5192.36,
+          "text": " I really think you have a good product there."
+        },
+        {
+          "start": 5192.36,
+          "end": 5201.96,
+          "text": " I hope you can raise and just this for everyone listening or is going to listen"
+        },
+        {
+          "start": 5201.96,
+          "end": 5210.68,
+          "text": " this. Racing on Metadao is something pretty... that's why we built Futario. I know Futario"
+        },
+        {
+          "start": 5210.68,
+          "end": 5219.56,
+          "text": " right now have a 5000k max limit. We are trying to raise that amount."
+        }
+      ]
+    }
+  ],
+  "duplicateBackup": {
+    "labelOnDrive": "Radio 13.m4a",
+    "canonicalResourceId": "ownership-radio-12-recording",
+    "sourceUrl": "https://drive.google.com/drive/folders/1fvJHXfw-wJwGZCBEdoFf5PE3FTyyMY7g",
+    "decodedSources": [
+      {
+        "file": "work/deep-review/recordings/radio12.m4a",
+        "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+      },
+      {
+        "file": "work/recovered-radio/audio/radio13.m4a",
+        "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+      }
+    ],
+    "originalStreamNtp": 3988623669.876,
+    "originalStreamUtc": "2026-05-24T15:01:09.876Z",
+    "finding": "Both files decode to identical mono 16 kHz signed 16-bit PCM. Existing Radio 12 source has May 24 stream timestamp and publisher Space 1yKAPMjjwrgxb. No Radio 13 transcript created from this mislabeled duplicate."
+  }
+}

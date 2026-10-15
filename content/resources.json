@@ -582,18 +582,19 @@
     "date": "2024-09-13",
     "type": "podcast",
     "url": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
-    "description": "Podcast exploring the necessity and potential impact of market-based decision systems.",
+    "description": "The Edge Podcast interviews Proph3t about MetaDAO’s origins, decision-market examples and early adoption. Publisher chapters cover hypothetical Uniswap and Aave applications, differences from Polymarket, practical drawbacks, manipulation and plans for permissionless access.",
     "tags": [
       "Podcast",
       "Philosophy",
       "Markets"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://open.spotify.com/episode/6rjWST1yNcmz938y10HY1Z",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Review on 2026-10-14: Read the full publisher description and all 20 chapter entries for the 50:05 episode. The guide retains 18 non-advertising markers. No full transcript or audio review. Chapters establish discussion topics, not the speakers’ complete arguments or independent verification. Uniswap and Aave applications are examples, not evidence of adoption or MetaDAO fundraising. Expansion and permissionless-access discussions describe 2024 plans. Publisher display date matches the retained catalog date."
   },
   {
     "id": "res-30",
@@ -602,19 +603,20 @@
     "date": "2024-09-21",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
-    "description": "Solana conference keynote on MetaDAO's vision for market-governed organizations and societies.",
+    "description": "Proph3t’s Breakpoint 2024 keynote explains decision markets through a hypothetical CEO decision and a reported Dean’s List proposal. He outlines plans for markets tied to startup survival, revenue and public-health outcomes, then invites contributors to MetaDAO.",
     "tags": [
       "Keynote",
       "Vision",
       "Conference"
     ],
     "featured": true,
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=rfdt7Bz-SAc",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Review on 2026-10-14: Read all available English automatic captions, 00:06 through 03:53 of the four-minute keynote. Captions are incomplete or garbled around 00:44–00:56 and 03:04–03:20; no missing speech is reconstructed. No manual audio or slide review. Topic markers follow captions and are approximate. The Dean’s List outcome is a speaker report, not independent execution verification; broader metric markets are announced plans, not confirmed delivery. No third-party transcript is republished. Publisher display date matches the retained catalog date."
   },
   {
     "id": "res-31",
@@ -1322,18 +1324,21 @@
     "date": "2025-10-20",
     "type": "video",
     "url": "https://x.com/BanklessHQ/status/1980242608107716824",
-    "description": "Bankless stream with Proph3t on how futarchy prevents rug pulls and scams.",
+    "description": "Alternate X upload of the Bankless episode with Felipe Montealegre and Proph3t, retained internally; the public episode and reading guide are res-246.",
     "tags": [
       "Security",
       "Bankless",
       "Rug Pulls"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/BanklessHQ/status/1980242608107716824",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "catalogOnly": true,
+    "supersededBy": "res-246",
+    "evidenceNote": "Original Bankless X post reviewed on 2026-10-14: same October 20, 2025 title, guests and ordered topics as res-246. Embedded full recording is 1:26:37, not merely a reminder. X chapter timings differ from the podcast version, consistent with different ad placement; no audio comparison was performed. Consolidated as an alternate platform upload without deleting its ID or changing its source URL. No rug-prevention guarantee is endorsed."
   },
   {
     "id": "res-102",
@@ -3041,11 +3046,11 @@
   {
     "id": "res-160",
     "title": "New episode with @metanallok out now!",
-    "author": "Lighspeed",
+    "author": "Lightspeed",
     "date": "2025-12-09",
     "type": "podcast",
     "url": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
-    "description": "Podcast episode featuring MetaDAO's Kollan House on Lightspeed, covering MetaDAO's origins, ICO enhancements, US crypto developments, futarchy governance, and token buyback strategies.",
+    "description": "Lightspeed interviews Kollan House about MetaDAO’s futarchy thesis, changes to the ICO process and working with existing projects. The publisher’s guide also covers token buybacks and the US crypto environment.",
     "tags": [
       "MetaDAO",
       "Kollan House",
@@ -3058,11 +3063,11 @@
     ],
     "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/Lightspeedpodhq/status/1998410921924837757",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged. Review on 2026-10-14: Read the original publisher post and all 10 chapter entries; the embedded recording is displayed as 1:01:46. The guide retains six non-advertising markers. No full transcript or audio review. Discussion of existing projects does not establish that they raised through MetaDAO. Buyback and regulatory topics remain recording-time discussion, not verified execution or current guidance. Publisher display date matches the retained catalog date."
   },
   {
     "id": "res-161",
@@ -3129,7 +3134,7 @@
     "date": "2025-12-04",
     "type": "podcast",
     "url": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
-    "description": "Podcast episode exploring Solana's 2026 catalysts: humidifi launch, perps, Kalshi integration, MetaDAO, ICM vision, xStocks, prediction markets.",
+    "description": "Lightspeed’s December 2025 roundup places MetaDAO within a broader discussion of Solana markets, alongside proprietary AMMs, HumidiFi, xStocks, prediction markets and perpetuals. The MetaDAO chapter begins at 15:36; the later 2026 outlook is a forecast.",
     "tags": [
       "Solana",
       "2026 Outlook",
@@ -3143,11 +3148,11 @@
     ],
     "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/Lightspeedpodhq/status/1996576985703661626",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged. Review on 2026-10-14: Read the original publisher post and all 14 chapter entries; the embedded recording is displayed as 1:00:08. The guide retains 10 non-advertising markers. No full transcript or audio review. This is broader ecosystem commentary with a MetaDAO segment, not a founder interview. Mentioning HumidiFi, Kalshi or xStocks does not establish a MetaDAO raise; the 2026 outlook is historical forecasting. Publisher display date matches the retained catalog date."
   },
   {
     "id": "res-164",
@@ -4730,7 +4735,7 @@
     "sourceUrl": "https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
     "addedAt": null,
     "checkedAt": "2026-10-14",
-    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Publisher description and complete timestamp list reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Legal protections and risk reduction remain attributed claims. This publisher is outside the OwnershipFM transcript permission. Displayed publisher publication date matches the retained catalog date 2025-10-20."
+    "evidenceNote": "Publisher written material reviewed on 2026-10-14; summary limited to that material. Publisher description and complete timestamp list reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Legal protections and risk reduction remain attributed claims. This publisher is outside the OwnershipFM transcript permission. Displayed publisher publication date matches the retained catalog date 2025-10-20. Alternate full X upload reviewed on 2026-10-14: https://x.com/BanklessHQ/status/1980242608107716824 (res-64). Same guests, title, date and topic sequence; different chapter offsets. Public guide retains the podcast timestamps."
   },
   {
     "id": "res-247",

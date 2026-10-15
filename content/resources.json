@@ -3458,7 +3458,7 @@
     "date": "2026-01-15",
     "type": "podcast",
     "url": "https://x.com/JUPANDJUICE/status/2011856601603293565",
-    "description": "Interview with MetaDAO co-founder explaining futarchy's superiority over traditional token voting in DAO governance.",
+    "description": "Jup & Juice interviews MetaDAO co-founder Kollan House about his crypto background, ownership coins, founder control and market-based governance. The publisher’s chapter guide also covers Jupiter DAO, co-founder relationships, rebuilding trust and possible wider uses of futarchy.",
     "tags": [
       "MetaDAO",
       "Futarchy",
@@ -3468,11 +3468,11 @@
     ],
     "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/JUPANDJUICE/status/2011856601603293565",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged. Follow-up review: Read the original Jup & Juice post and all 21 publisher chapter entries for the 53:06 recording, published January 15, 2026. No full transcript or audio review. Markers identify publisher-listed topics, not independently verified arguments or outcomes. Comparisons with token voting are interview discussion, not proof of futarchy’s superiority. Token-holder and equity-holder rights are a discussion topic, not a legal equivalence. Jupiter DAO’s possible use of futarchy does not establish adoption or a MetaDAO raise. No third-party transcript is republished."
   },
   {
     "id": "res-177",

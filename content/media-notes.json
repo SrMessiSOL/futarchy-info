@@ -6083,5 +6083,101 @@
       "status": "not-reviewed",
       "sha256": null
     }
+  },
+  {
+    "resourceId": "res-176",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Original publisher X post and complete 21-entry chapter guide reviewed",
+    "reviewBoundary": "Read the original Jup & Juice post and all 21 publisher chapter entries for the 53:06 recording, published January 15, 2026. No full transcript or audio review. Markers identify publisher-listed topics, not independently verified arguments or outcomes. Comparisons with token voting are interview discussion, not proof of futarchy’s superiority. Token-holder and equity-holder rights are a discussion topic, not a legal equivalence. Jupiter DAO’s possible use of futarchy does not establish adoption or a MetaDAO raise. No third-party transcript is republished.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction"
+      },
+      {
+        "start": "01:03",
+        "topic": "Kollan’s crypto background"
+      },
+      {
+        "start": "03:00",
+        "topic": "Defining experiences in crypto"
+      },
+      {
+        "start": "06:29",
+        "topic": "Bitcoin’s original goals"
+      },
+      {
+        "start": "08:04",
+        "topic": "Inscriptions"
+      },
+      {
+        "start": "09:04",
+        "topic": "MetaDAO overview"
+      },
+      {
+        "start": "10:46",
+        "topic": "Ownership coins and other tokens"
+      },
+      {
+        "start": "13:30",
+        "topic": "Founder control"
+      },
+      {
+        "start": "14:01",
+        "topic": "Token-holder and equity-holder rights"
+      },
+      {
+        "start": "17:21",
+        "topic": "Values and beliefs in futarchy"
+      },
+      {
+        "start": "20:15",
+        "topic": "DAO structures and futarchy"
+      },
+      {
+        "start": "23:17",
+        "topic": "Financial incentives for expressing beliefs"
+      },
+      {
+        "start": "25:17",
+        "topic": "Reflections on Jupiter DAO"
+      },
+      {
+        "start": "26:41",
+        "topic": "Possible futarchy adoption by Jupiter DAO"
+      },
+      {
+        "start": "31:33",
+        "topic": "Buyout discussion"
+      },
+      {
+        "start": "35:09",
+        "topic": "Co-founder relationships"
+      },
+      {
+        "start": "39:06",
+        "topic": "Rebuilding trust"
+      },
+      {
+        "start": "41:36",
+        "topic": "Motivation in bear markets"
+      },
+      {
+        "start": "44:09",
+        "topic": "Responsibility"
+      },
+      {
+        "start": "47:36",
+        "topic": "Futarchy and global decisions"
+      },
+      {
+        "start": "51:19",
+        "topic": "Closing"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
   }
 ]

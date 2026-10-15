@@ -1,0 +1,123 @@
+{
+  "checkedAt": "2026-10-14",
+  "reviews": [
+    {
+      "id": "res-176",
+      "description": "Jup & Juice interviews MetaDAO co-founder Kollan House about his crypto background, ownership coins, founder control and market-based governance. The publisher’s chapter guide also covers Jupiter DAO, co-founder relationships, rebuilding trust and possible wider uses of futarchy.",
+      "method": "Original publisher X post and complete 21-entry chapter guide reviewed",
+      "boundary": "Read the original Jup & Juice post and all 21 publisher chapter entries for the 53:06 recording, published January 15, 2026. No full transcript or audio review. Markers identify publisher-listed topics, not independently verified arguments or outcomes. Comparisons with token voting are interview discussion, not proof of futarchy’s superiority. Token-holder and equity-holder rights are a discussion topic, not a legal equivalence. Jupiter DAO’s possible use of futarchy does not establish adoption or a MetaDAO raise. No third-party transcript is republished.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Introduction"
+        },
+        {
+          "start": "01:03",
+          "topic": "Kollan’s crypto background"
+        },
+        {
+          "start": "03:00",
+          "topic": "Defining experiences in crypto"
+        },
+        {
+          "start": "06:29",
+          "topic": "Bitcoin’s original goals"
+        },
+        {
+          "start": "08:04",
+          "topic": "Inscriptions"
+        },
+        {
+          "start": "09:04",
+          "topic": "MetaDAO overview"
+        },
+        {
+          "start": "10:46",
+          "topic": "Ownership coins and other tokens"
+        },
+        {
+          "start": "13:30",
+          "topic": "Founder control"
+        },
+        {
+          "start": "14:01",
+          "topic": "Token-holder and equity-holder rights"
+        },
+        {
+          "start": "17:21",
+          "topic": "Values and beliefs in futarchy"
+        },
+        {
+          "start": "20:15",
+          "topic": "DAO structures and futarchy"
+        },
+        {
+          "start": "23:17",
+          "topic": "Financial incentives for expressing beliefs"
+        },
+        {
+          "start": "25:17",
+          "topic": "Reflections on Jupiter DAO"
+        },
+        {
+          "start": "26:41",
+          "topic": "Possible futarchy adoption by Jupiter DAO"
+        },
+        {
+          "start": "31:33",
+          "topic": "Buyout discussion"
+        },
+        {
+          "start": "35:09",
+          "topic": "Co-founder relationships"
+        },
+        {
+          "start": "39:06",
+          "topic": "Rebuilding trust"
+        },
+        {
+          "start": "41:36",
+          "topic": "Motivation in bear markets"
+        },
+        {
+          "start": "44:09",
+          "topic": "Responsibility"
+        },
+        {
+          "start": "47:36",
+          "topic": "Futarchy and global decisions"
+        },
+        {
+          "start": "51:19",
+          "topic": "Closing"
+        }
+      ],
+      "sourceUrl": "https://x.com/JUPANDJUICE/status/2011856601603293565",
+      "previousDescription": "Interview with MetaDAO co-founder explaining futarchy's superiority over traditional token voting in DAO governance."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "res-11",
+      "result": "Original Pine Analytics post confirms Proph3t, December 5, 2023, and a 22:47 embedded replay. No publisher chapter list. Browser media download failed; no transcript or audio review completed."
+    },
+    {
+      "id": "res-22",
+      "result": "Read the full Spotify description: June 22, 2024, 37:04, DIRT, MetaMAT and 0xNallok. The description only establishes a Futarchy-as-a-Service walkthrough, without chapters or transcript. Keep pending rather than invent a detailed guide."
+    },
+    {
+      "id": "res-61",
+      "result": "Original MCG post confirms Proph3t on October 9, 2025, with a displayed 2:07:11 broadcast at https://x.com/i/broadcasts/1YqKDNlBmnkJV. Publisher replies mention later unrelated market segments; no timing for the founder segment was established. Full review remains pending."
+    },
+    {
+      "id": "res-159",
+      "result": "Original ThreadGuy post and direct broadcast https://x.com/i/broadcasts/1mnGeNoaApAJX both display The media could not be played. Broadcast says ended December 9, 2025. This is a current playback failure, not proof of permanent deletion. No content review completed."
+    },
+    {
+      "id": "res-263",
+      "result": "Read the Apple episode description and linked Armen Show episode page. Publisher provides a YouTube alternate and direct MP3, but no transcript or chapters were reviewed. Remains pending; do not confuse this with a Jim Rutt episode.",
+      "alternateSource": "https://www.armenshirvanian.com/podcast/457-robin-hanson-futarchy-cultural-drift-and-the-future-of-adaptiveness/"
+    }
+  ],
+  "transcriptsPublished": false
+}

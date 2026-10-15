@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-10-15T01:12:16.248Z",
+  "results": [
+    {
+      "id": "res-44",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 22,
+      "exactNoteJson": true
+    },
+    {
+      "id": "alpha-liquid-proph3t-2025-04-15",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 15,
+      "exactNoteJson": true
+    }
+  ]
+}

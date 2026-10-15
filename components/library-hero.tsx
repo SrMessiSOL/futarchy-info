@@ -17,7 +17,7 @@ export function LibraryHero({ search, setSearch }: LibraryHeroProps) {
       <div className="grid items-end gap-8 lg:grid-cols-[1fr_280px] lg:gap-16">
         <div><p className="eyebrow mb-3">Independent research archive <span className="mx-2 text-primary">/</span> MetaDAO ecosystem</p>
           <h1 className="max-w-3xl text-4xl font-semibold leading-[1.08] tracking-[-0.045em] sm:text-5xl">The ownership economy.<br /><span className="hero-serif text-primary">On the record.</span></h1>
-          <p className="mt-3 max-w-xl text-base leading-7 text-muted-foreground">Explore the projects that raised on MetaDAO. The launches, the decisions, the founder conversations—and what happened next.</p>
+          <p className="mt-3 max-w-xl text-base leading-7 text-muted-foreground">Explore the projects that raised on MetaDAO. The launches, the decisions, the founder conversations, and what happened next.</p>
         </div>
         <div className="grid grid-cols-3 gap-4 border-t pt-5 lg:grid-cols-1 lg:gap-4 lg:border-l lg:border-t-0 lg:pl-7 lg:pt-0">{stats.map(([value,label])=><div key={label} className="lg:flex lg:items-baseline lg:justify-between lg:gap-3"><span className="block text-2xl font-medium tabular-nums tracking-tight">{value}</span><span className="text-xs leading-5 text-muted-foreground">{label}</span></div>)}</div>
       </div>

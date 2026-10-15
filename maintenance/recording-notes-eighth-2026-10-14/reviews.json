@@ -1,0 +1,253 @@
+{
+  "checkedAt": "2026-10-14",
+  "reviews": [
+    {
+      "id": "res-11",
+      "audio": "pine-proph3t",
+      "description": "Pine Analytics interviews Proph3t about MetaDAO’s early decision markets, incentives for participation and the first proposal experience. They discuss conditional trading, speculative risks, the organization’s original ambitions and decentralization in DeFi. This is a historical account of the design in 2023.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Introduction and Proph3t’s background"
+        },
+        {
+          "start": "02:02",
+          "topic": "Organizational incentives and DAO participation"
+        },
+        {
+          "start": "04:04",
+          "topic": "Trading incentives and a decision-market example"
+        },
+        {
+          "start": "06:10",
+          "topic": "Conditional markets and proposal implementation in the 2023 design"
+        },
+        {
+          "start": "07:36",
+          "topic": "How conditional traders can profit"
+        },
+        {
+          "start": "09:22",
+          "topic": "Conditional value versus betting on the proposal outcome"
+        },
+        {
+          "start": "10:46",
+          "topic": "Speculation, market weaknesses and limits"
+        },
+        {
+          "start": "13:23",
+          "topic": "Uncertainty about adoption and existential-risk decisions"
+        },
+        {
+          "start": "14:31",
+          "topic": "MetaDAO’s original organizational ambitions"
+        },
+        {
+          "start": "16:00",
+          "topic": "Decentralization and DeFi"
+        },
+        {
+          "start": "18:46",
+          "topic": "Early proposal participation and interface feedback"
+        },
+        {
+          "start": "21:21",
+          "topic": "Closing discussion of DeFi"
+        }
+      ],
+      "sha": "970db85099da79f11549fb783613e210d6ae5faced821aa658150daede9f69a5",
+      "audioSha256": "d27ec7a6d6e9409bb4eb5d1a1d2d224139ba9260106484ed1a391df7bb3e910d",
+      "durationSeconds": 1367.423125,
+      "generatedSegments": 224,
+      "asrMethod": "faster-whisper base.en int8 CPU beam 5, batch 8, VAD enabled, timestamps enabled, no prompt or prior-text conditioning",
+      "method": "Complete locally generated research transcript read",
+      "boundary": "Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. This records the 2023 design and early experience, not the current protocol specification. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher.",
+      "sourceUrl": "https://x.com/pineanalytics/status/1732095165177749869",
+      "previousDescription": "Deep dive into MetaDAO's unique decision-making approach and blockchain innovation with founder Proph3t."
+    },
+    {
+      "id": "res-60",
+      "audio": "threadguy-oct-proph3t",
+      "description": "ThreadGuy interviews Proph3t about conditional markets, MetaDAO’s shift toward fundraising and the relationship between businesses and tokens. The October 2025 discussion covers early project examples, allocation, treasury spending, founder control and buybacks versus reinvestment, then closes with product and founder-recruitment priorities. Historical launch expectations and claimed outcomes are presented as interview discussion.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Introduction and Proph3t’s background"
+        },
+        {
+          "start": "01:12",
+          "topic": "Futarchy and conditional markets"
+        },
+        {
+          "start": "03:24",
+          "topic": "MetaDAO’s fundraising model and token-business alignment"
+        },
+        {
+          "start": "05:31",
+          "topic": "Capital formation and the move from governance tooling"
+        },
+        {
+          "start": "07:58",
+          "topic": "Participation incentives and criticism of token voting"
+        },
+        {
+          "start": "09:07",
+          "topic": "Early project examples and a fund wind-down discussion"
+        },
+        {
+          "start": "11:21",
+          "topic": "Project selection, raise caps and pro-rata allocation"
+        },
+        {
+          "start": "12:45",
+          "topic": "Bonding curves and long-term founder incentives"
+        },
+        {
+          "start": "15:52",
+          "topic": "Treasury budgets and proposal requirements"
+        },
+        {
+          "start": "17:04",
+          "topic": "Limits of treasury protections and founder control"
+        },
+        {
+          "start": "19:08",
+          "topic": "META governance and trading-fee economics"
+        },
+        {
+          "start": "20:09",
+          "topic": "Historical Umbra and Avici launch discussion"
+        },
+        {
+          "start": "22:05",
+          "topic": "Token holders, product distribution and market attention"
+        },
+        {
+          "start": "24:09",
+          "topic": "Comparing fundraising models and token distribution"
+        },
+        {
+          "start": "25:35",
+          "topic": "Extraction resistance and token-holder protections"
+        },
+        {
+          "start": "27:23",
+          "topic": "Buybacks, reinvestment and trust"
+        },
+        {
+          "start": "33:38",
+          "topic": "Founder recruitment and product priorities"
+        },
+        {
+          "start": "34:40",
+          "topic": "Closing comparisons and launch expectations"
+        }
+      ],
+      "sha": "efea2321631fe9c42a53bbfb28b0468131f41a18dffd66e96989cde3e45f38f0",
+      "audioSha256": "29c4e68ebcfa6a4d24a10ae6ab380638e1c9ed9171ac9e4dba26dfef7d755526",
+      "durationSeconds": 2162.56,
+      "generatedSegments": 401,
+      "asrMethod": "faster-whisper base.en int8 CPU beam 5, batch 8, VAD enabled, timestamps enabled, no prompt or prior-text conditioning",
+      "method": "Complete locally generated research transcript read",
+      "boundary": "Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. The source is SrMessi’s upload of the ThreadGuy interview, distinct from the December replay. The post timestamp is October 9, 2025 at 00:34:17 UTC, although local display can show October 8. Historical fundraising discussion is not confirmation of final accepted proceeds or later execution. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher.",
+      "sourceUrl": "https://x.com/0xSrMessi/status/1976083763999437047",
+      "previousDescription": "Live stream discussion with Proph3t covering MetaDAO developments."
+    },
+    {
+      "id": "res-158",
+      "audio": "11am-proph3t",
+      "description": "11AM interviews Proph3t at Solana Breakpoint about MetaDAO’s shift from governance tooling to fundraising, treasury oversight and token-holder rights. They debate early token launches, customer distribution, curation and allocation design, then discuss business economics, founder workflow improvements and a continued focus on Solana. Proposed changes and reported project results reflect the interview, not verified implementation or audited outcomes.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Introduction and the route from governance tooling to fundraising"
+        },
+        {
+          "start": "03:31",
+          "topic": "Treasury oversight, intellectual property and token-holder rights"
+        },
+        {
+          "start": "05:20",
+          "topic": "Ownership claims and uncertainty about token-holder value"
+        },
+        {
+          "start": "06:56",
+          "topic": "Product-market fit and when to launch a token"
+        },
+        {
+          "start": "09:32",
+          "topic": "Liquid prices and later fundraising"
+        },
+        {
+          "start": "11:11",
+          "topic": "Token-price criticism and business usage"
+        },
+        {
+          "start": "13:11",
+          "topic": "Which businesses benefit from token distribution"
+        },
+        {
+          "start": "14:48",
+          "topic": "Launch lessons and curation"
+        },
+        {
+          "start": "15:58",
+          "topic": "Allocation mechanisms and oversubscription"
+        },
+        {
+          "start": "17:44",
+          "topic": "Early backers, open participation and distribution"
+        },
+        {
+          "start": "20:00",
+          "topic": "Founder selection and recruiting projects"
+        },
+        {
+          "start": "23:39",
+          "topic": "Business economics and valuation discussion"
+        },
+        {
+          "start": "25:45",
+          "topic": "Product improvements and founder spending workflows"
+        },
+        {
+          "start": "27:55",
+          "topic": "Defensibility and network effects"
+        },
+        {
+          "start": "29:24",
+          "topic": "Scaling, execution and founder pressure"
+        },
+        {
+          "start": "30:48",
+          "topic": "Solana focus and cross-chain expansion"
+        },
+        {
+          "start": "31:45",
+          "topic": "Closing reflections"
+        }
+      ],
+      "sha": "affacd03ccaec6ed25d393e2cc00337812299d0fa047eab8031302277dd35a16",
+      "audioSha256": "4c22740830f65596d51b78073861d0c44e9b8e0f892fc70315daff76014f4b3e",
+      "durationSeconds": 1978.9653125,
+      "generatedSegments": 459,
+      "asrMethod": "faster-whisper base.en int8 CPU beam 5, batch 8, VAD enabled, timestamps enabled, no prompt or prior-text conditioning",
+      "method": "Complete locally generated research transcript read",
+      "boundary": "Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. Decoded audio is 32:59 versus the player’s displayed 32:54; timestamps are approximate. Historical project examples and planned launch mechanisms do not establish current project status or implementation. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher.",
+      "sourceUrl": "https://x.com/11AMdotclub/status/1999204697857786087",
+      "previousDescription": "Live interview with MetaDAO co-founder Proph3t at Solana Breakpoint 2025, exploring futarchy, DAO governance evolution, and ownership coin models."
+    },
+    {
+      "id": "res-180",
+      "description": "Ivan Vendrov interviews Robin Hanson about cultural evolution, declining cultural variety and possible long-term consequences. They debate market incentives, durable subcultures, AI and futarchy directed toward shared goals. Hanson presents futarchy as a speculative response and acknowledges tradeoffs around freedom, open inquiry and the goals a society chooses.",
+      "method": "Complete publisher-provided written transcript reviewed",
+      "boundary": "Read the full transcript on the original Nothing Human page, including the closing exchange. The publisher says Gemini 3.0 generated the transcript in chunks and that it was spot-checked, not fully verified. No manual audio review. The transcript has no timestamps, so no timestamp guide is invented. Cultural and demographic forecasts are the speakers’ arguments, not independently established predictions. The futarchy discussion is speculative background, not evidence of MetaDAO implementation or a project raise. The third-party transcript remains on its publisher’s page and is not republished here.",
+      "sections": [],
+      "transcriptStatus": "permission-required",
+      "sha": null,
+      "sourceUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
+      "previousDescription": "Robin Hanson discusses cultural evolution as humanity's superpower, its breakdown through 'cultural drift', and risks of civilization decline, with potential fixes like futarchy."
+    }
+  ],
+  "transcriptsPublished": false
+}

@@ -212,18 +212,19 @@
     "date": "2023-12-05",
     "type": "podcast",
     "url": "https://x.com/pineanalytics/status/1732095165177749869",
-    "description": "Deep dive into MetaDAO's unique decision-making approach and blockchain innovation with founder Proph3t.",
+    "description": "Pine Analytics interviews Proph3t about MetaDAO’s early decision markets, incentives for participation and the first proposal experience. They discuss conditional trading, speculative risks, the organization’s original ambitions and decentralization in DeFi. This is a historical account of the design in 2023.",
     "tags": [
       "Interview",
       "MetaDAO",
       "Blockchain"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/pineanalytics/status/1732095165177749869",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. This records the 2023 design and early experience, not the current protocol specification. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher."
   },
   {
     "id": "res-16",
@@ -1108,18 +1109,19 @@
     "date": "2025-10-09",
     "type": "video",
     "url": "https://x.com/0xSrMessi/status/1976083763999437047",
-    "description": "Live stream discussion with Proph3t covering MetaDAO developments.",
+    "description": "ThreadGuy interviews Proph3t about conditional markets, MetaDAO’s shift toward fundraising and the relationship between businesses and tokens. The October 2025 discussion covers early project examples, allocation, treasury spending, founder control and buybacks versus reinvestment, then closes with product and founder-recruitment priorities. Historical launch expectations and claimed outcomes are presented as interview discussion.",
     "tags": [
       "Live",
       "Discussion",
       "Updates"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/0xSrMessi/status/1976083763999437047",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. The source is SrMessi’s upload of the ThreadGuy interview, distinct from the December replay. The post timestamp is October 9, 2025 at 00:34:17 UTC, although local display can show October 8. Historical fundraising discussion is not confirmation of final accepted proceeds or later execution. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher."
   },
   {
     "id": "res-61",
@@ -3006,7 +3008,7 @@
     "date": "2025-12-11",
     "type": "podcast",
     "url": "https://x.com/11AMdotclub/status/1999204697857786087",
-    "description": "Live interview with MetaDAO co-founder Proph3t at Solana Breakpoint 2025, exploring futarchy, DAO governance evolution, and ownership coin models.",
+    "description": "11AM interviews Proph3t at Solana Breakpoint about MetaDAO’s shift from governance tooling to fundraising, treasury oversight and token-holder rights. They debate early token launches, customer distribution, curation and allocation design, then discuss business economics, founder workflow improvements and a continued focus on Solana. Proposed changes and reported project results reflect the interview, not verified implementation or audited outcomes.",
     "tags": [
       "MetaDAO",
       "Proph3t",
@@ -3019,11 +3021,11 @@
     ],
     "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/11AMdotclub/status/1999204697857786087",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged. Follow-up review: Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. Decoded audio is 32:59 versus the player’s displayed 32:54; timestamps are approximate. Historical project examples and planned launch mechanisms do not establish current project status or implementation. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher."
   },
   {
     "id": "res-159",
@@ -3552,7 +3554,7 @@
     "date": "2026-01-19",
     "type": "video",
     "url": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
-    "description": "Robin Hanson discusses cultural evolution as humanity's superpower, its breakdown through 'cultural drift', and risks of civilization decline, with potential fixes like futarchy.",
+    "description": "Ivan Vendrov interviews Robin Hanson about cultural evolution, declining cultural variety and possible long-term consequences. They debate market incentives, durable subcultures, AI and futarchy directed toward shared goals. Hanson presents futarchy as a speculative response and acknowledges tradeoffs around freedom, open inquiry and the goals a society chooses.",
     "tags": [
       "Robin Hanson",
       "Interview",
@@ -3561,12 +3563,13 @@
       "Prediction Markets",
       "Economics"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read the full transcript on the original Nothing Human page, including the closing exchange. The publisher says Gemini 3.0 generated the transcript in chunks and that it was spot-checked, not fully verified. No manual audio review. The transcript has no timestamps, so no timestamp guide is invented. Cultural and demographic forecasts are the speakers’ arguments, not independently established predictions. The futarchy discussion is speculative background, not evidence of MetaDAO implementation or a project raise. The third-party transcript remains on its publisher’s page and is not republished here."
   },
   {
     "id": "res-181",

@@ -1,0 +1,179 @@
+{
+  "checkedAt": "2026-10-14",
+  "reviews": [
+    {
+      "id": "res-22",
+      "audio": "future-faas",
+      "description": "DIRT, MetaMAT and Nallok walk through an early Futarchy-as-a-Service demonstration for FutureDAO. They explain conditional token minting, trading, reclaiming paired balances, TWAPs and proposal liquidity, then discuss interface issues and planned next steps. The recording explicitly describes a devnet demo; it does not establish a completed mainnet launch.",
+      "method": "Complete locally generated research transcript read and original publisher RSS reviewed",
+      "boundary": "Read all 436 generated segments from the original Future Podcast audio enclosure, decoded duration 37:05, and its publisher RSS entry dated June 22, 2024 at 12:11:18 UTC. Speech recognition used faster-whisper base.en with VAD; missing speech and misheard wording remain possible. No manual audio listening or review of the screen demonstration. Topic markers are approximate and derived from this audio edition. The speakers repeatedly identify devnet and describe remaining UI and parameter work; migration targets are plans, not execution evidence. Trading examples, threshold values and liquidity amounts are historical demonstration details, not current specifications, approval probabilities or guarantees of profit. No third-party transcript is republished.",
+      "reviewedPublisherUrl": "https://anchor.fm/s/e7c38a38/podcast/rss",
+      "sections": [
+        {
+          "start": "00:03",
+          "topic": "Introduction and devnet demonstration context"
+        },
+        {
+          "start": "00:59",
+          "topic": "Proposal markets and conditional token minting"
+        },
+        {
+          "start": "04:04",
+          "topic": "Trading based on conditional token value"
+        },
+        {
+          "start": "07:59",
+          "topic": "Reclaiming paired conditional balances"
+        },
+        {
+          "start": "09:02",
+          "topic": "AMM swaps and settlement explanations"
+        },
+        {
+          "start": "12:39",
+          "topic": "Trading across pass and fail markets"
+        },
+        {
+          "start": "15:29",
+          "topic": "A hypothetical harmful proposal and fail-market value"
+        },
+        {
+          "start": "19:53",
+          "topic": "Unequal balances and reclaim limits"
+        },
+        {
+          "start": "20:48",
+          "topic": "Changing views and adjusting trades"
+        },
+        {
+          "start": "22:30",
+          "topic": "TWAPs, passing thresholds and unfinished interface details"
+        },
+        {
+          "start": "26:28",
+          "topic": "Time-weighted prices versus current market prices"
+        },
+        {
+          "start": "28:31",
+          "topic": "Proposal liquidity requirements and liquidity provision risks"
+        },
+        {
+          "start": "32:39",
+          "topic": "Proposal information, DAO parameters and settlement"
+        },
+        {
+          "start": "35:02",
+          "topic": "Learning from proposal history"
+        },
+        {
+          "start": "36:10",
+          "topic": "Planned mainnet testing and closing"
+        }
+      ],
+      "sourceUrl": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
+      "previousDescription": "Discussion of futarchy-as-a-service model and how organizations can adopt prediction market governance.",
+      "sha": "59a2e7f1f8214b5f162082e547b3ea9d0525a5e2d2637cbbd1d4bd1cb01f0da6",
+      "audioSha256": "23aa451a32e19edcc7f0187258d82116259e750e6d9af6e3d91fd1fbe8b1800e",
+      "durationSeconds": 2224.912875,
+      "generatedSegments": 436,
+      "asrMethod": "faster-whisper base.en int8 CPU beam 5, batch 8, VAD enabled, timestamps enabled, no prompt or prior-text conditioning"
+    },
+    {
+      "id": "res-31",
+      "audio": "exit-founders",
+      "description": "Exit Liquidity interviews Proph3t and Nallok about their backgrounds, early MetaDAO governance experiments and the case for decision markets. They discuss participation incentives, manipulation risks, historical proposal examples, possible uses beyond DAOs and their reasons for building on Solana. The conversation reflects their 2024 views and plans, not proof of later adoption or execution.",
+      "method": "Complete locally generated research transcript of the original YouTube edition read",
+      "boundary": "Read all 627 generated segments from the exact catalog YouTube recording, decoded duration 58:39. Speech recognition used faster-whisper base.en with VAD; speech omissions and misheard wording remain possible. No manual audio listening or video-frame review. Markers are approximate pointers from this recording, not the differently edited 56:27 podcast. The original RSS episode is available and was read this pass; the preceding lookup missed its CDATA title. YouTube upload metadata supports the retained October 30, 2024 publication date and separately reports an October 29 release date; the November 25 podcast publication is not substituted. Historical fundraising offers, proposal outcomes, manipulation examples, research statistics and technical comparisons are speaker claims, not independently audited facts. National-governance examples and cross-chain plans are hypothetical. No third-party transcript is republished.",
+      "reviewedPublisherUrl": "https://anchor.fm/s/e63386b4/podcast/rss",
+      "sections": [
+        {
+          "start": "00:55",
+          "topic": "Introduction and the founders’ backgrounds"
+        },
+        {
+          "start": "04:18",
+          "topic": "Pseudonymity, the Proph3t identity and mask"
+        },
+        {
+          "start": "08:26",
+          "topic": "Public appearances, working together and trust"
+        },
+        {
+          "start": "12:26",
+          "topic": "Personal experiences of losses in crypto"
+        },
+        {
+          "start": "17:30",
+          "topic": "Futarchy and conditional decision markets"
+        },
+        {
+          "start": "19:14",
+          "topic": "Long-term ambitions beyond DAO governance"
+        },
+        {
+          "start": "20:48",
+          "topic": "Solana governance, delegation and participation"
+        },
+        {
+          "start": "24:29",
+          "topic": "Incentives to correct mispriced decisions"
+        },
+        {
+          "start": "26:21",
+          "topic": "Manipulation risks and an early proposal example"
+        },
+        {
+          "start": "29:21",
+          "topic": "Historical funding and product proposal stories"
+        },
+        {
+          "start": "31:37",
+          "topic": "Decision quality versus maximizing participation"
+        },
+        {
+          "start": "35:53",
+          "topic": "Prediction-market manipulation and outside incentives"
+        },
+        {
+          "start": "40:04",
+          "topic": "Hypothetical national objectives and satisfaction markets"
+        },
+        {
+          "start": "42:51",
+          "topic": "Adoption plans and MetaDAO as its own case study"
+        },
+        {
+          "start": "44:59",
+          "topic": "Why build on Solana?"
+        },
+        {
+          "start": "52:22",
+          "topic": "Cross-chain possibilities and technical boundaries"
+        },
+        {
+          "start": "55:48",
+          "topic": "Closing remarks and historical participation plans"
+        }
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
+      "previousDescription": "Discussion of how futarchy participants are improving governance frameworks through practice.",
+      "sha": "3bd8a8f59863d67f0c0df32dac01507b1864df2e3d11472250e12207c7e1e4cc",
+      "audioSha256": "a0ad9bc21bc857b0310be256fe69f00055867474eaee6879dda80ab64138b1a6",
+      "durationSeconds": 3519.47175,
+      "generatedSegments": 627,
+      "asrMethod": "faster-whisper base.en int8 CPU beam 5, batch 8, VAD enabled, timestamps enabled, no prompt or prior-text conditioning"
+    },
+    {
+      "id": "res-263",
+      "description": "Armen Shirvanian interviews Robin Hanson about collaborative inquiry, prediction markets and futarchy. The publisher’s description also outlines a discussion of cultural drift, institutional decline and adaptation. These are interview themes and speculative arguments, not evidence of MetaDAO adoption or a project raise.",
+      "method": "Complete original publisher episode description reviewed",
+      "boundary": "Read The Armen Show’s full episode description and the matching Apple listing, which dates publication to October 28, 2025 at 18:47 UTC. No full transcript, audio or video review. The description outlines the conversation without chapter timestamps; no timed guide is invented. Claims about cultural change and governance remain the speakers’ arguments. This is general futarchy background. No third-party transcript is republished.",
+      "reviewedPublisherUrl": "https://www.armenshirvanian.com/podcast/457-robin-hanson-futarchy-cultural-drift-and-the-future-of-adaptiveness/",
+      "sections": [],
+      "sourceUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
+      "previousDescription": "Long-form interview with Robin Hanson on open discourse, prediction markets, futarchy, cultural drift, institutional decay, and adaptiveness.",
+      "sha": null
+    }
+  ],
+  "transcriptsPublished": false
+}

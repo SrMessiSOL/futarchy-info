@@ -1,3 +1,9 @@
+## Recording review, tenth batch (October 14, 2026)
+
+Reviewed all generated transcript text from the original Exit Liquidity YouTube interview with Proph3t and Nallok and the original Future Podcast audio with DIRT, MetaMAT and Nallok. Added original guides based on those exact editions. The FutureDAO walkthrough explicitly describes a devnet demonstration, not a verified mainnet deployment. Also read The Armen Show’s full original description and added a clearly limited publisher-outline note.
+
+The no-notes backlog falls from 7 to 4. Exit Liquidity’s original RSS does contain the podcast episode: the preceding batch’s lookup missed its CDATA title. This pass read the actual episode node and corrected that research finding. Its November 25 podcast date and timestamps are not substituted for the October 30 YouTube upload. All IDs, source URLs, stored dates and addedAt values remain unchanged. No manual listening or complete speech capture is claimed, and no third-party transcript is published. Remaining gaps: Loyal private video, MCG’s long broadcast, December ThreadGuy replay and the 0xResearch roundup. Evidence: maintenance/recording-notes-tenth-2026-10-14.
+
 ## Recording review, ninth batch (October 14, 2026)
 
 PR #44 is live: all four guides match production Markdown and JSON, and 551 production access checks passed. Reviewed all generated text for MCG’s five-minute Proph3t clip on ownership and treasury protections, correcting its title to identify a clip rather than a full stream. Added a separate publisher-outline note for Epicenter episode 98 after reading its original page in the browser. Full listening is not claimed for either source; third-party transcripts are not republished.

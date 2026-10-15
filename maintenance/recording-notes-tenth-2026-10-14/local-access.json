@@ -1,0 +1,4542 @@
+{
+  "checkedAt": "2026-10-15T02:25:16.952Z",
+  "base": "http://127.0.0.1:3010",
+  "scopeCounts": {
+    "all": 620,
+    "historical": 23,
+    "everything": 637
+  },
+  "mediaCount": 162,
+  "withNotes": 158,
+  "withTranscripts": 65,
+  "missingNotes": [
+    {
+      "id": "res-53",
+      "title": "Plasma, Prediction Markets, BNB, and More",
+      "sourceUrl": "https://x.com/0xResearch/status/1972679362639167492",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-61",
+      "title": "MCG Stream: Futarchy and ICOs Are Back!?",
+      "sourceUrl": "https://x.com/MCGlive/status/1976324856905072700",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-102",
+      "title": "Loyal ICO on Metadao Review",
+      "sourceUrl": "https://www.youtube.com/watch?v=LVSMJkWOrzY",
+      "verification": "legacy"
+    },
+    {
+      "id": "res-159",
+      "title": "threadguy INTERVIEWING @metaproph3t",
+      "sourceUrl": "https://x.com/notthreadguy/status/1998492210564837451",
+      "verification": "legacy"
+    }
+  ],
+  "excludedMedia": [
+    "res-47",
+    "res-43",
+    "res-64",
+    "res-161",
+    "res-198",
+    "res-205",
+    "tributary-archive-5ec2281509",
+    "tributary-archive-67aabeadbb",
+    "tributary-archive-19521722ff",
+    "video-review-655a326d6c774361364955"
+  ],
+  "requestCount": 561,
+  "failures": [],
+  "results": [
+    {
+      "id": "res-11",
+      "kind": "notes",
+      "path": "/api/library/res-11",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-11",
+      "kind": "metadata",
+      "path": "/api/library/res-11?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-20",
+      "kind": "notes",
+      "path": "/api/library/res-20",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-20",
+      "kind": "metadata",
+      "path": "/api/library/res-20?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-22",
+      "kind": "notes",
+      "path": "/api/library/res-22",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-22",
+      "kind": "metadata",
+      "path": "/api/library/res-22?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-23",
+      "kind": "notes",
+      "path": "/api/library/res-23",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-23",
+      "kind": "metadata",
+      "path": "/api/library/res-23?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-24",
+      "kind": "notes",
+      "path": "/api/library/res-24",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-24",
+      "kind": "metadata",
+      "path": "/api/library/res-24?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-29",
+      "kind": "notes",
+      "path": "/api/library/res-29",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-29",
+      "kind": "metadata",
+      "path": "/api/library/res-29?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-30",
+      "kind": "notes",
+      "path": "/api/library/res-30",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-30",
+      "kind": "metadata",
+      "path": "/api/library/res-30?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-31",
+      "kind": "notes",
+      "path": "/api/library/res-31",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-31",
+      "kind": "metadata",
+      "path": "/api/library/res-31?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-45",
+      "kind": "notes",
+      "path": "/api/library/res-45",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-45",
+      "kind": "metadata",
+      "path": "/api/library/res-45?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-44",
+      "kind": "notes",
+      "path": "/api/library/res-44",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-44",
+      "kind": "metadata",
+      "path": "/api/library/res-44?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-83",
+      "kind": "notes",
+      "path": "/api/library/res-83",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-83",
+      "kind": "metadata",
+      "path": "/api/library/res-83?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-60",
+      "kind": "notes",
+      "path": "/api/library/res-60",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-60",
+      "kind": "metadata",
+      "path": "/api/library/res-60?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-63",
+      "kind": "notes",
+      "path": "/api/library/res-63",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-63",
+      "kind": "metadata",
+      "path": "/api/library/res-63?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-82",
+      "kind": "notes",
+      "path": "/api/library/res-82",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-82",
+      "kind": "metadata",
+      "path": "/api/library/res-82?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-97",
+      "kind": "notes",
+      "path": "/api/library/res-97",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-97",
+      "kind": "metadata",
+      "path": "/api/library/res-97?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-87",
+      "kind": "notes",
+      "path": "/api/library/res-87",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-87",
+      "kind": "metadata",
+      "path": "/api/library/res-87?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-77",
+      "kind": "notes",
+      "path": "/api/library/res-77",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-77",
+      "kind": "metadata",
+      "path": "/api/library/res-77?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-89",
+      "kind": "notes",
+      "path": "/api/library/res-89",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-89",
+      "kind": "metadata",
+      "path": "/api/library/res-89?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-116",
+      "kind": "notes",
+      "path": "/api/library/res-116",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-116",
+      "kind": "metadata",
+      "path": "/api/library/res-116?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-118",
+      "kind": "notes",
+      "path": "/api/library/res-118",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-118",
+      "kind": "metadata",
+      "path": "/api/library/res-118?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-127",
+      "kind": "notes",
+      "path": "/api/library/res-127",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-127",
+      "kind": "metadata",
+      "path": "/api/library/res-127?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-42",
+      "kind": "notes",
+      "path": "/api/library/res-42",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-42",
+      "kind": "metadata",
+      "path": "/api/library/res-42?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-151",
+      "kind": "notes",
+      "path": "/api/library/res-151",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-151",
+      "kind": "metadata",
+      "path": "/api/library/res-151?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-158",
+      "kind": "notes",
+      "path": "/api/library/res-158",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-158",
+      "kind": "metadata",
+      "path": "/api/library/res-158?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-160",
+      "kind": "notes",
+      "path": "/api/library/res-160",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-160",
+      "kind": "metadata",
+      "path": "/api/library/res-160?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-163",
+      "kind": "notes",
+      "path": "/api/library/res-163",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-163",
+      "kind": "metadata",
+      "path": "/api/library/res-163?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-176",
+      "kind": "notes",
+      "path": "/api/library/res-176",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-176",
+      "kind": "metadata",
+      "path": "/api/library/res-176?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-178",
+      "kind": "notes",
+      "path": "/api/library/res-178",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-178",
+      "kind": "metadata",
+      "path": "/api/library/res-178?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-180",
+      "kind": "notes",
+      "path": "/api/library/res-180",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-180",
+      "kind": "metadata",
+      "path": "/api/library/res-180?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-199",
+      "kind": "notes",
+      "path": "/api/library/res-199",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-199",
+      "kind": "metadata",
+      "path": "/api/library/res-199?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-199",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/res-199",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-199",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/res-199?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-201",
+      "kind": "notes",
+      "path": "/api/library/res-201",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-201",
+      "kind": "metadata",
+      "path": "/api/library/res-201?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-246",
+      "kind": "notes",
+      "path": "/api/library/res-246",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-246",
+      "kind": "metadata",
+      "path": "/api/library/res-246?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-250",
+      "kind": "notes",
+      "path": "/api/library/res-250",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-250",
+      "kind": "metadata",
+      "path": "/api/library/res-250?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-250",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/res-250",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-250",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/res-250?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-252",
+      "kind": "notes",
+      "path": "/api/library/res-252",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-252",
+      "kind": "metadata",
+      "path": "/api/library/res-252?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-252",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/res-252",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-252",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/res-252?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-199",
+      "kind": "reader",
+      "path": "/transcripts/res-199",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-250",
+      "kind": "reader",
+      "path": "/transcripts/res-250",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-257",
+      "kind": "notes",
+      "path": "/api/library/res-257",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-257",
+      "kind": "metadata",
+      "path": "/api/library/res-257?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-257",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/res-257",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-257",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/res-257?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-258",
+      "kind": "notes",
+      "path": "/api/library/res-258",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-258",
+      "kind": "metadata",
+      "path": "/api/library/res-258?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-258",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/res-258",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-258",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/res-258?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-257",
+      "kind": "reader",
+      "path": "/transcripts/res-257",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-252",
+      "kind": "reader",
+      "path": "/transcripts/res-252",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-259",
+      "kind": "notes",
+      "path": "/api/library/res-259",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-259",
+      "kind": "metadata",
+      "path": "/api/library/res-259?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-259",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/res-259",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-259",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/res-259?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-260",
+      "kind": "notes",
+      "path": "/api/library/res-260",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-260",
+      "kind": "metadata",
+      "path": "/api/library/res-260?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-260",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/res-260",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-260",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/res-260?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-258",
+      "kind": "reader",
+      "path": "/transcripts/res-258",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-262",
+      "kind": "notes",
+      "path": "/api/library/res-262",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-262",
+      "kind": "metadata",
+      "path": "/api/library/res-262?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-263",
+      "kind": "notes",
+      "path": "/api/library/res-263",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-263",
+      "kind": "metadata",
+      "path": "/api/library/res-263?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-259",
+      "kind": "reader",
+      "path": "/transcripts/res-259",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-265",
+      "kind": "notes",
+      "path": "/api/library/res-265",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-265",
+      "kind": "metadata",
+      "path": "/api/library/res-265?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-0",
+      "kind": "notes",
+      "path": "/api/library/ownership-backfill-0",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-0",
+      "kind": "metadata",
+      "path": "/api/library/ownership-backfill-0?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-0",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-backfill-0",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-0",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-backfill-0?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-1",
+      "kind": "notes",
+      "path": "/api/library/ownership-backfill-1",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-1",
+      "kind": "metadata",
+      "path": "/api/library/ownership-backfill-1?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-260",
+      "kind": "reader",
+      "path": "/transcripts/res-260",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-1",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-backfill-1",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-1",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-backfill-1?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-2",
+      "kind": "notes",
+      "path": "/api/library/ownership-backfill-2",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-2",
+      "kind": "metadata",
+      "path": "/api/library/ownership-backfill-2?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-2",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-backfill-2",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-2",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-backfill-2?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-0",
+      "kind": "reader",
+      "path": "/transcripts/ownership-backfill-0",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-3",
+      "kind": "notes",
+      "path": "/api/library/ownership-backfill-3",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-3",
+      "kind": "metadata",
+      "path": "/api/library/ownership-backfill-3?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-3",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-backfill-3",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-1",
+      "kind": "reader",
+      "path": "/transcripts/ownership-backfill-1",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-3",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-backfill-3?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-4",
+      "kind": "notes",
+      "path": "/api/library/ownership-backfill-4",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-4",
+      "kind": "metadata",
+      "path": "/api/library/ownership-backfill-4?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-4",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-backfill-4",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-4",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-backfill-4?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-2",
+      "kind": "reader",
+      "path": "/transcripts/ownership-backfill-2",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-5",
+      "kind": "notes",
+      "path": "/api/library/ownership-backfill-5",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-5",
+      "kind": "metadata",
+      "path": "/api/library/ownership-backfill-5?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-5",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-backfill-5",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-5",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-backfill-5?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-3",
+      "kind": "reader",
+      "path": "/transcripts/ownership-backfill-3",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-6",
+      "kind": "notes",
+      "path": "/api/library/ownership-backfill-6",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-6",
+      "kind": "metadata",
+      "path": "/api/library/ownership-backfill-6?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-6",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-backfill-6",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-6",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-backfill-6?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-4",
+      "kind": "reader",
+      "path": "/transcripts/ownership-backfill-4",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "hanson-hodl-2026",
+      "kind": "notes",
+      "path": "/api/library/hanson-hodl-2026",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "hanson-hodl-2026",
+      "kind": "metadata",
+      "path": "/api/library/hanson-hodl-2026?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "venice-futarchy-2026",
+      "kind": "notes",
+      "path": "/api/library/venice-futarchy-2026",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "venice-futarchy-2026",
+      "kind": "metadata",
+      "path": "/api/library/venice-futarchy-2026?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-5",
+      "kind": "reader",
+      "path": "/transcripts/ownership-backfill-5",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "elucidations-hanson-157",
+      "kind": "notes",
+      "path": "/api/library/elucidations-hanson-157",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "elucidations-hanson-157",
+      "kind": "metadata",
+      "path": "/api/library/elucidations-hanson-157?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "kind": "notes",
+      "path": "/api/library/ownership-s1-e1-anas-flashtrade",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "kind": "metadata",
+      "path": "/api/library/ownership-s1-e1-anas-flashtrade?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-s1-e1-anas-flashtrade",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-s1-e1-anas-flashtrade?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-backfill-6",
+      "kind": "reader",
+      "path": "/transcripts/ownership-backfill-6",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4c66477773363171597041",
+      "kind": "notes",
+      "path": "/api/library/video-review-4c66477773363171597041",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4c66477773363171597041",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4c66477773363171597041?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-3334695f66564159394759",
+      "kind": "notes",
+      "path": "/api/library/video-review-3334695f66564159394759",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-3334695f66564159394759",
+      "kind": "metadata",
+      "path": "/api/library/video-review-3334695f66564159394759?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6b4868744a51345f546177",
+      "kind": "notes",
+      "path": "/api/library/video-review-6b4868744a51345f546177",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6b4868744a51345f546177",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6b4868744a51345f546177?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4857567059656b6c2d556f",
+      "kind": "notes",
+      "path": "/api/library/video-review-4857567059656b6c2d556f",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4857567059656b6c2d556f",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4857567059656b6c2d556f?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-747a73444e6b2d707a3159",
+      "kind": "notes",
+      "path": "/api/library/video-review-747a73444e6b2d707a3159",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-747a73444e6b2d707a3159",
+      "kind": "metadata",
+      "path": "/api/library/video-review-747a73444e6b2d707a3159?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-694a41624d447130567659",
+      "kind": "notes",
+      "path": "/api/library/video-review-694a41624d447130567659",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-694a41624d447130567659",
+      "kind": "metadata",
+      "path": "/api/library/video-review-694a41624d447130567659?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-744e656f4a456671644949",
+      "kind": "notes",
+      "path": "/api/library/video-review-744e656f4a456671644949",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-744e656f4a456671644949",
+      "kind": "metadata",
+      "path": "/api/library/video-review-744e656f4a456671644949?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-435a576b2d467277334d34",
+      "kind": "notes",
+      "path": "/api/library/video-review-435a576b2d467277334d34",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-s1-e1-anas-flashtrade",
+      "kind": "reader",
+      "path": "/transcripts/ownership-s1-e1-anas-flashtrade",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-435a576b2d467277334d34",
+      "kind": "metadata",
+      "path": "/api/library/video-review-435a576b2d467277334d34?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6c69626d736961695a426f",
+      "kind": "notes",
+      "path": "/api/library/video-review-6c69626d736961695a426f",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6c69626d736961695a426f",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6c69626d736961695a426f?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-7758776a3955744c4d5651",
+      "kind": "notes",
+      "path": "/api/library/video-review-7758776a3955744c4d5651",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-7758776a3955744c4d5651",
+      "kind": "metadata",
+      "path": "/api/library/video-review-7758776a3955744c4d5651?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-497a715a74707242464251",
+      "kind": "notes",
+      "path": "/api/library/video-review-497a715a74707242464251",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-497a715a74707242464251",
+      "kind": "metadata",
+      "path": "/api/library/video-review-497a715a74707242464251?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-396f4b76423238486b7355",
+      "kind": "notes",
+      "path": "/api/library/video-review-396f4b76423238486b7355",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-396f4b76423238486b7355",
+      "kind": "metadata",
+      "path": "/api/library/video-review-396f4b76423238486b7355?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6a366f6f4e5672386e4145",
+      "kind": "notes",
+      "path": "/api/library/video-review-6a366f6f4e5672386e4145",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6a366f6f4e5672386e4145",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6a366f6f4e5672386e4145?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6e7a49376f57713952426f",
+      "kind": "notes",
+      "path": "/api/library/video-review-6e7a49376f57713952426f",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6e7a49376f57713952426f",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6e7a49376f57713952426f?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-36535f2d56554d4b38476b",
+      "kind": "notes",
+      "path": "/api/library/video-review-36535f2d56554d4b38476b",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-36535f2d56554d4b38476b",
+      "kind": "metadata",
+      "path": "/api/library/video-review-36535f2d56554d4b38476b?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6642534e45594b6b737863",
+      "kind": "notes",
+      "path": "/api/library/video-review-6642534e45594b6b737863",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6642534e45594b6b737863",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6642534e45594b6b737863?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6d5f476d42386e52445973",
+      "kind": "notes",
+      "path": "/api/library/video-review-6d5f476d42386e52445973",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6d5f476d42386e52445973",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6d5f476d42386e52445973?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-556357467a30416b703545",
+      "kind": "notes",
+      "path": "/api/library/video-review-556357467a30416b703545",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-556357467a30416b703545",
+      "kind": "metadata",
+      "path": "/api/library/video-review-556357467a30416b703545?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-705167346e75464b4a4e41",
+      "kind": "notes",
+      "path": "/api/library/video-review-705167346e75464b4a4e41",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-705167346e75464b4a4e41",
+      "kind": "metadata",
+      "path": "/api/library/video-review-705167346e75464b4a4e41?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-326263677634504c6b4b4d",
+      "kind": "notes",
+      "path": "/api/library/video-review-326263677634504c6b4b4d",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-326263677634504c6b4b4d",
+      "kind": "metadata",
+      "path": "/api/library/video-review-326263677634504c6b4b4d?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-314c4b386f73764c346a67",
+      "kind": "notes",
+      "path": "/api/library/video-review-314c4b386f73764c346a67",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-314c4b386f73764c346a67",
+      "kind": "metadata",
+      "path": "/api/library/video-review-314c4b386f73764c346a67?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-37662d5a327a6358794949",
+      "kind": "notes",
+      "path": "/api/library/video-review-37662d5a327a6358794949",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-37662d5a327a6358794949",
+      "kind": "metadata",
+      "path": "/api/library/video-review-37662d5a327a6358794949?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-7441554b6e754572654730",
+      "kind": "notes",
+      "path": "/api/library/video-review-7441554b6e754572654730",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-7441554b6e754572654730",
+      "kind": "metadata",
+      "path": "/api/library/video-review-7441554b6e754572654730?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-336a6a69616d7a43717049",
+      "kind": "notes",
+      "path": "/api/library/video-review-336a6a69616d7a43717049",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-336a6a69616d7a43717049",
+      "kind": "metadata",
+      "path": "/api/library/video-review-336a6a69616d7a43717049?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-30306142614b5659337555",
+      "kind": "notes",
+      "path": "/api/library/video-review-30306142614b5659337555",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-30306142614b5659337555",
+      "kind": "metadata",
+      "path": "/api/library/video-review-30306142614b5659337555?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-537264613041453034436b",
+      "kind": "notes",
+      "path": "/api/library/video-review-537264613041453034436b",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-537264613041453034436b",
+      "kind": "metadata",
+      "path": "/api/library/video-review-537264613041453034436b?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-795157494a6a4467646a6b",
+      "kind": "notes",
+      "path": "/api/library/video-review-795157494a6a4467646a6b",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-795157494a6a4467646a6b",
+      "kind": "metadata",
+      "path": "/api/library/video-review-795157494a6a4467646a6b?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-547475756e625376703273",
+      "kind": "notes",
+      "path": "/api/library/video-review-547475756e625376703273",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-547475756e625376703273",
+      "kind": "metadata",
+      "path": "/api/library/video-review-547475756e625376703273?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4b766c304c72777445386b",
+      "kind": "notes",
+      "path": "/api/library/video-review-4b766c304c72777445386b",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4b766c304c72777445386b",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4b766c304c72777445386b?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-424c53325458314b787a49",
+      "kind": "notes",
+      "path": "/api/library/video-review-424c53325458314b787a49",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-424c53325458314b787a49",
+      "kind": "metadata",
+      "path": "/api/library/video-review-424c53325458314b787a49?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-35636b76576b5361685759",
+      "kind": "notes",
+      "path": "/api/library/video-review-35636b76576b5361685759",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-35636b76576b5361685759",
+      "kind": "metadata",
+      "path": "/api/library/video-review-35636b76576b5361685759?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6a425465556b4752434c4d",
+      "kind": "notes",
+      "path": "/api/library/video-review-6a425465556b4752434c4d",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6a425465556b4752434c4d",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6a425465556b4752434c4d?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4b66305747357973682d59",
+      "kind": "notes",
+      "path": "/api/library/video-review-4b66305747357973682d59",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4b66305747357973682d59",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4b66305747357973682d59?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-613171536a6b4c585a3959",
+      "kind": "notes",
+      "path": "/api/library/video-review-613171536a6b4c585a3959",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-613171536a6b4c585a3959",
+      "kind": "metadata",
+      "path": "/api/library/video-review-613171536a6b4c585a3959?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-546d684c4b7139487a7873",
+      "kind": "notes",
+      "path": "/api/library/video-review-546d684c4b7139487a7873",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-546d684c4b7139487a7873",
+      "kind": "metadata",
+      "path": "/api/library/video-review-546d684c4b7139487a7873?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4c6d2d34664a396c385745",
+      "kind": "notes",
+      "path": "/api/library/video-review-4c6d2d34664a396c385745",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4c6d2d34664a396c385745",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4c6d2d34664a396c385745?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-5676346c6b4d726d7a5838",
+      "kind": "notes",
+      "path": "/api/library/video-review-5676346c6b4d726d7a5838",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-5676346c6b4d726d7a5838",
+      "kind": "metadata",
+      "path": "/api/library/video-review-5676346c6b4d726d7a5838?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-453144366d554f42336141",
+      "kind": "notes",
+      "path": "/api/library/video-review-453144366d554f42336141",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-453144366d554f42336141",
+      "kind": "metadata",
+      "path": "/api/library/video-review-453144366d554f42336141?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-694a627442315a67535f30",
+      "kind": "notes",
+      "path": "/api/library/video-review-694a627442315a67535f30",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-694a627442315a67535f30",
+      "kind": "metadata",
+      "path": "/api/library/video-review-694a627442315a67535f30?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4d594b664c3441556c5859",
+      "kind": "notes",
+      "path": "/api/library/video-review-4d594b664c3441556c5859",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4d594b664c3441556c5859",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4d594b664c3441556c5859?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-675a784c487a6b3758784d",
+      "kind": "notes",
+      "path": "/api/library/video-review-675a784c487a6b3758784d",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-675a784c487a6b3758784d",
+      "kind": "metadata",
+      "path": "/api/library/video-review-675a784c487a6b3758784d?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-54622d36696b58644f7a45",
+      "kind": "notes",
+      "path": "/api/library/video-review-54622d36696b58644f7a45",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-54622d36696b58644f7a45",
+      "kind": "metadata",
+      "path": "/api/library/video-review-54622d36696b58644f7a45?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-557a5a54477977785f7549",
+      "kind": "notes",
+      "path": "/api/library/video-review-557a5a54477977785f7549",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-557a5a54477977785f7549",
+      "kind": "metadata",
+      "path": "/api/library/video-review-557a5a54477977785f7549?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "umbra-kru-index-podcast-2026-04-27",
+      "kind": "notes",
+      "path": "/api/library/umbra-kru-index-podcast-2026-04-27",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "umbra-kru-index-podcast-2026-04-27",
+      "kind": "metadata",
+      "path": "/api/library/umbra-kru-index-podcast-2026-04-27?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-32-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-32-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-32-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-32-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-32-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-32-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-32-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-32-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-19-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-19-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-19-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-19-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-19-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-19-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-19-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-19-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-1-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-1-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-1-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-1-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-1-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-1-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-32-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-32-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-2-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-2-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-2-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-19-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-19-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-2-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-6-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-6-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-6-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-6-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-6-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-6-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-6-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-6-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-1-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-31-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-31-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-31-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-31-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-31-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-31-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-2-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-31-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-31-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-8-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-8-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-8-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-8-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-8-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-8-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-8-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-8-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-6-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-6-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-9-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-9-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-9-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-9-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-9-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-9-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-9-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-9-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-31-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-31-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-10-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-10-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-10-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-10-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-8-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-8-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-10-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-10-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-10-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-10-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-11-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-11-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-11-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-11-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-11-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-11-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-9-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-9-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-11-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-11-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-12-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-12-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-12-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-12-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-12-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-12-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-12-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-12-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-10-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-10-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-30-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-30-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-30-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-30-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-30-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-30-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-30-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-30-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-11-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-11-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-14-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-14-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-14-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-14-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-14-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-14-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-14-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-14-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-12-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-12-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-29-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-29-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-29-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-29-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-29-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-29-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-30-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-30-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-29-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-29-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-16-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-16-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-16-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-16-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-16-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-16-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-16-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-16-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-14-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-14-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-28-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-28-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-28-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-28-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-28-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-28-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-28-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-28-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-29-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-29-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-17-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-17-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-17-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-17-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-17-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-17-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-17-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-17-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-16-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-16-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-27-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-27-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-27-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-27-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-27-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-27-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-28-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-28-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-27-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-27-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-26-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-26-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-26-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-26-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-26-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-26-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-26-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-26-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-17-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-17-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-18-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-18-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-18-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-18-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-18-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-18-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-18-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-18-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-27-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-27-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-26-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-26-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-20-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-20-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-20-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-20-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-20-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-20-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-20-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-20-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-22-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-22-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-22-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-22-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-22-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-22-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-22-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-22-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-18-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-18-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-21-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-21-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-21-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-21-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-21-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-21-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-20-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-20-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-21-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-21-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-23-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-23-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-23-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-23-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-23-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-23-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-23-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-23-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-22-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-22-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-24-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-24-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-24-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-24-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-24-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-24-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-24-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-24-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-21-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-21-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-25-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-radio-25-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-25-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-radio-25-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-25-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-radio-25-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-23-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-23-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-25-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-radio-25-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "bountive-archive-0925a353fb",
+      "kind": "notes",
+      "path": "/api/library/bountive-archive-0925a353fb",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "bountive-archive-0925a353fb",
+      "kind": "metadata",
+      "path": "/api/library/bountive-archive-0925a353fb?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "founder-umbra-bb0441e8e2",
+      "kind": "notes",
+      "path": "/api/library/founder-umbra-bb0441e8e2",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "founder-umbra-bb0441e8e2",
+      "kind": "metadata",
+      "path": "/api/library/founder-umbra-bb0441e8e2?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-24-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-24-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "founder-loyal-b0bb0d6dd8",
+      "kind": "notes",
+      "path": "/api/library/founder-loyal-b0bb0d6dd8",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "founder-loyal-b0bb0d6dd8",
+      "kind": "metadata",
+      "path": "/api/library/founder-loyal-b0bb0d6dd8?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "founder-p2p-protocol-7878ba6454",
+      "kind": "notes",
+      "path": "/api/library/founder-p2p-protocol-7878ba6454",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "founder-p2p-protocol-7878ba6454",
+      "kind": "metadata",
+      "path": "/api/library/founder-p2p-protocol-7878ba6454?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-2-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-roadshow-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-2-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-roadshow-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-2-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-roadshow-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-2-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-roadshow-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-3-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-roadshow-3-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-3-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-roadshow-3-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-3-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-roadshow-3-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-3-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-roadshow-3-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-radio-25-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-radio-25-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-4-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-roadshow-4-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-4-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-roadshow-4-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-4-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-roadshow-4-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-4-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-roadshow-4-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-2-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-roadshow-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-5-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-roadshow-5-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-5-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-roadshow-5-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-5-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-roadshow-5-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-3-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-roadshow-3-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-5-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-roadshow-5-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-18-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-18-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-18-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-18-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-18-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-18-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-4-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-roadshow-4-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-18-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-18-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-17-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-17-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-17-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-17-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-17-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-17-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-17-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-17-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-roadshow-5-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-roadshow-5-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-16-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-16-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-18-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-18-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-16-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-16-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-16-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-16-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-16-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-16-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-15-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-15-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-15-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-15-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-15-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-15-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-15-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-15-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-17-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-17-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-14-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-14-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-14-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-14-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-14-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-14-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-14-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-14-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-16-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-16-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-13-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-13-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-13-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-13-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-15-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-15-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-13-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-13-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-13-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-13-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-12-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-12-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-12-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-12-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-12-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-12-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-12-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-12-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-14-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-14-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-11-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-11-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-11-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-11-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-11-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-11-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-11-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-11-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-13-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-13-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-10-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-10-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-10-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-10-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-10-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-10-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-12-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-12-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-10-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-10-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-9-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-9-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-9-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-9-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-9-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-9-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-11-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-11-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-9-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-9-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-8-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-8-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-8-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-8-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-8-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-8-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-10-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-10-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-8-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-8-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-7-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-7-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-7-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-7-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-7-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-7-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-7-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-7-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-9-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-9-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-6-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-6-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-6-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-6-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-6-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-6-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-6-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-6-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-8-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-8-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-5-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-5-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-5-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-5-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-5-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-5-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-7-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-7-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-5-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-5-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-4-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-4-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-4-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-4-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-4-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-4-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-4-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-4-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-6-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-6-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-3-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-3-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-3-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-3-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-3-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-3-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-3-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-3-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-5-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-5-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-2-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-2-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-2-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-2-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-4-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-4-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-1-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-report-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-1-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-report-1-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-1-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-report-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-3-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-3-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-1-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-report-1-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-2-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-forum-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-2-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-forum-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-2-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-forum-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-2-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-2-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-forum-2-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-1-recording",
+      "kind": "notes",
+      "path": "/api/library/ownership-forum-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-1-recording",
+      "kind": "metadata",
+      "path": "/api/library/ownership-forum-1-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-1-recording",
+      "kind": "transcript-text",
+      "path": "/api/transcripts/ownership-forum-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-1-recording",
+      "kind": "transcript-json",
+      "path": "/api/transcripts/ownership-forum-1-recording?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-report-1-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-report-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4d39316532587037656477",
+      "kind": "notes",
+      "path": "/api/library/video-review-4d39316532587037656477",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4d39316532587037656477",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4d39316532587037656477?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4b455733396c664a626b6b",
+      "kind": "notes",
+      "path": "/api/library/video-review-4b455733396c664a626b6b",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-4b455733396c664a626b6b",
+      "kind": "metadata",
+      "path": "/api/library/video-review-4b455733396c664a626b6b?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6633554347417951466745",
+      "kind": "notes",
+      "path": "/api/library/video-review-6633554347417951466745",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-2-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-forum-2-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-6633554347417951466745",
+      "kind": "metadata",
+      "path": "/api/library/video-review-6633554347417951466745?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-707731506956614748626f",
+      "kind": "notes",
+      "path": "/api/library/video-review-707731506956614748626f",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-707731506956614748626f",
+      "kind": "metadata",
+      "path": "/api/library/video-review-707731506956614748626f?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-486b4a466a585277506263",
+      "kind": "notes",
+      "path": "/api/library/video-review-486b4a466a585277506263",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-486b4a466a585277506263",
+      "kind": "metadata",
+      "path": "/api/library/video-review-486b4a466a585277506263?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-7430385169535253366938",
+      "kind": "notes",
+      "path": "/api/library/video-review-7430385169535253366938",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-7430385169535253366938",
+      "kind": "metadata",
+      "path": "/api/library/video-review-7430385169535253366938?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-365a36594576364c695149",
+      "kind": "notes",
+      "path": "/api/library/video-review-365a36594576364c695149",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "video-review-365a36594576364c695149",
+      "kind": "metadata",
+      "path": "/api/library/video-review-365a36594576364c695149?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "ownership-forum-1-recording",
+      "kind": "reader",
+      "path": "/transcripts/ownership-forum-1-recording",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "alpha-liquid-proph3t-2025-04-15",
+      "kind": "notes",
+      "path": "/api/library/alpha-liquid-proph3t-2025-04-15",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "alpha-liquid-proph3t-2025-04-15",
+      "kind": "metadata",
+      "path": "/api/library/alpha-liquid-proph3t-2025-04-15?format=json",
+      "expected": 200,
+      "status": 200,
+      "errors": []
+    },
+    {
+      "id": "res-47",
+      "kind": "held",
+      "path": "/api/library/res-47",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-47",
+      "kind": "held",
+      "path": "/api/library/res-47?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-47",
+      "kind": "held",
+      "path": "/api/transcripts/res-47",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-47",
+      "kind": "held",
+      "path": "/api/transcripts/res-47?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-43",
+      "kind": "held",
+      "path": "/api/library/res-43",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-43",
+      "kind": "held",
+      "path": "/api/library/res-43?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-43",
+      "kind": "held",
+      "path": "/api/transcripts/res-43",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-43",
+      "kind": "held",
+      "path": "/api/transcripts/res-43?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-64",
+      "kind": "held",
+      "path": "/api/library/res-64",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-64",
+      "kind": "held",
+      "path": "/api/library/res-64?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-64",
+      "kind": "held",
+      "path": "/api/transcripts/res-64",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-64",
+      "kind": "held",
+      "path": "/api/transcripts/res-64?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-47",
+      "kind": "held",
+      "path": "/transcripts/res-47",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-43",
+      "kind": "held",
+      "path": "/transcripts/res-43",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-161",
+      "kind": "held",
+      "path": "/api/library/res-161",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-161",
+      "kind": "held",
+      "path": "/api/library/res-161?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-161",
+      "kind": "held",
+      "path": "/api/transcripts/res-161",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-161",
+      "kind": "held",
+      "path": "/api/transcripts/res-161?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-198",
+      "kind": "held",
+      "path": "/api/library/res-198",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-198",
+      "kind": "held",
+      "path": "/api/library/res-198?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-198",
+      "kind": "held",
+      "path": "/api/transcripts/res-198",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-198",
+      "kind": "held",
+      "path": "/api/transcripts/res-198?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-64",
+      "kind": "held",
+      "path": "/transcripts/res-64",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-205",
+      "kind": "held",
+      "path": "/api/library/res-205",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-205",
+      "kind": "held",
+      "path": "/api/library/res-205?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-161",
+      "kind": "held",
+      "path": "/transcripts/res-161",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-205",
+      "kind": "held",
+      "path": "/api/transcripts/res-205",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-205",
+      "kind": "held",
+      "path": "/api/transcripts/res-205?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-5ec2281509",
+      "kind": "held",
+      "path": "/api/library/tributary-archive-5ec2281509",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-5ec2281509",
+      "kind": "held",
+      "path": "/api/library/tributary-archive-5ec2281509?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-198",
+      "kind": "held",
+      "path": "/transcripts/res-198",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-5ec2281509",
+      "kind": "held",
+      "path": "/api/transcripts/tributary-archive-5ec2281509",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-5ec2281509",
+      "kind": "held",
+      "path": "/api/transcripts/tributary-archive-5ec2281509?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-67aabeadbb",
+      "kind": "held",
+      "path": "/api/library/tributary-archive-67aabeadbb",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-67aabeadbb",
+      "kind": "held",
+      "path": "/api/library/tributary-archive-67aabeadbb?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-67aabeadbb",
+      "kind": "held",
+      "path": "/api/transcripts/tributary-archive-67aabeadbb",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-67aabeadbb",
+      "kind": "held",
+      "path": "/api/transcripts/tributary-archive-67aabeadbb?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "res-205",
+      "kind": "held",
+      "path": "/transcripts/res-205",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-19521722ff",
+      "kind": "held",
+      "path": "/api/library/tributary-archive-19521722ff",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-19521722ff",
+      "kind": "held",
+      "path": "/api/library/tributary-archive-19521722ff?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-5ec2281509",
+      "kind": "held",
+      "path": "/transcripts/tributary-archive-5ec2281509",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-19521722ff",
+      "kind": "held",
+      "path": "/api/transcripts/tributary-archive-19521722ff",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-19521722ff",
+      "kind": "held",
+      "path": "/api/transcripts/tributary-archive-19521722ff?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "video-review-655a326d6c774361364955",
+      "kind": "held",
+      "path": "/api/library/video-review-655a326d6c774361364955",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "video-review-655a326d6c774361364955",
+      "kind": "held",
+      "path": "/api/library/video-review-655a326d6c774361364955?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-67aabeadbb",
+      "kind": "held",
+      "path": "/transcripts/tributary-archive-67aabeadbb",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "video-review-655a326d6c774361364955",
+      "kind": "held",
+      "path": "/api/transcripts/video-review-655a326d6c774361364955",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "video-review-655a326d6c774361364955",
+      "kind": "held",
+      "path": "/api/transcripts/video-review-655a326d6c774361364955?format=json",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "tributary-archive-19521722ff",
+      "kind": "held",
+      "path": "/transcripts/tributary-archive-19521722ff",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    },
+    {
+      "id": "video-review-655a326d6c774361364955",
+      "kind": "held",
+      "path": "/transcripts/video-review-655a326d6c774361364955",
+      "expected": 404,
+      "status": 404,
+      "errors": []
+    }
+  ]
+}

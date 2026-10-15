@@ -1167,23 +1167,24 @@
   },
   {
     "id": "res-63",
-    "title": "MCG Stream: Token Holder Rights and Ownership Coins",
+    "title": "MCG Clip: Token Holder Rights and Ownership Coins",
     "author": "Micro Cap Gem Show",
     "date": "2025-10-10",
     "type": "video",
     "url": "https://x.com/MCGlive/status/1976747062709629405",
-    "description": "Discussion on token holder protections and ownership coin thesis with Proph3t.",
+    "description": "In this short MCG clip, Proph3t argues that crypto has a retention problem and discusses reducing extraction through treasury oversight and founder incentives. Umbra appears as a historical token-unlock example. The closing discussion distinguishes business success from token-holder value and frames ownership coins around protections and rights. These are the speakers’ arguments, not guarantees against losses.",
     "tags": [
       "Tokenomics",
       "Rights",
       "Ownership"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/MCGlive/status/1976747062709629405",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read the original MCG post dated October 10, 2025 and all 58 generated transcript segments from its recovered 5:40 clip. Speech recognition used faster-whisper base.en with VAD; gaps and misheard wording remain possible. No manual audio verification. Approximate topic markers belong to this clip, not the separate two-hour MCG stream. Wallet-user counts, revenue figures and Umbra’s historical unlock conditions are not independently verified and are not repeated as factual specifications. The publisher’s extraction-impossible framing is a claim, not a guarantee; token rights are not automatically legal equity. No third-party transcript or audio is republished."
   },
   {
     "id": "res-82",
@@ -5176,10 +5177,10 @@
     "id": "res-265",
     "title": "Futarchy: Prediction Markets and the Challenge of Disruptive Technology",
     "author": "Epicenter",
-    "date": "2015-09-28",
+    "date": "2015-09-27",
     "type": "podcast",
     "url": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
-    "description": "Long-form Robin Hanson interview on prediction markets, the history of futarchy, Bitcoin governance, and why real-world adoption had lagged.",
+    "description": "Epicenter hosts Meher Roy and Brian Crain interview Robin Hanson about prediction markets and futarchy. The publisher’s outline covers information discovery, prediction-market history, governance, Bitcoin’s block-size debate and adoption barriers. This is historical futarchy background, not a MetaDAO project interview or evidence of deployment.",
     "tags": [
       "Robin Hanson",
       "Futarchy",
@@ -5188,12 +5189,13 @@
       "Epicenter"
     ],
     "featured": true,
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read the full Epicenter episode 98 page in the browser after the HTTP research fetch returned 403. Reviewed the description, all six listed topics, host credits and linked listening editions. No full transcript or audio review. The page has no timestamp guide, so none is invented. The original publisher page dates the episode September 27, 2015; this corrects the previous September 28 catalog date. The episode page is the authority for this publication date. The Bitcoin governance topic is a discussion of possible use, not proof of adoption. No third-party transcript is republished."
   },
   {
     "id": "res-266",

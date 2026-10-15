@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-10-15T01:53:34.455Z",
+  "results": [
+    {
+      "id": "res-63",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 6,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-265",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 0,
+      "exactNoteJson": true
+    }
+  ]
+}

@@ -417,18 +417,19 @@
     "date": "2024-05-28",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
-    "description": "Video interview exploring MetaDAO's technology, governance model, and ecosystem.",
+    "description": "Srcful’s Fredrik interviews Proph3t about conditional decision markets, MetaDAO’s move toward futarchy as a service, and alternatives to token-price objectives. They discuss DePIN metrics, adoption barriers, community governance and market manipulation in this early 2024 conversation.",
     "tags": [
       "Video",
       "Interview",
       "MetaDAO"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=7FqZQG4YmYc",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Review on 2026-10-14: Read the entire English automatic-caption export from 00:00 through 45:48 of the 45:52 recording. No audio verification. Names and terminology are normalized only where context is clear; garbled figures are not repeated. Topic timestamps are editorial navigation, not publisher chapters. Onboarding plans and proposed metrics describe the 2024 discussion, not confirmed execution or current specifications. No third-party transcript is republished."
   },
   {
     "id": "res-21",
@@ -1364,7 +1365,7 @@
     "date": "2025-10-24",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
-    "description": "CRYPTO VIDEOZ presents an Omnipair token-buying video. The written description contains affiliate referrals and a publisher disclaimer; founder-interview content and transaction steps remain unreviewed.",
+    "description": "CRYPTO VIDEOZ introduces Omnipair after its MetaDAO raise, outlines a token-buying workflow, and describes its combined trading and lending model. This presenter-led walkthrough includes affiliate promotion; its technical and trading claims are historical commentary, not a founder interview or verified instructions.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -1373,13 +1374,13 @@
       "Video",
       "project:omnipair"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=hZrWb6mz4fc",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": " Review on 2026-10-14: Expanded publisher page read, dated October 24, 2025. The description does not substantiate the old claim of founder-interview clips or post-ICO timing. Transcript export returned no transcript; no listening review. Remains in the no-notes backlog."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": " Review on 2026-10-14: Expanded publisher page read, dated October 24, 2025. The description does not substantiate the old claim of founder-interview clips or post-ICO timing. Transcript export returned no transcript; no listening review. At that earlier review, no notes had been added. Review on 2026-10-14: Read the complete local machine transcript of the 8:14 recording. faster-whisper small.en int8 CPU beam 5, VAD enabled, no prompt or prior-text conditioning. No manual listening or visual transaction walkthrough verification. Editorial topic timestamps follow ASR and are approximate. Names, numbers, contract addresses, wallet compatibility, yield and technical claims are not independently verified. No third-party audio or full transcript is republished."
   },
   {
     "id": "res-88",
@@ -1523,7 +1524,7 @@
     "date": "2025-11-12",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
-    "description": "CRYPTO VIDEOZ presents a Solomon token-buying video. Its written description contains affiliate referrals and a publisher disclaimer; the recording’s steps and sale timing remain unreviewed.",
+    "description": "CRYPTO VIDEOZ previews Solomon’s planned MetaDAO sale and describes its proposed stablecoin product, token allocation, liquidity and treasury arrangements. The presenter also discusses participation and risks. These are pre-sale claims and expectations, not final fundraising results or current product terms.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -1532,13 +1533,13 @@
       "Video",
       "project:solomon"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=UqUi7j-2WZw",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": " Review on 2026-10-14: Expanded publisher page read. Transcript export returned no transcript; no listening review. Removed unsupported post-ICO wording. Browser displays November 11, 2025 while the catalog stores November 12; retained the previously accepted date pending timestamp/timezone reconciliation. Remains in the no-notes backlog."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": " Review on 2026-10-14: Expanded publisher page read. Transcript export returned no transcript; no listening review. Removed unsupported post-ICO wording. Browser displays November 11, 2025 while the catalog stores November 12; retained the previously accepted date pending timestamp/timezone reconciliation. At that earlier review, no notes had been added. Review on 2026-10-14: Read the complete local machine transcript of the 8:17 recording. faster-whisper small.en int8 CPU beam 5, VAD enabled, no prompt or prior-text conditioning. No manual listening or visual transaction walkthrough verification. Editorial topic timestamps follow ASR and are approximate. Names, numbers, contract addresses, wallet compatibility, yield and technical claims are not independently verified. No third-party audio or full transcript is republished. Upcoming-sale language is retained as historical planning, not proof of execution. The previously accepted date is preserved; the documented publisher display-date discrepancy remains unresolved."
   },
   {
     "id": "res-118",

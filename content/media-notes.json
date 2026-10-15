@@ -5535,5 +5535,177 @@
       "status": "permission-required",
       "sha256": "fcb7216fd3db9ba80d4c53f9c94d3ac2e9f4715e77c6967a13d7c813eeb85e7e"
     }
+  },
+  {
+    "resourceId": "res-20",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete publisher automatic-caption export and expanded description review",
+    "reviewBoundary": "Read the entire English automatic-caption export from 00:00 through 45:48 of the 45:52 recording. No audio verification. Names and terminology are normalized only where context is clear; garbled figures are not repeated. Topic timestamps are editorial navigation, not publisher chapters. Onboarding plans and proposed metrics describe the 2024 discussion, not confirmed execution or current specifications. No third-party transcript is republished.",
+    "sections": [
+      {
+        "start": "00:36",
+        "topic": "Introduction to Proph3t and MetaDAO"
+      },
+      {
+        "start": "04:21",
+        "topic": "Conditional decision markets versus token voting"
+      },
+      {
+        "start": "07:53",
+        "topic": "Technical feasibility and small operational decisions"
+      },
+      {
+        "start": "11:45",
+        "topic": "Participation incentives and conditional settlement"
+      },
+      {
+        "start": "15:35",
+        "topic": "Hypothetical Jupiter launchpad governance"
+      },
+      {
+        "start": "18:53",
+        "topic": "Early MetaDAO products and futarchy as a service"
+      },
+      {
+        "start": "22:41",
+        "topic": "Trading incentives and price impact"
+      },
+      {
+        "start": "25:24",
+        "topic": "Welfare and other non-token-price objectives"
+      },
+      {
+        "start": "28:26",
+        "topic": "DePIN utility tokens and measurable demand"
+      },
+      {
+        "start": "32:37",
+        "topic": "Adoption plans and migration barriers"
+      },
+      {
+        "start": "35:23",
+        "topic": "Community governance and speculative-market concerns"
+      },
+      {
+        "start": "39:10",
+        "topic": "Learning through trading and manipulation objections"
+      },
+      {
+        "start": "43:00",
+        "topic": "Recording-time onboarding process"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "e5706b3e4c2ad050dfd48d624a0bf7115c2d78393743232ddf727e1516ac2143"
+    }
+  },
+  {
+    "resourceId": "res-77",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete locally generated research transcript review from recovered public YouTube audio",
+    "reviewBoundary": "Read the complete local machine transcript of the 8:14 recording. faster-whisper small.en int8 CPU beam 5, VAD enabled, no prompt or prior-text conditioning. No manual listening or visual transaction walkthrough verification. Editorial topic timestamps follow ASR and are approximate. Names, numbers, contract addresses, wallet compatibility, yield and technical claims are not independently verified. No third-party audio or full transcript is republished.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Token introduction and reported MetaDAO raise"
+      },
+      {
+        "start": "00:28",
+        "topic": "Disclaimer and affiliate promotion"
+      },
+      {
+        "start": "01:20",
+        "topic": "Project profile and raise discussion"
+      },
+      {
+        "start": "02:15",
+        "topic": "Presenter’s wallet and token-swap walkthrough"
+      },
+      {
+        "start": "03:22",
+        "topic": "Exchange referral promotion"
+      },
+      {
+        "start": "04:10",
+        "topic": "Trading and lending protocol overview"
+      },
+      {
+        "start": "05:00",
+        "topic": "Claimed limitations of existing markets"
+      },
+      {
+        "start": "05:35",
+        "topic": "Pricing, collateral and liquidation design claims"
+      },
+      {
+        "start": "07:08",
+        "topic": "Discussed trader, liquidity-provider and project uses"
+      },
+      {
+        "start": "07:38",
+        "topic": "Governance references and closing"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "6afff9a3f4ba267cefd77df215be9bcf1dd1059e111b7a042c444ce84d95c05c"
+    }
+  },
+  {
+    "resourceId": "res-116",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete locally generated research transcript review from recovered public YouTube audio",
+    "reviewBoundary": "Read the complete local machine transcript of the 8:17 recording. faster-whisper small.en int8 CPU beam 5, VAD enabled, no prompt or prior-text conditioning. No manual listening or visual transaction walkthrough verification. Editorial topic timestamps follow ASR and are approximate. Names, numbers, contract addresses, wallet compatibility, yield and technical claims are not independently verified. No third-party audio or full transcript is republished. Upcoming-sale language is retained as historical planning, not proof of execution. The previously accepted date is preserved; the documented publisher display-date discrepancy remains unresolved.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Solomon token-event introduction"
+      },
+      {
+        "start": "00:21",
+        "topic": "Disclaimer and affiliate promotion"
+      },
+      {
+        "start": "01:15",
+        "topic": "Proposed stablecoin and token utility"
+      },
+      {
+        "start": "02:06",
+        "topic": "Upcoming MetaDAO sale and allocation model"
+      },
+      {
+        "start": "03:05",
+        "topic": "Presenter’s wallet and funding walkthrough"
+      },
+      {
+        "start": "03:50",
+        "topic": "Raise targets and proposed token distribution"
+      },
+      {
+        "start": "04:14",
+        "topic": "Planned liquidity, treasury and refunds"
+      },
+      {
+        "start": "04:55",
+        "topic": "Expected token distribution timing"
+      },
+      {
+        "start": "05:17",
+        "topic": "Allocation and incentive claims"
+      },
+      {
+        "start": "06:16",
+        "topic": "Governance and protocol risks"
+      },
+      {
+        "start": "06:32",
+        "topic": "Participation recap"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "997c06f2c7421087f06230cbdace50a08344db46a7fc22d5ebe1decadd64ec8e"
+    }
   }
 ]

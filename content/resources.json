@@ -460,18 +460,19 @@
     "date": "2024-06-22",
     "type": "podcast",
     "url": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
-    "description": "Discussion of futarchy-as-a-service model and how organizations can adopt prediction market governance.",
+    "description": "DIRT, MetaMAT and Nallok walk through an early Futarchy-as-a-Service demonstration for FutureDAO. They explain conditional token minting, trading, reclaiming paired balances, TWAPs and proposal liquidity, then discuss interface issues and planned next steps. The recording explicitly describes a devnet demo; it does not establish a completed mainnet launch.",
     "tags": [
       "Service",
       "Business Model",
       "Adoption"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://open.spotify.com/episode/00aOY5IArWHDWW21VMQ2Sr",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read all 436 generated segments from the original Future Podcast audio enclosure, decoded duration 37:05, and its publisher RSS entry dated June 22, 2024 at 12:11:18 UTC. Speech recognition used faster-whisper base.en with VAD; missing speech and misheard wording remain possible. No manual audio listening or review of the screen demonstration. Topic markers are approximate and derived from this audio edition. The speakers repeatedly identify devnet and describe remaining UI and parameter work; migration targets are plans, not execution evidence. Trading examples, threshold values and liquidity amounts are historical demonstration details, not current specifications, approval probabilities or guarantees of profit. No third-party transcript is republished."
   },
   {
     "id": "res-23",
@@ -626,18 +627,19 @@
     "date": "2024-10-30",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
-    "description": "Discussion of how futarchy participants are improving governance frameworks through practice.",
+    "description": "Exit Liquidity interviews Proph3t and Nallok about their backgrounds, early MetaDAO governance experiments and the case for decision markets. They discuss participation incentives, manipulation risks, historical proposal examples, possible uses beyond DAOs and their reasons for building on Solana. The conversation reflects their 2024 views and plans, not proof of later adoption or execution.",
     "tags": [
       "Community",
       "Frameworks",
       "Discussion"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=3d3JUkhUHEg",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read all 627 generated segments from the exact catalog YouTube recording, decoded duration 58:39. Speech recognition used faster-whisper base.en with VAD; speech omissions and misheard wording remain possible. No manual audio listening or video-frame review. Markers are approximate pointers from this recording, not the differently edited 56:27 podcast. The original RSS episode is available and was read this pass; the preceding lookup missed its CDATA title. YouTube upload metadata supports the retained October 30, 2024 publication date and separately reports an October 29 release date; the November 25 podcast publication is not substituted. Historical fundraising offers, proposal outcomes, manipulation examples, research statistics and technical comparisons are speaker claims, not independently audited facts. National-governance examples and cross-chain plans are hypothetical. No third-party transcript is republished."
   },
   {
     "id": "res-37",
@@ -5135,7 +5137,7 @@
     "date": "2025-10-28",
     "type": "podcast",
     "url": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
-    "description": "Long-form interview with Robin Hanson on open discourse, prediction markets, futarchy, cultural drift, institutional decay, and adaptiveness.",
+    "description": "Armen Shirvanian interviews Robin Hanson about collaborative inquiry, prediction markets and futarchy. The publisher’s description also outlines a discussion of cultural drift, institutional decline and adaptation. These are interview themes and speculative arguments, not evidence of MetaDAO adoption or a project raise.",
     "tags": [
       "Robin Hanson",
       "Interview",
@@ -5143,12 +5145,13 @@
       "Cultural Drift",
       "Podcast"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Follow-up review: Read The Armen Show’s full episode description and the matching Apple listing, which dates publication to October 28, 2025 at 18:47 UTC. No full transcript, audio or video review. The description outlines the conversation without chapter timestamps; no timed guide is invented. Claims about cultural change and governance remain the speakers’ arguments. This is general futarchy background. No third-party transcript is republished."
   },
   {
     "id": "res-264",

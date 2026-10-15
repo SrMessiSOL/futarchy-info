@@ -5279,5 +5279,261 @@
       "status": "not-reviewed",
       "sha256": null
     }
+  },
+  {
+    "resourceId": "res-151",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Original publisher X post and complete timestamp reply reviewed",
+    "reviewBoundary": "Publisher post and all 13 timestamps read, including the expanded reply. No full audio or transcript review. Existing historical Ranger coverage only; product plans, acquisition discussion and growth goals are not confirmed outcomes. Source references: https://x.com/SebMontgomery/status/2009362257529196833 ; https://x.com/SebMontgomery/status/2009362650212520202",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Barrett’s coding background"
+      },
+      {
+        "start": "00:29",
+        "topic": "Mathematics and data science"
+      },
+      {
+        "start": "01:31",
+        "topic": "Solana and a pre-IPO exchange"
+      },
+      {
+        "start": "03:42",
+        "topic": "mtnDAO origins"
+      },
+      {
+        "start": "08:04",
+        "topic": "Ranger overview"
+      },
+      {
+        "start": "09:31",
+        "topic": "Planned vaults, lending and prediction markets"
+      },
+      {
+        "start": "12:54",
+        "topic": "Reasons for choosing MetaDAO"
+      },
+      {
+        "start": "15:56",
+        "topic": "Version-two plans and timing"
+      },
+      {
+        "start": "19:54",
+        "topic": "Super-app vision"
+      },
+      {
+        "start": "23:24",
+        "topic": "Perpetuals market outlook"
+      },
+      {
+        "start": "27:43",
+        "topic": "Vault-technology acquisition discussion"
+      },
+      {
+        "start": "33:12",
+        "topic": "Recording-time 2026 goals"
+      },
+      {
+        "start": "36:30",
+        "topic": "Advice for Solana builders"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-45",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete publisher transcript and show-note review on Buzzsprout",
+    "reviewBoundary": "Read the complete displayed publisher transcript from introduction through closing, plus show notes, for the 1:25:26 episode. No audio listening or independent verification. The transcript contains recognition errors in names and terminology; notes normalize clear concepts without reproducing or correcting the publisher transcript. Timestamps come from publisher show notes. Early launch terms and proposed AMM work are historical designs, not current specifications. No third-party transcript is republished. Source references: https://gramajo.buzzsprout.com/2097132/episodes/16885264",
+    "sections": [
+      {
+        "start": "08:18",
+        "topic": "Conditional markets and the failed-proposal example"
+      },
+      {
+        "start": "16:30",
+        "topic": "Choosing token value or other governance objectives"
+      },
+      {
+        "start": "19:40",
+        "topic": "Voting concentration and minority-holder incentives"
+      },
+      {
+        "start": "22:57",
+        "topic": "Conditional exit and proposal pricing"
+      },
+      {
+        "start": "32:22",
+        "topic": "Growth objectives and philosophical tradeoffs"
+      },
+      {
+        "start": "34:00",
+        "topic": "Combining governance methods for different goals"
+      },
+      {
+        "start": "46:22",
+        "topic": "Markets as an aggregation layer for AI models"
+      },
+      {
+        "start": "52:44",
+        "topic": "Prediction-market signals"
+      },
+      {
+        "start": "57:56",
+        "topic": "Polymarket interface and distribution lessons"
+      },
+      {
+        "start": "01:05:04",
+        "topic": "Early launchpad design and founder incentives"
+      },
+      {
+        "start": "01:10:37",
+        "topic": "Presale risks and launch-platform comparison"
+      },
+      {
+        "start": "01:17:20",
+        "topic": "Shared-liquidity AMM research"
+      },
+      {
+        "start": "01:18:31",
+        "topic": "Adoption and implementation outlook"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-24",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Expanded Solana YouTube description and complete publisher timestamp review",
+    "reviewBoundary": "Publisher description and all 14 timestamps reviewed. No full audio or transcript review. Chapters identify discussion topics rather than verified answers to governance risks; examples and tooling refer to the 2024 recording. Source references: https://www.youtube.com/watch?v=ned5Tdp3F3M",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Futarchy introduction"
+      },
+      {
+        "start": "03:14",
+        "topic": "Market-based governance mechanics"
+      },
+      {
+        "start": "05:33",
+        "topic": "Market-crash risks"
+      },
+      {
+        "start": "08:46",
+        "topic": "Participant capital constraints"
+      },
+      {
+        "start": "11:04",
+        "topic": "Market capture"
+      },
+      {
+        "start": "12:45",
+        "topic": "Specialized decisions"
+      },
+      {
+        "start": "18:43",
+        "topic": "Sources of trading profit"
+      },
+      {
+        "start": "21:36",
+        "topic": "Decision-market examples"
+      },
+      {
+        "start": "26:14",
+        "topic": "Prediction markets versus decision markets"
+      },
+      {
+        "start": "29:09",
+        "topic": "Early MetaDAO proposals"
+      },
+      {
+        "start": "32:31",
+        "topic": "Market governance versus buying votes"
+      },
+      {
+        "start": "36:54",
+        "topic": "MetaDAO tooling"
+      },
+      {
+        "start": "38:55",
+        "topic": "Product-market fit"
+      },
+      {
+        "start": "41:17",
+        "topic": "Social influence and governance capture"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-23",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete YouTube automatic-caption export and expanded publisher description review",
+    "reviewBoundary": "Read all exported English automatic captions from 00:00 through the closing music at 34:33 of a displayed 34:38 recording. No audio verification. Topic markers are editorial navigation based on caption timestamps, not publisher chapters. Captions garble names and contain a contradictory liquidity figure near 07:00; no exact capital requirement is asserted. Regional and governance observations remain speaker claims from 2024. No third-party transcript is republished. Source references: https://www.youtube.com/watch?v=uweBAyL4YAQ",
+    "sections": [
+      {
+        "start": "00:48",
+        "topic": "Kollan introduction and background"
+      },
+      {
+        "start": "02:43",
+        "topic": "MetaDAO and the Drift discussion"
+      },
+      {
+        "start": "03:30",
+        "topic": "Using markets to assess proposals"
+      },
+      {
+        "start": "05:50",
+        "topic": "Proposal process and liquidity provision"
+      },
+      {
+        "start": "08:49",
+        "topic": "User behavior and proposed market-replay features"
+      },
+      {
+        "start": "12:18",
+        "topic": "Events and experimentation"
+      },
+      {
+        "start": "13:50",
+        "topic": "Malaysia’s builder community"
+      },
+      {
+        "start": "18:50",
+        "topic": "Regional ecosystem and regulatory observations"
+      },
+      {
+        "start": "21:57",
+        "topic": "Differences across APAC markets"
+      },
+      {
+        "start": "24:45",
+        "topic": "Jito proposals and delegation"
+      },
+      {
+        "start": "28:26",
+        "topic": "Foundation operations and community governance"
+      },
+      {
+        "start": "31:12",
+        "topic": "Closing reflections on Solana builders"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "fcb7216fd3db9ba80d4c53f9c94d3ac2e9f4715e77c6967a13d7c813eeb85e7e"
+    }
   }
 ]

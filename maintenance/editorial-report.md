@@ -1,3 +1,9 @@
+## Recording review, third batch (October 14, 2026)
+
+Added four guides with 52 topic markers: the historical Ranger/Barrett interview, Gramajo/Proph3t, Solana/Kollan, and Jito/Kollan. Read the full publisher transcripts for Gramajo and Jito; the other two guides use publisher descriptions and chapter lists. No audio verification or third-party transcript republication is claimed. The Jito automatic captions contain a contradictory liquidity figure near 07:00, omitted from the summary rather than guessed. Early launchpad and AMM descriptions remain historical designs.
+
+Corrected Carlos’s Ranger ICO analysis from video to article after reading the body; chart images and financial claims were not independently reviewed. The public recording backlog falls from 30 to 25 through four guides and one classification correction. Omnipair and Solomon caption retries still fail; Loyal has no recovered public alternate. Evidence and remaining queue are in maintenance/recording-notes-third-2026-10-14.
+
 ## Funded-project recording review, second batch — October 14, 2026
 
 PR #36 deployed successfully; all eight merged notes matched production and all 489 access checks passed. Added three publisher-written-material reading notes (21 topic markers) for two Umbra/ICO discussions and the Abbas/Umbra interview. Added the missing Umbra project tag to that interview. No full listening or new transcript is claimed.

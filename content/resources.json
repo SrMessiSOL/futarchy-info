@@ -478,18 +478,19 @@
     "date": "2024-07-02",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
-    "description": "Episode 15 discussing MetaDAO's expansion and vision for the Asia-Pacific region.",
+    "description": "Kollan discusses MetaDAO’s proposal process, liquidity requirements and planned market-replay features, then reflects on Malaysia’s builder community and APAC expansion. The closing discussion covers Jito governance, delegation and community participation.",
     "tags": [
       "APAC",
       "Expansion",
       "Kollan House"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=uweBAyL4YAQ",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Review on 2026-10-14: Read all exported English automatic captions from 00:00 through the closing music at 34:33 of a displayed 34:38 recording. No audio verification. Topic markers are editorial navigation based on caption timestamps, not publisher chapters. Captions garble names and contain a contradictory liquidity figure near 07:00; no exact capital requirement is asserted. Regional and governance observations remain speaker claims from 2024. No third-party transcript is republished. Displayed publication date matches the stored date."
   },
   {
     "id": "res-24",
@@ -498,18 +499,19 @@
     "date": "2024-07-23",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
-    "description": "Real-world examples and case studies of futarchy implementation with MetaDAO's Kollan House.",
+    "description": "Austin interviews Kollan House about MetaDAO’s market-based governance, participation, market capture, specialized decisions and early proposals. Solana’s publisher chapters also cover tooling, product-market fit and social influence.",
     "tags": [
       "Practice",
       "Case Study",
       "Solana"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=ned5Tdp3F3M",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Review on 2026-10-14: Publisher description and all 14 timestamps reviewed. No full audio or transcript review. Chapters identify discussion topics rather than verified answers to governance risks; examples and tooling refer to the 2024 recording. Displayed publication date matches the stored date."
   },
   {
     "id": "res-25",
@@ -722,18 +724,19 @@
     "date": "2025-03-30",
     "type": "podcast",
     "url": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
-    "description": "Discussion on how futarchy is revolutionizing governance in cryptocurrency.",
+    "description": "Gramajo interviews Proph3t about conditional token markets, minority-holder exit incentives, choosing governance objectives and AI information aggregation. The conversation also describes the early launchpad model, mtnDAO/Mountain Capital plans and shared-liquidity AMM research.",
     "tags": [
       "Revolution",
       "Governance",
       "Crypto"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://gramajo.buzzsprout.com/2097132/episodes/16885264",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Review on 2026-10-14: Read the complete displayed publisher transcript from introduction through closing, plus show notes, for the 1:25:26 episode. No audio listening or independent verification. The transcript contains recognition errors in names and terminology; notes normalize clear concepts without reproducing or correcting the publisher transcript. Timestamps come from publisher show notes. Early launch terms and proposed AMM work are historical designs, not current specifications. No third-party transcript is republished. Displayed publication date matches the stored date."
   },
   {
     "id": "res-46",
@@ -2805,7 +2808,7 @@
     "date": "2026-01-08",
     "type": "podcast",
     "url": "https://x.com/SebMontgomery/status/2009362257529196833",
-    "description": "Interview with Ranger Finance co-founder Barrett on background, ICO on MetaDAO, product roadmap, super app vision, and Solana advice.",
+    "description": "Seb Montgomery interviews Barrett about his background, mtnDAO, Ranger’s proposed product expansion and its MetaDAO launch. The guide follows the publisher’s chapters; the super-app vision and 2026 goals are historical plans, not verified delivery.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -2819,20 +2822,20 @@
     ],
     "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/SebMontgomery/status/2009362257529196833",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged. Review on 2026-10-14: Publisher post and all 13 timestamps read, including the expanded reply. No full audio or transcript review. Existing historical Ranger coverage only; product plans, acquisition discussion and growth goals are not confirmed outcomes. Displayed publication date matches the stored date."
   },
   {
     "id": "res-152",
     "title": "Ranger’s ICO, MetaDAO’s Momentum",
     "author": "Carlos",
     "date": "2026-01-06",
-    "type": "video",
+    "type": "article",
     "url": "https://x.com/0xcarlosg/status/2008560236794191921",
-    "description": "Analysis of Ranger’s ICO on MetaDAO, token distribution, unlocks, oversubscription, revenue decline, and catalysts like permissionless launches and STAMP.",
+    "description": "Carlos’s historical pre-raise analysis describes Ranger’s proposed sale terms, token unlocks and point-holder allocation, then argues that new launches and STAMP could increase MetaDAO revenue. Targets and forecasts are attributed to the author, not final proceeds or verified execution.",
     "tags": [
       "MetaDAO",
       "ICO",
@@ -2847,11 +2850,11 @@
     ],
     "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/0xcarlosg/status/2008560236794191921",
     "addedAt": null,
-    "checkedAt": null,
-    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged."
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Publication date confirmed by the user on 2026-10-12. This confirms the stored date only; existing content-verification status is unchanged. Review on 2026-10-14: Read all article body text in the original X post, dated January 6, 2026. Corrected video classification to article. Embedded chart pixels were not reviewed. Revenue figures, allocation estimates and predictions were not independently audited; proposal passage does not establish execution. Existing historical coverage, not new post-liquidation promotion."
   },
   {
     "id": "res-153",

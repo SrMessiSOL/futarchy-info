@@ -6179,5 +6179,240 @@
       "status": "not-reviewed",
       "sha256": null
     }
+  },
+  {
+    "resourceId": "res-11",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete locally generated research transcript read",
+    "reviewBoundary": "Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. This records the 2023 design and early experience, not the current protocol specification. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction and Proph3t’s background"
+      },
+      {
+        "start": "02:02",
+        "topic": "Organizational incentives and DAO participation"
+      },
+      {
+        "start": "04:04",
+        "topic": "Trading incentives and a decision-market example"
+      },
+      {
+        "start": "06:10",
+        "topic": "Conditional markets and proposal implementation in the 2023 design"
+      },
+      {
+        "start": "07:36",
+        "topic": "How conditional traders can profit"
+      },
+      {
+        "start": "09:22",
+        "topic": "Conditional value versus betting on the proposal outcome"
+      },
+      {
+        "start": "10:46",
+        "topic": "Speculation, market weaknesses and limits"
+      },
+      {
+        "start": "13:23",
+        "topic": "Uncertainty about adoption and existential-risk decisions"
+      },
+      {
+        "start": "14:31",
+        "topic": "MetaDAO’s original organizational ambitions"
+      },
+      {
+        "start": "16:00",
+        "topic": "Decentralization and DeFi"
+      },
+      {
+        "start": "18:46",
+        "topic": "Early proposal participation and interface feedback"
+      },
+      {
+        "start": "21:21",
+        "topic": "Closing discussion of DeFi"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "970db85099da79f11549fb783613e210d6ae5faced821aa658150daede9f69a5"
+    }
+  },
+  {
+    "resourceId": "res-60",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete locally generated research transcript read",
+    "reviewBoundary": "Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. The source is SrMessi’s upload of the ThreadGuy interview, distinct from the December replay. The post timestamp is October 9, 2025 at 00:34:17 UTC, although local display can show October 8. Historical fundraising discussion is not confirmation of final accepted proceeds or later execution. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction and Proph3t’s background"
+      },
+      {
+        "start": "01:12",
+        "topic": "Futarchy and conditional markets"
+      },
+      {
+        "start": "03:24",
+        "topic": "MetaDAO’s fundraising model and token-business alignment"
+      },
+      {
+        "start": "05:31",
+        "topic": "Capital formation and the move from governance tooling"
+      },
+      {
+        "start": "07:58",
+        "topic": "Participation incentives and criticism of token voting"
+      },
+      {
+        "start": "09:07",
+        "topic": "Early project examples and a fund wind-down discussion"
+      },
+      {
+        "start": "11:21",
+        "topic": "Project selection, raise caps and pro-rata allocation"
+      },
+      {
+        "start": "12:45",
+        "topic": "Bonding curves and long-term founder incentives"
+      },
+      {
+        "start": "15:52",
+        "topic": "Treasury budgets and proposal requirements"
+      },
+      {
+        "start": "17:04",
+        "topic": "Limits of treasury protections and founder control"
+      },
+      {
+        "start": "19:08",
+        "topic": "META governance and trading-fee economics"
+      },
+      {
+        "start": "20:09",
+        "topic": "Historical Umbra and Avici launch discussion"
+      },
+      {
+        "start": "22:05",
+        "topic": "Token holders, product distribution and market attention"
+      },
+      {
+        "start": "24:09",
+        "topic": "Comparing fundraising models and token distribution"
+      },
+      {
+        "start": "25:35",
+        "topic": "Extraction resistance and token-holder protections"
+      },
+      {
+        "start": "27:23",
+        "topic": "Buybacks, reinvestment and trust"
+      },
+      {
+        "start": "33:38",
+        "topic": "Founder recruitment and product priorities"
+      },
+      {
+        "start": "34:40",
+        "topic": "Closing comparisons and launch expectations"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "efea2321631fe9c42a53bbfb28b0468131f41a18dffd66e96989cde3e45f38f0"
+    }
+  },
+  {
+    "resourceId": "res-158",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete locally generated research transcript read",
+    "reviewBoundary": "Read all generated transcript segments from the recovered public X recording. Speech recognition used faster-whisper base.en with VAD; generated text may omit speech or mishear words. No manual audio verification. Topic markers are approximate editorial pointers derived from ASR timestamps, not publisher chapters. Exact numerical claims, legal conclusions and uncertain names are not independently verified. Decoded audio is 32:59 versus the player’s displayed 32:54; timestamps are approximate. Historical project examples and planned launch mechanisms do not establish current project status or implementation. Speaker arguments and reported results are attributed, not independently audited. The third-party research transcript and audio are not republished; OwnershipFM permission does not cover this publisher.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction and the route from governance tooling to fundraising"
+      },
+      {
+        "start": "03:31",
+        "topic": "Treasury oversight, intellectual property and token-holder rights"
+      },
+      {
+        "start": "05:20",
+        "topic": "Ownership claims and uncertainty about token-holder value"
+      },
+      {
+        "start": "06:56",
+        "topic": "Product-market fit and when to launch a token"
+      },
+      {
+        "start": "09:32",
+        "topic": "Liquid prices and later fundraising"
+      },
+      {
+        "start": "11:11",
+        "topic": "Token-price criticism and business usage"
+      },
+      {
+        "start": "13:11",
+        "topic": "Which businesses benefit from token distribution"
+      },
+      {
+        "start": "14:48",
+        "topic": "Launch lessons and curation"
+      },
+      {
+        "start": "15:58",
+        "topic": "Allocation mechanisms and oversubscription"
+      },
+      {
+        "start": "17:44",
+        "topic": "Early backers, open participation and distribution"
+      },
+      {
+        "start": "20:00",
+        "topic": "Founder selection and recruiting projects"
+      },
+      {
+        "start": "23:39",
+        "topic": "Business economics and valuation discussion"
+      },
+      {
+        "start": "25:45",
+        "topic": "Product improvements and founder spending workflows"
+      },
+      {
+        "start": "27:55",
+        "topic": "Defensibility and network effects"
+      },
+      {
+        "start": "29:24",
+        "topic": "Scaling, execution and founder pressure"
+      },
+      {
+        "start": "30:48",
+        "topic": "Solana focus and cross-chain expansion"
+      },
+      {
+        "start": "31:45",
+        "topic": "Closing reflections"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "affacd03ccaec6ed25d393e2cc00337812299d0fa047eab8031302277dd35a16"
+    }
+  },
+  {
+    "resourceId": "res-180",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete publisher-provided written transcript reviewed",
+    "reviewBoundary": "Read the full transcript on the original Nothing Human page, including the closing exchange. The publisher says Gemini 3.0 generated the transcript in chunks and that it was spot-checked, not fully verified. No manual audio review. The transcript has no timestamps, so no timestamp guide is invented. Cultural and demographic forecasts are the speakers’ arguments, not independently established predictions. The futarchy discussion is speculative background, not evidence of MetaDAO implementation or a project raise. The third-party transcript remains on its publisher’s page and is not republished here.",
+    "sections": [],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": null
+    }
   }
 ]

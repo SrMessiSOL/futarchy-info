@@ -779,7 +779,10 @@
     "verification": "legacy",
     "sourceUrl": "https://blockchainwire.io/press-release/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": null,
+    "catalogOnly": true,
+    "supersededBy": "alpha-liquid-proph3t-2025-04-15",
+    "evidenceNote": "2026-10-14: original Blockchain Wire URL displays Article Not Found. Preserved original date, source URL and verification state; the missing original text was not reviewed. Alpha Liquid’s same-title April 23, 2025 announcement remains available at https://www.globenewswire.com/news-release/2025/04/23/3066363/0/en/new-episode-now-streaming-on-alpha-liquid-podcast-proph3t-pseudonymous-founder-of-metadao-unpacks-futarchy-and-the-future-of-governance.html and identifies Proph3t, Matthew Mousa and the same episode subjects. The publisher’s playable Spotify episode was separately read and added under alpha-liquid-proph3t-2025-04-15 with its April 15 publication date. Keep the announcement internally and show the actual episode publicly."
   },
   {
     "id": "res-43",
@@ -788,18 +791,21 @@
     "date": "2025-04-24",
     "type": "podcast",
     "url": "https://x.com/jito_sol/status/1915469158386483471",
-    "description": "Midcurve podcast episode diving into MetaDAO's technology and ecosystem.",
+    "description": "Promotional clip for Midcurve episode 41, preserved internally; the full episode and guide are res-44.",
     "tags": [
       "Podcast",
       "Jito",
       "Technical"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://x.com/jito_sol/status/1915469158386483471",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "catalogOnly": true,
+    "supersededBy": "res-44",
+    "evidenceNote": "Original Jito X post and publisher replies read on 2026-10-14. April 24 post contains a 00:50 clip; reply https://x.com/jito/status/1915469159518929190 names Plug In With Switchboard, episode 41, matching the full YouTube episode’s title and guests. Preserve ID and URL; do not count this as a second full recording."
   },
   {
     "id": "res-44",
@@ -808,18 +814,19 @@
     "date": "2025-04-24",
     "type": "video",
     "url": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
-    "description": "Episode featuring Switchboard and discussion of oracle integration with futarchy.",
+    "description": "Midcurve brings together Switchboard co-founder Mitch and MetaDAO co-founder Kollan, hosted by Hayden from Jito. They discuss oracle infrastructure, restaking and trusted execution environments, then examine the Jito grant experiment, its ongoing outcome market and concerns about trading volume and grant thresholds.",
     "tags": [
       "Oracles",
       "Integration",
       "Technical"
     ],
-    "dateKind": "unknown",
+    "dateKind": "publication",
     "datePrecision": "day",
-    "verification": "legacy",
+    "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=gw3kJAjTLRw",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Read all available exported captions from 00:00 through 01:03:48; the player displays 01:05:30. Caption timings differ from publisher chapters, and the uncovered tail is not reconstructed. This guide uses the publisher’s chapter timestamps. Automatic captions contain garbled names and terminology; no manual audio verification was performed. Reported grant payments, economic targets and market prices are speaker accounts, not independently verified execution. Future releases and governance discussions are recording-time plans; Switchboard’s appearance does not establish a MetaDAO raise. No third-party transcript is republished. Promotional clip: https://x.com/jito_sol/status/1915469158386483471; the full episode is retained here."
   },
   {
     "id": "res-48",
@@ -923,12 +930,12 @@
   },
   {
     "id": "res-53",
-    "title": "Prediction Markets: MetaDAO with 0xResearch",
+    "title": "Plasma, Prediction Markets, BNB, and More",
     "author": "Blockworks",
     "date": "2025-09-29",
     "type": "video",
     "url": "https://x.com/0xResearch/status/1972679362639167492",
-    "description": "Video discussion on prediction markets and MetaDAO with Blockworks research team.",
+    "description": "0xResearch market roundup covering Plasma, prediction markets and BNB. The original post does not identify a MetaDAO segment; detailed recording review remains pending.",
     "tags": [
       "Video",
       "Research",
@@ -939,7 +946,8 @@
     "verification": "legacy",
     "sourceUrl": "https://x.com/0xResearch/status/1972679362639167492",
     "addedAt": null,
-    "checkedAt": null
+    "checkedAt": null,
+    "evidenceNote": "2026-10-14: original publisher X post read. Its heading is PLASMA, PREDICTION MARKETS, BNB, AND MORE, dated September 29, 2025, with a 1:00:51 embedded recording. No visible chapter list or MetaDAO reference supports the previous dedicated-MetaDAO title. Corrected the unsupported description without claiming audio or transcript review; retained legacy verification and date metadata."
   },
   {
     "id": "res-55",
@@ -17563,5 +17571,27 @@
     "dateKind": "publication",
     "datePrecision": "day",
     "evidenceNote": "Publication day and event-date distinction remain as verified in the October 14 watch-page review. Follow-up: Complete available English automatic-caption export read (0:01–28:15; displayed recording duration 28:16). Captions may omit speech or misrecognize names and numbers; no complete manual listening, visual review or independent validation of speaker claims. Original notes, not a verbatim transcript. Full-transcript redistribution permission is not established for MetaDAO uploads. See timestamped editorial checks for unresolved details."
+  },
+  {
+    "id": "alpha-liquid-proph3t-2025-04-15",
+    "title": "Futarchy as Humanity’s Newest Model for Governance with MetaDAO | Proph3t",
+    "author": "Alpha Liquid Podcast",
+    "date": "2025-04-15",
+    "type": "podcast",
+    "url": "https://open.spotify.com/episode/3Xmvz837ROUiKGqpwcJwLw",
+    "description": "Matthew Mousa interviews Proph3t about his path to MetaDAO, proposal trading and manipulation concerns. The publisher’s guide also covers the launchpad, possible metrics beyond token price, participation incentives, AI traders and pseudonymity.",
+    "tags": [
+      "Podcast",
+      "MetaDAO",
+      "Founder Interview",
+      "Governance"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://open.spotify.com/episode/3Xmvz837ROUiKGqpwcJwLw",
+    "addedAt": "2026-10-14",
+    "checkedAt": "2026-10-14",
+    "evidenceNote": "Read the full publisher description and all 15 chapter entries for the 48:38 episode. No full transcript or audio review. Topic markers follow Spotify’s guide; its broken line between 17:10 and 21:24 is normalized. Launchpad, regulatory, institutional-adoption and AI discussions reflect April 2025 topics, not verified delivery, legal conclusions or current capabilities. Spotify dates the episode April 15, 2025; April 23 is the later press-release date retained on internal res-47. The old Blockchain Wire URL currently displays Article Not Found. No third-party transcript is republished."
   }
 ]

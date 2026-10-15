@@ -1,3 +1,9 @@
+## Recording review, ninth batch (October 14, 2026)
+
+PR #44 is live: all four guides match production Markdown and JSON, and 551 production access checks passed. Reviewed all generated text for MCG’s five-minute Proph3t clip on ownership and treasury protections, correcting its title to identify a clip rather than a full stream. Added a separate publisher-outline note for Epicenter episode 98 after reading its original page in the browser. Full listening is not claimed for either source; third-party transcripts are not republished.
+
+The no-notes backlog falls from 9 to 7. Loyal remains private. Exit Liquidity’s syndicated podcast guide is a useful recovery lead but has a different duration and publication date from the catalog livestream, so no unverified timestamps are transferred. The longer MCG founder broadcast remains pending. Corrected Epicenter’s publication date from September 28 to September 27, 2015 using its original episode page. No IDs, source URLs or project status changed. Evidence: maintenance/recording-notes-ninth-2026-10-14.
+
 ## Recording review, eighth batch (October 14, 2026)
 
 Verified PR #43 deployed successfully to futarchy.info: the merged Kollan guide matches live Markdown and JSON, with all 543 production access checks passing. Recovered public audio for three Proph3t interviews (Pine Analytics, 11AM at Breakpoint and the October ThreadGuy interview) and read all locally generated research transcript segments. Added original topic guides with approximate ASR timings and explicit machine-transcription limits. Also read the full Nothing Human publisher transcript of Ivan Vendrov interviewing Robin Hanson; it supplies no timestamps, so that note has no invented chapter guide.

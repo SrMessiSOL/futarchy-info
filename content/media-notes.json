@@ -6414,5 +6414,52 @@
       "status": "permission-required",
       "sha256": null
     }
+  },
+  {
+    "resourceId": "res-63",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Original publisher post and complete locally generated clip transcript reviewed",
+    "reviewBoundary": "Read the original MCG post dated October 10, 2025 and all 58 generated transcript segments from its recovered 5:40 clip. Speech recognition used faster-whisper base.en with VAD; gaps and misheard wording remain possible. No manual audio verification. Approximate topic markers belong to this clip, not the separate two-hour MCG stream. Wallet-user counts, revenue figures and Umbra’s historical unlock conditions are not independently verified and are not repeated as factual specifications. The publisher’s extraction-impossible framing is a claim, not a guarantee; token rights are not automatically legal equity. No third-party transcript or audio is republished.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Customer acquisition versus retention"
+      },
+      {
+        "start": "00:40",
+        "topic": "Trading losses and extraction as a retention problem"
+      },
+      {
+        "start": "02:24",
+        "topic": "Reducing extraction and treasury oversight"
+      },
+      {
+        "start": "03:35",
+        "topic": "Founder token incentives and the historical Umbra example"
+      },
+      {
+        "start": "04:05",
+        "topic": "Business success versus value reaching token holders"
+      },
+      {
+        "start": "05:00",
+        "topic": "Token-holder protections, rights and ownership coins"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "d1c12cffec623c8402bee2ba277725fca4918f624db37cf44dc4c61bfb1c1d64"
+    }
+  },
+  {
+    "resourceId": "res-265",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Complete original publisher description and six-topic outline reviewed",
+    "reviewBoundary": "Read the full Epicenter episode 98 page in the browser after the HTTP research fetch returned 403. Reviewed the description, all six listed topics, host credits and linked listening editions. No full transcript or audio review. The page has no timestamp guide, so none is invented. The original publisher page dates the episode September 27, 2015; this corrects the previous September 28 catalog date. The episode page is the authority for this publication date. The Bitcoin governance topic is a discussion of possible use, not proof of adoption. No third-party transcript is republished.",
+    "sections": [],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
   }
 ]

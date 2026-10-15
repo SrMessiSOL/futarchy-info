@@ -1,0 +1,73 @@
+{
+  "checkedAt": "2026-10-14",
+  "reviews": [
+    {
+      "id": "res-63",
+      "audio": "mcg-rights",
+      "title": "MCG Clip: Token Holder Rights and Ownership Coins",
+      "description": "In this short MCG clip, Proph3t argues that crypto has a retention problem and discusses reducing extraction through treasury oversight and founder incentives. Umbra appears as a historical token-unlock example. The closing discussion distinguishes business success from token-holder value and frames ownership coins around protections and rights. These are the speakers’ arguments, not guarantees against losses.",
+      "method": "Original publisher post and complete locally generated clip transcript reviewed",
+      "boundary": "Read the original MCG post dated October 10, 2025 and all 58 generated transcript segments from its recovered 5:40 clip. Speech recognition used faster-whisper base.en with VAD; gaps and misheard wording remain possible. No manual audio verification. Approximate topic markers belong to this clip, not the separate two-hour MCG stream. Wallet-user counts, revenue figures and Umbra’s historical unlock conditions are not independently verified and are not repeated as factual specifications. The publisher’s extraction-impossible framing is a claim, not a guarantee; token rights are not automatically legal equity. No third-party transcript or audio is republished.",
+      "sections": [
+        {
+          "start": "00:00",
+          "topic": "Customer acquisition versus retention"
+        },
+        {
+          "start": "00:40",
+          "topic": "Trading losses and extraction as a retention problem"
+        },
+        {
+          "start": "02:24",
+          "topic": "Reducing extraction and treasury oversight"
+        },
+        {
+          "start": "03:35",
+          "topic": "Founder token incentives and the historical Umbra example"
+        },
+        {
+          "start": "04:05",
+          "topic": "Business success versus value reaching token holders"
+        },
+        {
+          "start": "05:00",
+          "topic": "Token-holder protections, rights and ownership coins"
+        }
+      ],
+      "sourceUrl": "https://x.com/MCGlive/status/1976747062709629405",
+      "previousDescription": "Discussion on token holder protections and ownership coin thesis with Proph3t.",
+      "sha": "d1c12cffec623c8402bee2ba277725fca4918f624db37cf44dc4c61bfb1c1d64",
+      "audioSha256": "9222ba1420a7518acf60eb81c58107686b660cd3e2815d7c003e550cd05c6f20",
+      "durationSeconds": 340.224,
+      "generatedSegments": 58,
+      "asrMethod": "faster-whisper base.en int8 CPU beam 5, batch 8, VAD enabled, timestamps enabled, no prompt or prior-text conditioning"
+    },
+    {
+      "id": "res-265",
+      "description": "Epicenter hosts Meher Roy and Brian Crain interview Robin Hanson about prediction markets and futarchy. The publisher’s outline covers information discovery, prediction-market history, governance, Bitcoin’s block-size debate and adoption barriers. This is historical futarchy background, not a MetaDAO project interview or evidence of deployment.",
+      "method": "Complete original publisher description and six-topic outline reviewed",
+      "boundary": "Read the full Epicenter episode 98 page in the browser after the HTTP research fetch returned 403. Reviewed the description, all six listed topics, host credits and linked listening editions. No full transcript or audio review. The page has no timestamp guide, so none is invented. The original publisher page dates the episode September 27, 2015; this corrects the previous September 28 catalog date. The episode page is the authority for this publication date. The Bitcoin governance topic is a discussion of possible use, not proof of adoption. No third-party transcript is republished.",
+      "sections": [],
+      "sourceUrl": "https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology",
+      "previousDescription": "Long-form Robin Hanson interview on prediction markets, the history of futarchy, Bitcoin governance, and why real-world adoption had lagged.",
+      "sha": null,
+      "previousDate": "2015-09-28",
+      "correctedDate": "2015-09-27"
+    }
+  ],
+  "gaps": [
+    {
+      "id": "res-102",
+      "result": "Public YouTube extraction again returns Private video. No content reviewed."
+    },
+    {
+      "id": "res-31",
+      "result": "Original YouTube livestream is 58:39 with no captions or description. Located syndicated publisher podcast chapters at https://podcastaddict.com/exit-liquidity/episode/186870741 for a 56:27 edition dated November 25, 2024, versus the catalog livestream date October 30. The linked original RSS no longer returned a matching entry. Do not transfer timings or assume identical edits; retain as a recovery lead pending version matching."
+    },
+    {
+      "id": "res-61",
+      "result": "Public X extraction identifies the Proph3t broadcast but returns no duration or description. Full founder-segment review remains pending."
+    }
+  ],
+  "transcriptsPublished": false
+}

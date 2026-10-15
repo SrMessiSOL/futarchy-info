@@ -5036,7 +5036,7 @@
     "resourceId": "res-246",
     "checkedAt": "2026-10-14",
     "reviewMethod": "Publisher episode-description and timestamp review on Apple Podcasts",
-    "reviewBoundary": "Publisher description and complete timestamp list reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Legal protections and risk reduction remain attributed claims. This publisher is outside the OwnershipFM transcript permission. Source references: https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345",
+    "reviewBoundary": "Publisher description and complete timestamp list reviewed; no full audio or transcript review. Chapters are publisher navigation, not independently checked speech boundaries. Legal protections and risk reduction remain attributed claims. This publisher is outside the OwnershipFM transcript permission. Source references: https://podcasts.apple.com/us/podcast/how-futarchy-ends-the-rug-pull-era-felipe-montealegre/id1499409058?i=1000732634345 Alternate full X upload: https://x.com/BanklessHQ/status/1980242608107716824. Its chapter offsets differ; this guide follows the linked podcast version.",
     "sections": [
       {
         "start": "01:51",
@@ -5706,6 +5706,210 @@
     "transcript": {
       "status": "permission-required",
       "sha256": "997c06f2c7421087f06230cbdace50a08344db46a7fc22d5ebe1decadd64ec8e"
+    }
+  },
+  {
+    "resourceId": "res-30",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Entire available publisher automatic-caption export and expanded description reviewed",
+    "reviewBoundary": "Read all available English automatic captions, 00:06 through 03:53 of the four-minute keynote. Captions are incomplete or garbled around 00:44–00:56 and 03:04–03:20; no missing speech is reconstructed. No manual audio or slide review. Topic markers follow captions and are approximate. The Dean’s List outcome is a speaker report, not independent execution verification; broader metric markets are announced plans, not confirmed delivery. No third-party transcript is republished.",
+    "sections": [
+      {
+        "start": "00:06",
+        "topic": "MetaDAO and information aggregation"
+      },
+      {
+        "start": "00:56",
+        "topic": "Hypothetical CEO decision markets"
+      },
+      {
+        "start": "01:49",
+        "topic": "Reported Dean’s List tokenomics proposal"
+      },
+      {
+        "start": "02:16",
+        "topic": "Planned markets for other objectives"
+      },
+      {
+        "start": "03:20",
+        "topic": "Market-governed organizations and contributors"
+      }
+    ],
+    "transcript": {
+      "status": "permission-required",
+      "sha256": "7b5b82b73d0268ce5c190c10a8cb9fcd60e354b25a81f04c6ad50f3a85ea3b7c"
+    }
+  },
+  {
+    "resourceId": "res-29",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Expanded original Spotify episode description and complete publisher chapter-list review",
+    "reviewBoundary": "Read the full publisher description and all 20 chapter entries for the 50:05 episode. The guide retains 18 non-advertising markers. No full transcript or audio review. Chapters establish discussion topics, not the speakers’ complete arguments or independent verification. Uniswap and Aave applications are examples, not evidence of adoption or MetaDAO fundraising. Expansion and permissionless-access discussions describe 2024 plans.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction"
+      },
+      {
+        "start": "03:39",
+        "topic": "Founding MetaDAO"
+      },
+      {
+        "start": "05:33",
+        "topic": "Futarchy overview"
+      },
+      {
+        "start": "09:00",
+        "topic": "Governance problems in Web3"
+      },
+      {
+        "start": "10:46",
+        "topic": "MetaDAO and the futarchy protocol"
+      },
+      {
+        "start": "11:24",
+        "topic": "Hypothetical Uniswap fee-switch market"
+      },
+      {
+        "start": "15:01",
+        "topic": "Early users"
+      },
+      {
+        "start": "16:29",
+        "topic": "Hypothetical Aave collateral decisions"
+      },
+      {
+        "start": "19:54",
+        "topic": "Comparison with Polymarket"
+      },
+      {
+        "start": "24:32",
+        "topic": "Information available to decision-market traders"
+      },
+      {
+        "start": "27:43",
+        "topic": "Lessons from early users"
+      },
+      {
+        "start": "30:01",
+        "topic": "Expansion discussion"
+      },
+      {
+        "start": "32:30",
+        "topic": "New decision-market applications"
+      },
+      {
+        "start": "34:49",
+        "topic": "Drawbacks"
+      },
+      {
+        "start": "38:17",
+        "topic": "Market manipulation"
+      },
+      {
+        "start": "43:35",
+        "topic": "Robin Hanson’s feedback"
+      },
+      {
+        "start": "46:30",
+        "topic": "Closing"
+      },
+      {
+        "start": "47:09",
+        "topic": "Permissionless-access plans"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-160",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Original Lightspeed X recording post and complete publisher timestamp-list review",
+    "reviewBoundary": "Read the original publisher post and all 10 chapter entries; the embedded recording is displayed as 1:01:46. The guide retains six non-advertising markers. No full transcript or audio review. Discussion of existing projects does not establish that they raised through MetaDAO. Buyback and regulatory topics remain recording-time discussion, not verified execution or current guidance.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction"
+      },
+      {
+        "start": "02:28",
+        "topic": "Futarchy thesis"
+      },
+      {
+        "start": "11:42",
+        "topic": "Improving the ICO process"
+      },
+      {
+        "start": "25:53",
+        "topic": "Working with existing projects"
+      },
+      {
+        "start": "41:32",
+        "topic": "Token buybacks"
+      },
+      {
+        "start": "49:41",
+        "topic": "US crypto environment and futarchy"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
+    }
+  },
+  {
+    "resourceId": "res-163",
+    "checkedAt": "2026-10-14",
+    "reviewMethod": "Original Lightspeed X recording post and complete publisher timestamp-list review",
+    "reviewBoundary": "Read the original publisher post and all 14 chapter entries; the embedded recording is displayed as 1:00:08. The guide retains 10 non-advertising markers. No full transcript or audio review. This is broader ecosystem commentary with a MetaDAO segment, not a founder interview. Mentioning HumidiFi, Kalshi or xStocks does not establish a MetaDAO raise; the 2026 outlook is historical forecasting.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Introduction"
+      },
+      {
+        "start": "01:25",
+        "topic": "State of Solana"
+      },
+      {
+        "start": "06:58",
+        "topic": "Proprietary AMMs"
+      },
+      {
+        "start": "10:38",
+        "topic": "HumidiFi token launch"
+      },
+      {
+        "start": "15:36",
+        "topic": "MetaDAO"
+      },
+      {
+        "start": "24:49",
+        "topic": "Internet capital markets"
+      },
+      {
+        "start": "31:06",
+        "topic": "xStocks opportunity"
+      },
+      {
+        "start": "36:06",
+        "topic": "Prediction markets"
+      },
+      {
+        "start": "46:02",
+        "topic": "Perpetuals on Solana"
+      },
+      {
+        "start": "48:53",
+        "topic": "Outlook for 2026"
+      }
+    ],
+    "transcript": {
+      "status": "not-reviewed",
+      "sha256": null
     }
   }
 ]

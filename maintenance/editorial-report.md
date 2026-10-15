@@ -1,3 +1,9 @@
+## Recording review, fifth batch (October 14, 2026)
+
+Added four guides and 39 topic markers: the Breakpoint 2024 Proph3t keynote, The Edge Podcast with Proph3t, Lightspeed with Kollan, and Lightspeed’s December 2025 roundup. Read all available keynote captions with explicit gaps; the other guides are limited to complete publisher descriptions and chapter lists. No manual audio verification or third-party transcript republication. Corrected the Lightspeed author spelling.
+
+Consolidated Bankless res-64 into the already reviewed episode res-246 after comparing original publisher metadata and all ordered topics. The full X replay is an alternate version with different chapter timings, not a missing episode. Its ID and URL are preserved internally, and the public note retains the alternate link. The public backlog falls from 22 to 17 through four guides and one alternate-upload consolidation. Exit Liquidity captions remain unavailable, and Loyal remains unresolved. Evidence: maintenance/recording-notes-fifth-2026-10-14.
+
 ## Recording review, fourth batch (October 14, 2026)
 
 Added guides for funded Omnipair and Solomon plus the early SRC:TLK Proph3t interview. Recovered public audio for the two CRYPTO VIDEOZ videos and read complete locally generated research transcripts; read the complete publisher automatic captions for SRC:TLK. This is machine-transcript review, not manual listening. Third-party audio and full transcripts remain unpublished. Token-buying tutorials are described as historical presenter commentary, without endorsing routes, prices, referral claims or technical assertions. Solomon’s previously accepted date remains unchanged despite the documented display-date discrepancy.

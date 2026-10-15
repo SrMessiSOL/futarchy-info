@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-15T00:45:44.360Z",
+  "results": [
+    {
+      "id": "res-30",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 5,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-29",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 18,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-160",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 6,
+      "exactNoteJson": true
+    },
+    {
+      "id": "res-163",
+      "descriptionMatches": true,
+      "reviewBoundaryMatches": true,
+      "topicEntries": 10,
+      "exactNoteJson": true
+    }
+  ]
+}

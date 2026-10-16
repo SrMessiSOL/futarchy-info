@@ -1,3 +1,20 @@
+# Recovered Radio: names and numbers audio follow-up
+
+Prepared October 16, 2026. Eight audio excerpts (475 seconds) reprocessed with medium.en and compared with the published transcripts. This is targeted automated audio review, not full manual listening.
+
+- 14 segment corrections across Radio #3, #7 and #15.
+- Radio #3: resolve GeSIM's garbled count as 530 users, retaining the speaker's 180 paying-users claim; correct buyback, Futardio, USDC, duplicated million and the missing negation in "the market is going to decide, not me". Existing $7,000/$3,000 and stake figures remain attributed historical claims.
+- Radio #7: resolve Milian's name from the audio introduction and the published Arcium interview; normalize dWallet Labs, 2PC-MPC and REFHE. Later Milian occurrences are contextual corrections, not individually re-listened passages.
+- Radio #15: correct Authensus, ClearSig's self-custody terminology and the Safe/Squads comparison. Mark the unresolved additional chain name explicitly unclear.
+- Stealf's 1k waitlist reading is supported. The new model suggests more than 5,000 testers, but the previously unresolved count stays uncertain. No claim that historical product/financial statements were independently verified.
+- Radio #3's previously unresolved raise cap is not changed. Radio #1, Radio #5 and all other transcripts are unchanged. #5 remains partial clips. No dates, catalog membership or publication policy changed.
+
+Evidence: maintenance/recovered-radio-audio-2026-10-16/evidence.json includes original/replacement segments, eight raw excerpt transcriptions, PCM hashes and previous/current published hashes. The new regression test reconstructs each previous transcript and checks its original recovery hash.
+
+Validation: npm run check passed (57 tests, content validation and TypeScript). npm run build -- --webpack passed locally. Hosted standard-build validation is required on the PR. No merge or deployment.
+
+---
+
 # Recovered Ownership Radio recordings
 
 Prepared October 15, 2026 for review. No merge or deployment performed.

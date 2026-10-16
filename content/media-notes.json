@@ -6636,7 +6636,7 @@
   },
   {
     "resourceId": "ownership-radio-3-recording",
-    "checkedAt": "2026-10-15",
+    "checkedAt": "2026-10-16",
     "reviewMethod": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
     "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Source is space-1RJZzjoLkBNJB_0.ts in the team export. Broadcast date March 22, 2026 is derived from its embedded Hydra NTP timestamp, not the March 18 announcement. GeSIM fundraising intentions are distinct from later accepted proceeds; research and governance discussions do not establish execution.",
     "sections": [
@@ -6666,11 +6666,31 @@
       "sha256": "95d5a7211f36c9f0e7e5af5887749703409f73556fc03f11ca316b72a26c984e",
       "textUrl": "/api/transcripts/ownership-radio-3-recording",
       "jsonUrl": "/api/transcripts/ownership-radio-3-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 1310,
+        "end": 1385,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Targeted medium.en recheck supports $7,000 buyback plus $3,000, 5% supply / 1.5 million, and 98% staked with 2% still required as spoken historical claims. Corrected buyback, Futardio, USDC and the phrase \"not me\". No proposal execution or independent numeric validation inferred. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 1835,
+        "end": 1880,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Targeted medium.en recheck reads 530 users and 180 actively paying. Replaced garbled user-count wording with 530; these remain the speaker's traction claims, not independently verified metrics. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-7-recording",
-    "checkedAt": "2026-10-15",
+    "checkedAt": "2026-10-16",
     "reviewMethod": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
     "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed.",
     "sections": [
@@ -6708,11 +6728,35 @@
       "sha256": "4b0cdc3504038c98b581995f6e9bb5d05cde8cff478ca24537e79c050495a1b6",
       "textUrl": "/api/transcripts/ownership-radio-7-recording",
       "jsonUrl": "/api/transcripts/ownership-radio-7-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 10020,
+        "end": 10085,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Guest introduction cross-checked with the published Solana/Arcium interview naming Milian. Corrected Millian and contextual million name errors in the same conversation; later occurrences were context corrections, not separate audio rechecks. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+          "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+          "https://superteam.fun/earn/listing/encrypt-ika-frontier-april-2026/"
+        ]
+      },
+      {
+        "start": 11335,
+        "end": 11405,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Rechecked Lars's Dagon introduction and normalized 2PC-MPC, dWallet Labs and REFHE against the sponsor's primary documentation. Preserve the historical pre-alpha and patent statements as speaker claims. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+          "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+          "https://superteam.fun/earn/listing/encrypt-ika-frontier-april-2026/"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-15-recording",
-    "checkedAt": "2026-10-15",
+    "checkedAt": "2026-10-16",
     "reviewMethod": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
     "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed.",
     "sections": [
@@ -6750,7 +6794,49 @@
       "sha256": "f6615225d82bf53d7a0060e69c7e4816165e6e443e5c19b73e347cc86c8898d3",
       "textUrl": "/api/transcripts/ownership-radio-15-recording",
       "jsonUrl": "/api/transcripts/ownership-radio-15-recording?format=json"
-    }
+    },
+    "editorialChecks": [
+      {
+        "start": 4725,
+        "end": 4795,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Both passes support a 1k waitlist. Medium.en suggests more than five thousand testers, but the earlier pass failed to resolve the word after five. The published tester-count uncertainty is retained; the suggested reading is not treated as confirmed. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://superteam.fun/earn/t/Daniel_Authensus"
+        ]
+      },
+      {
+        "start": 560,
+        "end": 600,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The repeated project name is Authensus, supported by the founder profile and the audio recheck; corrected the residual \"Or fences\" error. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://superteam.fun/earn/t/Daniel_Authensus"
+        ]
+      },
+      {
+        "start": 6050,
+        "end": 6095,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Rechecked the ClearSig introduction; self-custodial wallet terminology is reviewed as spoken product description, not a security audit. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://superteam.fun/earn/t/Daniel_Authensus"
+        ]
+      },
+      {
+        "start": 6375,
+        "end": 6440,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Rechecked the ClearSig chain and multisig comparison; preserve the speaker's historical product claims rather than treating them as current chain-support documentation. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://superteam.fun/earn/t/Daniel_Authensus"
+        ]
+      }
+    ]
   },
   {
     "resourceId": "ownership-radio-5-recording",

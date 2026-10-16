@@ -1,3 +1,121 @@
+# 01Resolved archive reconciliation: October 16, 2026
+
+Reviewed the public post sitemap (53 URLs), the sitemap index (one posts sitemap), and the complete available text bodies plus datePublished metadata for the 15 URLs absent from the previous domain-only catalog comparison. The live everything API initially contained the same 38 canonical publisher URLs. Four related legacy X article records were upgraded in place; 11 new records added. Existing IDs remain intact.
+
+Coverage is complete against this observed 53-post sitemap, not a claim about deleted, unindexed, X-only, members-only or future material. Embedded videos, images, linked evidence and underlying transactions were not independently audited. No publisher full text is republished.
+
+## Publication boundaries
+
+Two additions remain held: the March 6 Ranger liquidation analysis and the March 17 Solomon/Omnipair comparison, which includes a Ranger liquidation discussion. The latter keeps project:ranger rather than removing a closed-project mention to bypass the cutoff. No new lifecycle exceptions. The February report and January Ranger coverage precede the cutoff. The Syndicate report does not change the historical launch registry or infer its original failed attempt succeeded.
+
+## Reviewed additions and canonical replacements
+
+| ID | Publication | Action | Article |
+| --- | --- | --- | --- |
+| resolved-audit-6f649de876fe | 2026-10-11 | New | [Syndicate Raises $600K on Backable, DualMint Successfully Closes Its Sale, and Rip Cars Unlocks $250K](https://01resolved.com/research/syndicate-raises-600k-on-backable-dualmint-successfully-closes-its-sale-and-rip-cars-unlocks-250k/) |
+| resolved-audit-b1ee241f789a | 2026-03-22 | New | [Part 1: How to Read a Futarchy Based Decision Market](https://01resolved.com/research/part-1-how-to-read-a-futarchy-based-decision-market/) |
+| resolved-audit-9d14ae89f58f | 2026-03-06 | New, held by Ranger cutoff | [How a Decision Market Liquidated Ranger Finance](https://01resolved.com/research/how-a-decision-market-liquidated-ranger-finance/) |
+| resolved-audit-7db80197fbcc | 2026-03-17 | New, held by Ranger cutoff | [When Uncontentious Futarchy Markets Are Decided Pre-TWAP](https://01resolved.com/research/when-uncontentious-futarchy-markets-are-decided-pre-twap/) |
+| resolved-audit-5e2cb0d73630 | 2026-03-16 | New | [01Resolved Launches Telegram Signals for Ownership Coins and Decision Markets](https://01resolved.com/research/01resolved-launches-telegram-signals-for-ownership-coins-and-decision-markets/) |
+| resolved-audit-65629bdb05f5 | 2026-03-01 | New | [01Resolved Decision Market Research Report: Febuary](https://01resolved.com/research/01resolved-decision-market-research-report-febuary/) |
+| resolved-audit-9b8a7b17fa69 | 2026-03-01 | New | [Permissionless Proposals for MetaDAO Decision Markets: A Framework for Better Governance](https://01resolved.com/research/permissionless-proposals-for-metadao-decision-markets-a-framework-for-better-governance/) |
+| res-157 | 2025-12-24 | Canonical replacement | [Token Voting Doesn't Protect You: How Decision Markets Fix Crypto Governance](https://01resolved.com/research/token-voting-doesnt-protect-you-markets-do/) |
+| res-154 | 2025-12-18 | Canonical replacement | [Crypto's Ownership Crisis: From Token-Equity Splits to Ownership Coins](https://01resolved.com/research/crypto-needs-an-ownership-overhaul/) |
+| res-185 | 2026-01-17 | Canonical replacement | [When a Proposal Tests Futarchy: What Buyback Debates Reveal About Decision Markets](https://01resolved.com/research/when-a-proposal-tests-futarchy-what-buyback-debates-reveal-about-decision-markets/) |
+| resolved-audit-eb04a75412cc | 2026-01-12 | New | [Ranger Finance ICO Analysis: What the Numbers Behind the Headline Reveal](https://01resolved.com/research/ranger-finance-ico-analysis-what-the-numbers-behind-the-headline-reveal/) |
+| resolved-audit-cefb5c8d44da | 2026-01-16 | New | [Why the RNGR $2M Buyback Proposal Was Decided Early](https://01resolved.com/research/why-the-rngr-2m-buyback-proposal-was-decided-early/) |
+| res-179 | 2026-01-13 | Canonical replacement | [Volume is a Misleading Decision Market Signal](https://01resolved.com/research/volume-is-a-misleading-decision-market-signal/) |
+| resolved-audit-8c66d30a6fb4 | 2026-01-06 | New | [Deconstructing TWAP: The Anatomy of a Decision Market](https://01resolved.com/research/deconstructing-twap-the-anatomy-of-a-decision-market/) |
+| resolved-audit-fd6e0f3ace05 | 2025-12-27 | New | [Introducing 01Resolved Beta: An Analytics Layer for Ownership Coins and Decision Markets](https://01resolved.com/research/introducing-01resolved-beta-an-analytics-layer-for-ownership-coins-and-decision-markets/) |
+
+Canonical replacements preserve the earlier X URL and its user-confirmed date in each evidenceNote. Dates shown now belong to the newly linked publisher version; dateModified is not used as publication.
+
+## Reviewed-source fingerprints
+
+SHA-256 hashes below identify the locally reviewed article-body text, not verification of the publisher’s underlying claims. Original HTML and full text remain temporary research files and are not committed.
+
+| Article ID | Body SHA-256 |
+| --- | --- |
+| resolved-audit-6f649de876fe | 8c4c0be0cb59187ce81a005520dcc6c6e8dd4962486c19be625dc5bf914611a5 |
+| resolved-audit-b1ee241f789a | 3d650d6be8a3a2431ae9b2c523d7e0f841d21a4dc868fa41a1ae35f0f4d593d8 |
+| resolved-audit-9d14ae89f58f | eb106db504eec231197e130eee76ebc6105d57963128b35e56de1cc47079ec88 |
+| resolved-audit-7db80197fbcc | d2baf9ec0c7fbb9d673ab07e7def674472e02b5984a66a9084443524e5d401e4 |
+| resolved-audit-5e2cb0d73630 | 44b208fb5dc9ad95cb535ec6d4fa32b6de66f90a43f62db2b4615d9ee80465af |
+| resolved-audit-65629bdb05f5 | 4fd197973375b92c5ef9162c56ce7266bb6f0d63a2856f473000a12fbedd15ad |
+| resolved-audit-9b8a7b17fa69 | 32158573ab11f9ac9d7a10e698e86d042585641e3b6d21cd4c8ad8ce4f81a106 |
+| res-157 | e36743edc99d6ed17054ad69c813568e0764f678f5becb0454728c92b790332f |
+| res-154 | fabaad37ca9f6aa904abe2fc0499264d2b1ec5422c09b42ae84fd03d92e72520 |
+| res-185 | c9cda791049cbed32619a8dd738795bf1af47022e164bd253966b3cec5d0d57c |
+| resolved-audit-eb04a75412cc | 3eb8cb83bf9d885e5d22ae0da8eb5b5e3bd807740170c2714da7c45c6a6a1a8f |
+| resolved-audit-cefb5c8d44da | 0835c05f633034f8735f54c7893a232e63a76699b2c096f22a57de5e68294d56 |
+| res-179 | 7a5422f5213c654c39be773d4f54d2717ff5a681a97eb89b80080ea590d34141 |
+| resolved-audit-8c66d30a6fb4 | 821a32017cce4ebecf6d50be4f6d361f4af0d81652f759da8517c167c03814a0 |
+| resolved-audit-fd6e0f3ace05 | 2c7410c1438887e27a50900d33d2f16bab049aa4ee7391df5e9ac694a57e3e5e |
+
+## Complete sitemap mapping
+
+| Publisher URL | Existing or added ID |
+| --- | --- |
+| https://01resolved.com/research/syndicate-raises-600k-on-backable-dualmint-successfully-closes-its-sale-and-rip-cars-unlocks-250k/ | resolved-audit-6f649de876fe |
+| https://01resolved.com/research/rip-cars-raises-925k-otc-and-seeks-250k-for-inventory-dualmint-reaches-202-4k-and-omnipair-crosses-1m-tvl/ | weekly-2026-10-04 |
+| https://01resolved.com/research/ownership-coin-monthly-research-report-september-2026/ | monthly-september-2026 |
+| https://01resolved.com/research/ownership-coin-monthly-research-report-august-2026/ | monthly-august-2026 |
+| https://01resolved.com/research/solomon-launches-usdv-with-6m-in-supply-credible-approves-a-500k-settlement-facility-and-rip-cars-seeks-up-to-1-5m/ | resolved-backfill-3 |
+| https://01resolved.com/research/three-treasuries-approve-680k-in-usdv-allocations-sanctum-approves-25-cloud-burn-jurassic-closes-660k-raise/ | resolved-backfill-4 |
+| https://01resolved.com/research/rip-cars-proposal-founder-liquidity-on-metadao/ | rip-cars-founder-liquidity |
+| https://01resolved.com/research/paystream-decision-market-to-liquidate-metadao-proposes-market-making-with-the-tokens-it-earns-and-solomon-seeks-to-withdraw-meteora-lp-ahead-of-usdv/ | resolved-backfill-6 |
+| https://01resolved.com/research/rain-repays-500k-of-avici-card-balances-after-contract-vulnerability-umias-ico-fills-at-6-1m-and-omnipair-previews-dusk-v2/ | resolved-backfill-7 |
+| https://01resolved.com/research/metadao-approves-moving-2m-of-treasury-into-solomons-usdv-umia-ico-paystream-winds-down-and-ownership-coin-filings-reach-bloomberg-terminals/ | resolved-backfill-8 |
+| https://01resolved.com/research/laso-finance-becomes-the-2-app-on-x402-rip-cars-proposes-capital-unlock-sanctum-ends-cloud-staking-through-a-decision-market-and-01resolved-launches-snapshots/ | resolved-backfill-9 |
+| https://01resolved.com/research/what-is-nav-a-guide-to-net-asset-value-for-ownership-coins/ | resolved-backfill-10 |
+| https://01resolved.com/research/flash-trade-to-wind-down-unless-acquired-umbras-decision-market-rejects-a-1-5m-treasury-attack-and-kimia-closes-12-1x-oversubscribed/ | resolved-backfill-11 |
+| https://01resolved.com/research/the-umbra-treasury-attack-cost-its-attacker-4-623/ | umbra-treasury-attack-analysis |
+| https://01resolved.com/research/ownership-coin-monthly-research-report-july-2026/ | monthly-july-2026 |
+| https://01resolved.com/research/a-live-proposal-seeks-to-move-1-5m-out-of-umbras-treasury-metadaos-ownership-score-ordr-raise-and-loyals-autonomous-vault-proposal-passes/ | resolved-backfill-14 |
+| https://01resolved.com/research/ownership-score-what-the-first-experiment-reveals/ | resolved-backfill-15 |
+| https://01resolved.com/research/rip-cars-draws-32m-for-a-250k-raise-on-metadao-and-loyals-autonomous-vault-proposal-goes-to-decision-market/ | resolved-backfill-16 |
+| https://01resolved.com/research/credible-finance-draws-32-8m-in-commitments-and-accepts-4m-loyal-passes-385k-in-deposits-and-flash-trade-ships-duels/ | resolved-backfill-17 |
+| https://01resolved.com/research/metadao-holds-its-first-owners-meeting-in-san-francisco-credible-finance-raise-slated-for-monday-and-2m-of-metadao-treasury-planned-for-solomons-usdv/ | resolved-backfill-18 |
+| https://01resolved.com/research/laso-finance-pulls-25-6m-in-commitments-and-accepts-1m-jurassic-prices-the-deaton-fossil-raise-and-umbra-ships-private-payroll/ | resolved-backfill-19 |
+| https://01resolved.com/research/the-blockworks-ttf-needs-an-ownership-section/ | resolved-backfill-20 |
+| https://01resolved.com/research/zkfg-holders-approve-buyout-flash-trade-ships-v2-beta-umias-legal-structure-an-update-on-predikt/ | resolved-backfill-21 |
+| https://01resolved.com/research/meta-holdersapprove-2m-ownership-capital-fund-the-attempt-to-take-zinc-cash-private-p2p-reaches-major-milestone-and-predikt-raises-on-star/ | resolved-backfill-22 |
+| https://01resolved.com/research/metadao-proposes-to-seed-2m-ownership-fund-zinc-cash-otc-decision-market-crafts-refi-hub-ico-meteora-and-bedrocks-dynamic-assets-and-more/ | resolved-backfill-23 |
+| https://01resolved.com/research/metadaos-meta-listed-on-coinbase-zinc-launch-crafts-sts-explained/ | resolved-backfill-24 |
+| https://01resolved.com/research/metadao-added-to-coinbase-roadmap-and-improves-discoverability-with-dexscreener-futarchyamm-integration/ | resolved-backfill-25 |
+| https://01resolved.com/research/jurassic-finance-rawr-raise-how-sparks-first-oversubscribed-ownership-coin-launch-drew-12-5m-in-commitments/ | resolved-backfill-26 |
+| https://01resolved.com/research/ownership-coin-monthly-research-report-june-2026/ | monthly-june-2026 |
+| https://01resolved.com/research/what-53-blockworks-token-transparency-filings-reveal-and-what-they-leave-out/ | resolved-backfill-28 |
+| https://01resolved.com/research/laso-finance-next-to-raise-on-metadao-faf-holders-approve-flash-trade-team-allocation-and-loyal-releases-earn-routing/ | resolved-backfill-29 |
+| https://01resolved.com/research/a-retro-of-the-zinc-cash-zkfg-decision-markets/ | resolved-backfill-30 |
+| https://01resolved.com/research/putting-nav-to-work-in-ownership-coin-analysis/ | resolved-backfill-31 |
+| https://01resolved.com/research/ownership-coin-monthly-research-report-may-2026/ | monthly-may-2026 |
+| https://01resolved.com/research/ownership-coin-monthly-research-report-april-2026/ | monthly-april-2026 |
+| https://01resolved.com/research/how-solomon-saved-metadaos-highest-volume-proposal-from-rejection/ | resolved-backfill-34 |
+| https://01resolved.com/research/building-in-the-open/ | resolved-backfill-35 |
+| https://01resolved.com/research/metadao-ecosystem-ownership-coin-token-buyback-analysis/ | resolved-backfill-36 |
+| https://01resolved.com/research/01resolved-decision-market-research-report-march-2026/ | res-261 |
+| https://01resolved.com/research/part-1-how-to-read-a-futarchy-based-decision-market/ | resolved-audit-b1ee241f789a |
+| https://01resolved.com/research/how-a-decision-market-liquidated-ranger-finance/ | resolved-audit-9d14ae89f58f |
+| https://01resolved.com/research/when-uncontentious-futarchy-markets-are-decided-pre-twap/ | resolved-audit-7db80197fbcc |
+| https://01resolved.com/research/01resolved-launches-telegram-signals-for-ownership-coins-and-decision-markets/ | resolved-audit-5e2cb0d73630 |
+| https://01resolved.com/research/01resolved-decision-market-research-report-febuary/ | resolved-audit-65629bdb05f5 |
+| https://01resolved.com/research/permissionless-proposals-for-metadao-decision-markets-a-framework-for-better-governance/ | resolved-audit-9b8a7b17fa69 |
+| https://01resolved.com/research/token-voting-doesnt-protect-you-markets-do/ | res-157 |
+| https://01resolved.com/research/crypto-needs-an-ownership-overhaul/ | res-154 |
+| https://01resolved.com/research/when-a-proposal-tests-futarchy-what-buyback-debates-reveal-about-decision-markets/ | res-185 |
+| https://01resolved.com/research/ranger-finance-ico-analysis-what-the-numbers-behind-the-headline-reveal/ | resolved-audit-eb04a75412cc |
+| https://01resolved.com/research/why-the-rngr-2m-buyback-proposal-was-decided-early/ | resolved-audit-cefb5c8d44da |
+| https://01resolved.com/research/volume-is-a-misleading-decision-market-signal/ | res-179 |
+| https://01resolved.com/research/deconstructing-twap-the-anatomy-of-a-decision-market/ | resolved-audit-8c66d30a6fb4 |
+| https://01resolved.com/research/introducing-01resolved-beta-an-analytics-layer-for-ownership-coins-and-decision-markets/ | resolved-audit-fd6e0f3ace05 |
+
+## Verification
+
+npm run check passed: catalog validation, 61 tests and TypeScript. npm run build -- --webpack passed. Hosted standard-build validation will run on the PR. No merge or deployment performed.
+
+---
+
 # Jurassic Finance interview audio review
 
 Prepared October 16, 2026 after merged PR #51. Its deployment succeeded, and the corrected #3/#15 text, reader pages, timestamps and text/JSON downloads were verified live on futarchy.info.
@@ -396,3 +514,4 @@ The 611-link snapshot is historical discovery data, not 611 approved additions. 
 ## Validation
 
 The current 754-record draft passed catalog validation, all 23 tests, TypeScript and the approved local production build (six static pages). All 371 baseline IDs remain; review JSON parses and decision references resolve. An initial sandbox build hit Windows path access denied; the approved build succeeded. Editorial coverage remains incomplete.
+

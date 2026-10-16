@@ -1,0 +1,939 @@
+{
+  "checkedAt": "2026-10-16",
+  "method": "Six medium.en excerpts and independent shorter small.en peso/reaction checks. Automated audio comparison, not manual listening or independent financial validation. Repeated model output is explicitly rejected.",
+  "audioRechecks": [
+    {
+      "source": "radio3",
+      "start": 3640,
+      "duration": 65,
+      "reason": "P2P proposed token allocation and locks",
+      "pcmSha256": "8c9c391e00cdf279d7308df5683df10016f9e483f18e555fbbbb7d784d1ebc26",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 3640,
+          "end": 3647.2,
+          "text": " you can just like pay someone in Yuan in China using your own bank account in Brazil. This"
+        },
+        {
+          "start": 3647.2,
+          "end": 3652.88,
+          "text": " is crazy, right? So this is what we've been building. This is why we're going for the"
+        },
+        {
+          "start": 3652.88,
+          "end": 3658.32,
+          "text": " ICO. I saw that someone is like questioning us in the group. So if you're here, that's"
+        },
+        {
+          "start": 3658.32,
+          "end": 3665.4,
+          "text": " a great question. I wrote an article about this. Yeah, we are tackling regulation risks"
+        },
+        {
+          "start": 3665.4,
+          "end": 3670.96,
+          "text": " with decentralization. So metadata ICO, it's a 50% to the"
+        },
+        {
+          "start": 3670.96,
+          "end": 3675.04,
+          "text": " community. 20% investors, 30% team investors and team that"
+        },
+        {
+          "start": 3675.04,
+          "end": 3678.2,
+          "text": " lock it for at least one year team only see the money if we"
+        },
+        {
+          "start": 3678.2,
+          "end": 3682.44,
+          "text": " go like for multiples. So yeah, this is a very, very"
+        },
+        {
+          "start": 3682.44,
+          "end": 3687.44,
+          "text": " prone or POV. It's a very, very fair ICO. And we are"
+        },
+        {
+          "start": 3687.44,
+          "end": 3690.12,
+          "text": " all all here from the team. We are building for the"
+        },
+        {
+          "start": 3690.12,
+          "end": 3692.72,
+          "text": " long term, right? We're just like scratching the surface right"
+        },
+        {
+          "start": 3692.72,
+          "end": 3693,
+          "text": " now."
+        },
+        {
+          "start": 3693,
+          "end": 3699.96,
+          "text": " perfect perfect thank you for that can I can I just I have a question I couldn't"
+        },
+        {
+          "start": 3699.96,
+          "end": 3707,
+          "text": " show the MIM of course but I have a question you do you use what do you use"
+        }
+      ]
+    },
+    {
+      "source": "radio3",
+      "start": 3800,
+      "duration": 70,
+      "reason": "P2P fiat example and pesos amounts",
+      "pcmSha256": "c680981b42b4bb74f90335def4bd61242bbd1df296b49dfb391d09ff5d579c7b",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 3800,
+          "end": 3806,
+          "text": " you have stent payment. Yeah, I'm on Argentina. Oh perfect, so yeah perfect. So in Argentina we"
+        },
+        {
+          "start": 3806,
+          "end": 3812.08,
+          "text": " have this thing called pagamientos trispunto, pagos trispunto zero and use an alias, right?"
+        },
+        {
+          "start": 3812.08,
+          "end": 3816.72,
+          "text": " Alias is a key, so everybody has like this unique key to send money, right? So when you"
+        },
+        {
+          "start": 3816.72,
+          "end": 3824.32,
+          "text": " open a open p2p app you go and say yeah I want to sell 100 dollars to this alias,"
+        },
+        {
+          "start": 3824.32,
+          "end": 3828.24,
+          "text": " to this key, right? So you just enter the key, right? When you enter the key,"
+        },
+        {
+          "start": 3828.24,
+          "end": 3834.76,
+          "text": " Okay, that's it. Like the other part we receive, hey, please send. So $100 will be like something"
+        },
+        {
+          "start": 3834.76,
+          "end": 3837.48,
+          "text": " like 14,000 pesos or something like that."
+        },
+        {
+          "start": 3837.48,
+          "end": 3838.48,
+          "text": " No, 100."
+        },
+        {
+          "start": 3838.48,
+          "end": 3839.48,
+          "text": " 140."
+        },
+        {
+          "start": 3839.48,
+          "end": 3840.48,
+          "text": " 140."
+        },
+        {
+          "start": 3840.48,
+          "end": 3841.48,
+          "text": " 140."
+        },
+        {
+          "start": 3841.48,
+          "end": 3842.48,
+          "text": " 140."
+        },
+        {
+          "start": 3842.48,
+          "end": 3843.48,
+          "text": " 140."
+        },
+        {
+          "start": 3843.48,
+          "end": 3844.48,
+          "text": " 140."
+        },
+        {
+          "start": 3844.48,
+          "end": 3845.48,
+          "text": " 140."
+        },
+        {
+          "start": 3845.48,
+          "end": 3846.48,
+          "text": " 140."
+        },
+        {
+          "start": 3846.48,
+          "end": 3847.48,
+          "text": " 140."
+        },
+        {
+          "start": 3847.48,
+          "end": 3848.48,
+          "text": " 140."
+        },
+        {
+          "start": 3848.48,
+          "end": 3849.48,
+          "text": " 140."
+        },
+        {
+          "start": 3849.48,
+          "end": 3850.48,
+          "text": " 140."
+        },
+        {
+          "start": 3850.48,
+          "end": 3851.48,
+          "text": " 140."
+        },
+        {
+          "start": 3851.48,
+          "end": 3852.48,
+          "text": " 140."
+        },
+        {
+          "start": 3852.48,
+          "end": 3853.48,
+          "text": " 140."
+        },
+        {
+          "start": 3853.48,
+          "end": 3854.48,
+          "text": " 140."
+        },
+        {
+          "start": 3854.48,
+          "end": 3855.48,
+          "text": " 140."
+        },
+        {
+          "start": 3855.48,
+          "end": 3856.48,
+          "text": " 140."
+        },
+        {
+          "start": 3856.48,
+          "end": 3857.48,
+          "text": " 140."
+        },
+        {
+          "start": 3857.48,
+          "end": 3861.8,
+          "text": " send the money and go back to the app and say yeah just paid the money that's it so"
+        },
+        {
+          "start": 3861.8,
+          "end": 3868.32,
+          "text": " then when both sides confirm the smart contract release the usdc okay so you don't have to"
+        },
+        {
+          "start": 3868.32,
+          "end": 3870,
+          "text": " link anything."
+        }
+      ]
+    },
+    {
+      "source": "radio3",
+      "start": 3950,
+      "duration": 55,
+      "reason": "P2P merchant commission",
+      "pcmSha256": "9ba7e7e2f834fe3be4724432866c542bac478f3cd6bded186e4568be7977bc0f",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 3950,
+          "end": 3952.64,
+          "text": " to prove that he sent the money, right?"
+        },
+        {
+          "start": 3952.64,
+          "end": 3955.24,
+          "text": " So we always take in from the side of the merchant."
+        },
+        {
+          "start": 3955.24,
+          "end": 3958.5,
+          "text": " So merchants don't have interest to dox you, right?"
+        },
+        {
+          "start": 3958.5,
+          "end": 3960.28,
+          "text": " Because they have their money staked."
+        },
+        {
+          "start": 3960.28,
+          "end": 3962.96,
+          "text": " They have like a reputations system"
+        },
+        {
+          "start": 3962.96,
+          "end": 3964.72,
+          "text": " that make them make more money"
+        },
+        {
+          "start": 3964.72,
+          "end": 3966.1,
+          "text": " when they're providing liquidity."
+        },
+        {
+          "start": 3966.1,
+          "end": 3968.42,
+          "text": " And they're not making money by the arbitrage."
+        },
+        {
+          "start": 3968.42,
+          "end": 3970.08,
+          "text": " They're making money by a commission"
+        },
+        {
+          "start": 3970.08,
+          "end": 3972.18,
+          "text": " for every payment they do, right?"
+        },
+        {
+          "start": 3972.18,
+          "end": 3975.2,
+          "text": " So in Argentina, this commission is 1.5%."
+        },
+        {
+          "start": 3975.2,
+          "end": 3976.64,
+          "text": " So every transaction this guy does,"
+        },
+        {
+          "start": 3976.64,
+          "end": 3979,
+          "text": " it makes like 1.5% profit."
+        },
+        {
+          "start": 3979,
+          "end": 3992,
+          "text": " Perfect, perfect. So yeah, it's like we have said like financial cave. It's something like that, but you are enforcing with the smart contract. It's pretty good, pretty good."
+        },
+        {
+          "start": 3992,
+          "end": 3997,
+          "text": " Yeah, so that way we get all the stuff for the result."
+        },
+        {
+          "start": 3997,
+          "end": 4004.12,
+          "text": " okay okay I understand how it works now because I thought you were using like"
+        },
+        {
+          "start": 4004.12,
+          "end": 4006.72,
+          "text": " some kind of"
+        }
+      ]
+    },
+    {
+      "source": "radio3",
+      "start": 4050,
+      "duration": 65,
+      "reason": "P2P liquidity-provider stake and earnings example",
+      "pcmSha256": "740b708f5eb1666f2f9a0760fba55853cd470f4de0ce02bca73c990ff46e0f5b",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 4050,
+          "end": 4055.68,
+          "text": " you unless you go public and say yeah this is my wallet right yeah so the third party is is the"
+        },
+        {
+          "start": 4055.68,
+          "end": 4062.32,
+          "text": " probably the the liquidity providers they are the third party here and they are interested"
+        },
+        {
+          "start": 4062.32,
+          "end": 4069.28,
+          "text": " it is the the money they make with the commission not the yeah the data of the participants"
+        },
+        {
+          "start": 4069.28,
+          "end": 4076.08,
+          "text": " it's pretty good yeah average liquidity provider it takes like 500 to 700 in Argentina"
+        },
+        {
+          "start": 4076.08,
+          "end": 4081.36,
+          "text": " and they make like $200 a month as a liquidity provider so this is not yield right because"
+        },
+        {
+          "start": 4081.36,
+          "end": 4086.4,
+          "text": " this guy is actually working right so that we have to remember this is not a yield this guy"
+        },
+        {
+          "start": 4086.4,
+          "end": 4090.96,
+          "text": " has to actually like receive money receive the payment confirm the payment you receive or send"
+        },
+        {
+          "start": 4090.96,
+          "end": 4098.08,
+          "text": " the payment but they make like 200 to 300 a month from a $700 stake so that's pretty good"
+        },
+        {
+          "start": 4098.08,
+          "end": 4102.16,
+          "text": " so what i need to to be a liquidity provider i'm here to be"
+        },
+        {
+          "start": 4102.16,
+          "end": 4111.56,
+          "text": " Yeah, just text us or just access p2p.me. You can go for the support channel. So every"
+        },
+        {
+          "start": 4111.56,
+          "end": 4115,
+          "text": " country has a support channel in Telegram. Just go there, say..."
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 3680,
+      "duration": 100,
+      "reason": "Dagon latency estimates and test caveats",
+      "pcmSha256": "2521f56c791b0f1e406e3fd5ecdcba33703a86319e216a4fdf6977560c071bb6",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 3680,
+          "end": 3686.4,
+          "text": " right in the decks. But yeah, it's definitely something that would require some"
+        },
+        {
+          "start": 3687.28,
+          "end": 3690.32,
+          "text": " playing around in the market and seeing where the best product market fit is."
+        },
+        {
+          "start": 3691.68,
+          "end": 3698.32,
+          "text": " I agree with you there. What is the latency? What numbers are we talking there?"
+        },
+        {
+          "start": 3700.32,
+          "end": 3706.72,
+          "text": " I mean, we still don't have the full implementation ready for"
+        },
+        {
+          "start": 3706.72,
+          "end": 3711.72,
+          "text": " or what is called like arithmetic operations, right?"
+        },
+        {
+          "start": 3711.82,
+          "end": 3715.74,
+          "text": " So multiplication and addition, subtraction."
+        },
+        {
+          "start": 3715.74,
+          "end": 3717.26,
+          "text": " We're still doing some bug fixing"
+        },
+        {
+          "start": 3717.26,
+          "end": 3719.58,
+          "text": " on the bitwise operations."
+        },
+        {
+          "start": 3719.58,
+          "end": 3724.12,
+          "text": " So once we have all of that, we'll be able to,"
+        },
+        {
+          "start": 3724.12,
+          "end": 3725.82,
+          "text": " even before we publish it publicly,"
+        },
+        {
+          "start": 3725.82,
+          "end": 3727.9,
+          "text": " we'll be able to work with Larsen"
+        },
+        {
+          "start": 3727.9,
+          "end": 3732.02,
+          "text": " for him to test out like the exact type of computations"
+        },
+        {
+          "start": 3732.02,
+          "end": 3733.98,
+          "text": " that he need and what would be the latency."
+        },
+        {
+          "start": 3733.98,
+          "end": 3736.38,
+          "text": " But it's not going to be probably,"
+        },
+        {
+          "start": 3736.38,
+          "end": 3741.3,
+          "text": " I'm assuming, and again, it's very, very case specific"
+        },
+        {
+          "start": 3741.3,
+          "end": 3744.78,
+          "text": " because every operation is very different."
+        },
+        {
+          "start": 3744.78,
+          "end": 3749.18,
+          "text": " And also the moving between different operations"
+        },
+        {
+          "start": 3749.18,
+          "end": 3752.4,
+          "text": " is much more complicated when it's encrypted computation."
+        },
+        {
+          "start": 3753.46,
+          "end": 3757.48,
+          "text": " But I'm assuming it won't be sub-second,"
+        },
+        {
+          "start": 3757.48,
+          "end": 3762.48,
+          "text": " but probably in the low end of a couple of seconds."
+        },
+        {
+          "start": 3763.46,
+          "end": 3765.88,
+          "text": " But again, it really, really is dependent"
+        },
+        {
+          "start": 3765.88,
+          "end": 3768.12,
+          "text": " on the exact type of computation and operation."
+        },
+        {
+          "start": 3768.12,
+          "end": 3771.24,
+          "text": " So I don't want to give too accurate numbers"
+        },
+        {
+          "start": 3771.24,
+          "end": 3772.86,
+          "text": " before we actually test it out."
+        },
+        {
+          "start": 3772.86,
+          "end": 3776.82,
+          "text": " So it's not going to be a premium like retail experience"
+        },
+        {
+          "start": 3776.82,
+          "end": 3780.26,
+          "text": " but maybe it is acceptable trade-off."
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 3770,
+      "duration": 60,
+      "reason": "Dagon seconds and throughput reaction",
+      "pcmSha256": "0895d4ed5712249b7e692fb64c56ec5809f8989aea3995e8832db52b43dfc3f2",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 3770,
+          "end": 3772.82,
+          "text": " to accurate numbers before we actually test it out."
+        },
+        {
+          "start": 3772.82,
+          "end": 3776.78,
+          "text": " So it's not going to be a premium retail experience,"
+        },
+        {
+          "start": 3776.78,
+          "end": 3780.26,
+          "text": " but maybe it is acceptable trade-off"
+        },
+        {
+          "start": 3781.42,
+          "end": 3785.46,
+          "text": " for getting privacy and also getting access"
+        },
+        {
+          "start": 3785.46,
+          "end": 3788.66,
+          "text": " to a lot of liquidity of institutionals"
+        },
+        {
+          "start": 3788.66,
+          "end": 3790.82,
+          "text": " and large buyers and sellers."
+        },
+        {
+          "start": 3791.86,
+          "end": 3794.18,
+          "text": " And it will definitely be able to support"
+        },
+        {
+          "start": 3794.18,
+          "end": 3795.86,
+          "text": " the level of throughput that you need"
+        },
+        {
+          "start": 3795.86,
+          "end": 3797.9,
+          "text": " for a retail-facing DEX."
+        },
+        {
+          "start": 3797.9,
+          "end": 3805.62,
+          "text": " That's foolish. I can't wait a little milliseconds to get that right. And make it in a private"
+        },
+        {
+          "start": 3805.62,
+          "end": 3814.42,
+          "text": " way. Yeah. Thank you. Thank you for that information. I can't wait to see more from"
+        },
+        {
+          "start": 3814.42,
+          "end": 3821.2,
+          "text": " this. Do we have ‑‑ because I'm going to ask the crypto Twitter ‑‑ sorry"
+        },
+        {
+          "start": 3821.2,
+          "end": 3829.08,
+          "text": " for this, but I'm going to ask it. Do you have is for Dagon and probably Lars and Dagon"
+        },
+        {
+          "start": 3829.08,
+          "end": 3831.72,
+          "text": " is going to..."
+        }
+      ]
+    }
+  ],
+  "confirmations": [
+    {
+      "source": "radio3",
+      "start": 3803,
+      "duration": 60,
+      "pcmSha256": "d92b98adcd90030943aa15419d2c945dc25022710f9c966fb36051936c669328",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt independent shorter window",
+      "segments": [
+        {
+          "start": 3803,
+          "end": 3808.84,
+          "text": " Oh, perfect. So yeah, perfect. So in Narentina, we have this thing called Pagamientos, Trispuntos,"
+        },
+        {
+          "start": 3808.84,
+          "end": 3814.36,
+          "text": " Pagos, Trispuntosero, and using Alias, right? Alias is a key. So everybody has like this"
+        },
+        {
+          "start": 3814.36,
+          "end": 3820.28,
+          "text": " unique key to send money, right? So when you open P2P app, you go and say, yeah, I want"
+        },
+        {
+          "start": 3820.28,
+          "end": 3827.6,
+          "text": " to sell $100 to this Alias, to this key, right? So you just enter the key, right? When you"
+        },
+        {
+          "start": 3827.6,
+          "end": 3830.9,
+          "text": " enter the key, that's it. Like the other part we receive, hey,"
+        },
+        {
+          "start": 3830.9,
+          "end": 3836.48,
+          "text": " please send. So $100 will be like something like 14,000 pesos or"
+        },
+        {
+          "start": 3836.48,
+          "end": 3843.18,
+          "text": " something like that. No. Yeah, so just send 40. 140? Yeah, yeah,"
+        },
+        {
+          "start": 3843.2,
+          "end": 3849.14,
+          "text": " it's 1000. Yeah, 100. Sorry. Yeah, 140,000 pesos just sent to"
+        },
+        {
+          "start": 3849.14,
+          "end": 3851.94,
+          "text": " this account. So the other part will open their bank accounts,"
+        },
+        {
+          "start": 3851.96,
+          "end": 3854.42,
+          "text": " they will see just the alias, they won't see the data from"
+        },
+        {
+          "start": 3854.42,
+          "end": 3857.06,
+          "text": " the person, they will see the amount of money, they just open"
+        },
+        {
+          "start": 3857.06,
+          "end": 3861.94,
+          "text": " bank and send the money and go back to the app and say, yeah, just pay the money. That's it. So then"
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 3778,
+      "duration": 40,
+      "pcmSha256": "544f859c43d21e341b8e668f0f4582744e36535f35c1c10ee699bc34aed18ee0",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt independent shorter window",
+      "segments": [
+        {
+          "start": 3778,
+          "end": 3786.8,
+          "text": " is acceptable trade-off for getting privacy and also getting access to a lot of liquidity"
+        },
+        {
+          "start": 3786.8,
+          "end": 3793.5,
+          "text": " of, you know, institutional and large buyers and sellers. And it will definitely be able"
+        },
+        {
+          "start": 3793.5,
+          "end": 3797.84,
+          "text": " to support the level of throughput that you need for a retail-facing index."
+        },
+        {
+          "start": 3797.84,
+          "end": 3805.88,
+          "text": " That's foolish. I can wait a little milliseconds to get much rate. I'll make it in a pre-bite"
+        },
+        {
+          "start": 3805.88,
+          "end": 3817.56,
+          "text": " Yeah. Thank you. Thank you for that information. I can't wait to see more from this. Do we have"
+        }
+      ]
+    }
+  ],
+  "rejectedOutput": [
+    {
+      "source": "radio3",
+      "start": 3838,
+      "end": 3857.48,
+      "reason": "Medium.en repetition loop of 140. Rejected as generated artifact, not published as speech. Original published numeric correction retained; only the currency spelling is edited."
+    }
+  ],
+  "reviews": [
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "audioSha256": "05fce22aa8628e71711bf2e0fa62957a6ef9e5f58eefec4b610c226ab8e2ade7",
+      "researchTranscriptSha256": "95d5a7211f36c9f0e7e5af5887749703409f73556fc03f11ca316b72a26c984e",
+      "previousSegmentsSha256": "d8b39807915cce3ab91d3ff94906c50b54f0659bb589278ceecebf8d38ee4679",
+      "publishedSegmentsSha256": "ed9314c483b9e24c84768e8ee6faad4e40fc0920d8cd44f18f2394595fa39712"
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "audioSha256": "01e87fe4063ce317a5c513644e7e7bc3fe6405fa400ca7d2755475a3ec94f6ec",
+      "researchTranscriptSha256": "f6615225d82bf53d7a0060e69c7e4816165e6e443e5c19b73e347cc86c8898d3",
+      "previousSegmentsSha256": "e4a55bb9779d57362bbd396df5293de7a82751e7e769598afbda619a7004fcae",
+      "publishedSegmentsSha256": "d4224fbcf8ef55e5ea1055fd395245e4a2f91d9951246a4ea6952b636814dc14"
+    }
+  ],
+  "changes": [
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 131,
+      "original": {
+        "start": 3832.81,
+        "end": 3860.45,
+        "text": " $100 would be like something like 14,000 pieces or something like that. Yeah. Yeah. So just say 40 140. Yeah. Yeah. Yeah. Yeah. Yeah. 140,000 pieces just sent to this account. So the other part, we will open their bank accounts. They will see just the alias. They won't see the data from the person. They will see the amount of money. They just open the bank and send the money and go back to the app and say, yeah, just pay the money."
+      },
+      "replacement": {
+        "start": 3832.81,
+        "end": 3860.45,
+        "text": " $100 would be like something like 14,000 pesos or something like that. Yeah. Yeah. So just say 40 140. Yeah. Yeah. Yeah. Yeah. Yeah. 140,000 pesos just sent to this account. So the other part, we will open their bank accounts. They will see just the alias. They won't see the data from the person. They will see the amount of money. They just open the bank and send the money and go back to the app and say, yeah, just pay the money."
+      },
+      "evidence": [
+        "radio3:3800",
+        "radio3:3803",
+        "Preserve the spoken 14,000 followed by the correction to 140,000; no current conversion rate inferred. Medium.en repeated-140 output after 3838 is rejected."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 135,
+      "original": {
+        "start": 3942.91,
+        "end": 3959.73,
+        "text": " until we solve the dispute right and how do you solve the dispute the the merchant side that is the liquid provider we have to prove that he's send the money right so we're always taking from the side of the mission so merchants don't have interest to dox you right because they have their money is taken"
+      },
+      "replacement": {
+        "start": 3942.91,
+        "end": 3959.73,
+        "text": " until we solve the dispute right and how do you solve the dispute the the merchant side that is the liquid provider we have to prove that he sent the money right so we're always taking from the side of the merchant so merchants don't have interest to dox you right because they have their money is staked"
+      },
+      "evidence": [
+        "radio3:3950"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 130,
+      "original": {
+        "start": 3803.18,
+        "end": 3831.38,
+        "text": " Oh, perfect. So, yeah, perfect. So, in Argentina, we have this thing called... And use an alias, right? Alias is a key. So, everybody has this unique key to send money, right? So, when you open P2P app, you go and say, yeah, I want to sell $100 to these alias, to this key, right? So, you just enter the key, right? When you enter the key, that's it. Like, the other part will receive, hey, please send."
+      },
+      "replacement": {
+        "start": 3803.18,
+        "end": 3831.38,
+        "text": " Oh, perfect. So, yeah, perfect. So, in Argentina, we have this thing called [payment-system wording unclear]. And use an alias, right? Alias is a key. So, everybody has this unique key to send money, right? So, when you open P2P app, you go and say, yeah, I want to sell $100 to these alias, to this key, right? So, you just enter the key, right? When you enter the key, that's it. Like, the other part will receive, hey, please send."
+      },
+      "evidence": [
+        "radio3:3800",
+        "radio3:3803",
+        "Both models suggest pagos tres punto cero but do not resolve the complete payment-system wording. Do not substitute an official product name."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 140,
+      "original": {
+        "start": 4057.16,
+        "end": 4079.14,
+        "text": " the liquidity providers. They are the third party here and they are interested in the money they make with the commission, not the data of the participants. Yeah, average liquidity provider is takes like $500 to $700 in Argentina and they make like $200 a month as a liquidity provider."
+      },
+      "replacement": {
+        "start": 4057.16,
+        "end": 4079.14,
+        "text": " the liquidity providers. They are the third party here and they are interested in the money they make with the commission, not the data of the participants. Yeah, average liquidity provider stakes like $500 to $700 in Argentina and they make like $200 a month as a liquidity provider."
+      },
+      "evidence": [
+        "radio3:4050",
+        "Contextual reading from the garbled is takes/it takes phrase and the explicit $700 stake later in the same excerpt."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 142,
+      "original": {
+        "start": 4105.82,
+        "end": 4116.6,
+        "text": " taxes or just access P2P.me. You can go for the support channel. So every country has a support channel in Telegram. Just go there and say, hey guys, I want to be a liquidity provider."
+      },
+      "replacement": {
+        "start": 4105.82,
+        "end": 4116.6,
+        "text": " text us or just access P2P.me. You can go for the support channel. So every country has a support channel in Telegram. Just go there and say, hey guys, I want to be a liquidity provider."
+      },
+      "evidence": [
+        "radio3:4050"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "index": 130,
+      "original": {
+        "start": 3713.08,
+        "end": 3737.46,
+        "text": " multiplication and addition subtraction. We're still doing some bug fixing on the bitwise operations. Once we have all of it, we'll be able to, even before we publish it publicly, we'll be able to work with Larsen for him to test out the exact type of computations that he need and what would be the latency. But it's not going to be probably, I'm assuming, and again,"
+      },
+      "replacement": {
+        "start": 3713.08,
+        "end": 3737.46,
+        "text": " multiplication and addition subtraction. We're still doing some bug fixing on the bitwise operations. Once we have all of it, we'll be able to, even before we publish it publicly, we'll be able to work with Lars for him to test out the exact type of computations that he need and what would be the latency. But it's not going to be probably, I'm assuming, and again,"
+      },
+      "evidence": [
+        "radio15:3680",
+        "Contextual name normalization to Lars, the Dagon guest already identified in this episode. Both models merge the following sound into Larsen."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "index": 132,
+      "original": {
+        "start": 3758.53,
+        "end": 3779.93,
+        "text": " probably in the low end of a couple of seconds. But again, it really, really is dependent on the exact type of computation and operation. So I don't want to give to accurate numbers before we actually test it out. So it's not going to be a premium retail experience, but maybe it is acceptable trade-off."
+      },
+      "replacement": {
+        "start": 3758.53,
+        "end": 3779.93,
+        "text": " probably in the low end of a couple of seconds. But again, it really, really is dependent on the exact type of computation and operation. So I don't want to give too accurate numbers before we actually test it out. So it's not going to be a premium retail experience, but maybe it is acceptable trade-off."
+      },
+      "evidence": [
+        "radio15:3680"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "index": 133,
+      "original": {
+        "start": 3780.66,
+        "end": 3807.22,
+        "text": " for getting privacy and also getting access to a lot of liquidity of institutions and large buyers and sellers. And it will definitely be able to support the level of throughput that you need for a retail-facing DEX. That's foolish. I can't wait a little minute seconds to get that right and make it in a private way. Yeah."
+      },
+      "replacement": {
+        "start": 3780.66,
+        "end": 3807.22,
+        "text": " for getting privacy and also getting access to a lot of liquidity of institutions and large buyers and sellers. And it will definitely be able to support the level of throughput that you need for a retail-facing DEX. That's foolish. I [waiting-time wording unclear] to get that right and make it in a private way. Yeah."
+      },
+      "evidence": [
+        "radio15:3770",
+        "radio15:3778",
+        "The fresh passes suggest milliseconds, but disagree on can versus cannot; the original pass reads minute seconds. Mark the waiting phrase unclear rather than infer a duration, negation or new latency promise."
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "n": 3,
+      "start": 3640,
+      "end": 3705,
+      "note": "Independent audio recheck supports the stated 50% community / 20% investors / 30% team allocation and investors/team locked for at least one year. Preserve this historical pre-ICO statement; it does not establish implemented terms or execution."
+    },
+    {
+      "n": 3,
+      "start": 3800,
+      "end": 3870,
+      "note": "Currency is pesos, not pieces. Keep the spoken 14,000 followed by the correction to 140,000 in the $100 example. The medium.en repeated-140 loop after 3838s is rejected; no repeated speech is added. Shorter small.en confirmation supports the pesos wording and final 140,000. Both passes suggest pagos tres punto cero for the omitted payment-system name, but the complete wording remains explicitly unclear. This illustrative conversion is not a verified historical or current exchange rate."
+    },
+    {
+      "n": 3,
+      "start": 3950,
+      "end": 4005,
+      "note": "Audio supports 1.5% commission per payment as spoken, and money staked rather than money taken. Keep the speaker's profit wording but do not infer a net margin, annualized return or current fee schedule."
+    },
+    {
+      "n": 3,
+      "start": 4050,
+      "end": 4115,
+      "note": "Audio supports the spoken 500-700 stake range, about 200 per month and 200-300 per month from a 700 stake. Stakes is a contextual reading supported by the later explicit stake wording. Correct text us rather than taxes. Preserve the explicit active-work/not-yield caveat. These are anecdotal speaker examples, not guaranteed or verified earnings."
+    },
+    {
+      "n": 15,
+      "start": 3680,
+      "end": 3780,
+      "note": "The recheck supports the explicit assumption of not sub-second and probably a couple of seconds, dependent on the operation and still awaiting testing. Preserve all caveats; no measured benchmark or ready implementation is inferred. Lars is a contextual name correction; both models render Larsen."
+    },
+    {
+      "n": 15,
+      "start": 3770,
+      "end": 3830,
+      "note": "The throughput assertion remains a historical speaker claim, not a measured result. The host waiting phrase is marked unclear: the newer passes suggest milliseconds but disagree on can/cannot, while the original says minute seconds. Do not substitute seconds or manufacture another latency claim. The reaction word foolish is retained because all three passes agree, without inferring speaker sentiment."
+    }
+  ]
+}

@@ -287426,12 +287426,12 @@
       {
         "start": 3803.18,
         "end": 3831.38,
-        "text": " Oh, perfect. So, yeah, perfect. So, in Argentina, we have this thing called... And use an alias, right? Alias is a key. So, everybody has this unique key to send money, right? So, when you open P2P app, you go and say, yeah, I want to sell $100 to these alias, to this key, right? So, you just enter the key, right? When you enter the key, that's it. Like, the other part will receive, hey, please send."
+        "text": " Oh, perfect. So, yeah, perfect. So, in Argentina, we have this thing called [payment-system wording unclear]. And use an alias, right? Alias is a key. So, everybody has this unique key to send money, right? So, when you open P2P app, you go and say, yeah, I want to sell $100 to these alias, to this key, right? So, you just enter the key, right? When you enter the key, that's it. Like, the other part will receive, hey, please send."
       },
       {
         "start": 3832.81,
         "end": 3860.45,
-        "text": " $100 would be like something like 14,000 pieces or something like that. Yeah. Yeah. So just say 40 140. Yeah. Yeah. Yeah. Yeah. Yeah. 140,000 pieces just sent to this account. So the other part, we will open their bank accounts. They will see just the alias. They won't see the data from the person. They will see the amount of money. They just open the bank and send the money and go back to the app and say, yeah, just pay the money."
+        "text": " $100 would be like something like 14,000 pesos or something like that. Yeah. Yeah. So just say 40 140. Yeah. Yeah. Yeah. Yeah. Yeah. 140,000 pesos just sent to this account. So the other part, we will open their bank accounts. They will see just the alias. They won't see the data from the person. They will see the amount of money. They just open the bank and send the money and go back to the app and say, yeah, just pay the money."
       },
       {
         "start": 3860.94,
@@ -287451,7 +287451,7 @@
       {
         "start": 3942.91,
         "end": 3959.73,
-        "text": " until we solve the dispute right and how do you solve the dispute the the merchant side that is the liquid provider we have to prove that he's send the money right so we're always taking from the side of the mission so merchants don't have interest to dox you right because they have their money is taken"
+        "text": " until we solve the dispute right and how do you solve the dispute the the merchant side that is the liquid provider we have to prove that he sent the money right so we're always taking from the side of the merchant so merchants don't have interest to dox you right because they have their money is staked"
       },
       {
         "start": 3960,
@@ -287476,7 +287476,7 @@
       {
         "start": 4057.16,
         "end": 4079.14,
-        "text": " the liquidity providers. They are the third party here and they are interested in the money they make with the commission, not the data of the participants. Yeah, average liquidity provider is takes like $500 to $700 in Argentina and they make like $200 a month as a liquidity provider."
+        "text": " the liquidity providers. They are the third party here and they are interested in the money they make with the commission, not the data of the participants. Yeah, average liquidity provider stakes like $500 to $700 in Argentina and they make like $200 a month as a liquidity provider."
       },
       {
         "start": 4079.76,
@@ -287486,7 +287486,7 @@
       {
         "start": 4105.82,
         "end": 4116.6,
-        "text": " taxes or just access P2P.me. You can go for the support channel. So every country has a support channel in Telegram. Just go there and say, hey guys, I want to be a liquidity provider."
+        "text": " text us or just access P2P.me. You can go for the support channel. So every country has a support channel in Telegram. Just go there and say, hey guys, I want to be a liquidity provider."
       },
       {
         "start": 4117.29,
@@ -287786,7 +287786,7 @@
       ],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "d8b39807915cce3ab91d3ff94906c50b54f0659bb589278ceecebf8d38ee4679"
+      "publishedSegmentsSha256": "ed9314c483b9e24c84768e8ee6faad4e40fc0920d8cd44f18f2394595fa39712"
     },
     "editorialChecks": [
       {
@@ -287812,6 +287812,42 @@
         "end": 2040,
         "status": "targeted-audio-asr-recheck",
         "note": "The independent recheck supports GeSIM targeting 99k for eight months of runway, with two-month product and subsequent two-month marketing phases as spoken. No numeric correction needed; these historical intentions do not establish accepted proceeds, execution or current runway. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 3640,
+        "end": 3705,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Independent audio recheck supports the stated 50% community / 20% investors / 30% team allocation and investors/team locked for at least one year. Preserve this historical pre-ICO statement; it does not establish implemented terms or execution. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 3800,
+        "end": 3870,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Currency is pesos, not pieces. Keep the spoken 14,000 followed by the correction to 140,000 in the $100 example. The medium.en repeated-140 loop after 3838s is rejected; no repeated speech is added. Shorter small.en confirmation supports the pesos wording and final 140,000. Both passes suggest pagos tres punto cero for the omitted payment-system name, but the complete wording remains explicitly unclear. This illustrative conversion is not a verified historical or current exchange rate. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 3950,
+        "end": 4005,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports 1.5% commission per payment as spoken, and money staked rather than money taken. Keep the speaker's profit wording but do not infer a net margin, annualized return or current fee schedule. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 4050,
+        "end": 4115,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports the spoken 500-700 stake range, about 200 per month and 200-300 per month from a 700 stake. Stakes is a contextual reading supported by the later explicit stake wording. Correct text us rather than taxes. Preserve the explicit active-work/not-yield caveat. These are anecdotal speaker examples, not guaranteed or verified earnings. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
         "sources": [
           "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
         ]
@@ -290863,7 +290899,7 @@
       {
         "start": 3713.08,
         "end": 3737.46,
-        "text": " multiplication and addition subtraction. We're still doing some bug fixing on the bitwise operations. Once we have all of it, we'll be able to, even before we publish it publicly, we'll be able to work with Larsen for him to test out the exact type of computations that he need and what would be the latency. But it's not going to be probably, I'm assuming, and again,"
+        "text": " multiplication and addition subtraction. We're still doing some bug fixing on the bitwise operations. Once we have all of it, we'll be able to, even before we publish it publicly, we'll be able to work with Lars for him to test out the exact type of computations that he need and what would be the latency. But it's not going to be probably, I'm assuming, and again,"
       },
       {
         "start": 3738.05,
@@ -290873,12 +290909,12 @@
       {
         "start": 3758.53,
         "end": 3779.93,
-        "text": " probably in the low end of a couple of seconds. But again, it really, really is dependent on the exact type of computation and operation. So I don't want to give to accurate numbers before we actually test it out. So it's not going to be a premium retail experience, but maybe it is acceptable trade-off."
+        "text": " probably in the low end of a couple of seconds. But again, it really, really is dependent on the exact type of computation and operation. So I don't want to give too accurate numbers before we actually test it out. So it's not going to be a premium retail experience, but maybe it is acceptable trade-off."
       },
       {
         "start": 3780.66,
         "end": 3807.22,
-        "text": " for getting privacy and also getting access to a lot of liquidity of institutions and large buyers and sellers. And it will definitely be able to support the level of throughput that you need for a retail-facing DEX. That's foolish. I can't wait a little minute seconds to get that right and make it in a private way. Yeah."
+        "text": " for getting privacy and also getting access to a lot of liquidity of institutions and large buyers and sellers. And it will definitely be able to support the level of throughput that you need for a retail-facing DEX. That's foolish. I [waiting-time wording unclear] to get that right and make it in a private way. Yeah."
       },
       {
         "start": 3807.62,
@@ -291683,7 +291719,7 @@
       ],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "e4a55bb9779d57362bbd396df5293de7a82751e7e769598afbda619a7004fcae"
+      "publishedSegmentsSha256": "d4224fbcf8ef55e5ea1055fd395245e4a2f91d9951246a4ea6952b636814dc14"
     },
     "editorialChecks": [
       {
@@ -291757,6 +291793,24 @@
           "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
           "https://clearsig.xyz",
           "https://ng.linkedin.com/in/orthodox"
+        ]
+      },
+      {
+        "start": 3680,
+        "end": 3780,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The recheck supports the explicit assumption of not sub-second and probably a couple of seconds, dependent on the operation and still awaiting testing. Preserve all caveats; no measured benchmark or ready implementation is inferred. Lars is a contextual name correction; both models render Larsen. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb"
+        ]
+      },
+      {
+        "start": 3770,
+        "end": 3830,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The throughput assertion remains a historical speaker claim, not a measured result. The host waiting phrase is marked unclear: the newer passes suggest milliseconds but disagree on can/cannot, while the original says minute seconds. Do not substitute seconds or manufacture another latency claim. The reaction word foolish is retained because all three passes agree, without inferring speaker sentiment. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb"
         ]
       }
     ]

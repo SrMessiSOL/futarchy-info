@@ -6816,6 +6816,60 @@
           "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
           "https://luma.com/ol2h41rg"
         ]
+      },
+      {
+        "start": 710,
+        "end": 785,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Rechecked Jurassic opening and normalized Tolle/Tolly to the contextual Solana nickname Toly. The recording contains the speaker's claimed support, not independent evidence of an endorsement; no new founder identity inferred from this opening. Method: medium.en int8 CPU beam5, no VAD/prompt/prior conditioning; small.en shorter-window checks for advisor, price and ticker passages. Automated audio comparison, not full manual listening or independent financial/legal/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH"
+        ]
+      },
+      {
+        "start": 1160,
+        "end": 1225,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The advisor discussion names Sora; correct sort and the missing Sora reference, and normalize degen contextually. Both medium.en and a shorter small.en pass support cannot do it alone, reversing the erroneous positive can. Leave the preceding disfluency unclear. Legal, paleontology, auction and tokenization advisor roles remain the speaker's plans, not verified appointments. Method: medium.en int8 CPU beam5, no VAD/prompt/prior conditioning; small.en shorter-window checks for advisor, price and ticker passages. Automated audio comparison, not full manual listening or independent financial/legal/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH"
+        ]
+      },
+      {
+        "start": 1250,
+        "end": 1325,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Both checks read 750 to 1 million without resolving an explicit thousand after 750; mark scale unclear rather than silently publishing 750,000. Preserve the separate one-million USDC / one-million coin example as a proposal, not proof of asset acquisition, token issuance or redemption rights. Correct USDC spelling. Method: medium.en int8 CPU beam5, no VAD/prompt/prior conditioning; small.en shorter-window checks for advisor, price and ticker passages. Automated audio comparison, not full manual listening or independent financial/legal/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH"
+        ]
+      },
+      {
+        "start": 1395,
+        "end": 1475,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports the hypothetical 80 cents on the dollar, 50% LTV, 10k collateral, 5k in USDC and maybe 15% yearly interest examples. Preserve the explicit we do not know yet and advisor caveats. Correct in USDC rather than and USDC. No available loan, assured liquidity or implemented yield claim inferred. Method: medium.en int8 CPU beam5, no VAD/prompt/prior conditioning; small.en shorter-window checks for advisor, price and ticker passages. Automated audio comparison, not full manual listening or independent financial/legal/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH"
+        ]
+      },
+      {
+        "start": 1510,
+        "end": 1575,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Rechecked the illustrative one-million/two-million sale and governance discussion. It remains a hypothetical scenario, not evidence that an SPV, asset sale or governance execution happened. Closing participant name is explicitly unclear rather than presenting Shaq/shirt as verified. Method: medium.en int8 CPU beam5, no VAD/prompt/prior conditioning; small.en shorter-window checks for advisor, price and ticker passages. Automated audio comparison, not full manual listening or independent financial/legal/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH"
+        ]
+      },
+      {
+        "start": 1600,
+        "end": 1675,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The shorter pass supports TRC1 for the first Triceratops and TRC2 for the next. The intervening specimen is a T-Rex costing 3 million; both rechecks transcribe the proposed ticker as T-Rex1. Use that spoken form labelled illustrative spelling; it does not verify the official symbol or a contract. These are tentative historical examples, not current token identifiers or contracts. Method: medium.en int8 CPU beam5, no VAD/prompt/prior conditioning; small.en shorter-window checks for advisor, price and ticker passages. Automated audio comparison, not full manual listening or independent financial/legal/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH"
+        ]
       }
     ]
   },

@@ -6694,6 +6694,42 @@
         "sources": [
           "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
         ]
+      },
+      {
+        "start": 3640,
+        "end": 3705,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Independent audio recheck supports the stated 50% community / 20% investors / 30% team allocation and investors/team locked for at least one year. Preserve this historical pre-ICO statement; it does not establish implemented terms or execution. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 3800,
+        "end": 3870,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Currency is pesos, not pieces. Keep the spoken 14,000 followed by the correction to 140,000 in the $100 example. The medium.en repeated-140 loop after 3838s is rejected; no repeated speech is added. Shorter small.en confirmation supports the pesos wording and final 140,000. Both passes suggest pagos tres punto cero for the omitted payment-system name, but the complete wording remains explicitly unclear. This illustrative conversion is not a verified historical or current exchange rate. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 3950,
+        "end": 4005,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports 1.5% commission per payment as spoken, and money staked rather than money taken. Keep the speaker's profit wording but do not infer a net margin, annualized return or current fee schedule. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 4050,
+        "end": 4115,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports the spoken 500-700 stake range, about 200 per month and 200-300 per month from a 700 stake. Stakes is a contextual reading supported by the later explicit stake wording. Correct text us rather than taxes. Preserve the explicit active-work/not-yield caveat. These are anecdotal speaker examples, not guaranteed or verified earnings. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
       }
     ]
   },
@@ -6896,6 +6932,24 @@
           "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
           "https://clearsig.xyz",
           "https://ng.linkedin.com/in/orthodox"
+        ]
+      },
+      {
+        "start": 3680,
+        "end": 3780,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The recheck supports the explicit assumption of not sub-second and probably a couple of seconds, dependent on the operation and still awaiting testing. Preserve all caveats; no measured benchmark or ready implementation is inferred. Lars is a contextual name correction; both models render Larsen. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb"
+        ]
+      },
+      {
+        "start": 3770,
+        "end": 3830,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The throughput assertion remains a historical speaker claim, not a measured result. The host waiting phrase is marked unclear: the newer passes suggest milliseconds but disagree on can/cannot, while the original says minute seconds. Do not substitute seconds or manufacture another latency claim. The reaction word foolish is retained because all three passes agree, without inferring speaker sentiment. Method: medium.en CPU int8 beam5, no VAD/prompt/prior-text conditioning. Automated audio recheck and editorial comparison, not manual listening or independent financial/product validation.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb"
         ]
       }
     ]

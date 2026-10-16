@@ -1,3 +1,21 @@
+# Numeric and financial-term audio follow-up
+
+Prepared October 16, 2026 after merged PR #50. Its deployment succeeded; #3/#7/#15 corrected text, restored sentence, reader pages and text/JSON downloads were verified live on futarchy.info.
+
+Six medium.en excerpts (6m55s) and two independent shorter small.en checks (1m40s) support eight corrected passages in Radio #3 and #15. This is targeted automated audio review and editorial comparison, not full manual listening or independent financial/product verification.
+
+- P2P allocation: retain the spoken 50% community / 20% investors / 30% team and at-least-one-year lock as a pre-ICO statement, without asserting implementation.
+- Peso example: correct pieces to pesos; preserve the initial 14,000 and subsequent 140,000 correction in the $100 example. The long medium pass produced a repeated-140 loop, explicitly rejected. The independent short check supports the currency and final amount. No exchange rate is inferred. The payment-system wording before the alias example remains explicitly unclear.
+- Merchant commission: recheck supports the spoken 1.5% per payment. Correct side of the merchant, money staked rather than taken, and he sent the money. Profit wording stays attributed to the speaker; no annualized return or current fee schedule inferred.
+- Liquidity-provider example: retain the spoken 500-700 and 200-300 monthly amounts and the explicit active-work/not-yield caveat. Stakes is a contextual correction supported by the later $700 stake wording. Correct text us, previously taxes.
+- Dagon: normalize Larsen to Lars contextually. Preserve not sub-second / probably a couple of seconds and all computation/testing caveats; it is not a measured benchmark. Mark the host waiting-time phrase unclear because passes disagree on can/cannot and original wording. No milliseconds/seconds promise is manufactured.
+
+All original numbers, segment timestamps and source/research hashes are preserved. Evidence: maintenance/radio-numeric-pass-2026-10-16/evidence.json. Rejected output is documented alongside raw model outputs. The new regression test reverses this layer and the older tests continue validating the entire earlier correction chain.
+
+Validation: npm run check passed (60 tests and TypeScript). Local production build passed with npm run build -- --webpack. No merge or deployment of this follow-up.
+
+---
+
 # Founder and product-name audio follow-up
 
 Prepared October 16, 2026 after merged PR #49. Deployment succeeded; the opening and partial-clip corrections, restored phrases, timestamps and text/JSON downloads were verified on futarchy.info.

@@ -1,3 +1,4 @@
+import{beforeNumericReview}from'./radio-numeric-evidence.mjs'
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
@@ -9,7 +10,7 @@ test('recovered Radio audio corrections reconstruct the previous published trans
  const transcripts=read('content/transcripts.json')
  const prior=read('maintenance/recovered-radio-2026-10-15/evidence.json')
  for(const review of evidence.reviews){
-  const t=structuredClone(transcripts.find(t=>t.resourceId===review.resourceId))
+  const t=beforeNumericReview(transcripts.find(t=>t.resourceId===review.resourceId))
   const followup=read('maintenance/radio-founder-pass-2026-10-16/evidence.json')
   for(const c of followup.changes.filter(c=>c.resourceId===t.resourceId).reverse()){
    assert.deepEqual(t.segments[c.index],c.replacement)

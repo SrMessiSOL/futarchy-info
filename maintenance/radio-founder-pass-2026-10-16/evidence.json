@@ -1,0 +1,948 @@
+{
+  "checkedAt": "2026-10-16",
+  "method": "Six targeted medium.en source-audio rechecks plus two small.en shorter-window confirmations. Editorial comparison, not full manual listening or independent verification of product/financial claims. Original segment timestamps preserved; the added CEO phrase uses approximate original-gap boundaries.",
+  "audioRechecks": [
+    {
+      "source": "radio15",
+      "start": 6610,
+      "duration": 75,
+      "reason": "ClearSig agent framework name",
+      "pcmSha256": "be08a8be1381625680565e7be2da140b1397e89cd4a1bd47f1e6ba6c80bbcb58",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 6610,
+          "end": 6616.54,
+          "text": " page and connect my Solana wallet and set up the policies to do that I also can"
+        },
+        {
+          "start": 6616.54,
+          "end": 6621.5,
+          "text": " make the same for my AI agents if I have I don't know a trading agents of"
+        },
+        {
+          "start": 6621.5,
+          "end": 6626.26,
+          "text": " something like that yes you can connect your agents and set policies"
+        },
+        {
+          "start": 6626.26,
+          "end": 6631.86,
+          "text": " you just can't connect your agents for now it's a Hermes agents ball with"
+        },
+        {
+          "start": 6631.86,
+          "end": 6636.94,
+          "text": " them will expand even in self-built agents you just go connect it and set"
+        },
+        {
+          "start": 6636.94,
+          "end": 6643.94,
+          "text": " the top policies for the agents and your agents can start doing it for you."
+        },
+        {
+          "start": 6643.94,
+          "end": 6652.18,
+          "text": " Perfect. I'm sorry, you say Cheminy or I get you wrong. I can connect any agent"
+        },
+        {
+          "start": 6652.18,
+          "end": 6660.34,
+          "text": " or need to be on a specific. Okay, for now it's just Hemis agent but we are"
+        },
+        {
+          "start": 6660.34,
+          "end": 6668.26,
+          "text": " working, acting that way, expanding it so you can connect any agent, be able to set policies for"
+        },
+        {
+          "start": 6668.26,
+          "end": 6677.06,
+          "text": " your agents. Okay, okay, thank you, thank you, thank you very much for that. Perfect, perfect."
+        },
+        {
+          "start": 6679.78,
+          "end": 6684.98,
+          "text": " Let me ask the next question. I see you are already live on the..."
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 6735,
+      "duration": 65,
+      "reason": "ClearSig team roles and count",
+      "pcmSha256": "be3f7efa83074f538869b7ab908223d9b21e181e04c9ebb8f3202bb9e9d2bae3",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 6735,
+          "end": 6741.72,
+          "text": " full-time, how is the 3RC team formed?"
+        },
+        {
+          "start": 6741.72,
+          "end": 6752.28,
+          "text": " Our team members, our CEO and founder, Orthodox, is not here. We have other team members,"
+        },
+        {
+          "start": 6752.28,
+          "end": 6761.56,
+          "text": " we have CTO and our co-founder, Kuluski, and their CMO. It's a group of friends"
+        },
+        {
+          "start": 6761.56,
+          "end": 6767.16,
+          "text": " and that we came together and decided to build this."
+        },
+        {
+          "start": 6770.36,
+          "end": 6779,
+          "text": " Okay, perfect, perfect. So, sorry, you are four or five? I didn't get the count."
+        },
+        {
+          "start": 6779,
+          "end": 6780.44,
+          "text": " We are five, we are five."
+        },
+        {
+          "start": 6780.44,
+          "end": 6789.32,
+          "text": " Five, sorry, sorry, yeah, yeah, yeah. Okay, nice, nice to see. And let me ask this,"
+        },
+        {
+          "start": 6789.32,
+          "end": 6794.92,
+          "text": " because all this space is about probably metadata and futadio, this is the main topic."
+        },
+        {
+          "start": 6796.52,
+          "end": 6799.96,
+          "text": " Are you looking to raise funds? Are you looking..."
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 4665,
+      "duration": 75,
+      "reason": "Stealf runway and minimum raise",
+      "pcmSha256": "40435fbf92b71faf6f17cee59dad39a9e1d903eea7ec5787058b1bd87dca834b",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 4665,
+          "end": 4673.28,
+          "text": " happening on Metadao and Futadio? Can I ask if you have a number about"
+        },
+        {
+          "start": 4673.28,
+          "end": 4680.84,
+          "text": " how much should be a minimal raise to start with real operations like to"
+        },
+        {
+          "start": 4680.84,
+          "end": 4688.48,
+          "text": " scale a little the product and start working more yeah let's say more"
+        },
+        {
+          "start": 4688.48,
+          "end": 4696.72,
+          "text": " Yeah, yeah. Pretty hard to tell, you know, but if you want to get like a runaway about 12 months,"
+        },
+        {
+          "start": 4698,
+          "end": 4705.04,
+          "text": " 14 months for Neobank with all the subscription, like I said, I think like a minimum,"
+        },
+        {
+          "start": 4705.04,
+          "end": 4710.8,
+          "text": " minimum like it's 200K, you know, because we need to pay, like I said, all the subscription"
+        },
+        {
+          "start": 4710.8,
+          "end": 4717.84,
+          "text": " with the banking section, the card, and all from we know also that the marketing side is"
+        },
+        {
+          "start": 4717.84,
+          "end": 4725.52,
+          "text": " very important for that. We saw Avicii do an awesome job with all the marketing aspect."
+        },
+        {
+          "start": 4726.96,
+          "end": 4733.28,
+          "text": " So yeah, a minimum for us is like something like that, to be honest with you."
+        },
+        {
+          "start": 4735.6,
+          "end": 4737.2,
+          "text": " Perfect, sounds fair."
+        }
+      ]
+    },
+    {
+      "source": "radio3",
+      "start": 1970,
+      "duration": 70,
+      "reason": "GeSIM planned raise and runway",
+      "pcmSha256": "9c9699861e720cf518ef315209724560c7ce5d7e9185b7ab8bb018109556a98c",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1970,
+          "end": 1975.48,
+          "text": " Yeah, but what kind of privacy protocol do you use for the on-chain stuff? Is it"
+        },
+        {
+          "start": 1975.48,
+          "end": 1982.96,
+          "text": " Arkeum? Is there anything else? At the moment we are exploring magic block and"
+        },
+        {
+          "start": 1982.96,
+          "end": 1989.8,
+          "text": " potentially we are more open to explore other solutions as well."
+        },
+        {
+          "start": 1989.8,
+          "end": 1995.8,
+          "text": " How much are you going to try to raise on Futario?"
+        },
+        {
+          "start": 1995.8,
+          "end": 2002.8,
+          "text": " We are targeting 99k for eight months of runway."
+        },
+        {
+          "start": 2002.8,
+          "end": 2008.8,
+          "text": " So the first two months we would be focusing on to improve our application slightly."
+        },
+        {
+          "start": 2008.8,
+          "end": 2014.9,
+          "text": " Uh, in next week, we would be have our app live and next two months, we would"
+        },
+        {
+          "start": 2014.9,
+          "end": 2019.06,
+          "text": " be only focused on focusing on acceleration, marketing, acquiring"
+        },
+        {
+          "start": 2019.06,
+          "end": 2020.74,
+          "text": " user and increasing the revenue."
+        },
+        {
+          "start": 2024.74,
+          "end": 2026.62,
+          "text": " I mean, that's pretty broad."
+        },
+        {
+          "start": 2026.7,
+          "end": 2028.1,
+          "text": " How do you exactly do that?"
+        },
+        {
+          "start": 2028.1,
+          "end": 2032.62,
+          "text": " What do you mean by increasing users driving revenue?"
+        },
+        {
+          "start": 2032.9,
+          "end": 2034.98,
+          "text": " Can you be a bit more specific about that?"
+        },
+        {
+          "start": 2036.1,
+          "end": 2037.54,
+          "text": " Yep, absolutely."
+        },
+        {
+          "start": 2037.54,
+          "end": 2038.54,
+          "text": " Absolutely so."
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 5690,
+      "duration": 90,
+      "reason": "Tributary USDC and subscription example",
+      "pcmSha256": "922ea7ff11de059ad1a5881b0d3709ee1a50780e5c1775d56d03993b06c15e79",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 5690,
+          "end": 5692.8,
+          "text": " have a customer that has to pay like 10 bucks a month"
+        },
+        {
+          "start": 5692.8,
+          "end": 5696.08,
+          "text": " or something, you set up a vault and let them fund the vault"
+        },
+        {
+          "start": 5696.08,
+          "end": 5700.32,
+          "text": " and then you withdraw money from that company owned vault,"
+        },
+        {
+          "start": 5700.32,
+          "end": 5701.16,
+          "text": " so to speak."
+        },
+        {
+          "start": 5701.16,
+          "end": 5704.64,
+          "text": " But then a lot of people don't really go"
+        },
+        {
+          "start": 5704.64,
+          "end": 5707.6,
+          "text": " for subscription payments because they feel"
+        },
+        {
+          "start": 5707.6,
+          "end": 5709.56,
+          "text": " like implementing fees or something"
+        },
+        {
+          "start": 5709.56,
+          "end": 5713.14,
+          "text": " on a transaction based level makes more sense for them."
+        },
+        {
+          "start": 5713.14,
+          "end": 5718,
+          "text": " Anyways, this problem is essentially why I wanted"
+        },
+        {
+          "start": 5718,
+          "end": 5719.64,
+          "text": " to build Tributary."
+        },
+        {
+          "start": 5719.64,
+          "end": 5724.64,
+          "text": " I wanted to have a way to automate payments on Solana"
+        },
+        {
+          "start": 5724.92,
+          "end": 5729.68,
+          "text": " using stablecoins, USDC, or whatever you prefer,"
+        },
+        {
+          "start": 5730.72,
+          "end": 5734.96,
+          "text": " and essentially re-implement what you can do with Stripe."
+        },
+        {
+          "start": 5734.96,
+          "end": 5739.96,
+          "text": " But it became clear to me that no one's really doing it"
+        },
+        {
+          "start": 5740.24,
+          "end": 5741.8,
+          "text": " the way I wanted it to do."
+        },
+        {
+          "start": 5741.8,
+          "end": 5743.24,
+          "text": " There's like two or three players"
+        },
+        {
+          "start": 5743.24,
+          "end": 5745.68,
+          "text": " that do subscription payments."
+        },
+        {
+          "start": 5745.68,
+          "end": 5754.72,
+          "text": " The most prominent one is Helio. They have subscriptions. As a service developer on Solana,"
+        },
+        {
+          "start": 5754.72,
+          "end": 5758.96,
+          "text": " you can go to them and say, I want to set up a subscription for my customer here,"
+        },
+        {
+          "start": 5758.96,
+          "end": 5764.64,
+          "text": " pay 10 dollars a month or something. What they do is they just send you a message"
+        },
+        {
+          "start": 5764.64,
+          "end": 5768.48,
+          "text": " when the payment becomes due. Then they send you a link, you have to click the link,"
+        },
+        {
+          "start": 5768.48,
+          "end": 5774.96,
+          "text": " and then all the entire transactions signing hubris starts again. That is something where"
+        },
+        {
+          "start": 5774.96,
+          "end": 5779.76,
+          "text": " businesses actually lose their customers. Like a lot of customers. This is..."
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 8220,
+      "duration": 75,
+      "reason": "anonmesh guest name and introduction",
+      "pcmSha256": "bffeee407c9f78b730c17e5d7a312a4976eb6196872eeec35e04875c0df075b9",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 8220,
+          "end": 8224,
+          "text": " And they told us, maybe they'll show you later,"
+        },
+        {
+          "start": 8224,
+          "end": 8231.56,
+          "text": " we can move for the next one and leave Milian for the next."
+        },
+        {
+          "start": 8231.56,
+          "end": 8239.36,
+          "text": " So we have already Dusi Len here from Ireland."
+        },
+        {
+          "start": 8239.36,
+          "end": 8240.04,
+          "text": " Welcome."
+        },
+        {
+          "start": 8240.04,
+          "end": 8242.88,
+          "text": " You already made that question."
+        },
+        {
+          "start": 8242.88,
+          "end": 8244.88,
+          "text": " How are you?"
+        },
+        {
+          "start": 8244.88,
+          "end": 8245.76,
+          "text": " How are you, bro?"
+        },
+        {
+          "start": 8245.76,
+          "end": 8246.26,
+          "text": " How are you?"
+        },
+        {
+          "start": 8246.26,
+          "end": 8247.16,
+          "text": " What's going on?"
+        },
+        {
+          "start": 8247.16,
+          "end": 8248.28,
+          "text": " It's good to be here."
+        },
+        {
+          "start": 8248.28,
+          "end": 8249.28,
+          "text": " All good, all good."
+        },
+        {
+          "start": 8249.28,
+          "end": 8252.1,
+          "text": " This is my first time on here, so it's new to me."
+        },
+        {
+          "start": 8252.1,
+          "end": 8252.6,
+          "text": " Thanks."
+        },
+        {
+          "start": 8252.6,
+          "end": 8253.44,
+          "text": " Thanks for joining."
+        },
+        {
+          "start": 8253.44,
+          "end": 8258.4,
+          "text": " Thanks for making questions, good questions, by the way."
+        },
+        {
+          "start": 8258.4,
+          "end": 8261.68,
+          "text": " Please tell us what we are building"
+        },
+        {
+          "start": 8261.68,
+          "end": 8268.44,
+          "text": " while I change the title and I post up your things here."
+        },
+        {
+          "start": 8268.44,
+          "end": 8269.76,
+          "text": " Of course, of course."
+        },
+        {
+          "start": 8269.76,
+          "end": 8271.44,
+          "text": " I wouldn't say I'm the best person"
+        },
+        {
+          "start": 8271.44,
+          "end": 8275.24,
+          "text": " to explain what we're doing, but I'll try my best."
+        },
+        {
+          "start": 8275.24,
+          "end": 8279,
+          "text": " But basically, we're trying to build the off-grid freedom"
+        },
+        {
+          "start": 8279,
+          "end": 8287,
+          "text": " and what that entails is you can send messages and transactions without direct"
+        },
+        {
+          "start": 8287,
+          "end": 8293.2,
+          "text": " access to internet every individual person who has the app it is a node so"
+        },
+        {
+          "start": 8293.2,
+          "end": 8296,
+          "text": " it just relays"
+        }
+      ]
+    }
+  ],
+  "confirmations": [
+    {
+      "source": "radio15",
+      "start": 6624,
+      "duration": 48,
+      "pcmSha256": "d4c719ffe0179e4ade14cef900b82c0d7f6215d629b84566f5f2f5540412a333",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt independent shorter window",
+      "segments": [
+        {
+          "start": 6624,
+          "end": 6630,
+          "text": " your agents and set policies. You just can't connect your agents. For now, it's HEMI's"
+        },
+        {
+          "start": 6630,
+          "end": 6637.28,
+          "text": " agent board. With them, we expand even in self-built agents. You just go connect it and set up"
+        },
+        {
+          "start": 6637.28,
+          "end": 6642,
+          "text": " policies for your agents. Your agents can start doing it for you."
+        },
+        {
+          "start": 6644.4,
+          "end": 6653.04,
+          "text": " Perfect. I'm sorry. You say Cheminy or I get too wrong. I can't connect any agent or"
+        },
+        {
+          "start": 6653.04,
+          "end": 6660.72,
+          "text": " need to be on a specific uh okay for now it's just hemis agent but we are working"
+        },
+        {
+          "start": 6661.76,
+          "end": 6668.08,
+          "text": " actually not that we're expanding it so you can correct any agent be able to set policies"
+        },
+        {
+          "start": 6668.08,
+          "end": 6671.6,
+          "text": " for your agents, HEMIS, HEMIS agency."
+        },
+        {
+          "start": 6671.6,
+          "end": 6672.6,
+          "text": " Oh, sh-"
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 6738,
+      "duration": 32,
+      "pcmSha256": "96476cad8dfc639861b4415e1221ea669531d27750c2a6aff6b83586dc841b42",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt independent shorter window",
+      "segments": [
+        {
+          "start": 6738,
+          "end": 6751.84,
+          "text": " We have some team members, our CEO and founder, Autodox, he's not here, and we have other"
+        },
+        {
+          "start": 6751.84,
+          "end": 6761.24,
+          "text": " team members, we have the CTO and our co-founder, Koloski, and their CMO, so it's a group of"
+        },
+        {
+          "start": 6761.24,
+          "end": 6767,
+          "text": " friends and that we came together and decided to build this."
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "audioSha256": "05fce22aa8628e71711bf2e0fa62957a6ef9e5f58eefec4b610c226ab8e2ade7",
+      "researchTranscriptSha256": "95d5a7211f36c9f0e7e5af5887749703409f73556fc03f11ca316b72a26c984e",
+      "previousSegmentsSha256": "d8b39807915cce3ab91d3ff94906c50b54f0659bb589278ceecebf8d38ee4679",
+      "publishedSegmentsSha256": "d8b39807915cce3ab91d3ff94906c50b54f0659bb589278ceecebf8d38ee4679"
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "audioSha256": "b32fb1017193f41bef47d376e43daee863c730142958693ebad3e93db9b68d00",
+      "researchTranscriptSha256": "4b0cdc3504038c98b581995f6e9bb5d05cde8cff478ca24537e79c050495a1b6",
+      "previousSegmentsSha256": "1fec312797f337597c1891b25e31703031a84d73348b84e2fc732b67ca785f3b",
+      "publishedSegmentsSha256": "c9800121902ae93df75475cac3b1fd95c9ca0a52d91b41563ca4b6f4ec3189c6"
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "audioSha256": "01e87fe4063ce317a5c513644e7e7bc3fe6405fa400ca7d2755475a3ec94f6ec",
+      "researchTranscriptSha256": "f6615225d82bf53d7a0060e69c7e4816165e6e443e5c19b73e347cc86c8898d3",
+      "previousSegmentsSha256": "a714d1d819b324b2d701871848c749f4e54e6954b7f558ef6cd0cb9eb945abe4",
+      "publishedSegmentsSha256": "e4a55bb9779d57362bbd396df5293de7a82751e7e769598afbda619a7004fcae"
+    }
+  ],
+  "changes": [
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 239,
+      "original": {
+        "start": 6622.54,
+        "end": 6652.58,
+        "text": " Yes, you can connect your agents and set policies. You just come connect your agents for now. It's Hamis agents ball with them will expand even in South good agents. You just go connect it and set up policies for agents Your agents can start training for you. Perfect. I'm sorry you say Shemini or I I get to wrong. I can't connect any agent or"
+      },
+      "replacement": {
+        "start": 6622.54,
+        "end": 6652.58,
+        "text": " Yes, you can connect your agents and set policies. You just can't connect your agents. For now, it's [agent name unclear] agents [wording unclear] with them will expand even in self-built agents. You just go connect it and set up policies for agents Your agents can start doing it for you. Perfect. I'm sorry you say [name unclear] or I I get to wrong. I can't connect any agent or"
+      },
+      "evidence": [
+        "radio15:6610",
+        "radio15:6624"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 240,
+      "original": {
+        "start": 6653.02,
+        "end": 6659.74,
+        "text": " need to be on a specific uh okay for now it's just i miss agent"
+      },
+      "replacement": {
+        "start": 6653.02,
+        "end": 6659.74,
+        "text": " need to be on a specific uh okay for now it's just [agent name unclear] agents"
+      },
+      "evidence": [
+        "radio15:6610",
+        "radio15:6624"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 241,
+      "original": {
+        "start": 6660,
+        "end": 6685.42,
+        "text": " we are working on that we are expanding it so you can connect any agents to be able to set policies for agents, Hemis, Hemis, agents. Okay, okay, thank you, thank you very much for that. Perfect, perfect. Let me ask the next question. You are, I see you are already live on DevNet."
+      },
+      "replacement": {
+        "start": 6660,
+        "end": 6685.42,
+        "text": " we are working on that we are expanding it so you can connect any agents to be able to set policies for agents, [agent name unclear], [agent name unclear], agents. Okay, okay, thank you, thank you very much for that. Perfect, perfect. Let me ask the next question. You are, I see you are already live on DevNet."
+      },
+      "evidence": [
+        "radio15:6610",
+        "radio15:6624"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 244,
+      "original": {
+        "start": 6750.67,
+        "end": 6782.34,
+        "text": " We have products in them, but we have a city and our co-founder, Koloski, and their CMO, so it's a group of friends that we came together and decided to build this. Okay, perfect, perfect. So, sorry, you are four or five? I didn't get the account. We are five. Sorry, sorry, yeah, yeah, yeah."
+      },
+      "replacement": {
+        "start": 6750.67,
+        "end": 6782.34,
+        "text": " We have other team members, we have the CTO and our co-founder, [name unclear], and their CMO, so it's a group of friends that we came together and decided to build this. Okay, perfect, perfect. So, sorry, you are four or five? I didn't get the account. We are five. Sorry, sorry, yeah, yeah, yeah."
+      },
+      "evidence": [
+        "radio15:6735",
+        "radio15:6738"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 166,
+      "original": {
+        "start": 4654.37,
+        "end": 4679.74,
+        "text": " I think Umbra team is pretty good. So, thank you for that. Okay, so the Umbra team maybe you take a look of what's happening on MetaDAO on Futardio. Can I ask if you have a number about how much should be a minimal race to start with real operations?"
+      },
+      "replacement": {
+        "start": 4654.37,
+        "end": 4679.74,
+        "text": " I think Umbra team is pretty good. So, thank you for that. Okay, so the Umbra team maybe you take a look of what's happening on MetaDAO on Futardio. Can I ask if you have a number about how much should be a minimal raise to start with real operations?"
+      },
+      "evidence": [
+        "radio15:4665"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 167,
+      "original": {
+        "start": 4680,
+        "end": 4705.99,
+        "text": " like to scale a little, the product and start working more. Yeah, let's say more. Yeah, yeah. Pretty hard to tell, you know, but if you want to get like around the way about 12 months, 14 months for a new bank with all the subscription, like I said, I think like a minimum, minimum like this."
+      },
+      "replacement": {
+        "start": 4680,
+        "end": 4705.99,
+        "text": " like to scale a little, the product and start working more. Yeah, let's say more. Yeah, yeah. Pretty hard to tell, you know, but if you want to get like a runway about 12 months, 14 months for a neobank with all the subscription, like I said, I think like a minimum, minimum like this."
+      },
+      "evidence": [
+        "radio15:4665"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 168,
+      "original": {
+        "start": 4706.46,
+        "end": 4737.02,
+        "text": " 200k, you know, because we need to pay, like I said, the other subscription with the banking section, the card, on our front window. Also that the marketing side is very important for that. We saw Avici, we do a Nelson job with all the marketing aspect. So, yeah, for a minimum for us, it's like something like that, to be honest with you. Perfect. Sounds fair."
+      },
+      "replacement": {
+        "start": 4706.46,
+        "end": 4737.02,
+        "text": " 200k, you know, because we need to pay, like I said, the other subscription with the banking section, the card, on our front window. Also that the marketing side is very important for that. We saw Avici do an awesome job with all the marketing aspect. So, yeah, for a minimum for us, it's like something like that, to be honest with you. Perfect. Sounds fair."
+      },
+      "evidence": [
+        "radio15:4665"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-7-recording",
+      "index": 197,
+      "original": {
+        "start": 5670.41,
+        "end": 5699.87,
+        "text": " If you want subscriptions or automated repayments or usage-based billing or like scheduled payouts or something like nature and control spending, everyone that needs that still kind of has to build this on your own, right? And the usual approach is that if you have a customer that has to pay like 10 bucks a month or something, you set up a vault and let them front the vault and then you withdraw money from that company-owned vault."
+      },
+      "replacement": {
+        "start": 5670.41,
+        "end": 5699.87,
+        "text": " If you want subscriptions or automated repayments or usage-based billing or like scheduled payouts or something like nature and control spending, everyone that needs that still kind of has to build this on your own, right? And the usual approach is that if you have a customer that has to pay like 10 bucks a month or something, you set up a vault and let them fund the vault and then you withdraw money from that company-owned vault."
+      },
+      "evidence": [
+        "radio7:5690"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-7-recording",
+      "index": 198,
+      "original": {
+        "start": 5700.19,
+        "end": 5729.18,
+        "text": " so to speak, but then a lot of people don't really go for subscription payments because they feel like implementing fees or something on a transaction based level makes more sense for them. Anyways, this problem is essentially why I wanted to build tributary. I wanted to have a way to automate payments on Solana using stablecoins, use DC or whatever you prefer."
+      },
+      "replacement": {
+        "start": 5700.19,
+        "end": 5729.18,
+        "text": " so to speak, but then a lot of people don't really go for subscription payments because they feel like implementing fees or something on a transaction based level makes more sense for them. Anyways, this problem is essentially why I wanted to build Tributary. I wanted to have a way to automate payments on Solana using stablecoins, USDC or whatever you prefer."
+      },
+      "evidence": [
+        "radio7:5690"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-7-recording",
+      "index": 199,
+      "original": {
+        "start": 5730.56,
+        "end": 5759.64,
+        "text": " and essentially re-implement what you can do with Stripe. But it became clear to me that no one's really doing it the way I wanted it to do. There's like two or three players that do subscription payments. The most prominent one is Helio or Helio. They have subscriptions, so as a service developer on Solana, you can go to them and say I want to set up a subscription for my customer year, pay $10."
+      },
+      "replacement": {
+        "start": 5730.56,
+        "end": 5759.64,
+        "text": " and essentially re-implement what you can do with Stripe. But it became clear to me that no one's really doing it the way I wanted it to do. There's like two or three players that do subscription payments. The most prominent one is Helio or Helio. They have subscriptions, so as a service developer on Solana, you can go to them and say I want to set up a subscription for my customer here, pay $10."
+      },
+      "evidence": [
+        "radio7:5690"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-7-recording",
+      "index": 200,
+      "original": {
+        "start": 5760,
+        "end": 5788.38,
+        "text": " months or something and what they do is they just send you a message when the payment becomes due right and then they send you a link you have to click the link and then all the entire transactions signing hubris starts again and that is something where businesses actually use their customers like a lot of customers this is this is payment friction par excellence and the way tributary essentially works is you"
+      },
+      "replacement": {
+        "start": 5760,
+        "end": 5788.38,
+        "text": " a month or something and what they do is they just send you a message when the payment becomes due right and then they send you a link you have to click the link and then all the entire transactions signing hubris starts again and that is something where businesses actually lose their customers like a lot of customers this is this is payment friction par excellence and the way tributary essentially works is you"
+      },
+      "evidence": [
+        "radio7:5690"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-7-recording",
+      "index": 294,
+      "original": {
+        "start": 8194.33,
+        "end": 8229.13,
+        "text": " He's been on the speaker for a long time since we started. Thank you for showing in million. How are you? First time we talk. Are you there? Can you showing us? Oh, okay. I think not maybe. We can wait a little more for million. They told us maybe to show later. We can move for the next one and leave million for the next."
+      },
+      "replacement": {
+        "start": 8194.33,
+        "end": 8229.13,
+        "text": " He's been on the speaker for a long time since we started. Thank you for showing in Milian. How are you? First time we talk. Are you there? Can you showing us? Oh, okay. I think not maybe. We can wait a little more for Milian. They told us maybe to show later. We can move for the next one and leave Milian for the next."
+      },
+      "evidence": [
+        "radio7:8220",
+        "Contextual name normalization in the same Arcium guest introduction; the earlier part of this segment was not separately retranscribed.",
+        "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc"
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-7-recording",
+      "index": 295,
+      "original": {
+        "start": 8232.39,
+        "end": 8259.72,
+        "text": " So we have already Lucy Len here from Ireland. Welcome. You are ready to make that question. How are you? How are you, bro? How are you? What's going on? It's good to be here. Oh, good. This is my first time on here. So it's new to me. Thanks. Thanks for joining. Thanks for making questions. Good questions, by the way. And please tell us."
+      },
+      "replacement": {
+        "start": 8232.39,
+        "end": 8259.72,
+        "text": " So we have already Dusilen [name spelling inferred] here from Ireland. Welcome. You are ready to make that question. How are you? How are you, bro? How are you? What's going on? It's good to be here. Oh, good. This is my first time on here. So it's new to me. Thanks. Thanks for joining. Thanks for making questions. Good questions, by the way. And please tell us."
+      },
+      "evidence": [
+        "radio7:8220",
+        "https://luma.com/ol2h41rg",
+        "Medium.en reads Dusi Len; the related Superteam Ireland event lists Shawn Dusilen. Spelling is inferred, not a verified full identity or voice attribution."
+      ]
+    },
+    {
+      "operation": "replace",
+      "resourceId": "ownership-radio-7-recording",
+      "index": 296,
+      "original": {
+        "start": 8260.09,
+        "end": 8279.12,
+        "text": " what we are willing, while I change the title and I post up your things here. Of course, of course. I wouldn't say I'm the best person to explain what we're doing, but I'll try my best. But basically, we're trying to build the off-grid freedom app."
+      },
+      "replacement": {
+        "start": 8260.09,
+        "end": 8279.12,
+        "text": " what we are building, while I change the title and I post up your things here. Of course, of course. I wouldn't say I'm the best person to explain what we're doing, but I'll try my best. But basically, we're trying to build the off-grid freedom app."
+      },
+      "evidence": [
+        "radio7:8220"
+      ]
+    },
+    {
+      "operation": "insert",
+      "resourceId": "ownership-radio-15-recording",
+      "index": 244,
+      "original": null,
+      "replacement": {
+        "start": 6739.77,
+        "end": 6750.67,
+        "text": " We have some team members. Our CEO and founder, Orthodox, he's not here."
+      },
+      "evidence": [
+        "radio15:6735",
+        "radio15:6738",
+        "https://ng.linkedin.com/in/orthodox"
+      ],
+      "timing": "Approximate phrase placement using the original gap boundaries; not manually word-aligned."
+    }
+  ],
+  "findings": [
+    {
+      "n": 15,
+      "start": 6610,
+      "end": 6685,
+      "note": "The two passes support a restricted agent path followed by plans to expand to self-built agents, and doing it rather than training. Restored the negative can't in the limiting sentence. The name sounds like Hermes in medium.en and HEMI/Hemis in small.en; it remains [agent name unclear]. The host's attempted repetition is also unclear. No current integration support inferred."
+    },
+    {
+      "n": 15,
+      "start": 6735,
+      "end": 6800,
+      "note": "Two passes recover the omitted CEO/founder introduction: Orthodox, he's not here. The profile at /in/orthodox identifies Alumi Micah building ClearSig, supporting alias spelling without adding a full legal name to the transcript. Correct CTO and retain five team members as a speaker statement. Kuluski/Koloski cofounder spelling remains unclear. The restored phrase uses approximate original-gap boundaries."
+    },
+    {
+      "n": 15,
+      "start": 4665,
+      "end": 4740,
+      "note": "Audio supports the speaker's rough 12-14 month runway and minimum 200k estimate. Correct runway, neobank, minimal raise and the garbled praise of Avici's marketing. These are historical plans, not a successful raise or independently validated budget."
+    },
+    {
+      "n": 3,
+      "start": 1970,
+      "end": 2040,
+      "note": "The independent recheck supports GeSIM targeting 99k for eight months of runway, with two-month product and subsequent two-month marketing phases as spoken. No numeric correction needed; these historical intentions do not establish accepted proceeds, execution or current runway."
+    },
+    {
+      "n": 7,
+      "start": 5690,
+      "end": 5780,
+      "note": "Audio supports USDC, funding the vault, the $10-a-month example and the phrase businesses actually lose their customers. Correct the garbled stablecoin/unit/verb wording; the Helio comparison remains a historical speaker claim, not independently verified current product behavior."
+    },
+    {
+      "n": 7,
+      "start": 8220,
+      "end": 8295,
+      "note": "The new audio pass reads Dusi Len rather than Lucy Len. A related Superteam Ireland event lists Shawn Dusilen; use Dusilen with an explicit name-spelling-inferred marker, without asserting full identity or independent voice identification. Correct building and the preceding contextual Milian references."
+    }
+  ],
+  "referenceSources": [
+    "https://clearsig.xyz",
+    "https://ng.linkedin.com/in/orthodox",
+    "https://github.com/NousResearch/hermes-agent",
+    "https://luma.com/ol2h41rg",
+    "https://github.com/anonmesh/mobile_app"
+  ]
+}

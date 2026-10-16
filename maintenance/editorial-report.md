@@ -1,3 +1,22 @@
+# Founder and product-name audio follow-up
+
+Prepared October 16, 2026 after merged PR #49. Deployment succeeded; the opening and partial-clip corrections, restored phrases, timestamps and text/JSON downloads were verified on futarchy.info.
+
+Six medium.en excerpts (7m30s) and two shorter small.en checks (1m20s) support 14 text edits and one restored phrase across Radio #7 and #15, plus a documented number recheck for #3. These are targeted automated audio checks with editorial comparison, not full manual listening.
+
+- ClearSig: restore the omitted CEO/founder sentence naming Orthodox and saying he is not present. The profile alias corroborates spelling; no full legal identity added to the transcript. Approximate insertion timing uses the original gap. Correct CTO; retain five as the spoken team count. The other cofounder's spelling stays unclear.
+- ClearSig agent discussion: restore can't in the limiting sentence, self-built agents and doing it rather than training. Hermes is a possible reading; medium/small passes do not settle it, so the name and host repetition stay explicitly unclear. Current integration support is not inferred.
+- Stealf: correct minimal raise, runway, neobank and Avici marketing wording. Audio supports the rough 12-14 month/200k estimate as a historical plan.
+- GeSIM: recheck supports 99k for eight months of runway; no numeric correction needed. Planned raise does not establish accepted proceeds or execution.
+- Tributary: correct USDC, fund the vault, customer here, a month, and lose their customers. Retain the $10-a-month example and the historical Helio comparison as speaker claims.
+- anonmesh: medium.en reads Dusi Len where the published transcript said Lucy Len. A related Superteam Ireland event lists Shawn Dusilen. Use Dusilen with an explicit spelling-inferred marker; do not claim a verified full identity. Correct building and contextual Milian references.
+
+Evidence: maintenance/radio-founder-pass-2026-10-16/evidence.json includes raw model outputs, PCM hashes, before/after segments and hashes. The new regression test reconstructs PR #48's previous published hashes, and the earlier test now reverses this new layer before checking its original evidence. All original segment times and audio/research hashes are preserved. Radio #1/#5 assets and the partial-clips status are unchanged in this follow-up.
+
+Validation: npm run check passed with 59 tests and TypeScript. Local production build passed with npm run build -- --webpack; hosted standard build required. No merge or deployment of this follow-up.
+
+---
+
 # Radio opening and partial-clips audio follow-up
 
 Prepared October 16, 2026, following merged PR #48. Its deployment succeeded; all #3/#7/#15 merged text and downloadable transcripts were verified live on futarchy.info. Public timing matches within floating-point formatting tolerance.

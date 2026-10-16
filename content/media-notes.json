@@ -6685,6 +6685,15 @@
         "sources": [
           "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
         ]
+      },
+      {
+        "start": 1970,
+        "end": 2040,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The independent recheck supports GeSIM targeting 99k for eight months of runway, with two-month product and subsequent two-month marketing phases as spoken. No numeric correction needed; these historical intentions do not establish accepted proceeds, execution or current runway. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
       }
     ]
   },
@@ -6750,6 +6759,26 @@
           "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
           "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
           "https://superteam.fun/earn/listing/encrypt-ika-frontier-april-2026/"
+        ]
+      },
+      {
+        "start": 5690,
+        "end": 5780,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports USDC, funding the vault, the $10-a-month example and the phrase businesses actually lose their customers. Correct the garbled stablecoin/unit/verb wording; the Helio comparison remains a historical speaker claim, not independently verified current product behavior. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+          "https://luma.com/ol2h41rg"
+        ]
+      },
+      {
+        "start": 8220,
+        "end": 8295,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The new audio pass reads Dusi Len rather than Lucy Len. A related Superteam Ireland event lists Shawn Dusilen; use Dusilen with an explicit name-spelling-inferred marker, without asserting full identity or independent voice identification. Correct building and the preceding contextual Milian references. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+          "https://luma.com/ol2h41rg"
         ]
       }
     ]
@@ -6834,6 +6863,39 @@
         "sources": [
           "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
           "https://superteam.fun/earn/t/Daniel_Authensus"
+        ]
+      },
+      {
+        "start": 6610,
+        "end": 6685,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The two passes support a restricted agent path followed by plans to expand to self-built agents, and doing it rather than training. Restored the negative can't in the limiting sentence. The name sounds like Hermes in medium.en and HEMI/Hemis in small.en; it remains [agent name unclear]. The host's attempted repetition is also unclear. No current integration support inferred. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://clearsig.xyz",
+          "https://ng.linkedin.com/in/orthodox"
+        ]
+      },
+      {
+        "start": 6735,
+        "end": 6800,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Two passes recover the omitted CEO/founder introduction: Orthodox, he's not here. The profile at /in/orthodox identifies Alumi Micah building ClearSig, supporting alias spelling without adding a full legal name to the transcript. Correct CTO and retain five team members as a speaker statement. Kuluski/Koloski cofounder spelling remains unclear. The restored phrase uses approximate original-gap boundaries. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://clearsig.xyz",
+          "https://ng.linkedin.com/in/orthodox"
+        ]
+      },
+      {
+        "start": 4665,
+        "end": 4740,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports the speaker's rough 12-14 month runway and minimum 200k estimate. Correct runway, neobank, minimal raise and the garbled praise of Avici's marketing. These are historical plans, not a successful raise or independently validated budget. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://clearsig.xyz",
+          "https://ng.linkedin.com/in/orthodox"
         ]
       }
     ]

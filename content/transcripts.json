@@ -287775,7 +287775,7 @@
       }
     ],
     "qualityAudit": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "method": "Every generated segment read in context; targeted terminology corrections logged. Automated timing and repetition check. Not complete manual listening or independent factual validation.",
       "untranscribedIntervals": [
         {
@@ -287803,6 +287803,15 @@
         "end": 1880,
         "status": "targeted-audio-asr-recheck",
         "note": "Targeted medium.en recheck reads 530 users and 180 actively paying. Replaced garbled user-count wording with 530; these remain the speaker's traction claims, not independently verified metrics. Method: medium.en CPU int8, beam 5, no prompt or prior-text conditioning. Automated audio recheck with editorial comparison; not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
+        ]
+      },
+      {
+        "start": 1970,
+        "end": 2040,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The independent recheck supports GeSIM targeting 99k for eight months of runway, with two-month product and subsequent two-month marketing phases as spoken. No numeric correction needed; these historical intentions do not establish accepted proceeds, execution or current runway. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
         "sources": [
           "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK"
         ]
@@ -288818,22 +288827,22 @@
       {
         "start": 5670.41,
         "end": 5699.87,
-        "text": " If you want subscriptions or automated repayments or usage-based billing or like scheduled payouts or something like nature and control spending, everyone that needs that still kind of has to build this on your own, right? And the usual approach is that if you have a customer that has to pay like 10 bucks a month or something, you set up a vault and let them front the vault and then you withdraw money from that company-owned vault."
+        "text": " If you want subscriptions or automated repayments or usage-based billing or like scheduled payouts or something like nature and control spending, everyone that needs that still kind of has to build this on your own, right? And the usual approach is that if you have a customer that has to pay like 10 bucks a month or something, you set up a vault and let them fund the vault and then you withdraw money from that company-owned vault."
       },
       {
         "start": 5700.19,
         "end": 5729.18,
-        "text": " so to speak, but then a lot of people don't really go for subscription payments because they feel like implementing fees or something on a transaction based level makes more sense for them. Anyways, this problem is essentially why I wanted to build tributary. I wanted to have a way to automate payments on Solana using stablecoins, use DC or whatever you prefer."
+        "text": " so to speak, but then a lot of people don't really go for subscription payments because they feel like implementing fees or something on a transaction based level makes more sense for them. Anyways, this problem is essentially why I wanted to build Tributary. I wanted to have a way to automate payments on Solana using stablecoins, USDC or whatever you prefer."
       },
       {
         "start": 5730.56,
         "end": 5759.64,
-        "text": " and essentially re-implement what you can do with Stripe. But it became clear to me that no one's really doing it the way I wanted it to do. There's like two or three players that do subscription payments. The most prominent one is Helio or Helio. They have subscriptions, so as a service developer on Solana, you can go to them and say I want to set up a subscription for my customer year, pay $10."
+        "text": " and essentially re-implement what you can do with Stripe. But it became clear to me that no one's really doing it the way I wanted it to do. There's like two or three players that do subscription payments. The most prominent one is Helio or Helio. They have subscriptions, so as a service developer on Solana, you can go to them and say I want to set up a subscription for my customer here, pay $10."
       },
       {
         "start": 5760,
         "end": 5788.38,
-        "text": " months or something and what they do is they just send you a message when the payment becomes due right and then they send you a link you have to click the link and then all the entire transactions signing hubris starts again and that is something where businesses actually use their customers like a lot of customers this is this is payment friction par excellence and the way tributary essentially works is you"
+        "text": " a month or something and what they do is they just send you a message when the payment becomes due right and then they send you a link you have to click the link and then all the entire transactions signing hubris starts again and that is something where businesses actually lose their customers like a lot of customers this is this is payment friction par excellence and the way tributary essentially works is you"
       },
       {
         "start": 5789.77,
@@ -289303,17 +289312,17 @@
       {
         "start": 8194.33,
         "end": 8229.13,
-        "text": " He's been on the speaker for a long time since we started. Thank you for showing in million. How are you? First time we talk. Are you there? Can you showing us? Oh, okay. I think not maybe. We can wait a little more for million. They told us maybe to show later. We can move for the next one and leave million for the next."
+        "text": " He's been on the speaker for a long time since we started. Thank you for showing in Milian. How are you? First time we talk. Are you there? Can you showing us? Oh, okay. I think not maybe. We can wait a little more for Milian. They told us maybe to show later. We can move for the next one and leave Milian for the next."
       },
       {
         "start": 8232.39,
         "end": 8259.72,
-        "text": " So we have already Lucy Len here from Ireland. Welcome. You are ready to make that question. How are you? How are you, bro? How are you? What's going on? It's good to be here. Oh, good. This is my first time on here. So it's new to me. Thanks. Thanks for joining. Thanks for making questions. Good questions, by the way. And please tell us."
+        "text": " So we have already Dusilen [name spelling inferred] here from Ireland. Welcome. You are ready to make that question. How are you? How are you, bro? How are you? What's going on? It's good to be here. Oh, good. This is my first time on here. So it's new to me. Thanks. Thanks for joining. Thanks for making questions. Good questions, by the way. And please tell us."
       },
       {
         "start": 8260.09,
         "end": 8279.12,
-        "text": " what we are willing, while I change the title and I post up your things here. Of course, of course. I wouldn't say I'm the best person to explain what we're doing, but I'll try my best. But basically, we're trying to build the off-grid freedom app."
+        "text": " what we are building, while I change the title and I post up your things here. Of course, of course. I wouldn't say I'm the best person to explain what we're doing, but I'll try my best. But basically, we're trying to build the off-grid freedom app."
       },
       {
         "start": 8280,
@@ -290117,7 +290126,7 @@
       }
     ],
     "qualityAudit": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "method": "Every generated segment read in context; targeted terminology corrections logged. Automated timing and repetition check. Not complete manual listening or independent factual validation.",
       "untranscribedIntervals": [
         {
@@ -290133,7 +290142,7 @@
       ],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "1fec312797f337597c1891b25e31703031a84d73348b84e2fc732b67ca785f3b"
+      "publishedSegmentsSha256": "c9800121902ae93df75475cac3b1fd95c9ca0a52d91b41563ca4b6f4ec3189c6"
     },
     "editorialChecks": [
       {
@@ -290156,6 +290165,26 @@
           "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
           "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
           "https://superteam.fun/earn/listing/encrypt-ika-frontier-april-2026/"
+        ]
+      },
+      {
+        "start": 5690,
+        "end": 5780,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports USDC, funding the vault, the $10-a-month example and the phrase businesses actually lose their customers. Correct the garbled stablecoin/unit/verb wording; the Helio comparison remains a historical speaker claim, not independently verified current product behavior. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+          "https://luma.com/ol2h41rg"
+        ]
+      },
+      {
+        "start": 8220,
+        "end": 8295,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The new audio pass reads Dusi Len rather than Lucy Len. A related Superteam Ireland event lists Shawn Dusilen; use Dusilen with an explicit name-spelling-inferred marker, without asserting full identity or independent voice identification. Correct building and the preceding contextual Milian references. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+          "https://luma.com/ol2h41rg"
         ]
       }
     ]
@@ -291014,17 +291043,17 @@
       {
         "start": 4654.37,
         "end": 4679.74,
-        "text": " I think Umbra team is pretty good. So, thank you for that. Okay, so the Umbra team maybe you take a look of what's happening on MetaDAO on Futardio. Can I ask if you have a number about how much should be a minimal race to start with real operations?"
+        "text": " I think Umbra team is pretty good. So, thank you for that. Okay, so the Umbra team maybe you take a look of what's happening on MetaDAO on Futardio. Can I ask if you have a number about how much should be a minimal raise to start with real operations?"
       },
       {
         "start": 4680,
         "end": 4705.99,
-        "text": " like to scale a little, the product and start working more. Yeah, let's say more. Yeah, yeah. Pretty hard to tell, you know, but if you want to get like around the way about 12 months, 14 months for a new bank with all the subscription, like I said, I think like a minimum, minimum like this."
+        "text": " like to scale a little, the product and start working more. Yeah, let's say more. Yeah, yeah. Pretty hard to tell, you know, but if you want to get like a runway about 12 months, 14 months for a neobank with all the subscription, like I said, I think like a minimum, minimum like this."
       },
       {
         "start": 4706.46,
         "end": 4737.02,
-        "text": " 200k, you know, because we need to pay, like I said, the other subscription with the banking section, the card, on our front window. Also that the marketing side is very important for that. We saw Avici, we do a Nelson job with all the marketing aspect. So, yeah, for a minimum for us, it's like something like that, to be honest with you. Perfect. Sounds fair."
+        "text": " 200k, you know, because we need to pay, like I said, the other subscription with the banking section, the card, on our front window. Also that the marketing side is very important for that. We saw Avici do an awesome job with all the marketing aspect. So, yeah, for a minimum for us, it's like something like that, to be honest with you. Perfect. Sounds fair."
       },
       {
         "start": 4738.27,
@@ -291379,17 +291408,17 @@
       {
         "start": 6622.54,
         "end": 6652.58,
-        "text": " Yes, you can connect your agents and set policies. You just come connect your agents for now. It's Hamis agents ball with them will expand even in South good agents. You just go connect it and set up policies for agents Your agents can start training for you. Perfect. I'm sorry you say Shemini or I I get to wrong. I can't connect any agent or"
+        "text": " Yes, you can connect your agents and set policies. You just can't connect your agents. For now, it's [agent name unclear] agents [wording unclear] with them will expand even in self-built agents. You just go connect it and set up policies for agents Your agents can start doing it for you. Perfect. I'm sorry you say [name unclear] or I I get to wrong. I can't connect any agent or"
       },
       {
         "start": 6653.02,
         "end": 6659.74,
-        "text": " need to be on a specific uh okay for now it's just i miss agent"
+        "text": " need to be on a specific uh okay for now it's just [agent name unclear] agents"
       },
       {
         "start": 6660,
         "end": 6685.42,
-        "text": " we are working on that we are expanding it so you can connect any agents to be able to set policies for agents, Hemis, Hemis, agents. Okay, okay, thank you, thank you very much for that. Perfect, perfect. Let me ask the next question. You are, I see you are already live on DevNet."
+        "text": " we are working on that we are expanding it so you can connect any agents to be able to set policies for agents, [agent name unclear], [agent name unclear], agents. Okay, okay, thank you, thank you very much for that. Perfect, perfect. Let me ask the next question. You are, I see you are already live on DevNet."
       },
       {
         "start": 6689.33,
@@ -291402,9 +291431,14 @@
         "text": " How much team members are you boiling alone? How this is working? Are you paying? This is just you boiling in your free time or all the full time? How is ClearSig team form?"
       },
       {
+        "start": 6739.77,
+        "end": 6750.67,
+        "text": " We have some team members. Our CEO and founder, Orthodox, he's not here."
+      },
+      {
         "start": 6750.67,
         "end": 6782.34,
-        "text": " We have products in them, but we have a city and our co-founder, Koloski, and their CMO, so it's a group of friends that we came together and decided to build this. Okay, perfect, perfect. So, sorry, you are four or five? I didn't get the account. We are five. Sorry, sorry, yeah, yeah, yeah."
+        "text": " We have other team members, we have the CTO and our co-founder, [name unclear], and their CMO, so it's a group of friends that we came together and decided to build this. Okay, perfect, perfect. So, sorry, you are four or five? I didn't get the account. We are five. Sorry, sorry, yeah, yeah, yeah."
       },
       {
         "start": 6784.59,
@@ -291638,7 +291672,7 @@
       }
     ],
     "qualityAudit": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "method": "Every generated segment read in context; targeted terminology corrections logged. Automated timing and repetition check. Not complete manual listening or independent factual validation.",
       "untranscribedIntervals": [
         {
@@ -291649,7 +291683,7 @@
       ],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "a714d1d819b324b2d701871848c749f4e54e6954b7f558ef6cd0cb9eb945abe4"
+      "publishedSegmentsSha256": "e4a55bb9779d57362bbd396df5293de7a82751e7e769598afbda619a7004fcae"
     },
     "editorialChecks": [
       {
@@ -291690,6 +291724,39 @@
         "sources": [
           "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
           "https://superteam.fun/earn/t/Daniel_Authensus"
+        ]
+      },
+      {
+        "start": 6610,
+        "end": 6685,
+        "status": "targeted-audio-asr-recheck",
+        "note": "The two passes support a restricted agent path followed by plans to expand to self-built agents, and doing it rather than training. Restored the negative can't in the limiting sentence. The name sounds like Hermes in medium.en and HEMI/Hemis in small.en; it remains [agent name unclear]. The host's attempted repetition is also unclear. No current integration support inferred. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://clearsig.xyz",
+          "https://ng.linkedin.com/in/orthodox"
+        ]
+      },
+      {
+        "start": 6735,
+        "end": 6800,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Two passes recover the omitted CEO/founder introduction: Orthodox, he's not here. The profile at /in/orthodox identifies Alumi Micah building ClearSig, supporting alias spelling without adding a full legal name to the transcript. Correct CTO and retain five team members as a speaker statement. Kuluski/Koloski cofounder spelling remains unclear. The restored phrase uses approximate original-gap boundaries. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://clearsig.xyz",
+          "https://ng.linkedin.com/in/orthodox"
+        ]
+      },
+      {
+        "start": 4665,
+        "end": 4740,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Audio supports the speaker's rough 12-14 month runway and minimum 200k estimate. Correct runway, neobank, minimal raise and the garbled praise of Avici's marketing. These are historical plans, not a successful raise or independently validated budget. Method: medium.en int8 beam5 no VAD/prompt/prior-text conditioning; small.en confirmations for the ClearSig name/team excerpts. Automated audio review with editorial comparison, not manual listening.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+          "https://clearsig.xyz",
+          "https://ng.linkedin.com/in/orthodox"
         ]
       }
     ]

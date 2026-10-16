@@ -1,0 +1,819 @@
+{
+  "checkedAt": "2026-10-16",
+  "method": "Eight source-audio excerpts independently retranscribed with medium.en and compared editorially with the published base.en text. Not full manual listening; uncertain figures remain uncertain. Original timing, source and research hashes preserved.",
+  "audioRechecks": [
+    {
+      "source": "radio3",
+      "start": 1310,
+      "duration": 75,
+      "reason": "proposal amounts and stake",
+      "pcmSha256": "6fb534b21fc0a3eda86d35d1a7ed6fa529dd18b9eab5217e25c723535f8c833a",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1310,
+          "end": 1312,
+          "text": " a liquidity pool"
+        },
+        {
+          "start": 1314.84,
+          "end": 1319.72,
+          "text": " Yep, because yeah, I was trying to find it now on the website, but it's so hard to navigate"
+        },
+        {
+          "start": 1325.08,
+          "end": 1326.72,
+          "text": " Okay"
+        },
+        {
+          "start": 1326.72,
+          "end": 1327.84,
+          "text": " Okay"
+        },
+        {
+          "start": 1327.84,
+          "end": 1333.32,
+          "text": " They have like they are going to make a seven thousand dollar boy back and"
+        },
+        {
+          "start": 1333.32,
+          "end": 1340.32,
+          "text": " and then puts the $3,000 of the proposal that is rest because it's 10,000."
+        },
+        {
+          "start": 1340.32,
+          "end": 1345.32,
+          "text": " They need 2% more stake to go live."
+        },
+        {
+          "start": 1345.32,
+          "end": 1347.32,
+          "text": " The proposal is draft, it's not live."
+        },
+        {
+          "start": 1347.32,
+          "end": 1352.32,
+          "text": " You can draft the proposal and you need to stake the 5% of the supply."
+        },
+        {
+          "start": 1352.32,
+          "end": 1356.32,
+          "text": " It's 1.5 millions in this case."
+        },
+        {
+          "start": 1356.32,
+          "end": 1360.32,
+          "text": " And they have the 98% stake."
+        },
+        {
+          "start": 1360.32,
+          "end": 1362.32,
+          "text": " They need 2% more to make the proposal live."
+        },
+        {
+          "start": 1362.32,
+          "end": 1367.44,
+          "text": " proposal live. I think it's a good proposal and it's going to make the the price goes up but the"
+        },
+        {
+          "start": 1367.44,
+          "end": 1376.48,
+          "text": " market is going to decide, not me. And they are going to put the $7,000 of Futario and $3,000"
+        },
+        {
+          "start": 1376.48,
+          "end": 1384.8,
+          "text": " USDC on a liquidity pool, on a DLMM. And I think they are trying to earn fees from"
+        }
+      ]
+    },
+    {
+      "source": "radio3",
+      "start": 1835,
+      "duration": 45,
+      "reason": "GeSIM user counts",
+      "pcmSha256": "6b88643280337da8cdece6117124e3afc1cebe4fccea7459986783f91234cad2",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1835,
+          "end": 1841.08,
+          "text": " has allowed our user to browse Google in China, they have used WhatsApp in Dubai"
+        },
+        {
+          "start": 1841.08,
+          "end": 1848.04,
+          "text": " and with this tag your RPC provider won't be having any hint on from where you are"
+        },
+        {
+          "start": 1848.04,
+          "end": 1852.84,
+          "text": " signing the transaction. From metrics or traction point of view, we are already"
+        },
+        {
+          "start": 1852.84,
+          "end": 1860.36,
+          "text": " live on Solana Seeker with 530 users, 180 actively paying and with almost zero marketing"
+        },
+        {
+          "start": 1860.36,
+          "end": 1867.56,
+          "text": " spend. I have already made the investor brief live in our projects telegram group. Feel free"
+        },
+        {
+          "start": 1867.56,
+          "end": 1877.64,
+          "text": " to DM me for more details but before wrapping wrapping it up so I really wanted to know like"
+        },
+        {
+          "start": 1877.64,
+          "end": 1879.64,
+          "text": " how many of you guys understand"
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 4725,
+      "duration": 70,
+      "reason": "Stealf waitlist and tester count",
+      "pcmSha256": "a6b532fabd6b7583e79c119fd2ddbabbb098ba057f98f00534f76509e09f469a",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 4725,
+          "end": 4733.08,
+          "text": " aspect so yeah for a minimum for us is like something like that to be honest"
+        },
+        {
+          "start": 4733.08,
+          "end": 4744.68,
+          "text": " with you yeah perfect sounds fair right now are you already working on"
+        },
+        {
+          "start": 4744.68,
+          "end": 4751.5,
+          "text": " my net you already have users how is the current situation of Steve yeah"
+        },
+        {
+          "start": 4751.5,
+          "end": 4758.7,
+          "text": " Great question, so for the moment we just published our beta, so we got 1k people on the waitlist,"
+        },
+        {
+          "start": 4758.7,
+          "end": 4766.14,
+          "text": " we got like more than five thousand people who test their application right now, so"
+        },
+        {
+          "start": 4766.78,
+          "end": 4774.7,
+          "text": " pretty cool for a start, we're still on beta like I said, we want to push mainly things like"
+        },
+        {
+          "start": 4774.7,
+          "end": 4783.86,
+          "text": " Q3 or Q4, to be honest with you. But yeah, for the moment, still on beta, we work to"
+        },
+        {
+          "start": 4783.86,
+          "end": 4792.2,
+          "text": " adding some yield system on stealth. You know, like Accium, it's a good technology,"
+        },
+        {
+          "start": 4792.2,
+          "end": 4794.98,
+          "text": " so it's hard to implement on the application."
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 560,
+      "duration": 40,
+      "reason": "Authensus name",
+      "pcmSha256": "fd5a63eedb6cca34250e9849df1dec3a78d21733b934e478f09b6951f37d31a4",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 560,
+          "end": 566.82,
+          "text": " crypto in general is kind of in the ground at the moment, but exactly the events of"
+        },
+        {
+          "start": 566.82,
+          "end": 572.32,
+          "text": " the past two weeks, maybe there's some things that have gone over my head. So I'm not going"
+        },
+        {
+          "start": 572.32,
+          "end": 578.52,
+          "text": " to be able to comment too much on that in particular, but I'll just introduce myself."
+        },
+        {
+          "start": 578.52,
+          "end": 588.04,
+          "text": " So my name is Daniel. I've been building Orthensis. Orthensis is essentially a decision"
+        },
+        {
+          "start": 588.04,
+          "end": 596.72,
+          "text": " market platform for contested reality. So what that means in practice is it's a place"
+        },
+        {
+          "start": 596.72,
+          "end": 600,
+          "text": " where you can go and have your say in what you believe."
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 6050,
+      "duration": 45,
+      "reason": "ClearSig introduction",
+      "pcmSha256": "c398c8ba62f08e67b47c11e818f11c1de9ae4ef40a286546abbe56cb59378870",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 6050,
+          "end": 6054,
+          "text": " Please give a like, repost, everything I already said before,"
+        },
+        {
+          "start": 6054,
+          "end": 6060,
+          "text": " giving an invite to our next guest."
+        },
+        {
+          "start": 6060,
+          "end": 6062,
+          "text": " They are building something really cool."
+        },
+        {
+          "start": 6062,
+          "end": 6065,
+          "text": " Also, we have really, really cool projects today."
+        },
+        {
+          "start": 6065,
+          "end": 6071,
+          "text": " We are having ClearSig."
+        },
+        {
+          "start": 6071,
+          "end": 6078,
+          "text": " They are building shared self-custody wallet for Teams and DAOs, the AIOs."
+        },
+        {
+          "start": 6078,
+          "end": 6080.36,
+          "text": " and redevelop robots on Solana."
+        },
+        {
+          "start": 6080.36,
+          "end": 6083.64,
+          "text": " OK, let's let's hear about them, what they are building."
+        },
+        {
+          "start": 6083.64,
+          "end": 6087.96,
+          "text": " And I saw also them want some kind of."
+        },
+        {
+          "start": 6089.4,
+          "end": 6091.8,
+          "text": " Of price, something like that in the past."
+        },
+        {
+          "start": 6091.8,
+          "end": 6093.8,
+          "text": " So let's hear from the community."
+        }
+      ]
+    },
+    {
+      "source": "radio15",
+      "start": 6375,
+      "duration": 65,
+      "reason": "ClearSig chain names",
+      "pcmSha256": "ec81794948579a9c99ad8f4602134cb5b91190c9e40bef1e232f30737244da4a",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 6375,
+          "end": 6383,
+          "text": " How are you using ICA, if I can ask? Because I'm really curious about them."
+        },
+        {
+          "start": 6385,
+          "end": 6394,
+          "text": " So, with ICA, it supports MPC signing. There is no single point of view."
+        },
+        {
+          "start": 6394,
+          "end": 6396,
+          "text": " I know"
+        },
+        {
+          "start": 6396.6,
+          "end": 6401.48,
+          "text": " Ika enables classic so with Ika you can sign in"
+        },
+        {
+          "start": 6401.96,
+          "end": 6403.5,
+          "text": " transactions on"
+        },
+        {
+          "start": 6403.5,
+          "end": 6409.72,
+          "text": " Different networks using your Solana ones so other more to see is like see if and squats"
+        },
+        {
+          "start": 6410.24,
+          "end": 6415.92,
+          "text": " Squats is only based on Solana save on it. You know what using the technology on classic"
+        },
+        {
+          "start": 6415.92,
+          "end": 6419.2,
+          "text": " You can sign in productions on beat point"
+        },
+        {
+          "start": 6419.2,
+          "end": 6425.2,
+          "text": " Ethereum, Zika and other chains from your Solana wallet."
+        },
+        {
+          "start": 6425.2,
+          "end": 6428.2,
+          "text": " So you will not be needing a breach or any sort of chain."
+        },
+        {
+          "start": 6428.2,
+          "end": 6433.2,
+          "text": " From your Solana wallet you can sign transactions on other chains and it is powered by ICA."
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 10020,
+      "duration": 65,
+      "reason": "Arcium guest introduction",
+      "pcmSha256": "5729ad212febdefad647fa41d7ee30c85277fadfc3631461cf7f7c5863f6814c",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 10020,
+          "end": 10028,
+          "text": " of like um secure how we can use what say it again oh ika is is um is a cryptography project"
+        },
+        {
+          "start": 10028,
+          "end": 10033.6,
+          "text": " that i uh we're launching on salon now um but uh that's kind of an offline conversation idea"
+        },
+        {
+          "start": 10033.6,
+          "end": 10038.08,
+          "text": " of you you can uh reply and i'm happy to have a chat about that absolutely absolutely"
+        },
+        {
+          "start": 10039.84,
+          "end": 10048.88,
+          "text": " okay i think we can uh now that i know million is here i think i can welcome million"
+        },
+        {
+          "start": 10048.88,
+          "end": 10056.48,
+          "text": " and let's talk a little about Arceum. Hey, Milian, how are you?"
+        },
+        {
+          "start": 10058.72,
+          "end": 10064.48,
+          "text": " Hello, I just came from the swimming pool, so I'm not sure if I lost my first thought there, but"
+        },
+        {
+          "start": 10065.44,
+          "end": 10070.64,
+          "text": " I'm good, man. How are you guys? I can talk a little bit about Arceum."
+        },
+        {
+          "start": 10073.04,
+          "end": 10077.2,
+          "text": " We have been building on Solana for many, many years. Initially,"
+        },
+        {
+          "start": 10077.2,
+          "end": 10082.16,
+          "text": " Arkin was just elusive, like a mixer with shielded transactions."
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 11335,
+      "duration": 70,
+      "reason": "Dagon cryptography terminology",
+      "pcmSha256": "ecaadf0dde6a71c4cfd31ef1e01121f3d6961c0e79188abaea8e06c558b658a1",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 11335,
+          "end": 11346.06,
+          "text": " You've talked about you know Inkwell, but I see you're building Dagon? Dagon? I don't know how to pronounce it, but um, you mind telling us a little bit more about that?"
+        },
+        {
+          "start": 11347.54,
+          "end": 11349.54,
+          "text": " Yeah"
+        },
+        {
+          "start": 11349.66,
+          "end": 11353.08,
+          "text": " So I am still at Inkwell Finance"
+        },
+        {
+          "start": 11353.78,
+          "end": 11355.78,
+          "text": " we do have our"
+        },
+        {
+          "start": 11356.12,
+          "end": 11358.22,
+          "text": " Leviathan product we"
+        },
+        {
+          "start": 11359.18,
+          "end": 11361.18,
+          "text": " are"
+        },
+        {
+          "start": 11361.34,
+          "end": 11363.34,
+          "text": " Submitting for the hackathon a"
+        },
+        {
+          "start": 11363.34,
+          "end": 11370.46,
+          "text": " proposal for Dagon which uses Encrypt from D-Wallet Labs, the same company that"
+        },
+        {
+          "start": 11370.46,
+          "end": 11376.62,
+          "text": " makes ICA. ICA and Encrypt are in pre-alpha right now."
+        },
+        {
+          "start": 11376.62,
+          "end": 11383.38,
+          "text": " ICA is a 2 PC MPC network that allows you to generate signatures for"
+        },
+        {
+          "start": 11383.38,
+          "end": 11392.34,
+          "text": " any blockchain and Encrypt is a fully homographic encryption network,"
+        },
+        {
+          "start": 11392.34,
+          "end": 11401.34,
+          "text": " and it's going to be running DWallet Labs' patented RE FHE."
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "source": "radio3",
+      "start": 1310,
+      "duration": 75,
+      "note": "Targeted medium.en recheck supports $7,000 buyback plus $3,000, 5% supply / 1.5 million, and 98% staked with 2% still required as spoken historical claims. Corrected buyback, Futardio, USDC and the phrase \"not me\". No proposal execution or independent numeric validation inferred."
+    },
+    {
+      "source": "radio3",
+      "start": 1835,
+      "duration": 45,
+      "note": "Targeted medium.en recheck reads 530 users and 180 actively paying. Replaced garbled user-count wording with 530; these remain the speaker's traction claims, not independently verified metrics."
+    },
+    {
+      "source": "radio15",
+      "start": 4725,
+      "duration": 70,
+      "note": "Both passes support a 1k waitlist. Medium.en suggests more than five thousand testers, but the earlier pass failed to resolve the word after five. The published tester-count uncertainty is retained; the suggested reading is not treated as confirmed."
+    },
+    {
+      "source": "radio15",
+      "start": 560,
+      "duration": 40,
+      "note": "The repeated project name is Authensus, supported by the founder profile and the audio recheck; corrected the residual \"Or fences\" error."
+    },
+    {
+      "source": "radio15",
+      "start": 6050,
+      "duration": 45,
+      "note": "Rechecked the ClearSig introduction; self-custodial wallet terminology is reviewed as spoken product description, not a security audit."
+    },
+    {
+      "source": "radio15",
+      "start": 6375,
+      "duration": 65,
+      "note": "Rechecked the ClearSig chain and multisig comparison; preserve the speaker's historical product claims rather than treating them as current chain-support documentation."
+    },
+    {
+      "source": "radio7",
+      "start": 10020,
+      "duration": 65,
+      "note": "Guest introduction cross-checked with the published Solana/Arcium interview naming Milian. Corrected Millian and contextual million name errors in the same conversation; later occurrences were context corrections, not separate audio rechecks."
+    },
+    {
+      "source": "radio7",
+      "start": 11335,
+      "duration": 70,
+      "note": "Rechecked Lars's Dagon introduction and normalized 2PC-MPC, dWallet Labs and REFHE against the sponsor's primary documentation. Preserve the historical pre-alpha and patent statements as speaker claims."
+    }
+  ],
+  "reviews": [
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "audioSha256": "05fce22aa8628e71711bf2e0fa62957a6ef9e5f58eefec4b610c226ab8e2ade7",
+      "researchTranscriptSha256": "95d5a7211f36c9f0e7e5af5887749703409f73556fc03f11ca316b72a26c984e",
+      "previousSegmentsSha256": "c20f960f7bb8cf22e0d36dcf1c95ee7c5bd80c345959c8ee198af9cd93d68d45",
+      "publishedSegmentsSha256": "d8b39807915cce3ab91d3ff94906c50b54f0659bb589278ceecebf8d38ee4679"
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "audioSha256": "b32fb1017193f41bef47d376e43daee863c730142958693ebad3e93db9b68d00",
+      "researchTranscriptSha256": "4b0cdc3504038c98b581995f6e9bb5d05cde8cff478ca24537e79c050495a1b6",
+      "previousSegmentsSha256": "839d50a699b30c445df13643bd3e913776e7b96e9a729f7cfe626d2932d85854",
+      "publishedSegmentsSha256": "1fec312797f337597c1891b25e31703031a84d73348b84e2fc732b67ca785f3b"
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "audioSha256": "01e87fe4063ce317a5c513644e7e7bc3fe6405fa400ca7d2755475a3ec94f6ec",
+      "researchTranscriptSha256": "f6615225d82bf53d7a0060e69c7e4816165e6e443e5c19b73e347cc86c8898d3",
+      "previousSegmentsSha256": "f24417e3d1ef208e3c112b360c6e0bc156aa6630a57906701ccb9ec84377853e",
+      "publishedSegmentsSha256": "a714d1d819b324b2d701871848c749f4e54e6954b7f558ef6cd0cb9eb945abe4"
+    }
+  ],
+  "changes": [
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 35,
+      "original": {
+        "start": 1324.84,
+        "end": 1347.42,
+        "text": " Okay. Okay. They have like, they are going to make a $7,000 boy back and then puts the $3,000 of the proposal that is raised because it's $10,000. They need 2% more stake to go live. The proposal is draft is not live."
+      },
+      "replacement": {
+        "start": 1324.84,
+        "end": 1347.42,
+        "text": " Okay. Okay. They have like, they are going to make a $7,000 buyback and then puts the $3,000 of the proposal that is raised because it's $10,000. They need 2% more stake to go live. The proposal is draft is not live."
+      },
+      "evidence": [
+        "radio3:1310"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 36,
+      "original": {
+        "start": 1347.85,
+        "end": 1376.98,
+        "text": " you can draft the proposal and you need to stake the 5% of the supply is 1.5 million millions in this case. They have the 98% stake, they need 2% more to make the proposal live. I think it's a good proposal and it's going to make the price go up but the market is going to decide on me. And they are going to put the $7,000 foot area on 3,000 USEC."
+      },
+      "replacement": {
+        "start": 1347.85,
+        "end": 1376.98,
+        "text": " you can draft the proposal and you need to stake the 5% of the supply is 1.5 million in this case. They have the 98% stake, they need 2% more to make the proposal live. I think it's a good proposal and it's going to make the price go up but the market is going to decide, not me. And they are going to put the $7,000 of Futardio and 3,000 USDC."
+      },
+      "evidence": [
+        "radio3:1310"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-3-recording",
+      "index": 54,
+      "original": {
+        "start": 1849.67,
+        "end": 1875.73,
+        "text": " From metrics or traction point of view. We are already live on Solana Seeker with five to five thirty users 180 actively paying and with almost zero marketing spend I'm I have already made the investor brief live in our projects telegram group Feel free to DM me for more details, but before wrapping Wrapping wrapping it up so"
+      },
+      "replacement": {
+        "start": 1849.67,
+        "end": 1875.73,
+        "text": " From metrics or traction point of view. We are already live on Solana Seeker with 530 users 180 actively paying and with almost zero marketing spend I'm I have already made the investor brief live in our projects telegram group Feel free to DM me for more details, but before wrapping Wrapping wrapping it up so"
+      },
+      "evidence": [
+        "radio3:1835"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "index": 10,
+      "original": {
+        "start": 564.98,
+        "end": 593.34,
+        "text": " Exactly the events of the past like two weeks. Maybe there's some things that have gone over my head. So I'm not going to be able to comment too much on that in particular, but I'll just introduce myself. So my name is Daniel. I've been building Authensus. Or fences is essentially a decision market platform for contested reality. So what that means in practice."
+      },
+      "replacement": {
+        "start": 564.98,
+        "end": 593.34,
+        "text": " Exactly the events of the past like two weeks. Maybe there's some things that have gone over my head. So I'm not going to be able to comment too much on that in particular, but I'll just introduce myself. So my name is Daniel. I've been building Authensus. Authensus is essentially a decision market platform for contested reality. So what that means in practice."
+      },
+      "evidence": [
+        "radio15:560",
+        "https://superteam.fun/earn/t/Daniel_Authensus"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 362,
+      "original": {
+        "start": 10031.01,
+        "end": 10061.6,
+        "text": " but that's kind of an offline conversation idea and you can reply and happy to have a chat about that. Absolutely, absolutely. Great. I think we can now that I know Millian is here. I think I can welcome Millian and let's chat a little about Arcium. Hey Millian, how are you? Hello. I just came from the swimming pool."
+      },
+      "replacement": {
+        "start": 10031.01,
+        "end": 10061.6,
+        "text": " but that's kind of an offline conversation idea and you can reply and happy to have a chat about that. Absolutely, absolutely. Great. I think we can now that I know Milian is here. I think I can welcome Milian and let's chat a little about Arcium. Hey Milian, how are you? Hello. I just came from the swimming pool."
+      },
+      "evidence": [
+        "radio7:10020",
+        "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+        "Contextual name normalization in the same guest conversation; only the introduction was retranscribed in this pass."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 371,
+      "original": {
+        "start": 10260,
+        "end": 10290.4,
+        "text": " CSPL, confidential SPL token standard for Solana, which hides transfer amounts and balances of any Solana token. So I guess that's it for my initial intro and we can talk more. It's awesome to have you on that million. It's always a pleasure to talk to you. I'm always excited to have"
+      },
+      "replacement": {
+        "start": 10260,
+        "end": 10290.4,
+        "text": " CSPL, confidential SPL token standard for Solana, which hides transfer amounts and balances of any Solana token. So I guess that's it for my initial intro and we can talk more. It's awesome to have you on, Milian. It's always a pleasure to talk to you. I'm always excited to have"
+      },
+      "evidence": [
+        "radio7:10020",
+        "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+        "Contextual name normalization in the same guest conversation; only the introduction was retranscribed in this pass."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 376,
+      "original": {
+        "start": 10412.8,
+        "end": 10439.81,
+        "text": " Like, who the fuck is food? Like, what kind of names are these? Yellow? I mean, goddamn. And that coming from a guy called David Penis will never be not funny. But, uh, yeah. Actually, I kind of have a one question about two to a million because so I think you're the one of the people who has covered the new KY secret."
+      },
+      "replacement": {
+        "start": 10412.8,
+        "end": 10439.81,
+        "text": " Like, who the fuck is food? Like, what kind of names are these? Yellow? I mean, goddamn. And that coming from a guy called David Penis will never be not funny. But, uh, yeah. Actually, I kind of have a one question about to Milian because so I think you're the one of the people who has covered the new KY secret."
+      },
+      "evidence": [
+        "radio7:10020",
+        "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+        "Contextual name normalization in the same guest conversation; only the introduction was retranscribed in this pass."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 406,
+      "original": {
+        "start": 11223.58,
+        "end": 11259.11,
+        "text": " following legal compliance frameworks. But yeah, again, like their details is on the website and you'll get more in depth there, for sure. Can someone pin what Millian is talking about? Colossus pay or just the article is also links to them. They are to go to write? Yeah, it's an article. It's like the bottom of my article."
+      },
+      "replacement": {
+        "start": 11223.58,
+        "end": 11259.11,
+        "text": " following legal compliance frameworks. But yeah, again, like their details is on the website and you'll get more in depth there, for sure. Can someone pin what Milian is talking about? Colossus pay or just the article is also links to them. They are to go to write? Yeah, it's an article. It's like the bottom of my article."
+      },
+      "evidence": [
+        "radio7:10020",
+        "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+        "Contextual name normalization in the same guest conversation; only the introduction was retranscribed in this pass."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 408,
+      "original": {
+        "start": 11289.58,
+        "end": 11311.29,
+        "text": " But I think we can I don't know if you can if you want to add something more million and I'm pretty excited about Everything is willing also a lot of good really projects, but a bit I don't know if I don't have anything more to add. I think we're going on very long now"
+      },
+      "replacement": {
+        "start": 11289.58,
+        "end": 11311.29,
+        "text": " But I think we can I don't know if you can if you want to add something more, Milian and I'm pretty excited about Everything is willing also a lot of good really projects, but a bit I don't know if I don't have anything more to add. I think we're going on very long now"
+      },
+      "evidence": [
+        "radio7:10020",
+        "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+        "Contextual name normalization in the same guest conversation; only the introduction was retranscribed in this pass."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 420,
+      "original": {
+        "start": 11639.57,
+        "end": 11669.31,
+        "text": " I don't know if our million get back, but David, if you want us something here, like more to try from the encrypt perspective. I just want to add that, I mean, shout out to you Lars, because I feel like everything that I've seen from you, like both Inkwell and Dagon, like the branding is so tasteful and so..."
+      },
+      "replacement": {
+        "start": 11639.57,
+        "end": 11669.31,
+        "text": " I don't know if our Milian get back, but David, if you want us something here, like more to try from the encrypt perspective. I just want to add that, I mean, shout out to you Lars, because I feel like everything that I've seen from you, like both Inkwell and Dagon, like the branding is so tasteful and so..."
+      },
+      "evidence": [
+        "radio7:10020",
+        "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+        "Contextual name normalization in the same guest conversation; only the introduction was retranscribed in this pass."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 411,
+      "original": {
+        "start": 11371.75,
+        "end": 11401.21,
+        "text": " Ika and encrypt are in pre-alpha right now. Ika is a 2-PC-MPC network that allows you to generate signatures for any blockchain. And encrypt is a fully homomorphic encryption network, FHE. And it's going to be running D-Wallet Labs patented RE FHE."
+      },
+      "replacement": {
+        "start": 11371.75,
+        "end": 11401.21,
+        "text": " Ika and encrypt are in pre-alpha right now. Ika is a 2PC-MPC network that allows you to generate signatures for any blockchain. And encrypt is a fully homomorphic encryption network, FHE. And it's going to be running dWallet Labs patented REFHE."
+      },
+      "evidence": [
+        "radio7:11335",
+        "https://superteam.fun/earn/listing/encrypt-ika-frontier-april-2026/"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "index": 220,
+      "original": {
+        "start": 6069.7,
+        "end": 6099.05,
+        "text": " ClearSig. They are building shared self-custodic wallet for teams and DAOs, the AIOs. You can really have a profile on Solana. Okay, let's hear about them. What they are building and I also want some kind of price, something like that in the past. So let's hear from the community. Okay, ClearSig. I just invite you, if you can accept this."
+      },
+      "replacement": {
+        "start": 6069.7,
+        "end": 6099.05,
+        "text": " ClearSig. They are building shared self-custody wallet for teams and DAOs, the AIOs. You can really have a profile on Solana. Okay, let's hear about them. What they are building and I also want some kind of price, something like that in the past. So let's hear from the community. Okay, ClearSig. I just invite you, if you can accept this."
+      },
+      "evidence": [
+        "radio15:6050"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "index": 231,
+      "original": {
+        "start": 6398.18,
+        "end": 6424.98,
+        "text": " So with Ika you can sign in transactions on different entries using your Solana. So other multices like CF and Squads, Squads Zolipism, Solana, Slib and Ethereum, but using Ika technology on Quest, you can sign in transactions on Bitcoin, Ethereum, Zika and other chains from your Solana wallet."
+      },
+      "replacement": {
+        "start": 6398.18,
+        "end": 6424.98,
+        "text": " So with Ika you can sign in transactions on different networks using your Solana. So other multisigs like Safe and Squads, Squads is only based on Solana, Safe on Ethereum, but using Ika technology on ClearSig, you can sign in transactions on Bitcoin, Ethereum, [chain name unclear] and other chains from your Solana wallet."
+      },
+      "evidence": [
+        "radio15:6375",
+        "Safe/Squads and ClearSig are contextual readings of the phonetic recheck; the later chain name was not resolved."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-15-recording",
+      "index": 232,
+      "original": {
+        "start": 6425.58,
+        "end": 6457.81,
+        "text": " So you will not be needing a bridge or any sort of thing from your salon wallet, you can sign transactions on other chains and store it by eco. Wow, that's amazing. So you are going to be a Solano solution, but you are going to work on another blockchains, right? Yes, I am more to change, more to seek part by eco. Nice. And do you see competitors from your product?"
+      },
+      "replacement": {
+        "start": 6425.58,
+        "end": 6457.81,
+        "text": " So you will not be needing a bridge or any sort of thing from your Solana wallet, you can sign transactions on other chains and it is powered by Ika. Wow, that's amazing. So you are going to be a Solano solution, but you are going to work on another blockchains, right? Yes, I am more to change, more to seek part by eco. Nice. And do you see competitors from your product?"
+      },
+      "evidence": [
+        "radio15:6375"
+      ]
+    }
+  ],
+  "referenceSources": {
+    "milian": "https://solana.com/fr/podcasts/pirates-parley/episodes/bringing-privacy-to-everything-on-solana-arcium-e3kkquc",
+    "authensus": "https://superteam.fun/earn/t/Daniel_Authensus",
+    "crypto": "https://superteam.fun/earn/listing/encrypt-ika-frontier-april-2026/"
+  }
+}

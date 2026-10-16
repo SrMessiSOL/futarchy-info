@@ -1,0 +1,840 @@
+{
+  "checkedAt": "2026-10-16",
+  "method": "Six medium.en source-audio excerpts plus three independent shorter small.en confirmations, compared editorially. No full manual listening. Original segment times, source/research hashes and all numeric examples retained; unclear scale/ticker readings are not converted into current financial/product claims.",
+  "audioRechecks": [
+    {
+      "source": "radio7",
+      "start": 710,
+      "duration": 75,
+      "reason": "Jurassic founder and cofounder names",
+      "pcmSha256": "407c24fdc29075ff54b5b2599d2c9a99c80deb006eb8131389e99a4d592da532",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 710,
+          "end": 718.2,
+          "text": " finance now again yeah they can talk about their things are you I don't know"
+        },
+        {
+          "start": 723.8,
+          "end": 731,
+          "text": " okay we can sure yeah yeah yeah I can hear you perfectly thank you thank you"
+        },
+        {
+          "start": 731,
+          "end": 735.16,
+          "text": " guys thank you so much for having me I think it's gonna be an amazing show"
+        },
+        {
+          "start": 735.16,
+          "end": 738.08,
+          "text": " and the I'm happy that I can share a little bit more about Jurassic"
+        },
+        {
+          "start": 738.08,
+          "end": 744.08,
+          "text": " I think a lot of people saw on Twitter what we're cooking. We got a lot of support from foundation"
+        },
+        {
+          "start": 744.08,
+          "end": 749.62,
+          "text": " We got a support from Solana from Tolly. So I'm really happy that I can share some more info this week was really huge"
+        },
+        {
+          "start": 749.66,
+          "end": 752.34,
+          "text": " We announced a lot of stuff. We shared a lot of stuff. So"
+        },
+        {
+          "start": 752.92,
+          "end": 758.24,
+          "text": " Yeah, thank you for having me. And even though I am part of ownership, we're also working on trassic"
+        },
+        {
+          "start": 758.24,
+          "end": 760.58,
+          "text": " And yeah, I'm just grateful that I can share a bit more"
+        },
+        {
+          "start": 761.42,
+          "end": 763.42,
+          "text": " So we're gonna go through a few questions"
+        },
+        {
+          "start": 763.42,
+          "end": 767.64,
+          "text": " Share some info and then I would like to invite anyone who wants just to raise their hand"
+        },
+        {
+          "start": 767.72,
+          "end": 772.98,
+          "text": " We'll add your speaker and then we can you know, answer some extra questions if you all are up to it that"
+        },
+        {
+          "start": 776.08,
+          "end": 781.52,
+          "text": " Perfect perfect. Yeah. Thank you brother. I have some questions about Jurassic fee myself. I think probably"
+        },
+        {
+          "start": 782.2,
+          "end": 784.56,
+          "text": " We are going to let everyone jump"
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 1160,
+      "duration": 65,
+      "reason": "Jurassic advisor roles and Sora references",
+      "pcmSha256": "33c28b11f04615f9c2d6d9575f30424d209f2f1300e777efa41c0966b24e6407",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1160,
+          "end": 1166.5,
+          "text": " it's not too much of like let's say product building what I want to say is"
+        },
+        {
+          "start": 1166.5,
+          "end": 1171.12,
+          "text": " we're gonna have me and Sora as the two you know core people and then the"
+        },
+        {
+          "start": 1171.12,
+          "end": 1175.32,
+          "text": " main force behind us is gonna be the advisors so we're gonna have a legal"
+        },
+        {
+          "start": 1175.32,
+          "end": 1178.88,
+          "text": " advisor we're gonna have a paleontologist advisor we're gonna be"
+        },
+        {
+          "start": 1178.88,
+          "end": 1182.14,
+          "text": " auction advisor and we're gonna have that and we're gonna have a"
+        },
+        {
+          "start": 1182.14,
+          "end": 1185.86,
+          "text": " tokenization advisor so they are gonna be our connections to everything"
+        },
+        {
+          "start": 1185.86,
+          "end": 1189.36,
+          "text": " because I'm a DJ and Sora is a DJ we have the energy we have the high"
+        },
+        {
+          "start": 1189.36,
+          "end": 1194.08,
+          "text": " agency we can cook you know but these things obviously if we want to have"
+        },
+        {
+          "start": 1194.08,
+          "end": 1197.8,
+          "text": " people invest in us and we want to make something really big like of course"
+        },
+        {
+          "start": 1197.8,
+          "end": 1200.82,
+          "text": " we're not we're not gonna be doing any legal stuff I'm not gonna be you"
+        },
+        {
+          "start": 1200.82,
+          "end": 1204.8,
+          "text": " know getting on my paleontologist outfit and going and looking at"
+        },
+        {
+          "start": 1204.8,
+          "end": 1208.36,
+          "text": " different dinos and seeing which to invest I'm you know I'm not that"
+        },
+        {
+          "start": 1208.36,
+          "end": 1212.32,
+          "text": " smart because if you think about it these auctions are literally you're in"
+        },
+        {
+          "start": 1212.32,
+          "end": 1218.04,
+          "text": " a room me and sort are like in a room with billionaires and even higher"
+        },
+        {
+          "start": 1218.04,
+          "end": 1224.7,
+          "text": " And you know, we we you know, we can't we can't be that we can't do it alone. So we need advisors"
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 1250,
+      "duration": 75,
+      "reason": "Jurassic specimen price and USDC token example",
+      "pcmSha256": "065c93abb25cc6988fbdbed4e74cecadb4f25b423418d52d218b59841273627e",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1250,
+          "end": 1254.64,
+          "text": " me on yeah I had a couple questions actually this is a really cool concept"
+        },
+        {
+          "start": 1254.64,
+          "end": 1260.32,
+          "text": " I'm wondering is it fractional ownership for these fossils or is it"
+        },
+        {
+          "start": 1260.32,
+          "end": 1266.84,
+          "text": " like small fossils that a single person can buy an individual one yeah"
+        },
+        {
+          "start": 1266.84,
+          "end": 1271,
+          "text": " so how it's gonna work is that we want to get something nice like the"
+        },
+        {
+          "start": 1271,
+          "end": 1276.24,
+          "text": " cheapest asset that we would get would probably be at least 750 to 1"
+        },
+        {
+          "start": 1276.24,
+          "end": 1279.24,
+          "text": " million for the first one and then after that one we want to get bigger"
+        },
+        {
+          "start": 1279.24,
+          "end": 1283.1,
+          "text": " So the first one let's say would be something like a triceratops head"
+        },
+        {
+          "start": 1287.22,
+          "end": 1290,
+          "text": " Then I might do not disturb someone started to call me"
+        },
+        {
+          "start": 1292.54,
+          "end": 1298.34,
+          "text": " Yeah, essentially the first one's gonna be like a million let's say so we raised a million in USDC then we can acquire"
+        },
+        {
+          "start": 1299.66,
+          "end": 1306.1,
+          "text": " Acquire the the specimen and then we're gonna make let's say it's a million dollars and million USDC"
+        },
+        {
+          "start": 1306.1,
+          "end": 1310.02,
+          "text": " we make a million of the coin and then people can claim depending on how much they put in"
+        },
+        {
+          "start": 1311.78,
+          "end": 1318.34,
+          "text": " they can claim the actual t-rex or or the triceratops or whatever token it is um yeah"
+        },
+        {
+          "start": 1320.42,
+          "end": 1324.66,
+          "text": " super cool and you mentioned that people can invest in the"
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 1395,
+      "duration": 80,
+      "reason": "Jurassic liquidity, LTV and interest examples",
+      "pcmSha256": "0e9c05675adb37d75cbb1323a3115e2d4fbf379aa16ec80692d38e9296e3d6c6",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1395,
+          "end": 1399.16,
+          "text": " We get the dyno, but now there's no more million so to get this liquidity first"
+        },
+        {
+          "start": 1399.16,
+          "end": 1404.44,
+          "text": " We're gonna be creating a fund that's gonna be open and using a portion of the raised money"
+        },
+        {
+          "start": 1404.44,
+          "end": 1410.48,
+          "text": " We're gonna be buying back the the token to potential sellers. It's gonna be you know, we don't know the price yet"
+        },
+        {
+          "start": 1410.48,
+          "end": 1413.04,
+          "text": " We don't know how this is gonna work, but we want to have this open fund"
+        },
+        {
+          "start": 1413.04,
+          "end": 1418.6,
+          "text": " So already from day one if you need instant liquidity because of whatever reasons you can sell it back to us"
+        },
+        {
+          "start": 1418.68,
+          "end": 1422.08,
+          "text": " For let's say 80 cents on the dollar or something like that again"
+        },
+        {
+          "start": 1422.08,
+          "end": 1424.08,
+          "text": " The numbers are not you know, we don't know yet"
+        },
+        {
+          "start": 1424.08,
+          "end": 1453.58,
+          "text": " We were talking with our advisors, but that's another way, and then the last way is going to be some sort of lending market where we can be like, let's say, 50% LTV, so you give us 10K worth of the Triceratops one, which is the first SPV, and we give you 5K in USDC at maybe 15% yearly interest, and then you could even do looping, right, you get the 5K, you can buy 5K more loop, etc, etc."
+        },
+        {
+          "start": 1453.58,
+          "end": 1456.14,
+          "text": " So those are those are what we're thinking for now"
+        },
+        {
+          "start": 1456.76,
+          "end": 1463.28,
+          "text": " and there's also so much cooler stuff because the coolest thing here is we can also have additional revenue sources for"
+        },
+        {
+          "start": 1463.4,
+          "end": 1467.7,
+          "text": " The actual labs company that's not connected to the SPV. Let's say"
+        },
+        {
+          "start": 1468.34,
+          "end": 1472.54,
+          "text": " We do the first SPV which is going to be a triceratops head. We buy it"
+        },
+        {
+          "start": 1472.54,
+          "end": 1474.54,
+          "text": " We tokenize that we do the whole process, right?"
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 1510,
+      "duration": 65,
+      "reason": "Jurassic proposed sale and governance example",
+      "pcmSha256": "06c039ff1c0fe9a15d2de6819223139e12ca3916171f377844ebf40ce635a395",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1510,
+          "end": 1517.52,
+          "text": " That's why this is the potential 100x and the SPV is like you're actually investing in the asset that can over time"
+        },
+        {
+          "start": 1518.44,
+          "end": 1523.72,
+          "text": " Appreciate some value and of course if future key decides in the in the labs entity"
+        },
+        {
+          "start": 1523.72,
+          "end": 1529.44,
+          "text": " Hey, we just got a buyer that wants to buy the dyno from our first SPV. We raised a million"
+        },
+        {
+          "start": 1529.44,
+          "end": 1532.44,
+          "text": " they want to buy it now for two million future key votes if if"
+        },
+        {
+          "start": 1533.18,
+          "end": 1539.4,
+          "text": " The entity sells the SPV and then they have an exit right or we get all the money in the Treasury and then"
+        },
+        {
+          "start": 1539.4,
+          "end": 1546.76,
+          "text": " We can do buybacks whatever so that's like a lot on revenue. Essentially. This is what you can also read about tomorrow with a little bit more detail"
+        },
+        {
+          "start": 1550.84,
+          "end": 1556.6,
+          "text": " Perfect, thank you. Thank you shirt for that amazing questions. I painted the"
+        },
+        {
+          "start": 1559.08,
+          "end": 1563.72,
+          "text": " The article on top of the space so you can read the"
+        },
+        {
+          "start": 1565.12,
+          "end": 1567.12,
+          "text": " details and"
+        },
+        {
+          "start": 1567.12,
+          "end": 1572.48,
+          "text": " Looking forward for the next article explaining the revenues, of course, so I"
+        },
+        {
+          "start": 1574.48,
+          "end": 1576.48,
+          "text": " Don't"
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 1600,
+      "duration": 75,
+      "reason": "Jurassic proposed specimen tickers",
+      "pcmSha256": "6c67b0969259668d53fe5b35e47acded40f440ff43d2f6443316cf5b05d94503",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1600,
+          "end": 1605.42,
+          "text": " also have its own like SPL then, or is it all pooled as one? How is that kind of going"
+        },
+        {
+          "start": 1605.42,
+          "end": 1608.58,
+          "text": " to work? Yeah, they're going to be all individual."
+        },
+        {
+          "start": 1608.58,
+          "end": 1612.86,
+          "text": " They're all going to be individual SPVs. That also allows us that maybe, you know,"
+        },
+        {
+          "start": 1612.86,
+          "end": 1616.5,
+          "text": " in two years when we have five different or 10 different SPVs, then we can also have"
+        },
+        {
+          "start": 1616.5,
+          "end": 1620.46,
+          "text": " something like an ETF, where you can, you know, have all these different ones."
+        },
+        {
+          "start": 1620.46,
+          "end": 1625.96,
+          "text": " But essentially, we have our main token, which is for the entity, the labs entity,"
+        },
+        {
+          "start": 1625.96,
+          "end": 1629.2,
+          "text": " and then every single SPV is going to be its own token. So let's say our first"
+        },
+        {
+          "start": 1629.2,
+          "end": 1635.86,
+          "text": " one is a Triceratops head, the ticker would probably be something like TRC1, you know."
+        },
+        {
+          "start": 1635.86,
+          "end": 1639.92,
+          "text": " Then our next one is going to be a T-Rex head that costs 3 million. That is probably going"
+        },
+        {
+          "start": 1639.92,
+          "end": 1646.56,
+          "text": " to be ticker T-Rex1. Then we do another Triceratops head, then that's going to"
+        },
+        {
+          "start": 1646.56,
+          "end": 1652.64,
+          "text": " be TRC2. That's how we're going to do it because we want, like, the core of"
+        },
+        {
+          "start": 1652.64,
+          "end": 1658.22,
+          "text": " this project is we want people to be able to say, I own a dinosaur, right? You need"
+        },
+        {
+          "start": 1658.22,
+          "end": 1662.92,
+          "text": " to be able to say that that's the starting point and then we need to take steps back"
+        },
+        {
+          "start": 1662.92,
+          "end": 1670.72,
+          "text": " to get to that point and the best way to do this is by having individual SPVs for"
+        },
+        {
+          "start": 1670.72,
+          "end": 1674.96,
+          "text": " each specimen and then of course you can own that and then gain the"
+        }
+      ]
+    }
+  ],
+  "confirmations": [
+    {
+      "source": "radio7",
+      "start": 1207,
+      "duration": 25,
+      "reason": "Advisor negation and Sora name confirmation",
+      "pcmSha256": "fe7c225de24762c2b672a6d58b11999db894a97fbff85d49949004a2a3e81a8c",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1207,
+          "end": 1212.32,
+          "text": " I'm not that smart because if you think about it, these auctions are literally, you're in"
+        },
+        {
+          "start": 1212.32,
+          "end": 1223.88,
+          "text": " a room, me and Sohra are in a room with billionaires and even higher, and we can't do it alone."
+        },
+        {
+          "start": 1223.88,
+          "end": 1227.32,
+          "text": " So we need advisors, and essentially we're going to have advisors doing all of these"
+        },
+        {
+          "start": 1227.32,
+          "end": 1229.88,
+          "text": " big boy things to help us."
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 1260,
+      "duration": 45,
+      "reason": "Specimen price unit confirmation",
+      "pcmSha256": "e8ea50b62856f79c0a52ce2e0dec8ad1c82809cb751b8711c7b5674ac30befef",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1260,
+          "end": 1265.56,
+          "text": " Or is it like small fossils that a single person can buy an individual one?"
+        },
+        {
+          "start": 1265.56,
+          "end": 1270.72,
+          "text": " Yeah, so how it's going to work is that we want to get something nice."
+        },
+        {
+          "start": 1270.72,
+          "end": 1276.84,
+          "text": " Like the cheapest asset that we would get would probably be at least $750 to $1 million for"
+        },
+        {
+          "start": 1276.84,
+          "end": 1277.84,
+          "text": " the first one."
+        },
+        {
+          "start": 1277.84,
+          "end": 1280.12,
+          "text": " And then after that one, we want to get bigger and bigger."
+        },
+        {
+          "start": 1280.12,
+          "end": 1283.68,
+          "text": " So the first one, let's say, would be something like a triceratops head."
+        },
+        {
+          "start": 1283.68,
+          "end": 1290.68,
+          "text": " I don't know, I might do not disturb, someone started to call me."
+        },
+        {
+          "start": 1290.68,
+          "end": 1296.18,
+          "text": " Yeah, essentially the first one is going to be like a million, let's say, so we raised"
+        },
+        {
+          "start": 1296.18,
+          "end": 1304.08,
+          "text": " a million in USDC, then we can acquire the specimen, and then we're going to make, let's"
+        },
+        {
+          "start": 1304.08,
+          "end": 1306.92,
+          "text": " say it's a million dollar"
+        }
+      ]
+    },
+    {
+      "source": "radio7",
+      "start": 1615,
+      "duration": 45,
+      "reason": "Specimen ticker spelling confirmation",
+      "pcmSha256": "1ab586f315e4bf1147113ed1dd4f2acb24d0ac60af9edce4f1aa6c5dd81fd13a",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 1615,
+          "end": 1619.52,
+          "text": " different SPVs, then we can also have something like an ETF where you can, you know, have all"
+        },
+        {
+          "start": 1619.52,
+          "end": 1620.52,
+          "text": " these different ones."
+        },
+        {
+          "start": 1620.52,
+          "end": 1626,
+          "text": " But essentially, we have our main token, which is for the entity, the labs entity."
+        },
+        {
+          "start": 1626,
+          "end": 1628.44,
+          "text": " And then every single SPV is going to be its own token."
+        },
+        {
+          "start": 1628.44,
+          "end": 1632.96,
+          "text": " So let's say our first one is a Triceratops head, the ticker would probably be something"
+        },
+        {
+          "start": 1632.96,
+          "end": 1635.48,
+          "text": " like TRC1."
+        },
+        {
+          "start": 1635.48,
+          "end": 1639.4,
+          "text": " You know, then our next one is going to be a T-Rex head that costs 3 million."
+        },
+        {
+          "start": 1639.4,
+          "end": 1642.6,
+          "text": " That is probably going to be ticker T-Rex1."
+        },
+        {
+          "start": 1642.6,
+          "end": 1649.68,
+          "text": " we do another try to try Seratops head then that's gonna be TRC 2. That's how"
+        },
+        {
+          "start": 1649.68,
+          "end": 1653.94,
+          "text": " we're gonna do it because we want like the core of this project is we want"
+        },
+        {
+          "start": 1653.94,
+          "end": 1658.68,
+          "text": " people to be able to say I own a dinosaur right you need to be able to"
+        },
+        {
+          "start": 1658.68,
+          "end": 1661.96,
+          "text": " say that that's the that's the start"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "audioSha256": "b32fb1017193f41bef47d376e43daee863c730142958693ebad3e93db9b68d00",
+      "researchTranscriptSha256": "4b0cdc3504038c98b581995f6e9bb5d05cde8cff478ca24537e79c050495a1b6",
+      "previousSegmentsSha256": "c9800121902ae93df75475cac3b1fd95c9ca0a52d91b41563ca4b6f4ec3189c6",
+      "publishedSegmentsSha256": "576c845ee1644d90f8d26dea2fc321440af213c0525d34872d0562834a4ba8b7"
+    }
+  ],
+  "changes": [
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 9,
+      "original": {
+        "start": 730.27,
+        "end": 749.59,
+        "text": " Thank you guys. Thank you so much for having me. I think it's going to be an amazing show and I'm happy that I can share a little bit more about Jurassic Finance. I think a lot of people saw on Twitter what we're cooking. We got a lot of support from the foundation. We got a support from Solana from Tolle. So I'm really happy that I can share some more info. This week was really huge."
+      },
+      "replacement": {
+        "start": 730.27,
+        "end": 749.59,
+        "text": " Thank you guys. Thank you so much for having me. I think it's going to be an amazing show and I'm happy that I can share a little bit more about Jurassic Finance. I think a lot of people saw on Twitter what we're cooking. We got a lot of support from the foundation. We got a support from Solana from Toly. So I'm really happy that I can share some more info. This week was really huge."
+      },
+      "evidence": [
+        "radio7:710",
+        "Contextual spelling of the Solana nickname; recheck reads Tolly. Claimed support is not independently verified."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 26,
+      "original": {
+        "start": 1166.78,
+        "end": 1193.76,
+        "text": " we're gonna have me and Sora as the two, you know, core people. And then the main force behind us is gonna be the advisors. So we're gonna have a legal advisor, we're gonna have a paleontologist advisor, we're gonna be a auction advisor, and we're gonna have that, and we're gonna have a tokenization advisor. So they are gonna be our connections to everything because I'm a DJN, so is a DJN. We have the energy, we have the high agency, we can cook, you know? But these things obviously..."
+      },
+      "replacement": {
+        "start": 1166.78,
+        "end": 1193.76,
+        "text": " we're gonna have me and Sora as the two, you know, core people. And then the main force behind us is gonna be the advisors. So we're gonna have a legal advisor, we're gonna have a paleontologist advisor, we're gonna be a auction advisor, and we're gonna have that, and we're gonna have a tokenization advisor. So they are gonna be our connections to everything because I'm a degen, Sora is a degen. We have the energy, we have the high agency, we can cook, you know? But these things obviously..."
+      },
+      "evidence": [
+        "radio7:1160",
+        "Sora is independently named earlier in the same paragraph. Degen is contextual crypto-slang normalization of DJN/DJ."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 27,
+      "original": {
+        "start": 1193.37,
+        "end": 1216.79,
+        "text": " If we want to have people invest in us and we want to make something really big, like, of course, we're not going to be doing any legal stuff. I'm not going to be, you know, getting on my paleontologist outfit and going and looking at different dinos and seeing which to invest. I'm, you know, I'm not that smart because if you think about it, these auctions are literally you're in a room me and sort are like in a room with billionaires and even higher."
+      },
+      "replacement": {
+        "start": 1193.37,
+        "end": 1216.79,
+        "text": " If we want to have people invest in us and we want to make something really big, like, of course, we're not going to be doing any legal stuff. I'm not going to be, you know, getting on my paleontologist outfit and going and looking at different dinos and seeing which to invest. I'm, you know, I'm not that smart because if you think about it, these auctions are literally you're in a room me and Sora are like in a room with billionaires and even higher."
+      },
+      "evidence": [
+        "radio7:1160",
+        "radio7:1207"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 28,
+      "original": {
+        "start": 1219.12,
+        "end": 1254.41,
+        "text": " and we can be that we can do it alone. So we need advisors and yeah, essentially we're gonna have advisors doing all these big boy things to help us. Nice, nice, nice, nice. Amazing. I see Shirk raising the hand. If you have any questions, welcome Shirk. Thank you for joining and please go ahead. Thanks so much for having me on. Yeah, I had a couple of questions actually. This is a really cool concept."
+      },
+      "replacement": {
+        "start": 1219.12,
+        "end": 1254.41,
+        "text": " and [wording unclear], we can't do it alone. So we need advisors and yeah, essentially we're gonna have advisors doing all these big boy things to help us. Nice, nice, nice, nice. Amazing. I see Shirk raising the hand. If you have any questions, welcome Shirk. Thank you for joining and please go ahead. Thanks so much for having me on. Yeah, I had a couple of questions actually. This is a really cool concept."
+      },
+      "evidence": [
+        "radio7:1160",
+        "radio7:1207",
+        "Both passes support cannot do it alone; the preceding disfluency is left unclear."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 30,
+      "original": {
+        "start": 1260,
+        "end": 1289.96,
+        "text": " or is it like small fossils that a single person can buy an individual one? Yeah. So how it's going to work is that we want to get something nice. Like the cheapest asset that we would get would probably be at least 750 to 1 million for the first one. And then after that one, we want to get bigger and bigger. So the first one, let's say, would be something like a triceratops head. I stand on my doing on disturbs. Someone started to call me."
+      },
+      "replacement": {
+        "start": 1260,
+        "end": 1289.96,
+        "text": " or is it like small fossils that a single person can buy an individual one? Yeah. So how it's going to work is that we want to get something nice. Like the cheapest asset that we would get would probably be at least 750 [scale unclear] to 1 million for the first one. And then after that one, we want to get bigger and bigger. So the first one, let's say, would be something like a triceratops head. I stand on my doing on disturbs. Someone started to call me."
+      },
+      "evidence": [
+        "radio7:1250",
+        "radio7:1260",
+        "No explicit thousand after 750 is resolved in either check. Do not silently expand it to 750,000."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 31,
+      "original": {
+        "start": 1292.58,
+        "end": 1322.62,
+        "text": " Yeah, essentially the first one's gonna be like a million let's say so we raise a million in us DC then we can acquire Acquire the specimen and then we're gonna make let's say it's a million dollars and million us DC We make a million of the coin and then people can claim depending on how much they put in They can claim the actual t-rex or or the triceratops or whatever token it is Yeah, super cool, and you mentioned that"
+      },
+      "replacement": {
+        "start": 1292.58,
+        "end": 1322.62,
+        "text": " Yeah, essentially the first one's gonna be like a million let's say so we raise a million in USDC then we can acquire Acquire the specimen and then we're gonna make let's say it's a million dollars and million USDC We make a million of the coin and then people can claim depending on how much they put in They can claim the actual t-rex or or the triceratops or whatever token it is Yeah, super cool, and you mentioned that"
+      },
+      "evidence": [
+        "radio7:1250",
+        "radio7:1260"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 37,
+      "original": {
+        "start": 1440,
+        "end": 1468.3,
+        "text": " which is the first SPV, and we give you 5K and USDC at maybe 15% yearly interest. And then you could even do looping, right? You get the 5K, you can buy 5K more, loop, et cetera, et cetera. So those are what we're thinking for now. And there's also so much cooler stuff, because the coolest thing here is we can also have additional revenue sources for the actual labs company that's not connected to the SPV. Let's say..."
+      },
+      "replacement": {
+        "start": 1440,
+        "end": 1468.3,
+        "text": " which is the first SPV, and we give you 5K in USDC at maybe 15% yearly interest. And then you could even do looping, right? You get the 5K, you can buy 5K more, loop, et cetera, et cetera. So those are what we're thinking for now. And there's also so much cooler stuff, because the coolest thing here is we can also have additional revenue sources for the actual labs company that's not connected to the SPV. Let's say..."
+      },
+      "evidence": [
+        "radio7:1395"
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 40,
+      "original": {
+        "start": 1520.8,
+        "end": 1553.62,
+        "text": " If futarchy decides in the labs entity, hey, we just got a buyer that wants to buy the dino from our first SPV, we raised a million. They want to buy it now for two million futarchy votes if the entity sells the SPV and then they have an exit, right? Or we get all the money in the treasury and then we can do buybacks, whatever. So that's like a lot on revenue. Essentially, this is what you can also read about tomorrow with a little bit more detail. Perfect. Thank you. Thank you, Shaq."
+      },
+      "replacement": {
+        "start": 1520.8,
+        "end": 1553.62,
+        "text": " If futarchy decides in the labs entity, hey, we just got a buyer that wants to buy the dino from our first SPV, we raised a million. They want to buy it now for two million futarchy votes if the entity sells the SPV and then they have an exit, right? Or we get all the money in the treasury and then we can do buybacks, whatever. So that's like a lot on revenue. Essentially, this is what you can also read about tomorrow with a little bit more detail. Perfect. Thank you. Thank you, [name unclear]."
+      },
+      "evidence": [
+        "radio7:1510",
+        "Closing name reads Shaq/shirt across passes; no participant identity inferred."
+      ]
+    },
+    {
+      "resourceId": "ownership-radio-7-recording",
+      "index": 44,
+      "original": {
+        "start": 1620,
+        "end": 1647.98,
+        "text": " ones, but essentially we have our main token, which is for the entity, the lab's entity, and then every single SPV is going to be its own token. So let's say our first one is a triceratops head, the ticker would probably be something like TRC1, you know, then our next one is going to be a TRC's head, because 3 million, that is probably going to be ticker TRC1. Then we do another triceratops head, then that's going to be TRC2."
+      },
+      "replacement": {
+        "start": 1620,
+        "end": 1647.98,
+        "text": " ones, but essentially we have our main token, which is for the entity, the lab's entity, and then every single SPV is going to be its own token. So let's say our first one is a triceratops head, the ticker would probably be something like TRC1, you know, then our next one is going to be a T-Rex head that costs 3 million, that is probably going to be ticker T-Rex1 [illustrative spelling]. Then we do another triceratops head, then that's going to be TRC2."
+      },
+      "evidence": [
+        "radio7:1600",
+        "radio7:1615",
+        "First TRC1 and final TRC2 are retained. Both rechecks transcribe T-Rex1. Use the spoken form with an illustrative-spelling label rather than repeating TRC1; no official ticker or contract spelling is verified."
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "start": 710,
+      "end": 785,
+      "note": "Rechecked Jurassic opening and normalized Tolle/Tolly to the contextual Solana nickname Toly. The recording contains the speaker's claimed support, not independent evidence of an endorsement; no new founder identity inferred from this opening."
+    },
+    {
+      "start": 1160,
+      "end": 1225,
+      "note": "The advisor discussion names Sora; correct sort and the missing Sora reference, and normalize degen contextually. Both medium.en and a shorter small.en pass support cannot do it alone, reversing the erroneous positive can. Leave the preceding disfluency unclear. Legal, paleontology, auction and tokenization advisor roles remain the speaker's plans, not verified appointments."
+    },
+    {
+      "start": 1250,
+      "end": 1325,
+      "note": "Both checks read 750 to 1 million without resolving an explicit thousand after 750; mark scale unclear rather than silently publishing 750,000. Preserve the separate one-million USDC / one-million coin example as a proposal, not proof of asset acquisition, token issuance or redemption rights. Correct USDC spelling."
+    },
+    {
+      "start": 1395,
+      "end": 1475,
+      "note": "Audio supports the hypothetical 80 cents on the dollar, 50% LTV, 10k collateral, 5k in USDC and maybe 15% yearly interest examples. Preserve the explicit we do not know yet and advisor caveats. Correct in USDC rather than and USDC. No available loan, assured liquidity or implemented yield claim inferred."
+    },
+    {
+      "start": 1510,
+      "end": 1575,
+      "note": "Rechecked the illustrative one-million/two-million sale and governance discussion. It remains a hypothetical scenario, not evidence that an SPV, asset sale or governance execution happened. Closing participant name is explicitly unclear rather than presenting Shaq/shirt as verified."
+    },
+    {
+      "start": 1600,
+      "end": 1675,
+      "note": "The shorter pass supports TRC1 for the first Triceratops and TRC2 for the next. The intervening specimen is a T-Rex costing 3 million; both rechecks transcribe the proposed ticker as T-Rex1. Use that spoken form labelled illustrative spelling; it does not verify the official symbol or a contract. These are tentative historical examples, not current token identifiers or contracts."
+    }
+  ]
+}

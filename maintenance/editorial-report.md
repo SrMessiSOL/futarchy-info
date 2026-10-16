@@ -1,3 +1,22 @@
+# Jurassic Finance interview audio review
+
+Prepared October 16, 2026 after merged PR #51. Its deployment succeeded, and the corrected #3/#15 text, reader pages, timestamps and text/JSON downloads were verified live on futarchy.info.
+
+Six medium.en excerpts (7m15s) and three shorter small.en confirmations (1m55s) support nine corrected or clarified passages in Radio #7's Jurassic Finance discussion. This is automated audio comparison and editorial review, not full manual listening or independent verification of financial/legal/product claims.
+
+- Contextually normalize Tolle/Tolly to Toly without verifying the speaker's claimed support/endorsement.
+- Correct the missing Sora reference and sort to Sora; normalize degen contextually. Both checks support can't do it alone. Leave the preceding disfluency unclear. The proposed advisor roles remain plans, not verified appointments.
+- Both price checks read 750 to 1 million without resolving an explicit thousand after 750. Mark scale unclear; do not silently expand it to 750,000. Preserve the separate one-million USDC/coin illustration.
+- Correct USDC and 5k in USDC. Rechecks support the hypothetical 80-cent, 50% LTV, 10k/5k and maybe 15% yearly-interest examples, with their original we-don't-know-yet/advisor caveats. No live loan, guaranteed liquidity or implemented interest rate inferred.
+- Preserve the one-million/two-million sale scenario as hypothetical, not a completed asset sale/governance execution. Closing participant name stays unclear.
+- Distinguish the T-Rex specimen and its spoken T-Rex1 example from TRC1/TRC2 for Triceratops. Both checks read T-Rex1; label it illustrative spelling, without asserting an official symbol or current token identifier.
+
+All original timestamps and source/research hashes remain intact. Evidence: maintenance/radio-project-pass-2026-10-16/evidence.json. The new test reconstructs the previous founder-review hash; the shared restoration step keeps all prior correction-chain tests valid.
+
+Validation: npm run check passed (61 tests and TypeScript). Local production build passed with npm run build -- --webpack; hosted standard build required. No merge or deployment of this follow-up.
+
+---
+
 # Numeric and financial-term audio follow-up
 
 Prepared October 16, 2026 after merged PR #50. Its deployment succeeded; #3/#7/#15 corrected text, restored sentence, reader pages and text/JSON downloads were verified live on futarchy.info.

@@ -1,3 +1,13 @@
+# Historical reporting publication clarification: October 16, 2026
+
+User approved keeping historical reporting and analysis visible while avoiding promotional updates about liquidated projects. Publish the two already source-reviewed 01Resolved records: resolved-audit-9d14ae89f58f (March 6 Ranger liquidation analysis) and resolved-audit-7db80197fbcc (March 17 Solomon/Omnipair comparison). Both retain IDs, dates, descriptions, project tags and provenance unchanged.
+
+A separate historicalReporting approval group preserves the original 37 exceptions and four recovered Radio approvals. Browsing and agent access use the same approvals. Unreviewed or promotional post-cutoff material stays held. Future historical-reporting additions require contextual source review; no keyword classifier or blanket publisher exemption. Lifecycle dates and project status are unchanged.
+
+npm run check passed: catalog validation, 62 tests and TypeScript. npm run build -- --webpack passed. Hosted validation will run on the PR. No merge or deployment performed.
+
+---
+
 # 01Resolved archive reconciliation: October 16, 2026
 
 Reviewed the public post sitemap (53 URLs), the sitemap index (one posts sitemap), and the complete available text bodies plus datePublished metadata for the 15 URLs absent from the previous domain-only catalog comparison. The live everything API initially contained the same 38 canonical publisher URLs. Four related legacy X article records were upgraded in place; 11 new records added. Existing IDs remain intact.
@@ -514,4 +524,5 @@ The 611-link snapshot is historical discovery data, not 611 approved additions. 
 ## Validation
 
 The current 754-record draft passed catalog validation, all 23 tests, TypeScript and the approved local production build (six static pages). All 371 baseline IDs remain; review JSON parses and decision references resolve. An initial sandbox build hit Windows path access denied; the approved build succeeded. Editorial coverage remains incomplete.
+
 

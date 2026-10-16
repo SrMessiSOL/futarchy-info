@@ -30,3 +30,19 @@ test('37 cutoff exceptions remain independent of later browsing-scope restrictio
   for(const id of approved){const record=catalog.find(r=>r.id===id);assert.ok(record&&!record.duplicateOf,id);assert.equal(publicationBlockReason(record,rules,approved),null,id);}
   assert.ok(publicationBlockReason({...row,id:'future-ranger-promotion',date:'2026-10-12'},rules,approved));
 });
+
+test('reviewed historical analysis is visible after cutoff while later promotions remain held',()=>{
+  const catalog=JSON.parse(fs.readFileSync('content/resources.json'));
+  const exceptions=JSON.parse(fs.readFileSync('content/publication-exceptions.json'));
+  assert.deepEqual(exceptions.historicalReporting.resourceIds.slice().sort(),['resolved-audit-9d14ae89f58f','resolved-audit-7db80197fbcc'].sort());
+  const approved=[...exceptions.resourceIds,...exceptions.recoveredRadio.resourceIds,...exceptions.historicalReporting.resourceIds];
+  for(const id of exceptions.historicalReporting.resourceIds){
+    const record=catalog.find(r=>r.id===id);
+    assert.equal(record.verification,'source-checked');
+    assert.ok(record.tags.includes('project:ranger'));
+    assert.ok(publicationBlockReason(record,rules));
+    assert.equal(publicationBlockReason(record,rules,approved),null);
+  }
+  assert.ok(publicationBlockReason({...row,id:'future-ranger-promotion',title:'Invest in Ranger today',date:'2026-10-16'},rules,approved));
+  assert.ok(publicationBlockReason({...row,id:'unreviewed-history',title:'Ranger retrospective',date:'2026-10-16'},rules,approved));
+});

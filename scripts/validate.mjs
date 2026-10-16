@@ -8,5 +8,5 @@ const lifecycle = await read('content/project-lifecycle.json');
 const exceptions = await read('content/publication-exceptions.json');
 const projects = await read('content/projects.json');
 const guests = await read('content/ownership-radio-projects.json');
-const visible = rows.filter(r => !r.catalogOnly && !r.duplicateOf && !excludedByProjectRetention(r, projects, guests) && !publicationBlockReason(r, lifecycle, [...exceptions.resourceIds, ...exceptions.recoveredRadio.resourceIds]));
-console.log(`Valid: ${rows.length} records; ${visible.length} publication-eligible; ${rows.filter(r => !r.duplicateOf && publicationBlockReason(r, lifecycle, [...exceptions.resourceIds, ...exceptions.recoveredRadio.resourceIds])).length} held by lifecycle policy; ${rows.filter(r => r.verification === 'source-checked').length} source-checked.`);
+const visible = rows.filter(r => !r.catalogOnly && !r.duplicateOf && !excludedByProjectRetention(r, projects, guests) && !publicationBlockReason(r, lifecycle, [...exceptions.resourceIds, ...exceptions.recoveredRadio.resourceIds, ...exceptions.historicalReporting.resourceIds]));
+console.log(`Valid: ${rows.length} records; ${visible.length} publication-eligible; ${rows.filter(r => !r.duplicateOf && publicationBlockReason(r, lifecycle, [...exceptions.resourceIds, ...exceptions.recoveredRadio.resourceIds, ...exceptions.historicalReporting.resourceIds])).length} held by lifecycle policy; ${rows.filter(r => r.verification === 'source-checked').length} source-checked.`);

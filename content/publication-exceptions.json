@@ -49,5 +49,13 @@
       "ownership-radio-7-recording",
       "ownership-radio-15-recording"
     ]
+  },
+  "historicalReporting": {
+    "approvedAt": "2026-10-16",
+    "authorization": "User explicitly approved the two reviewed 01Resolved articles and instructed that historical reporting and analysis remain visible while promotional updates about liquidated projects remain held. Future entries in this list require source review confirming retrospective reporting or analysis, not promotion or a call to invest.",
+    "resourceIds": [
+      "resolved-audit-9d14ae89f58f",
+      "resolved-audit-7db80197fbcc"
+    ]
   }
 }

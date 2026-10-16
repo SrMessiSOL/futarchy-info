@@ -2842,7 +2842,7 @@
       "audioSha256": "49cd498de771d5d564ecd565f1681fc7e67927bb1baee84e16bdbf058b0d9b07",
       "researchTranscriptSha256": "a9b1759cf3b07d69215dffc9416bb44ccb2efe1f5cc8f3d066b03be8ee2ce17f",
       "warning": "Machine transcript with targeted editorial corrections. Names, figures and wording may still be inaccurate. Speaker claims are not independently verified.",
-      "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Recovered 27m55s opening of a two-part Space; interruption length is unknown. The previously published resumed part retains its original timestamps and words.",
+      "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Recovered 27m55s opening of a two-part Space; interruption length is unknown. The previously published resumed part retains its original timestamps and words. October 16 targeted audio recheck: opening-local 705-750s and 775-835s were independently retranscribed with medium.en and compared editorially. 10,000 is spoken but its following fundraising wording remains unclear. The 2.5 million fee-revenue, eight ICOs, 20 million, 390 million and 15x figures are spoken historical claims; 390/20 is 19.5, so the stated 15x does not arithmetically reconcile and was preserved rather than corrected as fact. This is not manual listening or independent financial validation.",
       "timestampAdjustments": "Timestamps are local to the recovered source. Segments are sorted; end times exceeding decoded duration are clipped. Untranscribed intervals are documented, not filled with invented speech.",
       "omittedOutOfRangeSegments": 0,
       "segments": [
@@ -2904,7 +2904,7 @@
         {
           "start": 720,
           "end": 748.79,
-          "text": " me. But I think they started with 10,000 racers, something like that. And then on Q4 of 2025 alone, MetaDAO hit like 2.5 million on fee revenues. MetaDAO is a fundraise platform. If you have a project and idea, you can contact Colin, Proph3t or me."
+          "text": " me. But I think they started with 10,000 [fundraising wording unclear], something like that. And then on Q4 of 2025 alone, MetaDAO hit like 2.5 million on fee revenues. MetaDAO is a fundraise platform. If you have a project and idea, you can contact Colin, Proph3t or me."
         },
         {
           "start": 750.09,
@@ -2914,7 +2914,7 @@
         {
           "start": 779.72,
           "end": 810.61,
-          "text": " Two hundred and fifty million dollars of market cap or the total of futarchy ecosystem and this happened while the brother crypto market was down like 25% so ownership tokens or coins are proving They work they actually work so since April 2025 They have hosted eight ICOs rising combined 20 million with"
+          "text": " Two hundred and fifty million dollars of market cap or the total of futarchy ecosystem and this happened while the broader crypto market was down like 25% so ownership tokens or coins are proving They work they actually work so since April 2025 They have hosted eight ICOs rising combined 20 million with"
         },
         {
           "start": 811.61,
@@ -3063,7 +3063,7 @@
         }
       ],
       "qualityAudit": {
-        "checkedAt": "2026-10-15",
+        "checkedAt": "2026-10-16",
         "method": "Every generated segment read in context; targeted terminology corrections logged. Automated timing and repetition check. Not complete manual listening or independent factual validation.",
         "untranscribedIntervals": [
           {
@@ -3074,7 +3074,7 @@
         ],
         "chronologySorted": true,
         "repairedIntervals": [],
-        "publishedSegmentsSha256": "3c36b884a2dc654e3b0c57026f56efdab5dac55e9e04cc7938184401404a8f54"
+        "publishedSegmentsSha256": "bb039a92d90f65ad4f54ec786c2a559f506dcbc15751a60143cb5863fc9b3eee"
       },
       "originalSpaceUrl": "https://x.com/i/spaces/1rGmqopaXDQGy",
       "sourceFilename": "space-1rGmqopaXDQGy_0.ts"
@@ -296938,7 +296938,7 @@
       {
         "start": 2675.226625,
         "end": 2681.386625,
-        "text": " where essentially by owning a certain amount of the circling supply of token, you could pay a price,",
+        "text": " where essentially by owning a certain amount of the circulating supply of token, you could pay a price,",
         "sourceClip": 20,
         "sourceStart": 45.97,
         "sourceEnd": 52.13
@@ -296950,6 +296950,14 @@
         "sourceClip": 20,
         "sourceStart": 52.13,
         "sourceEnd": 56.53
+      },
+      {
+        "start": 2685.786625,
+        "end": 2689.366625,
+        "text": " plus a premium, to basically buy out all the rest of the tokens.",
+        "sourceClip": 20,
+        "sourceStart": 56.53,
+        "sourceEnd": 60.11
       },
       {
         "start": 2689.366625,
@@ -297074,7 +297082,7 @@
       {
         "start": 2768.3055625,
         "end": 2774.7755625,
-        "text": "[Partial collection: Clip 21; timestamps in this collection are not original broadcast times.]\n and so did you and I immediately thought if you are public good you need to stand",
+        "text": "[Partial collection: Clip 21; timestamps in this collection are not original broadcast times.]\n and so Soju and I immediately thought if you are public good you need to stand",
         "sourceClip": 21,
         "sourceStart": 0.11,
         "sourceEnd": 6.58
@@ -297106,7 +297114,7 @@
       {
         "start": 2787.6955625,
         "end": 2790.9155625,
-        "text": " he holds the equity right I want to be careful legally here but the Beryl",
+        "text": " he holds the equity right I want to be careful legally here but the Bedrock",
         "sourceClip": 21,
         "sourceStart": 19.5,
         "sourceEnd": 22.72
@@ -297298,10 +297306,18 @@
       {
         "start": 2892.9098125,
         "end": 2895.1498125,
-        "text": " ... Some lawyers have not been here very much.",
+        "text": " Some lawyers [wording unclear].",
         "sourceClip": 22,
         "sourceStart": 47.88,
         "sourceEnd": 50.12
+      },
+      {
+        "start": 2895.1498125,
+        "end": 2901.9398125,
+        "text": " It's normally used by governments to basically hold",
+        "sourceClip": 22,
+        "sourceStart": 50.12,
+        "sourceEnd": 56.91
       },
       {
         "start": 2901.9398125,
@@ -301852,7 +301868,7 @@
       {
         "start": 5441.468999999999,
         "end": 5447.148999999999,
-        "text": " for that period and you know like even with p2p recently we said you know 90 days we're not",
+        "text": " for that period and you know like even with P2P recently we said you know 90 days we're not",
         "sourceClip": 43,
         "sourceStart": 112.99,
         "sourceEnd": 118.67
@@ -301864,6 +301880,14 @@
         "sourceClip": 43,
         "sourceStart": 118.67,
         "sourceEnd": 124.19
+      },
+      {
+        "start": 5452.668999999999,
+        "end": 5456.928999999999,
+        "text": " a happy medium there, you know, like, and obviously we have to say in the case of like",
+        "sourceClip": 43,
+        "sourceStart": 124.19,
+        "sourceEnd": 128.45
       },
       {
         "start": 5456.928999999999,
@@ -301892,7 +301916,7 @@
       {
         "start": 5473.768999999999,
         "end": 5480.048999999999,
-        "text": " With 300 users are you know, like or 100k and revenue is just not where we are",
+        "text": " With 300 users are you know, like or 100k in revenue is just not where we are",
         "sourceClip": 43,
         "sourceStart": 145.29,
         "sourceEnd": 151.57
@@ -302613,12 +302637,53 @@
       }
     ],
     "qualityAudit": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "method": "Every generated segment read in context; targeted terminology corrections logged. Automated timing and repetition check. Not complete manual listening or independent factual validation.",
       "untranscribedIntervals": [],
       "chronologySorted": true,
       "repairedIntervals": [],
-      "publishedSegmentsSha256": "86a9b4e97d3ffdc02ebef3e42f911c8424aefdc4ef60230f41157dff2e4e489c"
-    }
+      "publishedSegmentsSha256": "92a7087619e1f1e2b01209482080f8511f9a395d188eeefd9fc306783f43cc61"
+    },
+    "editorialChecks": [
+      {
+        "start": 2664.256625,
+        "end": 2719.256625,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Clip 20, source-local 35-90s. The seven-day backward-looking TWAP phrase is followed by plus a premium and buying out the rest of the tokens. Both medium.en and an independent small.en shorter-window pass recover the previously omitted phrase. No premium percentage added from current documentation. Medium.en CPU int8 beam5, no VAD/prompt/prior conditioning; short small.en confirmations for restored phrases. Not manual listening. Inserted phrase timing uses original gap boundaries and is approximate.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1zjULR4uMS9ZOzHi6lTXxodJgUcJsnt5M",
+          "https://bedrock.meteora.ag/learn"
+        ]
+      },
+      {
+        "start": 2768.1955625,
+        "end": 2813.1955625,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Clip 21, source-local 0-45s. The audio supports the spoken $500,000 initial budget and $2 million Meteora credit line. Bedrock/Soju spelling corrected contextually. These historical legal/financial claims are not independently verified and do not establish current terms. Medium.en CPU int8 beam5, no VAD/prompt/prior conditioning; short small.en confirmations for restored phrases. Not manual listening. Inserted phrase timing uses original gap boundaries and is approximate.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1zjULR4uMS9ZOzHi6lTXxodJgUcJsnt5M",
+          "https://bedrock.meteora.ag/learn"
+        ]
+      },
+      {
+        "start": 2870.0298125,
+        "end": 2910.0298125,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Clip 22, source-local 25-65s. The 20% non-/anti-dilutive statements are audible in the machine recheck. Two passes recover the omitted explanation that golden shares are normally used by governments. The preceding wording about lawyers remains unclear. Medium.en CPU int8 beam5, no VAD/prompt/prior conditioning; short small.en confirmations for restored phrases. Not manual listening. Inserted phrase timing uses original gap boundaries and is approximate.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1zjULR4uMS9ZOzHi6lTXxodJgUcJsnt5M",
+          "https://bedrock.meteora.ag/learn"
+        ]
+      },
+      {
+        "start": 5433.478999999999,
+        "end": 5483.478999999999,
+        "status": "targeted-audio-asr-recheck",
+        "note": "Clip 43, source-local 105-155s. Audio supports the spoken 90-day P2P discussion, $50 million FDV, 300 users and 100k in revenue. Restore the omitted happy-medium/in-case-of qualifier using two passes. These are historical examples and speaker claims, not a statement of current P2P rules. Medium.en CPU int8 beam5, no VAD/prompt/prior conditioning; short small.en confirmations for restored phrases. Not manual listening. Inserted phrase timing uses original gap boundaries and is approximate.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1zjULR4uMS9ZOzHi6lTXxodJgUcJsnt5M"
+        ]
+      }
+    ]
   }
 ]

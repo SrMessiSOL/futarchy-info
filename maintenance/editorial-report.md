@@ -1,3 +1,23 @@
+# Radio opening and partial-clips audio follow-up
+
+Prepared October 16, 2026, following merged PR #48. Its deployment succeeded; all #3/#7/#15 merged text and downloadable transcripts were verified live on futarchy.info. Public timing matches within floating-point formatting tolerance.
+
+Six medium.en excerpt checks (4m45s) plus three independent shorter small.en checks (58s) support eight text edits and three restored phrases in Radio #1's opening and Radio #5's partial collection. This is targeted automated audio review with editorial comparison, not full manual listening.
+
+- Radio #1 opening: mark the word following 10,000 unclear; correct broader crypto market. The spoken 2.5 million fee revenue, eight ICOs, 20 million raised, 390 million demand and 15x remain attributed claims. The last three figures do not reconcile arithmetically (390/20 = 19.5); preserve the spoken 15x and disclose the discrepancy.
+- Radio #5 clip20: restore plus a premium and buying out the rest of the tokens after the seven-day backward-looking TWAP phrase. No premium percentage imported from current documentation.
+- Clip21: contextually correct Soju/Bedrock; audio supports the spoken $500,000 budget and $2 million Meteora credit line, without establishing current legal or financial terms.
+- Clip22: restore the explanation that golden shares are normally used by governments. Leave the preceding words about lawyers explicitly unclear. Preserve the spoken 20% statements.
+- Clip43: restore the happy-medium/in-case-of qualifier; retain the spoken 90-day P2P discussion and valuation examples. Correct 100k in revenue. These statements do not establish current P2P policy.
+
+All original segment timestamps, source hashes and clip manifests are preserved. The three restored phrases use the original gaps as approximate phrase boundaries; they are not word-aligned by manual listening. Radio #5 still has 45 partial clips and missing clip28. Prior unresolved #3/#15 readings remain unresolved.
+
+Evidence: maintenance/radio-clips-followup-2026-10-16/evidence.json. The new regression test reverses every insertion/edit and reconstructs both original recovery hashes.
+
+Validation: npm run check passed, including 58 tests and TypeScript. Production build passed locally with npm run build -- --webpack. No merge or deployment of this follow-up.
+
+---
+
 # Recovered Radio: names and numbers audio follow-up
 
 Prepared October 16, 2026. Eight audio excerpts (475 seconds) reprocessed with medium.en and compared with the published transcripts. This is targeted automated audio review, not full manual listening.

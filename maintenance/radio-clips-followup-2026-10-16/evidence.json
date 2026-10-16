@@ -1,0 +1,778 @@
+{
+  "checkedAt": "2026-10-16",
+  "method": "Six medium.en audio excerpt rechecks and three independent small.en short-window confirmations. Editorial comparison, not full manual listening. Original segments retain timestamps; three restored phrases use approximate original-gap boundaries.",
+  "reviews": [
+    {
+      "part": "opening",
+      "resourceId": "ownership-radio-1-recording",
+      "audioSha256": "49cd498de771d5d564ecd565f1681fc7e67927bb1baee84e16bdbf058b0d9b07",
+      "audioManifestSha256": null,
+      "previousSegmentsSha256": "3c36b884a2dc654e3b0c57026f56efdab5dac55e9e04cc7938184401404a8f54",
+      "publishedSegmentsSha256": "bb039a92d90f65ad4f54ec786c2a559f506dcbc15751a60143cb5863fc9b3eee"
+    },
+    {
+      "part": "clips",
+      "resourceId": "ownership-radio-5-recording",
+      "audioSha256": null,
+      "audioManifestSha256": "ed9ebcd2f89e16117ed4b3a5686e9bd3bd8492f8955d7b49d9d5895010bc322c",
+      "previousSegmentsSha256": "86a9b4e97d3ffdc02ebef3e42f911c8424aefdc4ef60230f41157dff2e4e489c",
+      "publishedSegmentsSha256": "92a7087619e1f1e2b01209482080f8511f9a395d188eeefd9fc306783f43cc61"
+    }
+  ],
+  "changes": [
+    {
+      "operation": "replace",
+      "part": "opening",
+      "index": 11,
+      "original": {
+        "start": 720,
+        "end": 748.79,
+        "text": " me. But I think they started with 10,000 racers, something like that. And then on Q4 of 2025 alone, MetaDAO hit like 2.5 million on fee revenues. MetaDAO is a fundraise platform. If you have a project and idea, you can contact Colin, Proph3t or me."
+      },
+      "replacement": {
+        "start": 720,
+        "end": 748.79,
+        "text": " me. But I think they started with 10,000 [fundraising wording unclear], something like that. And then on Q4 of 2025 alone, MetaDAO hit like 2.5 million on fee revenues. MetaDAO is a fundraise platform. If you have a project and idea, you can contact Colin, Proph3t or me."
+      },
+      "evidence": [
+        "opening:705",
+        "Both passes support 10,000 but do not reliably resolve the following word. No currency or participant count inferred."
+      ]
+    },
+    {
+      "operation": "replace",
+      "part": "opening",
+      "index": 13,
+      "original": {
+        "start": 779.72,
+        "end": 810.61,
+        "text": " Two hundred and fifty million dollars of market cap or the total of futarchy ecosystem and this happened while the brother crypto market was down like 25% so ownership tokens or coins are proving They work they actually work so since April 2025 They have hosted eight ICOs rising combined 20 million with"
+      },
+      "replacement": {
+        "start": 779.72,
+        "end": 810.61,
+        "text": " Two hundred and fifty million dollars of market cap or the total of futarchy ecosystem and this happened while the broader crypto market was down like 25% so ownership tokens or coins are proving They work they actually work so since April 2025 They have hosted eight ICOs rising combined 20 million with"
+      },
+      "evidence": [
+        "opening:775"
+      ]
+    },
+    {
+      "operation": "replace",
+      "part": "clips",
+      "index": 601,
+      "original": {
+        "start": 2675.226625,
+        "end": 2681.386625,
+        "text": " where essentially by owning a certain amount of the circling supply of token, you could pay a price,",
+        "sourceClip": 20,
+        "sourceStart": 45.97,
+        "sourceEnd": 52.13
+      },
+      "replacement": {
+        "start": 2675.226625,
+        "end": 2681.386625,
+        "text": " where essentially by owning a certain amount of the circulating supply of token, you could pay a price,",
+        "sourceClip": 20,
+        "sourceStart": 45.97,
+        "sourceEnd": 52.13
+      },
+      "evidence": [
+        "clip20:35",
+        "Contextual technical-term normalization; both ASR models render the phonetic form circling."
+      ]
+    },
+    {
+      "operation": "replace",
+      "part": "clips",
+      "index": 618,
+      "original": {
+        "start": 2768.3055625,
+        "end": 2774.7755625,
+        "text": "[Partial collection: Clip 21; timestamps in this collection are not original broadcast times.]\n and so did you and I immediately thought if you are public good you need to stand",
+        "sourceClip": 21,
+        "sourceStart": 0.11,
+        "sourceEnd": 6.58
+      },
+      "replacement": {
+        "start": 2768.3055625,
+        "end": 2774.7755625,
+        "text": "[Partial collection: Clip 21; timestamps in this collection are not original broadcast times.]\n and so Soju and I immediately thought if you are public good you need to stand",
+        "sourceClip": 21,
+        "sourceStart": 0.11,
+        "sourceEnd": 6.58
+      },
+      "evidence": [
+        "clip21:0",
+        "Contextual name correction: the same Bedrock discussion already identifies Soju as the co-creator. The medium pass omits the proper name; not a phonetic confirmation."
+      ]
+    },
+    {
+      "operation": "replace",
+      "part": "clips",
+      "index": 622,
+      "original": {
+        "start": 2787.6955625,
+        "end": 2790.9155625,
+        "text": " he holds the equity right I want to be careful legally here but the Beryl",
+        "sourceClip": 21,
+        "sourceStart": 19.5,
+        "sourceEnd": 22.72
+      },
+      "replacement": {
+        "start": 2787.6955625,
+        "end": 2790.9155625,
+        "text": " he holds the equity right I want to be careful legally here but the Bedrock",
+        "sourceClip": 21,
+        "sourceStart": 19.5,
+        "sourceEnd": 22.72
+      },
+      "evidence": [
+        "clip21:0",
+        "https://bedrock.meteora.ag/learn",
+        "Both machine passes garble the name; the speaker, filenames and adjacent passages establish Bedrock."
+      ]
+    },
+    {
+      "operation": "replace",
+      "part": "clips",
+      "index": 646,
+      "original": {
+        "start": 2892.9098125,
+        "end": 2895.1498125,
+        "text": " ... Some lawyers have not been here very much.",
+        "sourceClip": 22,
+        "sourceStart": 47.88,
+        "sourceEnd": 50.12
+      },
+      "replacement": {
+        "start": 2892.9098125,
+        "end": 2895.1498125,
+        "text": " Some lawyers [wording unclear].",
+        "sourceClip": 22,
+        "sourceStart": 47.88,
+        "sourceEnd": 50.12
+      },
+      "evidence": [
+        "clip22:25",
+        "clip22:45",
+        "The two passes disagree about the wording after some lawyers; no polished reconstruction inserted."
+      ]
+    },
+    {
+      "operation": "replace",
+      "part": "clips",
+      "index": 1214,
+      "original": {
+        "start": 5441.468999999999,
+        "end": 5447.148999999999,
+        "text": " for that period and you know like even with p2p recently we said you know 90 days we're not",
+        "sourceClip": 43,
+        "sourceStart": 112.99,
+        "sourceEnd": 118.67
+      },
+      "replacement": {
+        "start": 5441.468999999999,
+        "end": 5447.148999999999,
+        "text": " for that period and you know like even with P2P recently we said you know 90 days we're not",
+        "sourceClip": 43,
+        "sourceStart": 112.99,
+        "sourceEnd": 118.67
+      },
+      "evidence": [
+        "clip43:105"
+      ]
+    },
+    {
+      "operation": "replace",
+      "part": "clips",
+      "index": 1219,
+      "original": {
+        "start": 5473.768999999999,
+        "end": 5480.048999999999,
+        "text": " With 300 users are you know, like or 100k and revenue is just not where we are",
+        "sourceClip": 43,
+        "sourceStart": 145.29,
+        "sourceEnd": 151.57
+      },
+      "replacement": {
+        "start": 5473.768999999999,
+        "end": 5480.048999999999,
+        "text": " With 300 users are you know, like or 100k in revenue is just not where we are",
+        "sourceClip": 43,
+        "sourceStart": 145.29,
+        "sourceEnd": 151.57
+      },
+      "evidence": [
+        "clip43:105"
+      ]
+    },
+    {
+      "operation": "insert",
+      "part": "clips",
+      "index": 1216,
+      "original": null,
+      "replacement": {
+        "start": 5452.668999999999,
+        "end": 5456.928999999999,
+        "text": " a happy medium there, you know, like, and obviously we have to say in the case of like",
+        "sourceClip": 43,
+        "sourceStart": 124.19,
+        "sourceEnd": 128.45
+      },
+      "evidence": [
+        "clip43:105",
+        "clip43:115"
+      ],
+      "timing": "Uses the existing gap boundaries in this clip; approximate phrase timing, not manual word alignment."
+    },
+    {
+      "operation": "insert",
+      "part": "clips",
+      "index": 647,
+      "original": null,
+      "replacement": {
+        "start": 2895.1498125,
+        "end": 2901.9398125,
+        "text": " It's normally used by governments to basically hold",
+        "sourceClip": 22,
+        "sourceStart": 50.12,
+        "sourceEnd": 56.91
+      },
+      "evidence": [
+        "clip22:25",
+        "clip22:45"
+      ],
+      "timing": "Uses the existing gap boundaries in this clip; approximate phrase timing, not manual word alignment."
+    },
+    {
+      "operation": "insert",
+      "part": "clips",
+      "index": 603,
+      "original": null,
+      "replacement": {
+        "start": 2685.786625,
+        "end": 2689.366625,
+        "text": " plus a premium, to basically buy out all the rest of the tokens.",
+        "sourceClip": 20,
+        "sourceStart": 56.53,
+        "sourceEnd": 60.11
+      },
+      "evidence": [
+        "clip20:35",
+        "clip20:48"
+      ],
+      "timing": "Uses the existing gap boundaries in this clip; approximate phrase timing, not manual word alignment."
+    }
+  ],
+  "audioRechecks": [
+    {
+      "part": "opening",
+      "clipNumber": null,
+      "sourceFilename": "radio1-opening.aac",
+      "start": 705,
+      "duration": 45,
+      "reason": "early MetaDAO raises and fee revenue",
+      "pcmSha256": "14c72745f4ce65bbd71773bc963602ce143e12b8fba05f972627f9742e1002a9",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 705,
+          "end": 715.16,
+          "text": " pair. Those are my favorite ownership coins right now. But at the same time, Metadao"
+        },
+        {
+          "start": 715.16,
+          "end": 720.68,
+          "text": " started really small with, I think, eight big things, maybe you can correct me, but"
+        },
+        {
+          "start": 720.68,
+          "end": 730.48,
+          "text": " I think they started with 10,000 rosary, something like that. And then on Q4 of"
+        },
+        {
+          "start": 730.48,
+          "end": 740.76,
+          "text": " 2025 alone. Metadao hit like a 2.5 million on field revenues. Metadao is a"
+        },
+        {
+          "start": 740.76,
+          "end": 747.58,
+          "text": " fundraising platform. If you have a project, an idea, you can contact Colin,"
+        },
+        {
+          "start": 747.58,
+          "end": 750.76,
+          "text": " Prophet or me."
+        }
+      ]
+    },
+    {
+      "part": "opening",
+      "clipNumber": null,
+      "sourceFilename": "radio1-opening.aac",
+      "start": 775,
+      "duration": 60,
+      "reason": "ICO count, accepted capital and demand",
+      "pcmSha256": "f4d6087d490f75d4903f573eeb4ff0f3bcc65e1002c2b273c41346ae254a6711",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 775,
+          "end": 785.4,
+          "text": " dollars uh right now but the ith was like 250 million dollars of market cap or the total of"
+        },
+        {
+          "start": 785.4,
+          "end": 791.72,
+          "text": " futology ecosystem and this happened while the broader crypto market was down like 25 percent"
+        },
+        {
+          "start": 792.44,
+          "end": 799.72,
+          "text": " so ownership tokens or coins are proving uh they work they actually work"
+        },
+        {
+          "start": 799.72,
+          "end": 813.12,
+          "text": " So, since April 2025, they have hosted 8 ICOs, raising combined 20 million, with 390 million"
+        },
+        {
+          "start": 813.12,
+          "end": 817.4,
+          "text": " in total demand, that oversubscribed 15x."
+        },
+        {
+          "start": 817.4,
+          "end": 824.28,
+          "text": " The market is speaking, people want real ownership and Metadao is delivering."
+        },
+        {
+          "start": 824.28,
+          "end": 828.12,
+          "text": " now. The thing I'm probably most excited to talk about today."
+        }
+      ]
+    },
+    {
+      "part": "clips",
+      "clipNumber": 20,
+      "sourceFilename": "Clip 20 - @wassielawyer Bedrock #2.mp3",
+      "start": 35,
+      "duration": 55,
+      "reason": "circulating supply and TWAP",
+      "pcmSha256": "8913e98448f164481bdb35c5bc4840ad3734e5b5cfe236b8afb98f53a2caf2e7",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 35,
+          "end": 38.34,
+          "text": " you need to buy the, now if you're following me right,"
+        },
+        {
+          "start": 38.34,
+          "end": 40.42,
+          "text": " you need the currency in order to buy the equity."
+        },
+        {
+          "start": 40.42,
+          "end": 41.78,
+          "text": " How do you get a currency"
+        },
+        {
+          "start": 41.78,
+          "end": 44.7,
+          "text": " if the currency is being held by everybody, right?"
+        },
+        {
+          "start": 44.7,
+          "end": 47.620000000000005,
+          "text": " So we created a mechanism where essentially,"
+        },
+        {
+          "start": 47.620000000000005,
+          "end": 49.34,
+          "text": " by owning a certain amount"
+        },
+        {
+          "start": 49.34,
+          "end": 51.06,
+          "text": " of the circling supply of token,"
+        },
+        {
+          "start": 51.06,
+          "end": 52.94,
+          "text": " you could pay a price, a fixed price,"
+        },
+        {
+          "start": 52.94,
+          "end": 55.54,
+          "text": " which is I believe, I think it's like seven day"
+        },
+        {
+          "start": 55.54,
+          "end": 58.019999999999996,
+          "text": " T-watt backward looking plus a premium,"
+        },
+        {
+          "start": 58.019999999999996,
+          "end": 60.36,
+          "text": " to basically buy out all the rest of the tokens."
+        },
+        {
+          "start": 60.36,
+          "end": 61.66,
+          "text": " You can now have the entire supply"
+        },
+        {
+          "start": 61.66,
+          "end": 62.900000000000006,
+          "text": " go up to the foundation and say,"
+        },
+        {
+          "start": 62.900000000000006,
+          "end": 68.98,
+          "text": " hey I want to buy the equity from you. So this has probably two functions. One, it"
+        },
+        {
+          "start": 68.98,
+          "end": 73.64,
+          "text": " allows people who actually want to hold the equity like underlying exposure"
+        },
+        {
+          "start": 73.64,
+          "end": 77.9,
+          "text": " go and actually buy the equity to bid up the token because now you have"
+        },
+        {
+          "start": 77.9,
+          "end": 81.2,
+          "text": " optionality to you know take out the rest of the supply if the price"
+        },
+        {
+          "start": 81.2,
+          "end": 85.34,
+          "text": " comes down. Secondly, which is very important, it gives the founder"
+        },
+        {
+          "start": 85.34,
+          "end": 90.02000000000001,
+          "text": " optionality to buy back a token. The issue with token"
+        }
+      ]
+    },
+    {
+      "part": "clips",
+      "clipNumber": 21,
+      "sourceFilename": "Clip 21 - @wassielawyer Bedrock #3.mp3",
+      "start": 0,
+      "duration": 45,
+      "reason": "Bedrock name and litigation budget",
+      "pcmSha256": "5e97f9f733bd2d8ea35cfa2d82991ab8fd70c39424a9cc7120639c8b24488542",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 0,
+          "end": 8,
+          "text": " And so you and I immediately thought, if you're a public good, you need to stand behind a public good."
+        },
+        {
+          "start": 8,
+          "end": 12,
+          "text": " And what happens is that the Barrow Foundation themselves is capitalized with a litigation budget."
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "text": " So it will enforce on behalf of, well, I want to say on behalf of the voters, but on behalf of itself, because it holds the equity, right?"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "text": " I want to be careful legally here."
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "text": " But the Barrow Foundation is essentially the party that will hold the founders accountable."
+        },
+        {
+          "start": 27,
+          "end": 32.04,
+          "text": " I believe there's a $500,000 initial budget with a $2 million credit line from Meteora,"
+        },
+        {
+          "start": 32.04,
+          "end": 37.32,
+          "text": " so that is how we hold people accountable. And that's how, if you think more broadly,"
+        },
+        {
+          "start": 37.32,
+          "end": 43.8,
+          "text": " that's actually how most of, you know, more established and modern capital markets work,"
+        },
+        {
+          "start": 43.8,
+          "end": 45.08,
+          "text": " which is that you need a regular market, and that's how we hold people accountable."
+        }
+      ]
+    },
+    {
+      "part": "clips",
+      "clipNumber": 22,
+      "sourceFilename": "Clip 22 -  @wassielawyer Bedrock golden share.mp3",
+      "start": 25,
+      "duration": 30,
+      "reason": "non-dilution percentage",
+      "pcmSha256": "39f646880058147ff19fe7b718a4d610771fe67550fb2ed60ffa15ba2d410f43",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 25,
+          "end": 33.74,
+          "text": " So, well, first of all, for the 20% generally as a base, we think of it as the 20% is non-dilutive,"
+        },
+        {
+          "start": 33.74,
+          "end": 36.5,
+          "text": " so you always thought it was 20% of the company, and you can do whatever the hell you want"
+        },
+        {
+          "start": 36.5,
+          "end": 37.5,
+          "text": " on the back, right?"
+        },
+        {
+          "start": 37.5,
+          "end": 39.54,
+          "text": " With the rest of the cap table, you can start with other investors and so on"
+        },
+        {
+          "start": 39.54,
+          "end": 42.54,
+          "text": " and so forth, but this 20% is empty dilutive."
+        },
+        {
+          "start": 42.54,
+          "end": 47.74,
+          "text": " But a concept that we have is what we call a golden share, and it's not a concept"
+        },
+        {
+          "start": 47.74,
+          "end": 50.14,
+          "text": " that's, I mean, some lawyers have not even hear about it much."
+        },
+        {
+          "start": 50.14,
+          "end": 54.980000000000004,
+          "text": " normally used by governments to basically hold..."
+        }
+      ]
+    },
+    {
+      "part": "clips",
+      "clipNumber": 43,
+      "sourceFilename": "Clip 43 - @metanallok takes.mp3",
+      "start": 105,
+      "duration": 50,
+      "reason": "P2P guardrail and valuation examples",
+      "pcmSha256": "b66e909f261450783aae32064d11c6bfa967d0c5c68f6334038bfcfb96a9c83b",
+      "method": "faster-whisper medium.en int8 CPU beam5 no VAD no prompt no prior-text conditioning",
+      "segments": [
+        {
+          "start": 105,
+          "end": 108.92,
+          "text": " you've got people that are completely aligned and it doesn't matter if your token's trading below"
+        },
+        {
+          "start": 108.92,
+          "end": 114.36,
+          "text": " nav or anything else that's calculated you just have that shot on goal for that period and you"
+        },
+        {
+          "start": 114.36,
+          "end": 119.56,
+          "text": " know like even with p2p recently we said you know 90 days we're not going to let any"
+        },
+        {
+          "start": 119.56,
+          "end": 124.92,
+          "text": " community-led proposal for buybacks or liquidations there's got to be a happy medium"
+        },
+        {
+          "start": 124.92,
+          "end": 130.36,
+          "text": " there you know like and obviously we have to say in the case of like very bad things we"
+        },
+        {
+          "start": 130.36,
+          "end": 135.48,
+          "text": " will you know like override that or we'll remove it but like i think that we're trying to figure"
+        },
+        {
+          "start": 135.48,
+          "end": 141.48000000000002,
+          "text": " that out and and part of that could be let's let's aim a little bit lower because like these"
+        },
+        {
+          "start": 141.48000000000002,
+          "end": 149.16,
+          "text": " expectations on you know a 50 million dollar ftv with 300 users are you know like or 100k"
+        },
+        {
+          "start": 149.16,
+          "end": 154.84,
+          "text": " in revenue is just not where we are you know like it's just not realistic and to answer"
+        }
+      ]
+    }
+  ],
+  "confirmations": [
+    {
+      "part": "clips",
+      "clipNumber": 20,
+      "start": 48,
+      "duration": 18,
+      "pcmSha256": "1c3c2528452aa0fcb782f99b67bd824d2fa38a996f1cdba658dcd999148182c3",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt independent shorter window",
+      "segments": [
+        {
+          "start": 48,
+          "end": 51.1,
+          "text": " a certain amount of the circling supply of token,"
+        },
+        {
+          "start": 51.1,
+          "end": 52.980000000000004,
+          "text": " you could pay a price, a fixed price,"
+        },
+        {
+          "start": 52.980000000000004,
+          "end": 55.14,
+          "text": " which is, I believe, I think it's like"
+        },
+        {
+          "start": 55.14,
+          "end": 58.06,
+          "text": " seven day T-watt backward looking, plus a premium,"
+        },
+        {
+          "start": 58.06,
+          "end": 60.42,
+          "text": " to basically buy out all the rest of the tokens."
+        },
+        {
+          "start": 60.42,
+          "end": 62.22,
+          "text": " You can now have the entire supply go up"
+        },
+        {
+          "start": 62.22,
+          "end": 63.06,
+          "text": " to the foundation and say,"
+        },
+        {
+          "start": 63.06,
+          "end": 64.82,
+          "text": " hey, I want to buy the equity from you."
+        }
+      ]
+    },
+    {
+      "part": "clips",
+      "clipNumber": 22,
+      "start": 45,
+      "duration": 20,
+      "pcmSha256": "92353cc58378586dcd7a8a5eeeaacca88091e6a52345fa7ec54baa43b21ff017",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt independent shorter window",
+      "segments": [
+        {
+          "start": 45,
+          "end": 50,
+          "text": " And it's not a concept that's, I mean, some, some lawyers have not been here very much."
+        },
+        {
+          "start": 50,
+          "end": 57,
+          "text": " It's normally used by governments to basically hold a non-financial,"
+        },
+        {
+          "start": 57,
+          "end": 62,
+          "text": " non-financial control rights over a company, right?"
+        },
+        {
+          "start": 62,
+          "end": 65,
+          "text": " And what the Better Foundation has is being granted."
+        }
+      ]
+    },
+    {
+      "part": "clips",
+      "clipNumber": 43,
+      "start": 115,
+      "duration": 20,
+      "pcmSha256": "c7eb18c5ac0c643c67972f07769191b258856c4c64dfdc554361572608ce184e",
+      "method": "faster-whisper small.en int8 CPU beam5 no VAD no prompt independent shorter window",
+      "segments": [
+        {
+          "start": 115,
+          "end": 120.96,
+          "text": " with P2P recently, we said, you know, 90 days, we're not going to let any community led proposal"
+        },
+        {
+          "start": 120.96,
+          "end": 125.76,
+          "text": " for buybacks or liquidations. There's got to be a happy medium there, you know, like"
+        },
+        {
+          "start": 125.76,
+          "end": 131.24,
+          "text": " it obviously we have to say in the case of like, very bad things, we will, you know,"
+        },
+        {
+          "start": 131.24,
+          "end": 135,
+          "text": " like override that or we'll remove it. But like, I think that we're trying"
+        }
+      ]
+    }
+  ],
+  "sourcePartsSha256": "9445159fdf86c5680a9e2947c0e9422eab857daaf7d44db056940d0555198f11",
+  "openingNote": "October 16 targeted audio recheck: opening-local 705-750s and 775-835s were independently retranscribed with medium.en and compared editorially. 10,000 is spoken but its following fundraising wording remains unclear. The 2.5 million fee-revenue, eight ICOs, 20 million, 390 million and 15x figures are spoken historical claims; 390/20 is 19.5, so the stated 15x does not arithmetically reconcile and was preserved rather than corrected as fact. This is not manual listening or independent financial validation.",
+  "findings": [
+    {
+      "clipNumber": 20,
+      "start": 35,
+      "end": 90,
+      "note": "The seven-day backward-looking TWAP phrase is followed by plus a premium and buying out the rest of the tokens. Both medium.en and an independent small.en shorter-window pass recover the previously omitted phrase. No premium percentage added from current documentation."
+    },
+    {
+      "clipNumber": 21,
+      "start": 0,
+      "end": 45,
+      "note": "The audio supports the spoken $500,000 initial budget and $2 million Meteora credit line. Bedrock/Soju spelling corrected contextually. These historical legal/financial claims are not independently verified and do not establish current terms."
+    },
+    {
+      "clipNumber": 22,
+      "start": 25,
+      "end": 65,
+      "note": "The 20% non-/anti-dilutive statements are audible in the machine recheck. Two passes recover the omitted explanation that golden shares are normally used by governments. The preceding wording about lawyers remains unclear."
+    },
+    {
+      "clipNumber": 43,
+      "start": 105,
+      "end": 155,
+      "note": "Audio supports the spoken 90-day P2P discussion, $50 million FDV, 300 users and 100k in revenue. Restore the omitted happy-medium/in-case-of qualifier using two passes. These are historical examples and speaker claims, not a statement of current P2P rules."
+    }
+  ],
+  "remainingUncertainty": [
+    "Radio 1 opening: wording following 10,000",
+    "Radio 1 opening: spoken 20m/390m/15x figures do not reconcile",
+    "Radio 5 clip22: wording after Some lawyers",
+    "Previously documented Radio3 raise cap, Radio15 tester count and chain name remain unresolved."
+  ]
+}

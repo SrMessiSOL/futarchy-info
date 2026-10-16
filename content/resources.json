@@ -4166,8 +4166,9 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2034341877885907133",
     "addedAt": null,
     "checkedAt": "2026-10-11",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved.",
-    "catalogOnly": true
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved. Team backup recovered on October 15, 2026; see ownership-radio-3-recording.",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-3-recording"
   },
   {
     "id": "res-205",
@@ -4237,8 +4238,9 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2045263522343391527",
     "addedAt": null,
     "checkedAt": "2026-10-11",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved.",
-    "catalogOnly": true
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved. Team backup recovered on October 15, 2026; see ownership-radio-7-recording.",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-7-recording"
   },
   {
     "id": "res-218",
@@ -4862,8 +4864,9 @@
     "sourceUrl": "https://x.com/ownershipfm/status/2039420300379525182",
     "addedAt": null,
     "checkedAt": "2026-10-11",
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved.",
-    "catalogOnly": true
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved. Team backup recovered on October 15, 2026; see ownership-radio-5-recording.",
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-5-recording"
   },
   {
     "id": "res-252",
@@ -9099,14 +9102,15 @@
       "Ownership Radio",
       "Event Announcement"
     ],
-    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved.",
+    "evidenceNote": "Reviewed the original publisher post preview and X publication timestamp captured on October 11. Some posts are truncated; only the episode announcement is summarized. Publication date is not inferred to be the broadcast date. Recording and transcript remain unresolved. Team backup recovered on October 15, 2026; see ownership-radio-15-recording.",
     "verification": "source-checked",
     "sourceUrl": "https://x.com/ownershipfm/status/2065500819806662730",
     "addedAt": "2026-10-11",
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
     "datePrecision": "day",
-    "catalogOnly": true
+    "catalogOnly": true,
+    "supersededBy": "ownership-radio-15-recording"
   },
   {
     "id": "ownership-radio-16-announcement",
@@ -12787,14 +12791,14 @@
   },
   {
     "id": "ownership-radio-1-recording",
-    "title": "Ownership Radio #1: recovered segment with MycoRealms and Futardio Cult",
+    "title": "Ownership Radio #1: opening, MycoRealms and Futardio Cult",
     "author": "Ownership Radio",
     "date": "2026-03-08",
     "dateKind": "publication",
     "datePrecision": "day",
     "type": "podcast",
     "url": "https://x.com/i/spaces/1nKOLEgNDdQGR",
-    "description": "Recovered second segment discusses Solomon buybacks and treasury use, then MycoRealms’ failed raise, proposed lower fundraising target and off-chain farm-verification challenges. Futardio Cult’s participant discusses its origins, community direction and a reported token-burn proposal awaiting execution. The earlier Space failed and is not included in this recording.",
+    "description": "Recovered opening and resumed Space: ownership coins, MetaDAO and Futardio, followed by MycoRealms and Futardio Cult. The two available parts retain separate timestamp clocks; an interruption of unknown length separates them.",
     "tags": [
       "MetaDAO",
       "Ownership Radio",
@@ -12805,9 +12809,9 @@
     ],
     "sourceUrl": "https://x.com/ownershipfm/status/2030682126174097516",
     "addedAt": "2026-10-12",
-    "checkedAt": "2026-10-12",
+    "checkedAt": "2026-10-15",
     "verification": "source-checked",
-    "evidenceNote": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted."
+    "evidenceNote": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted. Opening recovered from the team Drive export on October 15; both parts retain separate source clocks. The elapsed interruption is unknown. Opening review: Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Recovered 27m55s opening of a two-part Space; interruption length is unknown. The previously published resumed part retains its original timestamps and words."
   },
   {
     "id": "mycorealms-second-failed-raise",
@@ -17601,5 +17605,100 @@
     "addedAt": "2026-10-14",
     "checkedAt": "2026-10-14",
     "evidenceNote": "Read the full publisher description and all 15 chapter entries for the 48:38 episode. No full transcript or audio review. Topic markers follow Spotify’s guide; its broken line between 17:10 and 21:24 is normalized. Launchpad, regulatory, institutional-adoption and AI discussions reflect April 2025 topics, not verified delivery, legal conclusions or current capabilities. Spotify dates the episode April 15, 2025; April 23 is the later press-release date retained on internal res-47. The old Blockchain Wire URL currently displays Article Not Found. No third-party transcript is republished."
+  },
+  {
+    "id": "ownership-radio-3-recording",
+    "title": "Ownership Radio #3: GeSIM, P2P and founder discretion",
+    "author": "Ownership Radio",
+    "date": "2026-03-22",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "type": "podcast",
+    "url": "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK",
+    "description": "Charchit introduces GeSIM; Colin/Nallok discusses founder discretion and futarchy research; P2P discusses its planned raise and payment network. Also covers governance proposals and ZeroFiat checkout. Plans and estimates are historical speaker claims.",
+    "tags": [
+      "MetaDAO",
+      "Ownership Radio",
+      "Founder Interview",
+      "project:gesim",
+      "project:p2p-protocol"
+    ],
+    "sourceUrl": "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK",
+    "addedAt": "2026-10-15",
+    "checkedAt": "2026-10-15",
+    "verification": "source-checked",
+    "evidenceNote": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Source is space-1RJZzjoLkBNJB_0.ts in the team export. Broadcast date March 22, 2026 is derived from its embedded Hydra NTP timestamp, not the March 18 announcement. GeSIM fundraising intentions are distinct from later accepted proceeds; research and governance discussions do not establish execution. Broadcast date from embedded Hydra NTP timestamp 3983184043.483, equivalent to 2026-03-22T16:00:43.483Z. Original announcement date is retained on its internal record; it is not substituted for an unverified broadcast or backup-publication date."
+  },
+  {
+    "id": "ownership-radio-7-recording",
+    "title": "Ownership Radio #7: Jurassic Finance, ownership structures and payment infrastructure",
+    "author": "Ownership Radio",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "type": "podcast",
+    "url": "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+    "description": "Jurassic Finance discusses planned fossil SPVs; the hosts introduce GAMESOL and debate Pumpcade’s ACE structure with guests. Tributary presents recurring payments, followed by anonmesh’s offline messaging and transaction model. Plans, legal interpretations and privacy claims are speaker statements. An Arcium representative discusses encrypted computation and Umbra. Lars introduces Dagon and discusses private batch matching with David.",
+    "tags": [
+      "MetaDAO",
+      "Ownership Radio",
+      "project:jurassic-finance",
+      "project:tributary",
+      "project:ranger",
+      "project:umbra"
+    ],
+    "sourceUrl": "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+    "addedAt": "2026-10-15",
+    "checkedAt": "2026-10-15",
+    "verification": "source-checked",
+    "evidenceNote": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Original announcement date is retained on its internal record; it is not substituted for an unverified broadcast or backup-publication date."
+  },
+  {
+    "id": "ownership-radio-15-recording",
+    "title": "Ownership Radio #15: privacy builders, MycoRealms and ClearSig",
+    "author": "Ownership Radio",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "type": "podcast",
+    "url": "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+    "description": "Founder conversations with Authensus, Dagon and Stealf about truth markets, encrypted trading and private banking, followed by MycoRealms on off-chain accountability and a future fundraising attempt. Includes discussion of Umbra, Avici and the ZKFG controversy. Product and financial claims remain attributed to speakers. ClearSig presents its devnet shared-wallet policies; David discusses a possible MetaDAO ecosystem-funding model.",
+    "tags": [
+      "MetaDAO",
+      "Ownership Radio",
+      "project:umbra",
+      "project:avici",
+      "project:mycorealms",
+      "project:zklsol"
+    ],
+    "sourceUrl": "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+    "addedAt": "2026-10-15",
+    "checkedAt": "2026-10-15",
+    "verification": "source-checked",
+    "evidenceNote": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Original announcement date is retained on its internal record; it is not substituted for an unverified broadcast or backup-publication date."
+  },
+  {
+    "id": "ownership-radio-5-recording",
+    "title": "Ownership Radio #5: partial clips",
+    "author": "Ownership Radio",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "type": "podcast",
+    "url": "https://drive.google.com/drive/folders/1zjULR4uMS9ZOzHi6lTXxodJgUcJsnt5M",
+    "description": "Partial clip collection: David on Ika and Encrypt, Wassielawyer on Bedrock, and Colin/Nallok on MetaDAO, founder incentives, P2P and historical Ranger economics. Forty-five edited clips are available; clip 28 and material between edits are missing. This is not a complete broadcast.",
+    "tags": [
+      "MetaDAO",
+      "Ownership Radio",
+      "Partial Clips",
+      "Tokenholder Rights",
+      "project:p2p-protocol",
+      "project:ranger"
+    ],
+    "sourceUrl": "https://drive.google.com/drive/folders/1zjULR4uMS9ZOzHi6lTXxodJgUcJsnt5M",
+    "addedAt": "2026-10-15",
+    "checkedAt": "2026-10-15",
+    "verification": "source-checked",
+    "evidenceNote": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Only the 45 supplied edited clips were reviewed, in numbered order 1-46 excluding 28. Original broadcast positions and elapsed time between edits are unknown. Source filenames identify speakers but do not establish every individual voice. Historical descriptions of Bedrock are not a statement of current legal terms. Original announcement date is retained on its internal record; it is not substituted for an unverified broadcast or backup-publication date."
   }
 ]

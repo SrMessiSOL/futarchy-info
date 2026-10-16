@@ -20,6 +20,11 @@ test('public transcripts have explicit OwnershipFM permission, provenance and us
       assert.equal(transcript.captionSourceSha256, transcript.researchTranscriptSha256)
       assert.match(transcript.timestampAdjustments, /inferred intervals/)
       assert.match(transcript.reviewBoundary, /not been fully read/)
+    } else if (transcript.kind === 'machine-generated-clip-collection') {
+      assert.equal(transcript.audioSha256, null)
+      assert.match(transcript.audioManifestSha256, /^[a-f0-9]{64}$/)
+      assert.ok(transcript.sourceParts.length > 0)
+      for (const part of transcript.sourceParts) assert.match(part.audioSha256, /^[a-f0-9]{64}$/)
     } else assert.match(transcript.audioSha256, /^[a-f0-9]{64}$/)
     assert.match(transcript.researchTranscriptSha256, /^[a-f0-9]{64}$/)
     assert.ok(transcript.segments.length > 0)

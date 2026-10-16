@@ -294,9 +294,9 @@
   },
   {
     "resourceId": "ownership-radio-1-recording",
-    "checkedAt": "2026-10-12",
+    "checkedAt": "2026-10-15",
     "reviewMethod": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
-    "reviewBoundary": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted. Gap audio reprocessed on 2026-10-13 with and without VAD; limited opening corrections only, not a manual listening certification.",
+    "reviewBoundary": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted. Gap audio reprocessed on 2026-10-13 with and without VAD; limited opening corrections only, not a manual listening certification. The timestamped topic guide below refers to the resumed part. Recovered opening also available on the same page and in both downloads, with separate source timestamps. Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Recovered 27m55s opening of a two-part Space; interruption length is unknown. The previously published resumed part retains its original timestamps and words.",
     "sections": [
       {
         "start": "02:14",
@@ -603,6 +603,15 @@
         "sources": [
           "https://www.backable.biz/docs/whats-new",
           "https://blog.metadao.fi/the-second-futarchy-c1a9baaad14e"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 7171.84,
+        "status": "backup-audio-identity-confirmed",
+        "note": "The supplied Drive file labelled Radio 13.m4a decodes to exactly the same audio as this Radio 12 source. It is an alternative backup, not a newly recovered episode 13. The original source and transcript remain unchanged.",
+        "sources": [
+          "https://drive.google.com/drive/folders/1fvJHXfw-wJwGZCBEdoFf5PE3FTyyMY7g"
         ]
       }
     ]
@@ -6623,6 +6632,142 @@
     "transcript": {
       "status": "not-reviewed",
       "sha256": null
+    }
+  },
+  {
+    "resourceId": "ownership-radio-3-recording",
+    "checkedAt": "2026-10-15",
+    "reviewMethod": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
+    "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Source is space-1RJZzjoLkBNJB_0.ts in the team export. Broadcast date March 22, 2026 is derived from its embedded Hydra NTP timestamp, not the March 18 announcement. GeSIM fundraising intentions are distinct from later accepted proceeds; research and governance discussions do not establish execution.",
+    "sections": [
+      {
+        "start": "05:55",
+        "topic": "Welcome and ecosystem proposals"
+      },
+      {
+        "start": "29:31",
+        "topic": "Charchit introduces GeSIM and its proposed raise"
+      },
+      {
+        "start": "43:51",
+        "topic": "Colin/Nallok on founder discretion and proposed futarchy research"
+      },
+      {
+        "start": "55:50",
+        "topic": "P2P team on its planned raise and bank-to-bank payment network"
+      },
+      {
+        "start": "72:30",
+        "topic": "ZeroFiat checkout, gift cards and distribution plans"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "sha256": "95d5a7211f36c9f0e7e5af5887749703409f73556fc03f11ca316b72a26c984e",
+      "textUrl": "/api/transcripts/ownership-radio-3-recording",
+      "jsonUrl": "/api/transcripts/ownership-radio-3-recording?format=json"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-7-recording",
+    "checkedAt": "2026-10-15",
+    "reviewMethod": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
+    "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed.",
+    "sections": [
+      {
+        "start": "10:46",
+        "topic": "Welcome and Jurassic Finance founder discussion: proposed fossil SPVs and revenue"
+      },
+      {
+        "start": "32:36",
+        "topic": "GAMESOL prototype, on-chain gaming and token design"
+      },
+      {
+        "start": "51:31",
+        "topic": "Pumpcade, MetaLeX ACE and token-versus-equity debate"
+      },
+      {
+        "start": "93:59",
+        "topic": "Tributary: recurring payments, delegation, privacy and agent payments"
+      },
+      {
+        "start": "137:12",
+        "topic": "anonmesh: offline messaging, transactions and privacy questions"
+      },
+      {
+        "start": "167:11",
+        "topic": "Arcium representative on privacy infrastructure, Umbra, developer tools and payment-card risks"
+      },
+      {
+        "start": "189:00",
+        "topic": "Lars introduces Dagon: private batch matching and the privacy/performance trade-off"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "sha256": "4b0cdc3504038c98b581995f6e9bb5d05cde8cff478ca24537e79c050495a1b6",
+      "textUrl": "/api/transcripts/ownership-radio-7-recording",
+      "jsonUrl": "/api/transcripts/ownership-radio-7-recording?format=json"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-15-recording",
+    "checkedAt": "2026-10-15",
+    "reviewMethod": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
+    "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed.",
+    "sections": [
+      {
+        "start": "04:31",
+        "topic": "Opening identifies Ownership Radio 15"
+      },
+      {
+        "start": "09:25",
+        "topic": "Daniel introduces Authensus and its devnet betting/voting model"
+      },
+      {
+        "start": "42:54",
+        "topic": "Dagon: private order matching and Encrypt integration"
+      },
+      {
+        "start": "72:00",
+        "topic": "Stealf: private neobank beta, Umbra integration and future raise plans"
+      },
+      {
+        "start": "84:29",
+        "topic": "MycoRealms: off-chain transparency, cash flow and proposed future raise"
+      },
+      {
+        "start": "101:09",
+        "topic": "ClearSig: shared-wallet policies, Ika, devnet status and future funding"
+      },
+      {
+        "start": "123:00",
+        "topic": "David on a proposed MetaDAO model for ecosystem funding"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "sha256": "f6615225d82bf53d7a0060e69c7e4816165e6e443e5c19b73e347cc86c8898d3",
+      "textUrl": "/api/transcripts/ownership-radio-15-recording",
+      "jsonUrl": "/api/transcripts/ownership-radio-15-recording?format=json"
+    }
+  },
+  {
+    "resourceId": "ownership-radio-5-recording",
+    "checkedAt": "2026-10-15",
+    "reviewMethod": "faster-whisper small.en int8 CPU, beam 5, batch 8, VAD enabled, no prompt or prior-text conditioning",
+    "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Only the 45 supplied edited clips were reviewed, in numbered order 1-46 excluding 28. Original broadcast positions and elapsed time between edits are unknown. Source filenames identify speakers but do not establish every individual voice. Historical descriptions of Bedrock are not a statement of current legal terms.",
+    "sections": [
+      {
+        "start": "00:00",
+        "topic": "Partial clips: use the source-boundary list for individual clip subjects and local times"
+      }
+    ],
+    "transcript": {
+      "status": "available",
+      "sha256": "a77a411d91eccd1b6a44623cf6545df04dd8be81a0a4c288b28c37422d7fb629",
+      "textUrl": "/api/transcripts/ownership-radio-5-recording",
+      "jsonUrl": "/api/transcripts/ownership-radio-5-recording?format=json"
     }
   }
 ]

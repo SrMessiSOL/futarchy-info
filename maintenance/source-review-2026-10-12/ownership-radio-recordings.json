@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-12",
-  "scope": "32 episode references. Replay visibility, download, full decode, transcription and editorial reading are distinct milestones. Radio 1, 2, 6, 8, 9, 10, 11, 12, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 have complete available generated-transcript reviews; 6 episode reviews remain unresolved, including unavailable recordings. Radio 1 contains only the recovered second part.",
+  "asOf": "2026-10-15",
+  "scope": "32 known episode references. Audio/transcript assets now exist for 30: Radio 5 is only a collection of 45 partial clips, missing clip 28 and intervening material. Radio 4 and Radio 13 have no recovered audio; the Drive file labelled Radio 13 has identical decoded PCM to published Radio 12. Radio 1 includes a recovered opening and the preserved resumed part, with an interruption of unknown length. Availability and generated-text review do not establish complete speech recovery or full manual listening.",
   "episodes": [
     {
       "episode": 1,
@@ -11,19 +11,33 @@
       ],
       "duration": "44:04",
       "uiStatus": "replay-card-visible",
-      "contentStatus": "complete-generated-transcript-reviewed",
-      "checkedAt": "2026-10-12",
+      "contentStatus": "complete-available-generated-transcript-reviewed",
+      "checkedAt": "2026-10-15",
       "announcement": "https://x.com/ownershipfm/status/2030025269826761145",
       "note": "Alternate live post recovers replay; original reminder Space 1rGmqopaXDQGy showed details unavailable.",
       "acquisitionStatus": "downloaded",
-      "acquisitionNote": "Public recording downloaded; content review tracked separately.",
+      "acquisitionNote": "Recovered from OwnershipFM team Drive supplied by the user; original X replay checks above are historical and were not reinterpreted as proof of deletion.",
       "audioSha256": "125f21ac891da6422378349ff534de228b67d864edbcd69059e64004fa9f01da",
       "localFile": "work/deep-review/recordings/radio1.m4a",
-      "audioDurationSeconds": 2650.922667,
+      "audioDurationSeconds": 2650.9226875,
       "decodeStatus": "complete-decode-no-errors",
       "resourceId": "ownership-radio-1-recording",
-      "reviewBoundary": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted.",
-      "method": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks"
+      "reviewBoundary": "All 552 segments of the locally generated transcript read for 2650.92 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. The opening and closing explicitly identify this as the second part after an X Space failure. Complete available recording transcript read, not the complete original broadcast. Founder personal identity is not inferred from voice; MycoRealms team roles are separately sourced from its launch disclosure. Token burn described as passed but pending execution; no legal or return guarantees adopted. The main segments and duration describe the resumed part only. The newly recovered opening is in openingPart, with its own source clock, duration and review boundary. The interruption length is unknown.",
+      "method": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "previousCheck": {
+        "checkedAt": "2026-10-12",
+        "uiStatus": "replay-card-visible",
+        "acquisitionStatus": "downloaded",
+        "note": "Alternate live post recovers replay; original reminder Space 1rGmqopaXDQGy showed details unavailable.",
+        "acquisitionNote": "Public recording downloaded; content review tracked separately."
+      },
+      "backupSourceUrl": "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK",
+      "openingPart": {
+        "sourceUrl": "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK",
+        "durationSeconds": 1674.6453125,
+        "audioSha256": "49cd498de771d5d564ecd565f1681fc7e67927bb1baee84e16bdbf058b0d9b07",
+        "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Recovered 27m55s opening of a two-part Space; interruption length is unknown. The previously published resumed part retains its original timestamps and words."
+      }
     },
     {
       "episode": 2,
@@ -56,12 +70,26 @@
       ],
       "duration": null,
       "uiStatus": "details-unavailable",
-      "contentStatus": "not-reviewed",
-      "checkedAt": "2026-10-12",
+      "contentStatus": "complete-available-generated-transcript-reviewed",
+      "checkedAt": "2026-10-15",
       "announcement": "https://x.com/ownershipfm/status/2034341877885907133",
       "note": "Direct Space page returned a generic try-again-later error; replay availability remains unresolved.",
-      "acquisitionStatus": "unavailable",
-      "acquisitionNote": "ERROR: [twitter:spaces] 1RJZzjoLkBNJB: Twitter Space not found"
+      "acquisitionStatus": "downloaded",
+      "acquisitionNote": "Recovered from OwnershipFM team Drive supplied by the user; original X replay checks above are historical and were not reinterpreted as proof of deletion.",
+      "previousCheck": {
+        "checkedAt": "2026-10-12",
+        "uiStatus": "details-unavailable",
+        "acquisitionStatus": "unavailable",
+        "note": "Direct Space page returned a generic try-again-later error; replay availability remains unresolved.",
+        "acquisitionNote": "ERROR: [twitter:spaces] 1RJZzjoLkBNJB: Twitter Space not found"
+      },
+      "resourceId": "ownership-radio-3-recording",
+      "backupSourceUrl": "https://drive.google.com/drive/folders/1Ntd7tglpGDRZj5-4UKQUc0LbpjHxNcUK",
+      "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Source is space-1RJZzjoLkBNJB_0.ts in the team export. Broadcast date March 22, 2026 is derived from its embedded Hydra NTP timestamp, not the March 18 announcement. GeSIM fundraising intentions are distinct from later accepted proceeds; research and governance discussions do not establish execution.",
+      "method": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
+      "audioDurationSeconds": 5721.8346875,
+      "audioSha256": "05fce22aa8628e71711bf2e0fa62957a6ef9e5f58eefec4b610c226ab8e2ade7",
+      "decodeStatus": "complete-decode-no-errors"
     },
     {
       "episode": 4,
@@ -88,12 +116,32 @@
       ],
       "duration": null,
       "uiStatus": "details-unavailable",
-      "contentStatus": "not-reviewed",
-      "checkedAt": "2026-10-12",
+      "contentStatus": "available-partial-clips-generated-text-reviewed",
+      "checkedAt": "2026-10-15",
       "announcement": "https://x.com/ownershipfm/status/2039420300379525182",
       "note": "Publisher short link resolved to this Space; peek endpoint returned HTTP 404. Not proof that no recording exists.",
-      "acquisitionStatus": "unavailable",
-      "acquisitionNote": "ERROR: [twitter:spaces] 1qxvvkWYQPQxB: Twitter Space not found"
+      "acquisitionStatus": "partial-clips-downloaded",
+      "acquisitionNote": "Recovered from OwnershipFM team Drive supplied by the user; original X replay checks above are historical and were not reinterpreted as proof of deletion.",
+      "previousCheck": {
+        "checkedAt": "2026-10-12",
+        "uiStatus": "details-unavailable",
+        "acquisitionStatus": "unavailable",
+        "note": "Publisher short link resolved to this Space; peek endpoint returned HTTP 404. Not proof that no recording exists.",
+        "acquisitionNote": "ERROR: [twitter:spaces] 1qxvvkWYQPQxB: Twitter Space not found"
+      },
+      "resourceId": "ownership-radio-5-recording",
+      "backupSourceUrl": "https://drive.google.com/drive/folders/1zjULR4uMS9ZOzHi6lTXxodJgUcJsnt5M",
+      "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed. Only the 45 supplied edited clips were reviewed, in numbered order 1-46 excluding 28. Original broadcast positions and elapsed time between edits are unknown. Source filenames identify speakers but do not establish every individual voice. Historical descriptions of Bedrock are not a statement of current legal terms.",
+      "method": "faster-whisper small.en int8 CPU, beam 5, batch 8, VAD enabled, no prompt or prior-text conditioning",
+      "audioDurationSeconds": 5958.121687499999,
+      "audioSha256": null,
+      "decodeStatus": "complete-decode-no-errors",
+      "partial": true,
+      "missingClipNumbers": [
+        28
+      ],
+      "clipCount": 45,
+      "audioManifestSha256": "ed9ebcd2f89e16117ed4b3a5686e9bd3bd8492f8955d7b49d9d5895010bc322c"
     },
     {
       "episode": 6,
@@ -127,11 +175,24 @@
       ],
       "duration": null,
       "uiStatus": "details-unavailable",
-      "contentStatus": "not-reviewed",
-      "checkedAt": "2026-10-12",
+      "contentStatus": "complete-available-generated-transcript-reviewed",
+      "checkedAt": "2026-10-15",
       "announcement": "https://x.com/ownershipfm/status/2045263522343391527",
-      "acquisitionStatus": "unavailable",
-      "acquisitionNote": "ERROR: [twitter:spaces] 1dKrPEwVRjPJX: Twitter Space not found"
+      "acquisitionStatus": "downloaded",
+      "acquisitionNote": "Recovered from OwnershipFM team Drive supplied by the user; original X replay checks above are historical and were not reinterpreted as proof of deletion.",
+      "previousCheck": {
+        "checkedAt": "2026-10-12",
+        "uiStatus": "details-unavailable",
+        "acquisitionStatus": "unavailable",
+        "acquisitionNote": "ERROR: [twitter:spaces] 1dKrPEwVRjPJX: Twitter Space not found"
+      },
+      "resourceId": "ownership-radio-7-recording",
+      "backupSourceUrl": "https://drive.google.com/drive/folders/1CuIdR2AR9ROxLgoH9Go66pGk2cdeBDCH",
+      "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed.",
+      "method": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
+      "audioDurationSeconds": 12597.8453125,
+      "audioSha256": "b32fb1017193f41bef47d376e43daee863c730142958693ebad3e93db9b68d00",
+      "decodeStatus": "complete-decode-no-errors"
     },
     {
       "episode": 8,
@@ -241,7 +302,25 @@
       "decodeStatus": "complete-decode-no-errors",
       "resourceId": "ownership-radio-12-recording",
       "reviewBoundary": "All 1645 segments of the locally generated transcript read for 7171.84 seconds of recovered audio. ASR has uncertain names, numbers and occasional hallucinations; unclear details excluded. Transcript reading is not full manual listening or independent verification. Historical interviews contain unverified product, traction, yield and legal claims. Bench and the residency discussion do not establish completed ecosystem raises. Areal’s later launch terms must be distinguished from this earlier pitch. The advertised Epicentral guest was absent. Names and figures affected by ASR are excluded unless corroborated.",
-      "method": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks"
+      "method": "base.en / faster-whisper 1.2.1 / CPU int8 / 5 minute chunks",
+      "backupRecovery": {
+        "labelOnDrive": "Radio 13.m4a",
+        "canonicalResourceId": "ownership-radio-12-recording",
+        "sourceUrl": "https://drive.google.com/drive/folders/1fvJHXfw-wJwGZCBEdoFf5PE3FTyyMY7g",
+        "decodedSources": [
+          {
+            "file": "work/deep-review/recordings/radio12.m4a",
+            "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+          },
+          {
+            "file": "work/recovered-radio/audio/radio13.m4a",
+            "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+          }
+        ],
+        "originalStreamNtp": 3988623669.876,
+        "originalStreamUtc": "2026-05-24T15:01:09.876Z",
+        "finding": "Both files decode to identical mono 16 kHz signed 16-bit PCM. Existing Radio 12 source has May 24 stream timestamp and publisher Space 1yKAPMjjwrgxb. No Radio 13 transcript created from this mislabeled duplicate."
+      }
     },
     {
       "episode": 13,
@@ -256,7 +335,26 @@
       "checkedAt": "2026-10-12",
       "announcement": "https://x.com/ownershipfm/status/2060353333278257397",
       "acquisitionStatus": "unavailable",
-      "acquisitionNote": "ERROR: [twitter:spaces] 1lJQRRBknZzxE: Twitter Space not found"
+      "acquisitionNote": "ERROR: [twitter:spaces] 1lJQRRBknZzxE: Twitter Space not found",
+      "backupCheck": {
+        "checkedAt": "2026-10-15",
+        "labelOnDrive": "Radio 13.m4a",
+        "canonicalResourceId": "ownership-radio-12-recording",
+        "sourceUrl": "https://drive.google.com/drive/folders/1fvJHXfw-wJwGZCBEdoFf5PE3FTyyMY7g",
+        "decodedSources": [
+          {
+            "file": "work/deep-review/recordings/radio12.m4a",
+            "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+          },
+          {
+            "file": "work/recovered-radio/audio/radio13.m4a",
+            "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+          }
+        ],
+        "originalStreamNtp": 3988623669.876,
+        "originalStreamUtc": "2026-05-24T15:01:09.876Z",
+        "finding": "Both files decode to identical mono 16 kHz signed 16-bit PCM. Existing Radio 12 source has May 24 stream timestamp and publisher Space 1yKAPMjjwrgxb. No Radio 13 transcript created from this mislabeled duplicate."
+      }
     },
     {
       "episode": 14,
@@ -289,11 +387,24 @@
       ],
       "duration": null,
       "uiStatus": "details-unavailable",
-      "contentStatus": "not-reviewed",
-      "checkedAt": "2026-10-12",
+      "contentStatus": "complete-available-generated-transcript-reviewed",
+      "checkedAt": "2026-10-15",
       "announcement": "https://x.com/ownershipfm/status/2065500819806662730",
-      "acquisitionStatus": "unavailable",
-      "acquisitionNote": "ERROR: [twitter:spaces] 1OxwbbelenEJB: Twitter Space not found"
+      "acquisitionStatus": "downloaded",
+      "acquisitionNote": "Recovered from OwnershipFM team Drive supplied by the user; original X replay checks above are historical and were not reinterpreted as proof of deletion.",
+      "previousCheck": {
+        "checkedAt": "2026-10-12",
+        "uiStatus": "details-unavailable",
+        "acquisitionStatus": "unavailable",
+        "acquisitionNote": "ERROR: [twitter:spaces] 1OxwbbelenEJB: Twitter Space not found"
+      },
+      "resourceId": "ownership-radio-15-recording",
+      "backupSourceUrl": "https://drive.google.com/drive/folders/1-H2xwabwJkGREmpPNDDrZ-T-PPoYr9mb",
+      "reviewBoundary": "Every generated segment read in context with targeted terminology corrections recorded separately. Machine transcription is not full manual listening, and uncertain wording may remain. Statements about fundraising, returns, legal rights and execution are attributed speaker claims, not independently validated facts. Full decoded source length was checked separately from speech coverage; text gaps remain disclosed.",
+      "method": "faster-whisper base.en int8 CPU; 180-second chunks; beam 5; batch 8; word timestamps; VAD; no prompt or prior-text conditioning",
+      "audioDurationSeconds": 7974.059,
+      "audioSha256": "01e87fe4063ce317a5c513644e7e7bc3fe6405fa400ca7d2755475a3ec94f6ec",
+      "decodeStatus": "complete-decode-no-errors"
     },
     {
       "episode": 16,

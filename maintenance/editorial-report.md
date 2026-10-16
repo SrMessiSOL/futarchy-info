@@ -1,3 +1,20 @@
+# Recovered Ownership Radio recordings
+
+Prepared October 15, 2026 for review. No merge or deployment performed.
+
+- Added Radio #3 (GeSIM/P2P), #7 (Jurassic Finance, payments and privacy builders), #15 (privacy builders, MycoRealms and ClearSig), and #5 explicitly labelled partial clips.
+- Added the 27m55s opening of #1 without altering the existing resumed transcript.
+- Added downloadable text/JSON and agent discovery links; retained source clocks, hashes and uncertainty.
+- Radio #5 has 45 clips, with clip 28 and intervening material missing.
+- The file named Radio 13 is identical decoded audio to Radio 12. No duplicate episode published. Missing audio: #4 and #13.
+- March 22, 2026 for #3 is supported by the stream timestamp. #5/#7/#15 dates remain unknown.
+- Every accepted generated segment was read, with targeted terminology corrections; no claim of full manual listening or independent verification of speaker claims.
+- Catalog: 800 records, 641 publication-eligible, 69 transcript assets. Detailed evidence and corrections: recovered-radio-2026-10-15/.
+
+Validation: content validation, 56 tests and TypeScript passed. Production build passed with `npm run build -- --webpack`; default Turbopack failed locally with a Windows CSS worker process error (after an initial restricted-network font fetch failure). Local production smoke checks passed for all five affected readers, text/JSON attachment downloads, main-library agent discovery, and missing #4/#13 transcript 404s. Hosted default-build validation remains required on the PR.
+
+---
+
 ## Recording review, tenth batch (October 14, 2026)
 
 Reviewed all generated transcript text from the original Exit Liquidity YouTube interview with Proph3t and Nallok and the original Future Podcast audio with DIRT, MetaMAT and Nallok. Added original guides based on those exact editions. The FutureDAO walkthrough explicitly describes a devnet demonstration, not a verified mainnet deployment. Also read The Armen Show’s full original description and added a clearly limited publisher-outline note.

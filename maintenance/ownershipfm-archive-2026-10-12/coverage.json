@@ -605,5 +605,53 @@
       }
     ],
     "publicationStatus": "Prepared for review; this transcript follow-up has not been deployed."
+  },
+  "radioBackupRecovery": {
+    "checkedAt": "2026-10-15",
+    "knownEpisodes": 32,
+    "episodesWithAudio": 30,
+    "episodesWithTranscripts": 30,
+    "missingAudioEpisodes": [
+      4,
+      13
+    ],
+    "partialClipEpisodes": [
+      5
+    ],
+    "missingClipNumbers": {
+      "5": [
+        28
+      ]
+    },
+    "recoveredOpeningEpisodes": [
+      1
+    ],
+    "newRecordingEpisodes": [
+      3,
+      5,
+      7,
+      15
+    ],
+    "method": "OwnershipFM team Drive backups downloaded normally, fully decoded and locally transcribed. Every accepted generated segment read with targeted corrections. No full manual listening claim. The October 12 latestRecheck retains its original X replay findings as historical evidence.",
+    "duplicateBackups": [
+      {
+        "labelOnDrive": "Radio 13.m4a",
+        "canonicalResourceId": "ownership-radio-12-recording",
+        "sourceUrl": "https://drive.google.com/drive/folders/1fvJHXfw-wJwGZCBEdoFf5PE3FTyyMY7g",
+        "decodedSources": [
+          {
+            "file": "work/deep-review/recordings/radio12.m4a",
+            "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+          },
+          {
+            "file": "work/recovered-radio/audio/radio13.m4a",
+            "decodedMono16kPcmHash": "SHA256=38848ed0b96efdeb8bdf33ed8adef7b7dcf10909ff06025c2ea71e56edac63d9"
+          }
+        ],
+        "originalStreamNtp": 3988623669.876,
+        "originalStreamUtc": "2026-05-24T15:01:09.876Z",
+        "finding": "Both files decode to identical mono 16 kHz signed 16-bit PCM. Existing Radio 12 source has May 24 stream timestamp and publisher Space 1yKAPMjjwrgxb. No Radio 13 transcript created from this mislabeled duplicate."
+      }
+    ]
   }
 }

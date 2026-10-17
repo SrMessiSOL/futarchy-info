@@ -1,3 +1,28 @@
+# Two missing Hanson governance interviews: October 17, 2026
+
+PR #69 merged as 328adad88a4b93778cccbfe3c6fff8063e1dd012. Production run 39011257215 succeeded. Chainflow’s Proph3t Q&A and Hanson’s Existential Hope interview match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted interviews
+
+| ID | Publication date | Source and review boundary |
+| --- | --- | --- |
+| external-hanson-clearer-thinking-174 | 2023-09-08 | [Clearer Thinking episode 174](https://podcast.clearerthinking.org/episode/174/robin-hanson-systems-of-governance-built-on-prediction-markets/). Original overview and opening transcript through initial gaming concerns read. Relevant conditional decision-market mechanics and small-trial discussion. Partial transcript review, not a full listen. Original detail page date differs from Apple’s September 7 23:59 UTC listing; discrepancy preserved. |
+| external-hanson-type-one-planet-2023 | 2023-05-11 | [Type One Planet with Robert Roche](https://www.youtube.com/watch?v=AnUChtOR0Xg). Original publisher metadata, complete description and chapters read. Dedicated futarchy section begins at 21:40. No full recording or transcript review. Original timestamp is May 11 21:00:07 -07:00, corresponding to May 12 UTC; retain publisher-local day, with audio/index dates separately disclosed. |
+
+## Discovery boundaries and duplicates
+
+No matching catalog title, original URL or Type One Planet video ID found. Existing Colosseum episode 3, SRC:TLK, Solfate, Hacking State and other surfaced mirrors are not new interviews. Recent successful GitHub discovery run 39040054124 updates automation/discovery; its candidate file contains no Clearer Thinking, Type One Planet or Crazy Wisdom matches. No duplicate schedule enabled or discovery-branch mutation performed.
+
+Type One Planet’s site loads through normal HTTP but offers a general show page; Amazon’s public route returns an application shell rather than readable episode text. Recovered original YouTube URL from Hanson’s own press index and verified its publisher metadata directly, rather than treating snippets as a complete review. No protection bypass or copied third-party transcript.
+
+Crazy Wisdom’s Hanson interview is a further relevant lead, with decision-market design in its summary, but the original episode and date still need review. No new catalog record for that lead. MTS edition overlap remains unresolved. The broader Logan Bartlett AI appearance is not included merely because its guest biography mentions futarchy. No exhaustive archive claim, current legal conclusions or independently verified governance outcomes.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript and both main-library eligibility checks passed. npm run build -- --webpack completed with exit 0 and all routes generated. Diff whitespace check passed. Project registry, lifecycle rules and existing IDs preserved. No merge or deployment of this follow-up.
+
+---
+
 # MetaDAO founder and organizational decision-market interviews: October 17, 2026
 
 PR #68 merged as f435f9dbc6b1fcc1f076481b10dc0e9d04e3482a. Production run 39010500350 succeeded. Live main-library and individual JSON checks match all merged title/date/URL/source/description/evidence-note fields for the new Institutional Edge interview, seven relevance-rechecked entries and the retained Hacking State video. The alternate Hacking State audio ID is absent from browsing and its public JSON endpoint returns 404; original video remains visible.

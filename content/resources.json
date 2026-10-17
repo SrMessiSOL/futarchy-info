@@ -18891,5 +18891,50 @@
     "sourceUrl": "https://www.youtube.com/watch?v=4FtSz3IdH-Q",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-loyal-blockworks-filing",
+    "title": "Loyal Token Transparency Filing",
+    "author": "Loyal / Blockworks",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "type": "article",
+    "url": "https://blockworks.com/token-transparency/filing/loyal",
+    "description": "Loyal’s disclosure of its team, DAO structure, token allocations, governance powers and funding, hosted by Blockworks. Explains treasury controls and the distinction between governance participation and automatic profit or asset rights. A living issuer disclosure, not an independent audit.",
+    "tags": [
+      "MetaDAO",
+      "Loyal",
+      "Transparency",
+      "project:loyal"
+    ],
+    "evidenceNote": "All 18 public filing sections and disclaimer read. Header says filed April 6, 2026, but body includes a May 26 as-of statement; no single publication date assigned to the current contents. Blockworks assesses completeness only; issuer answers, legal rights and balances not independently verified. Linked reports and wallets are references, not newly audited sources.",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockworks.com/token-transparency/filing/loyal",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-hanson-movers-42",
+    "title": "Robin Hanson: Prediction Markets Can Fix Bad Decisions",
+    "author": "Prediction Market Movers / Chris Gerlacher",
+    "date": "2026-08-19",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "podcast",
+    "url": "https://valeriees.podbean.com/e/robin-hanson-prediction-markets-can-fix-bad-decisions-prediction-market-movers/",
+    "description": "Chris Gerlacher interviews Hanson about the history of prediction markets and conditional contracts for organizational decisions. The publisher’s overview covers information incentives, market criticism and possible applications beyond election forecasting. Background on decision markets rather than a MetaDAO-specific interview.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Prediction Markets",
+      "Interview"
+    ],
+    "evidenceNote": "Complete original Podbean description and chapters read via normal public HTTP (200) after the research fetch failed. Publisher date August 19, 2026 agrees with Apple Podcasts, which identifies episode 42 and 14:55 UTC publication. No full audio or transcript review; institutional, accuracy and regulatory claims remain attributed.",
+    "verification": "source-checked",
+    "sourceUrl": "https://valeriees.podbean.com/e/robin-hanson-prediction-markets-can-fix-bad-decisions-prediction-market-movers/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
   }
 ]

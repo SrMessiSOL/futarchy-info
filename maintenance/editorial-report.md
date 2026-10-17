@@ -1,3 +1,33 @@
+# Loyal report, Backable reporting and Hanson interview: October 17, 2026
+
+PR #64 merged as ae5bed30597cabca907b40d656c731cd92c4053b. Production deployment run 39006002384 succeeded. All three additions match merged titles, dates, URLs, source URLs and descriptions in the live main-library API and individual JSON endpoints (HTTP 200).
+
+## Accepted sources
+
+Three missing sources, preserving IDs, registry, lifecycle rules and transcript assets.
+
+| ID | Publication date | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-loyal-q4-2025-report | Unknown; Q4 is reporting period | [Loyal Public Transparency Report Q4 2025](https://askloyal.com/Loyal_Public_Transparency_Report_Q4_2025.pdf) | All six pages of extracted text read; PDF page 4 balance-sheet table visually checked. Reporting period is October 21–December 31, 2025; balance snapshot is January 13, 2026. Neither is publication. No displayed publication date or PDF creation/modification metadata: date remains null. An expense heading says Q3 despite the Q4 dates. LOYAL rows repeat a balance and do not reconcile with the subtotal if treated as additive; no interpretation or corrected total invented. No on-chain or accounting audit; proposal approval is not execution proof. |
+| external-compass-backable-2026 | 2026-10-05 | [MetaDAO Renames Futardio as Backable, Its Permissionless Fundraising Platform on Solana](https://solanacompass.com/news/metadao-renames-futardio-as-backable-its-permissionless-fundraising-platform-on-solana) | Complete article body and October 5, 2026 at 19:28 UTC publication timestamp read. Linked technical documents and code were not independently audited in this pass. Platform counts are the publisher’s dated snapshot, not a complete or current project roster. September changelog rules are not assumed to have begun on announcement day. No exact fee, safety guarantee or executed transaction is adopted as independently established. |
+| external-hanson-hacking-state-1 | 2023-05-25 | [Robin Hanson: Prediction Markets & Futarchy](https://hackingstate.podbean.com/e/01-robin_hanson/) | Complete original Podbean episode description and Thursday May 25, 2023 date read. Hanson’s press index instead lists May 26; retain the explicit publisher date and disclose the difference. Podchaser points to the same recording and is not a separate source. No full audio or transcript review; effectiveness and institutional-design claims not independently verified. |
+
+## Report and date findings
+
+The previously deferred Loyal primary report is now read in full and its balance-sheet layout checked. Do not date it December 31 or January 13: those are period-end and snapshot dates. Its PDF metadata has no creation/modification timestamp either. The displayed LOYAL rows and subtotal need clarification; retain the original report without inventing a correction or treating the subtotal as a current treasury valuation. The Q3 expense heading conflicts with its Q4 reporting period. No external clarification message sent.
+
+Hacking State’s original page dates the Hanson recording May 25, 2023, versus May 26 on Hanson’s press index; use the publisher date. Solana Compass’s Backable article is dated reporting with linked evidence and limitations, not another copy of the earlier MCG interview. Neither the article’s counts nor company report updates the registry without separate reconciliation.
+
+## Remaining gaps
+
+John Ash’s original Hanson recording remains a lead, as do deeper project founder archives and unread Defiant article bodies. The earlier Laso Ethereum/Solana identity conflict remains deferred. Radio #4/#13 audio is unresolved. Bounded research, not exhaustive coverage. No new third-party transcript assets or full-listening claims.
+
+## Local environment and validation
+
+Default shell lookup failed; used installed Windows PowerShell and the native command shell. Missing node_modules restored with npm ci from the unchanged lockfile (230 packages). Available disk capacity was about 18 GB; no cleanup performed. PowerShell-run checks exited without diagnostics; standalone TypeScript and the full npm run check in cmd both passed. Catalog validation, all 62 tests, TypeScript and main-library eligibility passed. npm run build -- --webpack completed with exit 0; diff whitespace check passed. No merge or deployment of this follow-up performed.
+
+---
+
 # Solomon, The Syndicate and Hanson follow-up: October 17, 2026
 
 PR #63 merged as 75a0da9b31a500f28e41f20aba5cf5cadc4f12b7. Production run 39004315971 succeeded. All four previous additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).

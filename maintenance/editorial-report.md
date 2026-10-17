@@ -1,3 +1,32 @@
+# Interview gaps follow-up: October 17, 2026
+
+PR #59 merged as 335a691915a4fdb82332f886a83e7a494019bdf6. Production run 38999761616 succeeded. All five prior additions matched merged titles, dates, URLs, source URLs and descriptions in the live main-library API and individual JSON endpoints (HTTP 200).
+
+Four missing sources added, centered on MetaDAO and funded ecosystem projects, with one directly relevant Hanson retrospective. No original IDs, project registry, lifecycle rules or transcript assets changed.
+
+## Accepted sources
+
+| ID | Date meaning | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-solfate-proph3t-57 | 2024-06-24 (publication) | [Exploring Futarchy: Governance by Markets with MetaDAO’s Founder](https://solfate.com/podcast/57) | Publisher page dated June 24, 2024; complete available summary and takeaways read. Audio and transcript not reviewed. Publisher wording about voting and empirical efficiency is not adopted as proof of market effectiveness or as a description of current MetaDAO mechanics. |
+| external-latestdevelopment-kollan-6 | 2025-08-14 (publication) | [How to Fix Fundraising & Governance via Futarchy w/ Kollan of MetaDAO](https://rss.com/podcasts/the-latest-development/2166554/) | Publisher-hosted episode 6 page supplies August 14, 2025 and duration 43:05. Available RSS.com introduction and chapters read; RSS.com Read more remains truncated in the research fetch. Complete syndicated episode description and chapter guide read on Amazon Music, including final conditional-market chapter. No full audio or transcript review. Raise figures and redemption claims not independently verified; mixed historical interview is not an endorsement of failed projects. |
+| external-mcg-umbra-2026-10-13 | 2026-10-13 (event) | [Umbra On record: Abbas and Kru with Josh](https://mcgsignal.com/feed/mcg-2026-10-13/PRVT6TB7uss3FrUd2D9xs2zqDBsa3GbMJMwCQsgmeta) | Complete available publisher summary, metric annotations, roadmap caveats and disclosure read. October 13, 2026 is explicitly the interview date, not an established page-publication timestamp. Underlying recording and live demo not reviewed. Page discloses MetaDAO presents MCG, Umbra raised on MetaDAO and Solomon sponsors the show. Host’s statement that treasury money moved is not independently inspected execution evidence. Asset counts vary within the summary and are not adopted. |
+| external-hanson-my-best-idea | 2026-04-25 (publication) | [My Best Idea: Decision Markets](https://www.overcomingbias.com/p/my-best-idea-decision-markets) | Complete available article text and displayed April 25, 2026 publication date read. April 25, 1996 is the author’s claimed first-posting anniversary, not this article’s publication date. Linked historical documents, other trials and reader comments not independently reviewed. No claim that the article validates MetaDAO’s implementation or proves improved outcomes. |
+
+## Duplicates and research boundaries
+
+SRC:TLK episode 12 is already res-20 on YouTube; its Spotify-hosted description is corroboration rather than another record. Future Day’s Hanson/Hughes panel is already video-review-675a784c487a6b3758784d. Laso’s founder essay and Lightning.news interview, Sol Brothers/Umbra and Lightspeed/Umbra are also already covered. None is added again.
+
+The March 2024 Midcurve episode remains a lead pending comparison with existing podcast records and primary metadata; the existing res-43 points to a separate-looking April 2025 announcement, but title/date differences alone are insufficient to establish distinct recordings. NEXT.io’s Hanson interview and the Superteam Germany ICM report remain leads requiring primary-source contextual review. Existing deferred Defiant articles and Radio #4/#13 audio remain unresolved.
+
+This is a bounded search, not an exhaustive archive audit. Podcast descriptions are not full listening or transcript review. MCG’s promotional context and sponsorship disclosure are retained in provenance; no exact performance, treasury-execution or asset-count assertion is independently verified. No third-party full transcripts copied.
+
+## Validation
+
+npm run check passed: 62 tests and TypeScript. npm run build -- --webpack passed. Diff whitespace check passed. No merge or deployment of this follow-up performed.
+
+---
+
 # Missing external sources: October 17, 2026
 
 PR #58 merged as ee662bdf6db0634071cb545ca19b01ebe616170e. Production run 38999263716 completed successfully. The live individual Good Wood JSON endpoint returns the corrected English canonical URL in both url and sourceUrl, preserving the ID and publication date.

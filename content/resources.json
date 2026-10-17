@@ -18372,5 +18372,92 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Complete publisher overview and detail-page Posted May 26, 2026 date reviewed. Publisher archive listing instead shows May 25; catalog uses the explicit detail-page publication date and preserves the discrepancy here. Audio and transcript not reviewed. Regulatory assertions in the overview are not independently verified or adopted."
+  },
+  {
+    "id": "external-solfate-proph3t-57",
+    "title": "Exploring Futarchy: Governance by Markets with MetaDAO’s Founder",
+    "author": "Solfate Podcast",
+    "date": "2024-06-24",
+    "type": "podcast",
+    "url": "https://solfate.com/podcast/57",
+    "description": "James interviews Proph3t about discovering futarchy, MetaDAO’s early organizational vision, proposal markets and accountability. The publisher’s overview discusses manipulation and practical infrastructure challenges. Historical founder interview; the description reflects the published summary rather than a reviewed recording.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Decision Markets"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://solfate.com/podcast/57",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher page dated June 24, 2024; complete available summary and takeaways read. Audio and transcript not reviewed. Publisher wording about voting and empirical efficiency is not adopted as proof of market effectiveness or as a description of current MetaDAO mechanics."
+  },
+  {
+    "id": "external-latestdevelopment-kollan-6",
+    "title": "How to Fix Fundraising & Governance via Futarchy w/ Kollan of MetaDAO",
+    "author": "The Latest Development / Exo Tech",
+    "date": "2025-08-14",
+    "type": "podcast",
+    "url": "https://rss.com/podcasts/the-latest-development/2166554/",
+    "description": "Dirt interviews Kollan about futarchy-based fundraising, token issuance, redemption mechanics and lessons from early MetaDAO launches. Published chapters include Omnipair and mtnCapital as historical examples. This entry follows the publisher’s episode notes and chapter guide; the recording has not been reviewed.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Fundraising",
+      "project:omnipair"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://rss.com/podcasts/the-latest-development/2166554/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher-hosted episode 6 page supplies August 14, 2025 and duration 43:05. Available RSS.com introduction and chapters read; RSS.com Read more remains truncated in the research fetch. Complete syndicated episode description and chapter guide read on Amazon Music, including final conditional-market chapter. No full audio or transcript review. Raise figures and redemption claims not independently verified; mixed historical interview is not an endorsement of failed projects."
+  },
+  {
+    "id": "external-mcg-umbra-2026-10-13",
+    "title": "Umbra On record: Abbas and Kru with Josh",
+    "author": "MCG Signal",
+    "date": "2026-10-13",
+    "type": "article",
+    "url": "https://mcgsignal.com/feed/mcg-2026-10-13/PRVT6TB7uss3FrUd2D9xs2zqDBsa3GbMJMwCQsgmeta",
+    "description": "MCG’s interview summary covers Umbra v2’s private-balance interface, the team’s Nimbus protocol, usability changes and its USDv collaboration with Solomon. Reported launch status, performance and treasury activity remain attributed claims; hinted future features are distinguished from releases.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "project:umbra",
+      "project:solomon"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://mcgsignal.com/feed/mcg-2026-10-13/PRVT6TB7uss3FrUd2D9xs2zqDBsa3GbMJMwCQsgmeta",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available publisher summary, metric annotations, roadmap caveats and disclosure read. October 13, 2026 is explicitly the interview date, not an established page-publication timestamp. Underlying recording and live demo not reviewed. Page discloses MetaDAO presents MCG, Umbra raised on MetaDAO and Solomon sponsors the show. Host’s statement that treasury money moved is not independently inspected execution evidence. Asset counts vary within the summary and are not adopted."
+  },
+  {
+    "id": "external-hanson-my-best-idea",
+    "title": "My Best Idea: Decision Markets",
+    "author": "Robin Hanson",
+    "date": "2026-04-25",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/my-best-idea-decision-markets",
+    "description": "Hanson recounts how combining information aggregation with decision theory led him to decision markets. He discusses organizational resistance and the need for practical trials, linking MetaDAO among contemporary experiments. His expectations for governance improvements remain a research vision rather than demonstrated outcomes.",
+    "tags": [
+      "Robin Hanson",
+      "MetaDAO",
+      "Decision Markets",
+      "History"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/my-best-idea-decision-markets",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available article text and displayed April 25, 2026 publication date read. April 25, 1996 is the author’s claimed first-posting anniversary, not this article’s publication date. Linked historical documents, other trials and reader comments not independently reviewed. No claim that the article validates MetaDAO’s implementation or proves improved outcomes."
   }
 ]

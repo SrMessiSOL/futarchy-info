@@ -1,3 +1,17 @@
+# OwnershipFM series reconciliation: October 16, 2026
+
+Rechecked the official public YouTube playlists in the normal browser: all 18 Reports (#1–18), 2 Forums (#1–2) and 5 Roadshows (#1–5) already map to catalog records. Roadshow #1 retains its original ID res-252. The latest visible channel long-form upload is Report #18; no additional numbered series episode was found. Recent publisher X search (since October 1) confirms existing Radio #31/#32 and Roadshow #5/Report #18 material; clips, reminders, live announcements and YouTube mirrors do not create extra episodes.
+
+All 55 available series records are present in the live main-library API, and all 55 transcript JSON download endpoints returned HTTP 200 with nonempty segments. This availability check does not upgrade source verification or establish complete speech recovery. Exact mappings and live-access results are in maintenance/ownershipfm-series-audit-2026-10-16/coverage.json.
+
+Thirty of 32 known Radios have assets. Original Spaces for #4 and #13 were rechecked and each returned “Something went wrong. Please try again later.” Neither error proves deletion. Targeted X search still exposes references/clips but no usable replacement full recording. The previously supplied Radio 13 file remains a proven audio duplicate of Radio 12; do not publish it as #13. Radio #5 remains partial (45 clips; clip 28 and intervening material missing). Radio #1’s interruption and Roadshow #3’s omitted opening remain disclosed.
+
+No new full recording or missing transcript was recovered in this pass, so no duplicate catalog entries or fabricated transcripts were added. This is a coverage-only update. Public playlist and bounded X checks cannot guarantee coverage of deleted, unindexed, private or future recordings. No current publisher availability is inferred from old archive observations.
+
+npm run check passed (62 tests plus TypeScript); npm run build -- --webpack passed. No merge or deployment performed.
+
+---
+
 # Historical reporting publication clarification: October 16, 2026
 
 User approved keeping historical reporting and analysis visible while avoiding promotional updates about liquidated projects. Publish the two already source-reviewed 01Resolved records: resolved-audit-9d14ae89f58f (March 6 Ranger liquidation analysis) and resolved-audit-7db80197fbcc (March 17 Solomon/Omnipair comparison). Both retain IDs, dates, descriptions, project tags and provenance unchanged.
@@ -524,5 +538,6 @@ The 611-link snapshot is historical discovery data, not 611 approved additions. 
 ## Validation
 
 The current 754-record draft passed catalog validation, all 23 tests, TypeScript and the approved local production build (six static pages). All 371 baseline IDs remain; review JSON parses and decision references resolve. An initial sandbox build hit Windows path access denied; the approved build succeeded. Editorial coverage remains incomplete.
+
 
 

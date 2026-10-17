@@ -1,0 +1,660 @@
+{
+  "checkedAt": "2026-10-16",
+  "method": "Normal read-only browser review of official YouTube playlists, current channel Videos listing, recent publisher X series search since October 1 and targeted searches/direct replay checks for Radios 4 and 13. Live main-library membership and transcript JSON download endpoints checked separately.",
+  "scopeLimits": "Playlist completeness is limited to the visible public listings. X search is not exhaustive; errors do not prove deletion. No new full audio was acquired or transcribed, and no full recording was listened to in this pass. Existing transcript review and partial-source limits remain authoritative.",
+  "sources": {
+    "channel": "https://www.youtube.com/@OwnershipFM/videos",
+    "reports": "https://www.youtube.com/playlist?list=PL4w-BEFPGBxv8ZikqkIZoIeyaIjkFjlra",
+    "forums": "https://www.youtube.com/playlist?list=PLdGCnz_-D9R4",
+    "roadshows": "https://www.youtube.com/playlist?list=PLAi9Uk9Huntw",
+    "recentXSearch": "https://x.com/search?q=from%3Aownershipfm%20(%22Radio%22%20OR%20%22Roadshow%22%20OR%20%22Report%22%20OR%20%22Forum%22)%20since%3A2026-10-01&f=live"
+  },
+  "counts": {
+    "knownRadioNumbers": 32,
+    "availableRadioRecords": 30,
+    "partialRadioCollections": 1,
+    "reports": 18,
+    "forums": 2,
+    "roadshows": 5,
+    "availableSeriesRecords": 55,
+    "liveMainRecords": 55,
+    "liveTranscriptJsonDownloads": 55,
+    "newlyDiscoveredFullRecordings": 0
+  },
+  "numberedPlaylistMapping": [
+    {
+      "series": "report",
+      "number": 18,
+      "resourceId": "ownership-report-18-recording",
+      "url": "https://www.youtube.com/watch?v=FCMaFUDzyCY"
+    },
+    {
+      "series": "report",
+      "number": 17,
+      "resourceId": "ownership-report-17-recording",
+      "url": "https://www.youtube.com/watch?v=GCdttBbFeNI"
+    },
+    {
+      "series": "report",
+      "number": 16,
+      "resourceId": "ownership-report-16-recording",
+      "url": "https://www.youtube.com/watch?v=NwqGg5E4mr0"
+    },
+    {
+      "series": "report",
+      "number": 15,
+      "resourceId": "ownership-report-15-recording",
+      "url": "https://www.youtube.com/watch?v=JR3u3kU_Qw0"
+    },
+    {
+      "series": "report",
+      "number": 14,
+      "resourceId": "ownership-report-14-recording",
+      "url": "https://www.youtube.com/watch?v=OYjGBpvjXpA"
+    },
+    {
+      "series": "report",
+      "number": 13,
+      "resourceId": "ownership-report-13-recording",
+      "url": "https://www.youtube.com/watch?v=zapLp8Gv1XM"
+    },
+    {
+      "series": "report",
+      "number": 12,
+      "resourceId": "ownership-report-12-recording",
+      "url": "https://www.youtube.com/watch?v=Xg0iqiTSMf8"
+    },
+    {
+      "series": "report",
+      "number": 11,
+      "resourceId": "ownership-report-11-recording",
+      "url": "https://www.youtube.com/watch?v=fdKe4yhnb0M"
+    },
+    {
+      "series": "report",
+      "number": 10,
+      "resourceId": "ownership-report-10-recording",
+      "url": "https://www.youtube.com/watch?v=Bwb8AU8OvXc"
+    },
+    {
+      "series": "report",
+      "number": 9,
+      "resourceId": "ownership-report-9-recording",
+      "url": "https://www.youtube.com/watch?v=KbRg3IoJ3JI"
+    },
+    {
+      "series": "report",
+      "number": 8,
+      "resourceId": "ownership-report-8-recording",
+      "url": "https://www.youtube.com/watch?v=oWPBc8O6Q8w"
+    },
+    {
+      "series": "report",
+      "number": 7,
+      "resourceId": "ownership-report-7-recording",
+      "url": "https://www.youtube.com/watch?v=wRNL96R1fnk"
+    },
+    {
+      "series": "report",
+      "number": 6,
+      "resourceId": "ownership-report-6-recording",
+      "url": "https://www.youtube.com/watch?v=MUTs8xqbmFc"
+    },
+    {
+      "series": "report",
+      "number": 5,
+      "resourceId": "ownership-report-5-recording",
+      "url": "https://www.youtube.com/watch?v=psyQjog9-yQ"
+    },
+    {
+      "series": "report",
+      "number": 4,
+      "resourceId": "ownership-report-4-recording",
+      "url": "https://www.youtube.com/watch?v=eMJfzXNhWKE"
+    },
+    {
+      "series": "report",
+      "number": 3,
+      "resourceId": "ownership-report-3-recording",
+      "url": "https://www.youtube.com/watch?v=4GK4ds96KFM"
+    },
+    {
+      "series": "report",
+      "number": 2,
+      "resourceId": "ownership-report-2-recording",
+      "url": "https://www.youtube.com/watch?v=3D9i0Ttscko"
+    },
+    {
+      "series": "report",
+      "number": 1,
+      "resourceId": "ownership-report-1-recording",
+      "url": "https://www.youtube.com/watch?v=Haj0ucevRFU"
+    },
+    {
+      "series": "forum",
+      "number": 2,
+      "resourceId": "ownership-forum-2-recording",
+      "url": "https://www.youtube.com/watch?v=dysq8B-QB_o"
+    },
+    {
+      "series": "forum",
+      "number": 1,
+      "resourceId": "ownership-forum-1-recording",
+      "url": "https://www.youtube.com/watch?v=sUgOoILivO4"
+    },
+    {
+      "series": "roadshow",
+      "number": 5,
+      "resourceId": "ownership-roadshow-5-recording",
+      "url": "https://www.youtube.com/watch?v=cikfGndNneY"
+    },
+    {
+      "series": "roadshow",
+      "number": 4,
+      "resourceId": "ownership-roadshow-4-recording",
+      "url": "https://www.youtube.com/watch?v=DokXLmP01iw"
+    },
+    {
+      "series": "roadshow",
+      "number": 3,
+      "resourceId": "ownership-roadshow-3-recording",
+      "url": "https://www.youtube.com/watch?v=GEPcZ5XaGNA"
+    },
+    {
+      "series": "roadshow",
+      "number": 2,
+      "resourceId": "ownership-roadshow-2-recording",
+      "url": "https://www.youtube.com/watch?v=rxyWV6nFW80"
+    },
+    {
+      "series": "roadshow",
+      "number": 1,
+      "resourceId": "res-252",
+      "url": "https://www.youtube.com/watch?v=dHUz9jLcFpM"
+    }
+  ],
+  "radioRecords": [
+    {
+      "number": 1,
+      "resourceId": "ownership-radio-1-recording"
+    },
+    {
+      "number": 2,
+      "resourceId": "ownership-radio-2-recording"
+    },
+    {
+      "number": 3,
+      "resourceId": "ownership-radio-3-recording"
+    },
+    {
+      "number": 5,
+      "resourceId": "ownership-radio-5-recording"
+    },
+    {
+      "number": 6,
+      "resourceId": "ownership-radio-6-recording"
+    },
+    {
+      "number": 7,
+      "resourceId": "ownership-radio-7-recording"
+    },
+    {
+      "number": 8,
+      "resourceId": "ownership-radio-8-recording"
+    },
+    {
+      "number": 9,
+      "resourceId": "ownership-radio-9-recording"
+    },
+    {
+      "number": 10,
+      "resourceId": "ownership-radio-10-recording"
+    },
+    {
+      "number": 11,
+      "resourceId": "ownership-radio-11-recording"
+    },
+    {
+      "number": 12,
+      "resourceId": "ownership-radio-12-recording"
+    },
+    {
+      "number": 14,
+      "resourceId": "ownership-radio-14-recording"
+    },
+    {
+      "number": 15,
+      "resourceId": "ownership-radio-15-recording"
+    },
+    {
+      "number": 16,
+      "resourceId": "ownership-radio-16-recording"
+    },
+    {
+      "number": 17,
+      "resourceId": "ownership-radio-17-recording"
+    },
+    {
+      "number": 18,
+      "resourceId": "ownership-radio-18-recording"
+    },
+    {
+      "number": 19,
+      "resourceId": "ownership-radio-19-recording"
+    },
+    {
+      "number": 20,
+      "resourceId": "ownership-radio-20-recording"
+    },
+    {
+      "number": 21,
+      "resourceId": "ownership-radio-21-recording"
+    },
+    {
+      "number": 22,
+      "resourceId": "ownership-radio-22-recording"
+    },
+    {
+      "number": 23,
+      "resourceId": "ownership-radio-23-recording"
+    },
+    {
+      "number": 24,
+      "resourceId": "ownership-radio-24-recording"
+    },
+    {
+      "number": 25,
+      "resourceId": "ownership-radio-25-recording"
+    },
+    {
+      "number": 26,
+      "resourceId": "ownership-radio-26-recording"
+    },
+    {
+      "number": 27,
+      "resourceId": "ownership-radio-27-recording"
+    },
+    {
+      "number": 28,
+      "resourceId": "ownership-radio-28-recording"
+    },
+    {
+      "number": 29,
+      "resourceId": "ownership-radio-29-recording"
+    },
+    {
+      "number": 30,
+      "resourceId": "ownership-radio-30-recording"
+    },
+    {
+      "number": 31,
+      "resourceId": "ownership-radio-31-recording"
+    },
+    {
+      "number": 32,
+      "resourceId": "ownership-radio-32-recording"
+    }
+  ],
+  "missingAudio": [
+    {
+      "number": 4,
+      "sourceUrl": "https://x.com/i/spaces/1qJVmQnePzYGB",
+      "browserResult": "Something went wrong. Please try again later.",
+      "status": "not-recovered",
+      "note": "Original Space still fails in the normal browser; this does not establish that all copies are gone."
+    },
+    {
+      "number": 13,
+      "sourceUrl": "https://x.com/i/spaces/1lJQRRBknZzxE",
+      "browserResult": "Something went wrong. Please try again later.",
+      "status": "not-recovered",
+      "note": "Previous decoded-PCM identity evidence establishes that the supplied Radio 13 backup is Radio 12, not a recovered Radio 13. No new duplicate transcript created."
+    }
+  ],
+  "partialSources": [
+    {
+      "resourceId": "ownership-radio-5-recording",
+      "note": "45 clips numbered 1–46 without 28; inter-clip material missing. Never label as a complete broadcast."
+    },
+    {
+      "resourceId": "ownership-radio-1-recording",
+      "note": "Separate recovered opening and resumed part; interruption length remains unknown."
+    },
+    {
+      "resourceId": "ownership-roadshow-3-recording",
+      "note": "Existing omitted opening remains disclosed; transcript presence does not establish complete speech recovery."
+    }
+  ],
+  "liveAccess": [
+    {
+      "id": "ownership-forum-1-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1066
+    },
+    {
+      "id": "ownership-forum-2-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1507
+    },
+    {
+      "id": "ownership-radio-1-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 553
+    },
+    {
+      "id": "ownership-radio-10-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1691
+    },
+    {
+      "id": "ownership-radio-11-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 2082
+    },
+    {
+      "id": "ownership-radio-12-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1645
+    },
+    {
+      "id": "ownership-radio-14-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1738
+    },
+    {
+      "id": "ownership-radio-15-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 292
+    },
+    {
+      "id": "ownership-radio-16-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 965
+    },
+    {
+      "id": "ownership-radio-17-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 320
+    },
+    {
+      "id": "ownership-radio-18-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 372
+    },
+    {
+      "id": "ownership-radio-19-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 609
+    },
+    {
+      "id": "ownership-radio-2-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 956
+    },
+    {
+      "id": "ownership-radio-20-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 250
+    },
+    {
+      "id": "ownership-radio-21-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 449
+    },
+    {
+      "id": "ownership-radio-22-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 264
+    },
+    {
+      "id": "ownership-radio-23-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 391
+    },
+    {
+      "id": "ownership-radio-24-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 385
+    },
+    {
+      "id": "ownership-radio-25-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 473
+    },
+    {
+      "id": "ownership-radio-26-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 242
+    },
+    {
+      "id": "ownership-radio-27-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 450
+    },
+    {
+      "id": "ownership-radio-28-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 311
+    },
+    {
+      "id": "ownership-radio-29-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 260
+    },
+    {
+      "id": "ownership-radio-3-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 200
+    },
+    {
+      "id": "ownership-radio-30-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 325
+    },
+    {
+      "id": "ownership-radio-31-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 356
+    },
+    {
+      "id": "ownership-radio-32-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 818
+    },
+    {
+      "id": "ownership-radio-5-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1312
+    },
+    {
+      "id": "ownership-radio-6-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1599
+    },
+    {
+      "id": "ownership-radio-7-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 457
+    },
+    {
+      "id": "ownership-radio-8-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1684
+    },
+    {
+      "id": "ownership-radio-9-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 2208
+    },
+    {
+      "id": "ownership-report-1-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1058
+    },
+    {
+      "id": "ownership-report-10-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 603
+    },
+    {
+      "id": "ownership-report-11-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 817
+    },
+    {
+      "id": "ownership-report-12-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 630
+    },
+    {
+      "id": "ownership-report-13-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 767
+    },
+    {
+      "id": "ownership-report-14-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 81
+    },
+    {
+      "id": "ownership-report-15-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 808
+    },
+    {
+      "id": "ownership-report-16-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1298
+    },
+    {
+      "id": "ownership-report-17-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 703
+    },
+    {
+      "id": "ownership-report-18-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 861
+    },
+    {
+      "id": "ownership-report-2-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 999
+    },
+    {
+      "id": "ownership-report-3-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1226
+    },
+    {
+      "id": "ownership-report-4-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 791
+    },
+    {
+      "id": "ownership-report-5-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1203
+    },
+    {
+      "id": "ownership-report-6-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1428
+    },
+    {
+      "id": "ownership-report-7-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1975
+    },
+    {
+      "id": "ownership-report-8-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 940
+    },
+    {
+      "id": "ownership-report-9-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 1303
+    },
+    {
+      "id": "ownership-roadshow-2-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 3153
+    },
+    {
+      "id": "ownership-roadshow-3-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 302
+    },
+    {
+      "id": "ownership-roadshow-4-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 253
+    },
+    {
+      "id": "ownership-roadshow-5-recording",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 2440
+    },
+    {
+      "id": "res-252",
+      "inMain": true,
+      "transcriptStatus": 200,
+      "segmentCount": 2930
+    }
+  ]
+}

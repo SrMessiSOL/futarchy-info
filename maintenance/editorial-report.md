@@ -1,3 +1,28 @@
+# Jurassic Finance and Hanson archive follow-up: October 17, 2026
+
+PR #65 merged as 4e8b283496e6bd47571a95ae3f9a5ed487086002. Production run 39006929238 succeeded. All three previous additions match merged titles, dates, URLs, source URLs and descriptions in both main-library and individual JSON endpoints (HTTP 200): Loyal Q4 report, Solana Compass Backable reporting and Hacking State’s Hanson interview.
+
+## Accepted sources
+
+| ID | Publication date | Source and review boundary |
+| --- | --- | --- |
+| external-compass-jurassic-deaton-2026 | 2026-07-29 | [Jurassic Finance Deaton coverage](https://solanacompass.com/news/jurassic-finance-tokenizes-museum-grade-triceratops-skull-on-solana-in-660000-usdc-raise). Full article read. Explicit 13:42 UTC publication timestamp; July 28 announcement and August 17 planned trading are distinct. Raise target is not accepted proceeds. Legal ownership, custody, allocation and future lending remain attributed descriptions, not verified execution or legal conclusions. No price-performance claim adopted. |
+| external-hanson-john-ash-3 | 2021-12-19 | [Listener John Ash episode 3](https://www.youtube.com/watch?v=4FtSz3IdH-Q). Original YouTube metadata, complete description and chapters read. Publication and upload timestamps agree with Hanson’s press index. Original conversation date is separately December 7, 2021. Duration 2:04:38 includes closing commentary from 1:34:03. No full audio or transcript review. |
+
+## Duplicate and identity findings
+
+Solana Compass’s secondary Validated page titled “Futarchy Governance with Colin Platt of MetaDAO” embeds ned5Tdp3F3M, already cataloged as res-24, the Kollan House interview. Its generated summary also names a different host. Do not add another record or replace the original publisher’s Austin/Kollan identities with those secondary labels. Loyal’s Lightspeed appearance is already founder-loyal-b0bb0d6dd8; excluded as another duplicate rather than added again.
+
+## Coverage limits
+
+John Ash’s primary recording link is recovered, closing that discovery gap, but full listening remains unperformed. Unread Defiant bodies, the Laso Ethereum/Solana identity conflict, deeper funded-project founder archives and missing Radio #4/#13 audio remain unresolved. No exhaustive coverage claim, new transcript assets, lifecycle changes or inferred completed offerings. Existing IDs and project registry preserved.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript and both main-library eligibility checks passed. npm run build -- --webpack completed with exit 0 and all routes generated. Diff whitespace check passed. No merge or deployment of this follow-up performed.
+
+---
+
 # Loyal report, Backable reporting and Hanson interview: October 17, 2026
 
 PR #64 merged as ae5bed30597cabca907b40d656c731cd92c4053b. Production deployment run 39006002384 succeeded. All three additions match merged titles, dates, URLs, source URLs and descriptions in the live main-library API and individual JSON endpoints (HTTP 200).

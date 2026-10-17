@@ -18847,5 +18847,49 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Complete original Podbean episode description and Thursday May 25, 2023 date read. Hanson’s press index instead lists May 26; retain the explicit publisher date and disclose the difference. Podchaser points to the same recording and is not a separate source. No full audio or transcript review; effectiveness and institutional-design claims not independently verified."
+  },
+  {
+    "id": "external-compass-jurassic-deaton-2026",
+    "title": "Jurassic Finance: Deaton Triceratops skull offering",
+    "author": "Solana Compass",
+    "date": "2026-07-29",
+    "type": "article",
+    "url": "https://solanacompass.com/news/jurassic-finance-tokenizes-museum-grade-triceratops-skull-on-solana-in-660000-usdc-raise",
+    "description": "Reporting on Jurassic Finance’s announced Deaton fossil offering, its proposed SPV structure and allocation between seller escrow and protocol treasury. Describes a 660,000 USDC target and planned August 17 trading, rather than evidence that the raise or trading launch completed. Also covers custody arrangements and prospective lending against specimen tokens.",
+    "tags": [
+      "MetaDAO",
+      "Jurassic Finance",
+      "Real World Assets",
+      "project:jurassic-finance"
+    ],
+    "evidenceNote": "Full publisher article read; explicit July 29, 2026 13:42 UTC publication date. The July 28 announcement and planned August 17 trading are separate events. The target, allocation, custody and legal-rights descriptions are attributed reporting, not independently verified proceeds, custody or enforceable rights. Lending is described as planned, not live. No price-performance claim adopted.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://solanacompass.com/news/jurassic-finance-tokenizes-museum-grade-triceratops-skull-on-solana-in-660000-usdc-raise",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-hanson-john-ash-3",
+    "title": "Robin Hanson on Futarchy: Listener John Ash, Episode 3",
+    "author": "Speaker John Ash / Robin Hanson",
+    "date": "2021-12-19",
+    "type": "podcast",
+    "url": "https://www.youtube.com/watch?v=4FtSz3IdH-Q",
+    "description": "John Ash interviews Robin Hanson about futarchy, information in markets, choosing well-being metrics and scaling institutions. The publisher’s chapters distinguish the interview from closing commentary. Historical decision-market background recorded before MetaDAO, with a separate original conversation date of December 7, 2021.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "evidenceNote": "Original public YouTube player metadata, complete description and chapter list reviewed through normal HTTP. Publisher title identifies Listener John Ash episode 3, channel Speaker John Ash, duration 7,478 seconds; publishDate and uploadDate both December 19, 2021, corroborated by Hanson’s press index. Description states original conversation date 12/07/2021, interpreted as December 7 in this publisher context; not substituted for publication. Closing commentary begins at 1:34:03. No full audio or transcript review; no claim that the entire upload is interview speech.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=4FtSz3IdH-Q",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
   }
 ]

@@ -17963,5 +17963,179 @@
     "checkedAt": "2026-10-16",
     "sourceUrl": "https://01resolved.com/research/introducing-01resolved-beta-an-analytics-layer-for-ownership-coins-and-decision-markets/",
     "evidenceNote": "Complete available article body and publisher datePublished metadata reviewed on 2026-10-16. Publication date is distinct from dateModified, proposal dates and reported events. Descriptions are original editorial summaries; financial, legal, trading-intent and execution claims are not independently audited."
+  },
+  {
+    "id": "external-index-proph3t-2026",
+    "title": "Solana’s New Fundraising Frontier with Proph3t of MetaDAO",
+    "author": "The Index Podcast",
+    "date": "2026-06-20",
+    "type": "podcast",
+    "url": "https://www.buzzsprout.com/2092514/episodes/19369753-solana-s-new-fundraising-frontier-with-proph3t-of-metadao",
+    "description": "Alex Kehaya interviews Proph3t about token fundraising and market oversight. The reviewed section explains conditional prices using a corporate example, then distinguishes treasury and token-supply decisions from day-to-day product management. Adoption figures and governance examples remain historical speaker claims.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Decision Markets",
+      "project:avici"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.buzzsprout.com/2092514/episodes/19369753-solana-s-new-fundraising-frontier-with-proph3t-of-metadao",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher episode date and show notes reviewed, plus targeted publisher transcript passages around 11:45–19:45 covering conditional markets and founder discretion. This is a partial transcript review, not a full listen or independent verification. Automatic text contains name errors. No third-party transcript is republished."
+  },
+  {
+    "id": "external-riskon-umbra-66",
+    "title": "Incognito Mode for your Money | EP 66",
+    "author": "Risk On Podcast",
+    "date": "2026-05-30",
+    "type": "podcast",
+    "url": "https://www.buzzsprout.com/2552529/episodes/19263775-incognito-mode-for-your-money-ep-66",
+    "description": "Kru and Abbas discuss Umbra’s private transfers, web app, selective disclosure and Streamflow integration, then explain choosing MetaDAO and their view of token-holder oversight and founder incentives. Privacy, legal rights, treasury figures and acquisition protections are attributed claims, not verified guarantees.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Privacy",
+      "project:umbra",
+      "project:avici"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.buzzsprout.com/2552529/episodes/19263775-incognito-mode-for-your-money-ep-66",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher date and show notes reviewed with targeted transcript sections around 15–24 and 45–57 minutes, including the 48:08 MetaDAO discussion. Not a complete episode review, manual listen, security audit or legal validation. Automatic text misrecognizes names; uncertain numerical and entitlement claims are not adopted. No transcript redistribution permission assumed."
+  },
+  {
+    "id": "external-laso-vendor-redundancy",
+    "title": "Why Bitcoin Startups Need Vendor Redundancy",
+    "author": "Lightning.news",
+    "date": "2026-09-15",
+    "type": "article",
+    "url": "https://lightning.news/bitcoin-startups-vendor-redundancy/",
+    "description": "Hunter Monk discusses Laso’s API strategy, agent-led businesses and the loss of its sole card issuer. He describes the search for a replacement and argues for redundant critical vendors. Operating history and future business targets are the founder’s account, not independently audited results.",
+    "tags": [
+      "Founder Interview",
+      "Payments",
+      "project:laso-finance"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://lightning.news/bitcoin-startups-vendor-redundancy/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available written Q&A and displayed publication date read. The article identifies Hunter Monk and links Laso Finance. Volume, vendor resilience and future targets remain attributed founder claims."
+  },
+  {
+    "id": "external-hanson-tyler-35",
+    "title": "Robin Hanson on Signaling and Self-Deception (Ep. 35)",
+    "author": "Conversations with Tyler",
+    "date": "2018-02-28",
+    "type": "podcast",
+    "url": "https://conversationswithtyler.com/episodes/robin-hanson/",
+    "description": "Within a broader conversation on signaling, Hanson and Tyler Cowen discuss the prospects for futarchy and why organizations resist decision markets. Hanson compares the adoption barrier to cost accounting and argues that better forecasts may conflict with internal political incentives. Historical background, not a discussion of MetaDAO.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://conversationswithtyler.com/episodes/robin-hanson/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Displayed publication date February 28, 2018 and separate recording date February 6 checked. Only the futarchy passage in the publisher transcript was reviewed, from the question about a prediction market in futarchy to the subsequent reader question. Not a full podcast listen or a MetaDAO interview. Link to original publisher transcript; full text is not redistributed."
+  },
+  {
+    "id": "external-hanson-hanania-2021",
+    "title": "Futarchy: Robin Hanson on How Prediction Markets Can Take over the World",
+    "author": "Richard Hanania / CSPI",
+    "date": "2021-09-15",
+    "type": "article",
+    "url": "https://www.richardhanania.com/p/futarchy-robin-hanson-on-how-prediction",
+    "description": "An edited interview transcript with Hanson explaining conditional decision markets through a CEO-retention example and discussing institutional resistance to forecasts. Separates prediction markets generally from futarchy in government. The discussion predates MetaDAO and does not establish present-day deployment or legal feasibility.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.richardhanania.com/p/futarchy-robin-hanson-on-how-prediction",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher date and opening transcript sections on conditional contracts, CEO markets and organizational incentives reviewed, with a later passage on value metrics and political constraints. Partial transcript review, not full audio listening. This page is a publisher-provided edited transcript; linked original interview is not counted separately. Legal and adoption claims are historical speaker views."
+  },
+  {
+    "id": "external-goodwood-metadao-20",
+    "title": "Kollan & 8bit from MetaDAO & Ownership.fm: This is what you’re supposed to use crypto for | EP20",
+    "author": "The Good Wood Show",
+    "date": "2026-06-06",
+    "type": "podcast",
+    "url": "https://solana.com/vi/podcasts/the-good-wood-show/episodes/kollan-8bit-from-metadao-ownership-fm-this-is-what-youre-supposed-to-use-crypto-for-ep20-e3kdk77",
+    "description": "The episode listing describes a conversation with Kollan House and 8bit about ownership coins, decision markets, pro-rata fundraising, supply mechanics and links between legal entities and proposals. This summary follows the published episode description; the recording has not been reviewed in this pass.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Ownership Coins",
+      "Decision Markets"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://solana.com/vi/podcasts/the-good-wood-show/episodes/kollan-8bit-from-metadao-ownership-fm-this-is-what-youre-supposed-to-use-crypto-for-ep20-e3kdk77",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Solana’s syndicated show listing supplies June 6, 2026, a 50:43 duration, guest names and episode description. Complete listing description reviewed; audio and transcript not reviewed. The English-route fetch failed; the accessible Vietnamese-locale page retains the English episode text. Podcast mirrors are not separate interviews."
+  },
+  {
+    "id": "external-galaxy-grid-1",
+    "title": "Bitcoin Hits $125K as Perp DEX Competition Heats Up",
+    "author": "Galaxy Grid",
+    "date": "2025-10-07",
+    "type": "podcast",
+    "url": "https://www.galaxy.com/insights/podcasts/galaxy-grid/bitcoin-hits-125-k-as-perp-dex-competition-heats-up",
+    "description": "Galaxy Grid’s debut episode includes a segment on futarchy and MetaDAO beginning at 20:55. The surrounding program covers Bitcoin, perpetual exchanges and privacy tokens. This entry identifies the publisher’s relevant chapter; it does not summarize an independently reviewed recording.",
+    "tags": [
+      "MetaDAO",
+      "Decision Markets",
+      "Media Coverage"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.galaxy.com/insights/podcasts/galaxy-grid/bitcoin-hits-125-k-as-perp-dex-competition-heats-up",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete publisher description and chapter list reviewed. Publication date October 7, 2025 is distinct from the separately stated recording date. The recording note says Monday October 5, 2025, an internally inconsistent weekday/date pair; neither is used as publication date. Audio and captions not reviewed; no transcript republished."
+  },
+  {
+    "id": "external-galaxy-grid-3",
+    "title": "Is the Bull Market Still Intact? Bitcoin Seizures, Wall Street, and Futarchy",
+    "author": "Galaxy Grid",
+    "date": "2025-10-21",
+    "type": "video",
+    "url": "https://www.galaxy.com/insights/videos/bull-market-bitcoin-seizures-wall-street-futarchy",
+    "description": "Galaxy Grid includes a chapter on MetaDAO and futarchy at 21:21, before its closing outlook at 25:31. The publisher frames the discussion around market-based governance. This entry is based on the episode description and chapter guide, not a full video review.",
+    "tags": [
+      "MetaDAO",
+      "Decision Markets",
+      "Media Coverage"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.galaxy.com/insights/videos/bull-market-bitcoin-seizures-wall-street-futarchy",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Displayed October 21, 2025 publication date, complete description and chapter guide reviewed. Page metadata and visible headline use different broader market titles; the stored title follows the visible headline. Embedded video, audio and captions not reviewed; no new transcript claim."
   }
 ]

@@ -1,3 +1,36 @@
+# External interviews and media review: October 17, 2026
+
+Eight nonduplicate sources added: two Hanson interview sources, four MetaDAO/external-media episodes, a funded-project founder podcast (Umbra) and a Laso written founder Q&A. The two Galaxy episodes, Good Wood and Tyler interview were absent by URL and title from the current catalog; existing Galaxy research and Lightspeed/Hanson interviews were retained without creating mirrors. All IDs and existing dates preserved.
+
+## Accepted sources and review boundaries
+
+| ID | Publication | Source | Review |
+| --- | --- | --- | --- |
+| external-index-proph3t-2026 | 2026-06-20 | [Solana’s New Fundraising Frontier with Proph3t of MetaDAO](https://www.buzzsprout.com/2092514/episodes/19369753-solana-s-new-fundraising-frontier-with-proph3t-of-metadao) | Publisher episode date and show notes reviewed, plus targeted publisher transcript passages around 11:45–19:45 covering conditional markets and founder discretion. This is a partial transcript review, not a full listen or independent verification. Automatic text contains name errors. No third-party transcript is republished. |
+| external-riskon-umbra-66 | 2026-05-30 | [Incognito Mode for your Money | EP 66](https://www.buzzsprout.com/2552529/episodes/19263775-incognito-mode-for-your-money-ep-66) | Publisher date and show notes reviewed with targeted transcript sections around 15–24 and 45–57 minutes, including the 48:08 MetaDAO discussion. Not a complete episode review, manual listen, security audit or legal validation. Automatic text misrecognizes names; uncertain numerical and entitlement claims are not adopted. No transcript redistribution permission assumed. |
+| external-laso-vendor-redundancy | 2026-09-15 | [Why Bitcoin Startups Need Vendor Redundancy](https://lightning.news/bitcoin-startups-vendor-redundancy/) | Complete available written Q&A and displayed publication date read. The article identifies Hunter Monk and links Laso Finance. Volume, vendor resilience and future targets remain attributed founder claims. |
+| external-hanson-tyler-35 | 2018-02-28 | [Robin Hanson on Signaling and Self-Deception (Ep. 35)](https://conversationswithtyler.com/episodes/robin-hanson/) | Displayed publication date February 28, 2018 and separate recording date February 6 checked. Only the futarchy passage in the publisher transcript was reviewed, from the question about a prediction market in futarchy to the subsequent reader question. Not a full podcast listen or a MetaDAO interview. Link to original publisher transcript; full text is not redistributed. |
+| external-hanson-hanania-2021 | 2021-09-15 | [Futarchy: Robin Hanson on How Prediction Markets Can Take over the World](https://www.richardhanania.com/p/futarchy-robin-hanson-on-how-prediction) | Publisher date and opening transcript sections on conditional contracts, CEO markets and organizational incentives reviewed, with a later passage on value metrics and political constraints. Partial transcript review, not full audio listening. This page is a publisher-provided edited transcript; linked original interview is not counted separately. Legal and adoption claims are historical speaker views. |
+| external-goodwood-metadao-20 | 2026-06-06 | [Kollan & 8bit from MetaDAO & Ownership.fm: This is what you’re supposed to use crypto for | EP20](https://solana.com/vi/podcasts/the-good-wood-show/episodes/kollan-8bit-from-metadao-ownership-fm-this-is-what-youre-supposed-to-use-crypto-for-ep20-e3kdk77) | Solana’s syndicated show listing supplies June 6, 2026, a 50:43 duration, guest names and episode description. Complete listing description reviewed; audio and transcript not reviewed. The English-route fetch failed; the accessible Vietnamese-locale page retains the English episode text. Podcast mirrors are not separate interviews. |
+| external-galaxy-grid-1 | 2025-10-07 | [Bitcoin Hits $125K as Perp DEX Competition Heats Up](https://www.galaxy.com/insights/podcasts/galaxy-grid/bitcoin-hits-125-k-as-perp-dex-competition-heats-up) | Complete publisher description and chapter list reviewed. Publication date October 7, 2025 is distinct from the separately stated recording date. The recording note says Monday October 5, 2025, an internally inconsistent weekday/date pair; neither is used as publication date. Audio and captions not reviewed; no transcript republished. |
+| external-galaxy-grid-3 | 2025-10-21 | [Is the Bull Market Still Intact? Bitcoin Seizures, Wall Street, and Futarchy](https://www.galaxy.com/insights/videos/bull-market-bitcoin-seizures-wall-street-futarchy) | Displayed October 21, 2025 publication date, complete description and chapter guide reviewed. Page metadata and visible headline use different broader market titles; the stored title follows the visible headline. Embedded video, audio and captions not reviewed; no new transcript claim. |
+
+Descriptions reflect these boundaries. Transcript excerpts were read at the publisher, not independently checked against the audio. No third-party full transcripts are copied into our transcript collection, and OwnershipFM team permission is not extended to other shows. Legal rights, privacy guarantees, financial totals and outcomes remain attributed historical claims. Conditional prices are not approval probabilities. No company is reactivated and no new promotional exception is introduced.
+
+## Deferred or already covered
+
+- Blockworks “The Market Said No”: requested issue URL returned the generic Blockworks landing/navigation page rather than the article. Search snippet is a lead, not a read source; no entry fabricated.
+- Scaling Theory, The Armen Show, Hodl Up, Elucidations, MetaDAO’s Hanson talks and the existing Lightspeed discussion are already represented; syndicated listings do not constitute additional interviews.
+- Broader institutional research from Galaxy was already covered. Its two dated Grid episodes are separate media sources, each retained once.
+- Public searches are bounded, not an exhaustive founder archive. Further leads include the publisher Solana ICM report and additional city-governance discussions; not read or added here.
+- Radio #4/#13 recovery remains an outstanding audio task. This broader source request does not turn replay errors or the mislabeled Radio 12 copy into recovered audio.
+
+## Validation
+
+npm run check passed (62 tests plus TypeScript); npm run build -- --webpack passed. Hosted standard-build validation will run on the PR. No merge or deployment performed.
+
+---
+
 # OwnershipFM series reconciliation: October 16, 2026
 
 Rechecked the official public YouTube playlists in the normal browser: all 18 Reports (#1–18), 2 Forums (#1–2) and 5 Roadshows (#1–5) already map to catalog records. Roadshow #1 retains its original ID res-252. The latest visible channel long-form upload is Report #18; no additional numbered series episode was found. Recent publisher X search (since October 1) confirms existing Radio #31/#32 and Roadshow #5/Report #18 material; clips, reminders, live announcements and YouTube mirrors do not create extra episodes.
@@ -538,6 +571,7 @@ The 611-link snapshot is historical discovery data, not 611 approved additions. 
 ## Validation
 
 The current 754-record draft passed catalog validation, all 23 tests, TypeScript and the approved local production build (six static pages). All 371 baseline IDs remain; review JSON parses and decision references resolve. An initial sandbox build hit Windows path access denied; the approved build succeeded. Editorial coverage remains incomplete.
+
 
 
 

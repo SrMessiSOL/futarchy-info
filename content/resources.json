@@ -11615,10 +11615,10 @@
     "verification": "source-checked",
     "sourceUrl": "https://www.youtube.com/watch?v=UzZTGywx_uI",
     "addedAt": "2026-10-11",
-    "checkedAt": "2026-10-11",
+    "checkedAt": "2026-10-17",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Read the complete available English auto-generated caption track and publisher listing. Captions can omit or misrecognize speech; original audio, slides and imagery were not independently reviewed. Publication date remains unknown. Publication date verified on 2026-10-12 from the original YouTube watch page's DOM datePublished and uploadDate metadata, with matching video title. Stored day follows the publisher's timestamp offset, not the recording/event date. Earlier unknown-date wording describes the prior review checkpoint."
+    "evidenceNote": "Read the complete available English auto-generated caption track and publisher listing. Captions can omit or misrecognize speech; original audio, slides and imagery were not independently reviewed. Publication date remains unknown. Publication date verified on 2026-10-12 from the original YouTube watch page's DOM datePublished and uploadDate metadata, with matching video title. Stored day follows the publisher's timestamp offset, not the recording/event date. Earlier unknown-date wording describes the prior review checkpoint. Alternate-edition identity review 2026-10-17: original Manifest Conference watch-page metadata identifies this as the Manifest 2026 Hanson/Goldfine fireside chat, duration 2,278 seconds. The Supercycle page https://supercycle.blog/p/robin-hanson-fireside-chat-manifest (July 15, 2026) names the same guests and event and gives 2,277.9036 seconds in public page metadata. Consistent with the same recording edition; no second catalog entry added. This is metadata comparison, not an audio hash comparison or a new full listen."
   },
   {
     "id": "founder-proph3t-compensation-draft",
@@ -18959,5 +18959,48 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Full available syndicated publisher description, chapter list and February 10, 2026 date read on iHeart. Outline places decision markets at 24:57; chapter list says 24:44, so description uses an approximate locator. No full audio or transcript review. Calibration, comparative performance and regulatory claims not independently verified or adopted."
+  },
+  {
+    "id": "external-chainflow-proph3t-2024",
+    "title": "Futarchy Governance Explained: Chainflow interviews Proph3t",
+    "author": "Chainflow / Proph3t",
+    "date": "2024-06-06",
+    "type": "article",
+    "url": "https://chainflow.io/futarchy-governance-solana-explained/",
+    "description": "Chainflow’s written recap of Othman’s conversation with MetaDAO founder Proph3t. Covers conditional tokens, manipulation incentives, organizational goals and gradual adoption through limited trials or advisory markets. Historical discussion of MetaDAO and futarchy design, not a description of every current launch or governance configuration.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Futarchy",
+      "Decision Markets"
+    ],
+    "evidenceNote": "Full publisher Q&A read. Original HTML datePublished is June 6, 2024 at 10:50:40 UTC; this dates the article, not the linked Space. Original replay reference: https://x.com/i/spaces/1PlJQDrQODzGE . Audio availability and contents not verified. Introductory vote-count shorthand is not adopted as a technical rule. Participation figures, manipulation outcomes and network-security claims remain attributed, not independently verified.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://chainflow.io/futarchy-governance-solana-explained/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-hanson-existential-hope-2022",
+    "title": "Robin Hanson: On Futurism & His Best Career Advice",
+    "author": "Existential Hope / Allison Duettmann / Beatrice Erkers",
+    "date": "2022-11-24",
+    "type": "podcast",
+    "url": "https://www.existentialhope.com/podcasts/robin-hanson",
+    "description": "Within this broader interview, Hanson distinguishes open betting platforms from decision advice commissioned by organizations. He argues for application-specific trials and proposes testing conditional CEO-retention markets before wider corporate adoption. Included for those decision-market sections, rather than its general futurism or career advice; it predates MetaDAO.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Interview"
+    ],
+    "evidenceNote": "Publisher November 24, 2022 date and relevant Q&A transcript passages read: organizational applications versus generic crypto betting (retrieved lines 131–139), practical trials (79–90), and the proposed CEO-retention experiment (173–176). Partial transcript review, not full listening. The experiment is a proposal, not a completed study. No timed guide invented for the untimed transcript; unrelated cosmology, medical and AI claims not evaluated. Third-party text remains at publisher.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.existentialhope.com/podcasts/robin-hanson",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
   }
 ]

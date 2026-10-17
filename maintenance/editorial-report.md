@@ -1,3 +1,26 @@
+# Loyal disclosure and Hanson interview follow-up: October 17, 2026
+
+PR #66 merged as c85647997d868146a110088048b7b38a3c502ddf. Production run 39007571603 succeeded. Both additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200): Jurassic Finance Deaton reporting and John Ash’s Hanson interview.
+
+## Accepted sources
+
+| ID | Date meaning | Source and review boundary |
+| --- | --- | --- |
+| external-loyal-blockworks-filing | Undated living reference | [Loyal disclosure](https://blockworks.com/token-transparency/filing/loyal). All 18 sections read. Header filing date April 6, 2026 does not date current body, which includes a May 26 as-of statement. Issuer disclosure with completeness review, not independent verification. No automatic profit or asset rights inferred. |
+| external-hanson-movers-42 | 2026-08-19 publication | [Hanson with Chris Gerlacher](https://valeriees.podbean.com/e/robin-hanson-prediction-markets-can-fix-bad-decisions-prediction-market-movers/). Full available description and chapters read through normal HTTP; Apple listing corroborates date and episode 42. No full-listening or transcript-review claim. |
+
+## Duplicate checks and remaining leads
+
+Loyal’s July founder update and other surfaced blog posts already exist; no duplicate copies added. SRC:TLK episode 12, The Index’s Proph3t interview, Hanson’s a16z appearance and Elucidations 157 are also already cataloged. General search matches for unrelated Avici businesses and the BSC Metaland DAO are not evidence about this ecosystem.
+
+The disclosure links Q1/Q4 reports and accounts, but reading those links in a filing does not establish a new review of their contents. The existing Q4 report retains its uncertainty and unreconciled presentation notes. Q1 report remains a primary lead for a separate review. Unread Defiant article bodies, the Laso identity conflict, deeper funded-project founder archives and Radio #4/#13 audio remain unresolved. This bounded pass is not exhaustive. Project registry, lifecycle rules, original IDs and transcript assets unchanged.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript and both main-library eligibility checks passed. npm run build -- --webpack completed with exit 0 and all routes generated. Diff whitespace check passed. No merge or deployment of this follow-up performed.
+
+---
+
 # Jurassic Finance and Hanson archive follow-up: October 17, 2026
 
 PR #65 merged as 4e8b283496e6bd47571a95ae3f9a5ed487086002. Production run 39006929238 succeeded. All three previous additions match merged titles, dates, URLs, source URLs and descriptions in both main-library and individual JSON endpoints (HTTP 200): Loyal Q4 report, Solana Compass Backable reporting and Hacking State’s Hanson interview.

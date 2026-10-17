@@ -18781,5 +18781,71 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Publisher episode 3 page dated June 28, 2022, duration 1:08:07 and complete available overview read. Hanson’s own press index corroborates the date and identity. No full audio or transcript review; regulatory statements in the historical overview are not independently verified or adopted as current law. Broader related medical episodes are not added merely for sharing the guest."
+  },
+  {
+    "id": "external-loyal-q4-2025-report",
+    "title": "Loyal Public Transparency Report Q4 2025",
+    "author": "Loyal",
+    "date": null,
+    "type": "article",
+    "url": "https://askloyal.com/Loyal_Public_Transparency_Report_Q4_2025.pdf",
+    "description": "Loyal’s primary cash-basis report covers operating expenses, product and team development, and governance-authorized capital actions. It separates the October–December reporting period from a January treasury snapshot. Figures are company disclosures, with unresolved presentation issues in the token-balance table.",
+    "tags": [
+      "MetaDAO",
+      "project:loyal",
+      "Report",
+      "Transparency"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://askloyal.com/Loyal_Public_Transparency_Report_Q4_2025.pdf",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "All six pages of extracted text read; PDF page 4 balance-sheet table visually checked. Reporting period is October 21–December 31, 2025; balance snapshot is January 13, 2026. Neither is publication. No displayed publication date or PDF creation/modification metadata: date remains null. An expense heading says Q3 despite the Q4 dates. LOYAL rows repeat a balance and do not reconcile with the subtotal if treated as additive; no interpretation or corrected total invented. No on-chain or accounting audit; proposal approval is not execution proof."
+  },
+  {
+    "id": "external-compass-backable-2026",
+    "title": "MetaDAO Renames Futardio as Backable, Its Permissionless Fundraising Platform on Solana",
+    "author": "Solana Compass",
+    "date": "2026-10-05",
+    "type": "news",
+    "url": "https://solanacompass.com/news/metadao-renames-futardio-as-backable-its-permissionless-fundraising-platform-on-solana",
+    "description": "Solana Compass reports Futardio’s rename to Backable and explains escrow, refund claims, budget limits and decision markets. It distinguishes commitments from accepted funds and discusses limits including unvetted teams and retained upgrade authority. Historical platform reporting, not a guarantee of investor protection.",
+    "tags": [
+      "MetaDAO",
+      "Backable",
+      "Fundraising",
+      "Media Coverage"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://solanacompass.com/news/metadao-renames-futardio-as-backable-its-permissionless-fundraising-platform-on-solana",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete article body and October 5, 2026 at 19:28 UTC publication timestamp read. Linked technical documents and code were not independently audited in this pass. Platform counts are the publisher’s dated snapshot, not a complete or current project roster. September changelog rules are not assumed to have begun on announcement day. No exact fee, safety guarantee or executed transaction is adopted as independently established."
+  },
+  {
+    "id": "external-hanson-hacking-state-1",
+    "title": "Robin Hanson: Prediction Markets & Futarchy",
+    "author": "Hacking State / Alex Murshak",
+    "date": "2023-05-25",
+    "type": "podcast",
+    "url": "https://hackingstate.podbean.com/e/01-robin_hanson/",
+    "description": "Alex Murshak interviews Hanson about prediction and decision markets, organizational barriers, futarchy and randomly selected policymakers. The publisher’s overview discusses when forecasting markets become tools for decisions. Historical governance background rather than a MetaDAO-specific interview.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Futarchy",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://hackingstate.podbean.com/e/01-robin_hanson/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete original Podbean episode description and Thursday May 25, 2023 date read. Hanson’s press index instead lists May 26; retain the explicit publisher date and disclose the difference. Podchaser points to the same recording and is not a separate source. No full audio or transcript review; effectiveness and institutional-design claims not independently verified."
   }
 ]

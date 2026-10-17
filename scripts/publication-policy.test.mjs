@@ -34,15 +34,19 @@ test('37 cutoff exceptions remain independent of later browsing-scope restrictio
 test('reviewed historical analysis is visible after cutoff while later promotions remain held',()=>{
   const catalog=JSON.parse(fs.readFileSync('content/resources.json'));
   const exceptions=JSON.parse(fs.readFileSync('content/publication-exceptions.json'));
-  assert.deepEqual(exceptions.historicalReporting.resourceIds.slice().sort(),['resolved-audit-9d14ae89f58f','resolved-audit-7db80197fbcc'].sort());
+  assert.deepEqual(exceptions.historicalReporting.resourceIds.slice().sort(),['resolved-audit-9d14ae89f58f','resolved-audit-7db80197fbcc','external-latestdevelopment-kollan-6'].sort());
   const approved=[...exceptions.resourceIds,...exceptions.recoveredRadio.resourceIds,...exceptions.historicalReporting.resourceIds];
   for(const id of exceptions.historicalReporting.resourceIds){
     const record=catalog.find(r=>r.id===id);
     assert.equal(record.verification,'source-checked');
-    assert.ok(record.tags.includes('project:ranger'));
+    if(id==='external-latestdevelopment-kollan-6') {
+      assert.ok(record.tags.includes('MetaDAO'));
+      assert.match(record.description,/retrospective mtnCapital discussion/i);
+    } else assert.ok(record.tags.includes('project:ranger'));
     assert.ok(publicationBlockReason(record,rules));
     assert.equal(publicationBlockReason(record,rules,approved),null);
   }
   assert.ok(publicationBlockReason({...row,id:'future-ranger-promotion',title:'Invest in Ranger today',date:'2026-10-16'},rules,approved));
   assert.ok(publicationBlockReason({...row,id:'unreviewed-history',title:'Ranger retrospective',date:'2026-10-16'},rules,approved));
+  assert.ok(publicationBlockReason({...row,id:'future-mtncapital-promotion',title:'Invest in mtnCapital today',tags:[],date:'2026-10-17'},rules,approved));
 });

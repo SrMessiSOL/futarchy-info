@@ -1,3 +1,32 @@
+# Source gaps and historical interview visibility: October 17, 2026
+
+PR #60 merged as bf0ec6d26abf13757d933fb9ed43d6a15d7612fc; production deployment run 39002610836 succeeded. Three of its four additions are public with matching individual endpoints. The Latest Development interview is merged but returns HTTP 404: its mtnCapital reference matches the unresolved lifecycle cutoff. Do not report all four live until this correction is merged and deployed.
+
+## Historical interview correction
+
+Publisher HTML exposes its own public WEBVTT transcript. Read the 19:00–30:59 passage: proposal costs, instruction execution limits, buybacks below NAV, redemption incentives and failure lessons. It is retrospective analysis rather than promotion of a current mtnCapital investment. Add only external-latestdevelopment-kollan-6 to the reviewed historicalReporting exception under the user’s existing instruction to keep historical reporting visible. Keep mtnCapital’s unresolved cutoff and all other gates unchanged; do not remove its name to evade screening. Update description and evidence with this partial transcript review; no third-party full transcript is copied and no full listening claimed.
+
+## New accepted sources
+
+| ID | Date | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-hanson-nextpredict-1 | 2026-08-07 | [Robin Hanson: The Man Who Wants to Run Governments on Prediction Markets](https://next.io/podcasts/next-io-podcast/robin-hanson-the-man-who-wants-to-run-governments-on-prediction-markets/) | Complete available publisher overview, host attribution and August 7, 2026 publication date reviewed. Publisher links the YouTube mirror Xvxu8Sxn0UA; it is not added separately. Audio and transcript not reviewed, and biographical, regulatory and adoption claims not independently verified. |
+| external-superteam-germany-icm-2025 | November 2025; day unknown | [Internet Capital Markets Report: November 2025](https://www.superteamde.fun/reports/Solana_ICM_Report_2025.pdf) | Nine-page PDF cover identifies November 2025, without a publication day; date remains null rather than inventing November 1. Cover and extracted MetaDAO section on PDF page 9 reviewed, with surrounding ecosystem text. Charts were not visually verified; research-tool screenshots failed. No exact financial metric or claim of guaranteed protection is adopted. Umbra commitments are not accepted proceeds. |
+| external-credible-five-layer-stack | 2026-06-24 | [Anatomy of an Instant Transaction: The Five Layers of the Credible Stack](https://blog.credible.finance/blog/anatomy-of-the-five-layer-payment-stack) | Full available article body, Credible Team byline and June 24, 2026 publication date read. Architecture, AI underwriting, supported markets and settlement-speed assertions not independently tested. Distinct from the previously cataloged June 10 insights article; no claim that publication establishes production performance. |
+| external-credible-digital-wallet-shift | 2026-09-02 | [The 56% Shift: Why Digital Wallets Are Rewriting Global E-Commerce](https://blog.credible.finance/blog/56-percent-digital-wallet-shift-open-payment-stack) | Complete available article, byline and September 2, 2026 date read. Headline percentage is the publisher’s citation of an external payments report, not independently verified research here. No reported volume, integration count, fee comparison or instant-settlement claim adopted as independently established. |
+
+## Discovery limits
+
+Credible’s existing fundraising updates, pivot history and numerous insights were compared before selecting two missing canonical articles. The architecture article is distinct from its June 10 cross-border insights article, though they share a product theme. The Hanson interview is one recording, not separate Spotify/YouTube additions. The report’s month is known; the schema supports only day or unknown precision, so the exact date stays null and November 2025 is explicit in title and provenance. Screenshots failed; no visual chart review is claimed.
+
+Unattributed third-party Credible allegations were found but not adopted: they need separate evidence and response review. The primary company’s marketing is likewise not independent validation. Prior Midcurve/Unlayered identity checks, Max Raskin date review, deferred Defiant bodies and missing Radio #4/#13 audio remain gaps. Bounded search only, not exhaustive coverage.
+
+## Validation
+
+npm run check passed: catalog validation, 62 tests and TypeScript. Targeted checks confirm all four additions and the corrected interview are eligible for main; unreviewed mtnCapital promotion remains held. npm run build -- --webpack and diff whitespace check passed. This follow-up has not been merged or deployed.
+
+---
+
 # Interview gaps follow-up: October 17, 2026
 
 PR #59 merged as 335a691915a4fdb82332f886a83e7a494019bdf6. Production run 38999761616 succeeded. All five prior additions matched merged titles, dates, URLs, source URLs and descriptions in the live main-library API and individual JSON endpoints (HTTP 200).

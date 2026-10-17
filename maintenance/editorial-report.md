@@ -1,3 +1,32 @@
+# Early founder interviews and Hanson follow-up: October 17, 2026
+
+PR #61 merged as 8dfab9f186b23a15311521cd5ccfbfc776a5ddfa. Production run 39003273630 succeeded. All four new sources and the restored Latest Development Kollan interview matched merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200). The reviewed historical exception is now effective publicly.
+
+## Accepted sources
+
+Four missing interviews; preserve existing IDs, project registry, lifecycle rules and transcript assets.
+
+| ID | Publication date | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-unlayered-proph3t-2023 | 2023-12-15 | [Building a World Free of Currencies: Proph3t (MetaDAO)](https://podcasters.spotify.com/pod/show/unlayered/episodes/Building-A-World-Free-Of-Currencies--Prophet-MetaDAO-e2d9ru4) | Publisher RSS https://anchor.fm/s/e9110bf4/podcast/rss supplies December 15, 2023 at 16:07:04 GMT, duration 58:40 and GUID 4226e90d-9032-48f4-9ce1-f4509ad0f510. Complete publisher description and eight chapter entries read. Solana Compass summary instead displays November 15, 2023; use original RSS publication rather than the secondary date. Audio and transcript not reviewed; secondary summary is not a separate source. |
+| external-unlayered-metadao-part2 | 2024-04-25 | [MetaDAO Part 2: The Start of a World-Changing Governance Experiment](https://www.youtube.com/watch?v=ggoShvCT72g) | Complete publisher YouTube description and chapter guide read from public page metadata. Title, Unlayered Podcast channel, duration 59:20 and April 25, 2024 publishDate/uploadDate corroborated with publisher RSS episode GUID 3dca1c6a-a2a5-40ea-8e4f-39d708f70c24 (11:00 GMT). Audio edition and YouTube are the same interview, not separate entries. No full audio, captions or transcript review; adversarial-proposal claims are not independently verified. |
+| external-midcurve-kollan-4 | 2024-03-04 | [The One With Kollan from MetaDAO: Midcurve Episode 4](https://www.youtube.com/watch?v=Om4TO835zk4) | Complete public YouTube publisher description and eleven chapter markers read. Jito channel, duration 42:36 and publishDate March 4, 2024 at 07:55:34-08:00 reviewed. Existing res-43 is an internal promotional clip for episode 41, superseded by res-44; it is not this episode 4. No full audio, video or transcript review; trading anecdotes and governance effectiveness not independently verified. |
+| external-hanson-ideas-untrapped | 2025-06-11 | [Big Ideas with Robin Hanson](https://www.ideasuntrapped.com/p/big-ideas-with-robin-hanson) | Publisher date June 11, 2025, duration 1:15:34 and transcript futarchy passage reviewed (retrieved lines 101–125). This is a partial transcript review, not a full listen or review of the culture-drift and medical/political claims elsewhere. Hanson does not name the crypto or government experiments in this passage; none is inferred to be MetaDAO or independently validated. Full third-party transcript remains at publisher and is not copied. |
+
+## Identity and date findings
+
+The first Unlayered episode has a primary RSS date of December 15, 2023, versus November 15 on a secondary summary; do not borrow the secondary date. Its follow-up is confirmed in both publisher RSS and YouTube on April 25, 2024. These are separate interviews, not the previously cataloged Future Podcast demonstration (res-22) or The Edge interview (res-29).
+
+Midcurve episode 4 is a March 2024 interview. Existing res-43 has already been identified as a clip for episode 41 (res-44); a generic MetaDAO/Midcurve title would otherwise hide the missing episode. P2P’s Seed Club interview, existing Ownership founder interviews and prior Hanson interviews were compared and not duplicated. No mirrors or summaries added as separate recordings.
+
+Bounded research, not a complete archive audit. Hanson’s passage does not identify the experiments by name; do not infer their identities. Third-party transcripts are linked, not redistributed. Max Raskin’s interview date, wider project founder archives, unread Defiant bodies and Radio #4/#13 audio remain gaps.
+
+## Validation
+
+npm run check passed: catalog validation, 62 tests and TypeScript. Targeted eligibility checks passed for all four in main. npm run build -- --webpack and diff whitespace check passed. Original first Unlayered episode link resolves HTTP 200 at Spotify’s current creator site. This follow-up has not been merged or deployed.
+
+---
+
 # Source gaps and historical interview visibility: October 17, 2026
 
 PR #60 merged as bf0ec6d26abf13757d933fb9ed43d6a15d7612fc; production deployment run 39002610836 succeeded. Three of its four additions are public with matching individual endpoints. The Latest Development interview is merged but returns HTTP 404: its mtnCapital reference matches the unresolved lifecycle cutoff. Do not report all four live until this correction is merged and deployed.

@@ -18544,5 +18544,91 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Complete available article, byline and September 2, 2026 date read. Headline percentage is the publisher’s citation of an external payments report, not independently verified research here. No reported volume, integration count, fee comparison or instant-settlement claim adopted as independently established."
+  },
+  {
+    "id": "external-unlayered-proph3t-2023",
+    "title": "Building a World Free of Currencies: Proph3t (MetaDAO)",
+    "author": "Unlayered / Sal Qadir and Dave Apsimon",
+    "date": "2023-12-15",
+    "type": "podcast",
+    "url": "https://podcasters.spotify.com/pod/show/unlayered/episodes/Building-A-World-Free-Of-Currencies--Prophet-MetaDAO-e2d9ru4",
+    "description": "Proph3t discusses early MetaDAO governance, incentive alignment, scaling, proposals and potential drawbacks, according to Unlayered’s episode notes. Later chapters explore speculative ideas about exchange and currencies. Historical founder interview; neither adoption claims nor economic predictions are independently established.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "History"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://podcasters.spotify.com/pod/show/unlayered/episodes/Building-A-World-Free-Of-Currencies--Prophet-MetaDAO-e2d9ru4",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher RSS https://anchor.fm/s/e9110bf4/podcast/rss supplies December 15, 2023 at 16:07:04 GMT, duration 58:40 and GUID 4226e90d-9032-48f4-9ce1-f4509ad0f510. Complete publisher description and eight chapter entries read. Solana Compass summary instead displays November 15, 2023; use original RSS publication rather than the secondary date. Audio and transcript not reviewed; secondary summary is not a separate source."
+  },
+  {
+    "id": "external-unlayered-metadao-part2",
+    "title": "MetaDAO Part 2: The Start of a World-Changing Governance Experiment",
+    "author": "Unlayered / Sal Qadir and Dave Apsimon",
+    "date": "2024-04-25",
+    "type": "podcast",
+    "url": "https://www.youtube.com/watch?v=ggoShvCT72g",
+    "description": "Nallok and Proph3t revisit early MetaDAO proposals, market liquidity, community-built interfaces and futarchy-as-a-service. Publisher chapters include work with Robin Hanson, bribery concerns, decision granularity and differences from prediction markets. Historical discussion of the project’s early design and plans.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Decision Markets",
+      "History"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=ggoShvCT72g",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete publisher YouTube description and chapter guide read from public page metadata. Title, Unlayered Podcast channel, duration 59:20 and April 25, 2024 publishDate/uploadDate corroborated with publisher RSS episode GUID 3dca1c6a-a2a5-40ea-8e4f-39d708f70c24 (11:00 GMT). Audio edition and YouTube are the same interview, not separate entries. No full audio, captions or transcript review; adversarial-proposal claims are not independently verified."
+  },
+  {
+    "id": "external-midcurve-kollan-4",
+    "title": "The One With Kollan from MetaDAO: Midcurve Episode 4",
+    "author": "Jito / Midcurve",
+    "date": "2024-03-04",
+    "type": "podcast",
+    "url": "https://www.youtube.com/watch?v=Om4TO835zk4",
+    "description": "Kollan discusses his trading background, early MetaDAO, markets and AI, and community building. Jito’s chapter guide moves from his personal history to governance and ecosystem research. This is the early Midcurve episode 4, distinct from the later episode 41 already cataloged.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "History"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=Om4TO835zk4",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete public YouTube publisher description and eleven chapter markers read. Jito channel, duration 42:36 and publishDate March 4, 2024 at 07:55:34-08:00 reviewed. Existing res-43 is an internal promotional clip for episode 41, superseded by res-44; it is not this episode 4. No full audio, video or transcript review; trading anecdotes and governance effectiveness not independently verified."
+  },
+  {
+    "id": "external-hanson-ideas-untrapped",
+    "title": "Big Ideas with Robin Hanson",
+    "author": "Ideas Untrapped / Tobi Lawson",
+    "date": "2025-06-11",
+    "type": "podcast",
+    "url": "https://www.ideasuntrapped.com/p/big-ideas-with-robin-hanson",
+    "description": "In the futarchy section of a broader interview, Hanson separates the likelihood of adoption from whether a mechanism would work. He argues for small trials before scaling, discusses institutional resistance and reflects on design details exposed by experiments. General governance background rather than a named MetaDAO interview.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Futarchy",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.ideasuntrapped.com/p/big-ideas-with-robin-hanson",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher date June 11, 2025, duration 1:15:34 and transcript futarchy passage reviewed (retrieved lines 101–125). This is a partial transcript review, not a full listen or review of the culture-drift and medical/political claims elsewhere. Hanson does not name the crypto or government experiments in this passage; none is inferred to be MetaDAO or independently validated. Full third-party transcript remains at publisher and is not copied."
   }
 ]

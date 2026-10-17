@@ -18266,5 +18266,111 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Full available YouTube publisher description and chapter list reviewed in the normal browser. Matching datePublished and uploadDate DOM metadata: 2026-07-15T08:59:40-07:00, with visible July 15 date and 1:04:52 duration. No full audio/video/caption review. A July 16 Unchained clip links to this longer episode; only the full episode is added."
+  },
+  {
+    "id": "external-metadao-letter-founders",
+    "title": "Letter to Founders",
+    "author": "Charlie Dalton / MetaDAO",
+    "date": "2026-08-12",
+    "type": "article",
+    "url": "https://metadao.fi/founders",
+    "description": "MetaDAO co-founder Charlie Dalton explains its fundraising proposition, founder selection and process. The letter presents distribution, liquidity and speed alongside trade-offs involving public investors and treasury clawback protections. Terms vary by company.",
+    "tags": [
+      "MetaDAO",
+      "Founder Article",
+      "Fundraising"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/founders",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Full available letter and FAQ read; displayed date August 12, 2026. This living page contains aggregate fundraising figures that differ between retrieved versions; no aggregate count is adopted or used to change the project registry. Liquidity and fundraising advantages are the author’s claims, not guarantees."
+  },
+  {
+    "id": "external-messari-avici-2025",
+    "title": "Inside Avici: The People’s Bank Turning Crypto Into Everyday Money",
+    "author": "Messari",
+    "date": "2025-11-18",
+    "type": "article",
+    "url": "https://newsletter.messari.io/p/inside-avici-the-people-s-bank-turning-crypto-into-everyday-money-1",
+    "description": "Messari profiles Avici’s self-custodial payments product and its MetaDAO fundraising model. The historical article separates subscription commitments from retained proceeds and discusses proposed credit products. Product, fee and token-performance claims reflect the publisher’s account at publication.",
+    "tags": [
+      "MetaDAO",
+      "project:avici",
+      "Media Coverage"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://newsletter.messari.io/p/inside-avici-the-people-s-bank-turning-crypto-into-everyday-money-1",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Full available Avici profile and November 18, 2025 date read. The newsletter includes a separate Quantus sponsor block immediately before the profile; no claim about independent sponsorship status of the Avici profile is inferred. Financial figures, card terms and price-performance claims not independently audited or represented as current."
+  },
+  {
+    "id": "external-hanson-polymarket-og",
+    "title": "OG: An Interview with Robin Hanson",
+    "author": "Polymarket / Werner K. Zagrebbi",
+    "date": "2026-08-14",
+    "type": "article",
+    "url": "https://news.polymarket.com/p/og",
+    "description": "In an edited written interview, Hanson discusses organizational resistance to internal prediction markets, demand for useful information and decision markets tied to concrete choices. He treats eventual competitive adoption of futarchy as an open question. Broader prediction-market background rather than a MetaDAO interview.",
+    "tags": [
+      "Robin Hanson",
+      "Interview",
+      "Decision Markets",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://news.polymarket.com/p/og",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher date August 14, 2026 and written interview passages on organizational incentives, institutional experiments and decision-market adoption read. Publisher labels the conversation condensed and edited. Not a full audio review; political anecdotes, personal claims and AI forecasts not independently verified. Full publisher text is linked, not redistributed."
+  },
+  {
+    "id": "external-hanson-decision-market-math",
+    "title": "Decision Market Math",
+    "author": "Robin Hanson",
+    "date": "2022-05-17",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/decision-market-mathhtml",
+    "description": "Hanson develops a conditional-asset model using a CEO-retention decision, compares trading bundles and proposes targeting subsidies toward information about the CEO’s added value. Historical theoretical background for decision markets, rather than a description or audit of MetaDAO’s implementation.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Theory"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/decision-market-mathhtml",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available article text and displayed May 17, 2022 publication date read. Algebra is the author’s model, not independently proven here. Conditional stock-value prices are distinguished from event probabilities; no claim of equivalence to MetaDAO market mechanics."
+  },
+  {
+    "id": "external-hanson-a16z-2026",
+    "title": "Robin Hanson on Prediction Markets, Gambling, and the Future of Forecasting",
+    "author": "a16z / Theo Jaffee / Sofia Puccini",
+    "date": "2026-05-26",
+    "type": "podcast",
+    "url": "https://a16z.com/podcast/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting/",
+    "description": "Theo Jaffee and Sofia Puccini interview Hanson about information aggregation and his vision for decision markets in companies, governments and individual choices, according to the publisher’s overview. The episode also ranges into gambling, incentives and forecasting.",
+    "tags": [
+      "Robin Hanson",
+      "Interview",
+      "Decision Markets"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://a16z.com/podcast/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete publisher overview and detail-page Posted May 26, 2026 date reviewed. Publisher archive listing instead shows May 25; catalog uses the explicit detail-page publication date and preserves the discrepancy here. Audio and transcript not reviewed. Regulatory assertions in the overview are not independently verified or adopted."
   }
 ]

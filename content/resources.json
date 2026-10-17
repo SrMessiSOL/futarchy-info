@@ -18718,5 +18718,68 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Publisher itemprop and structured metadata both identify datePublished 2025-11-15T20:00:00-0500; use the publisher-local November 15 date. dateModified is separately May 14, 2026, not publication. Relevant passages around retrieved lines 382–422 read; no full interview or audio review. Hanson explicitly says the linked Lex Fridman and Sam Harris appearances did not discuss futarchy; neither is added on that basis. Medical, political and consciousness claims outside this passage not evaluated."
+  },
+  {
+    "id": "external-mcg-solomon-2026-09-23",
+    "title": "Solomon On record: Ranga with Dom and Chill",
+    "author": "MCG Signal",
+    "date": "2026-09-23",
+    "type": "article",
+    "url": "https://mcgsignal.com/feed/mcg-2026-09-23/SoLo9oxzLDpcq1dpqAgMwgce5WqkRDtNXK7EPnbmeta",
+    "description": "MCG’s written interview summary covers Ranga’s account of USDv’s launch, reserve-income distribution, partner economics and Solomon’s business model. It distinguishes hosts’ launch figures from guest estimates and records a correction to a host’s characterization of an earlier governance dispute.",
+    "tags": [
+      "MetaDAO",
+      "project:solomon",
+      "Founder Interview"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://mcgsignal.com/feed/mcg-2026-09-23/SoLo9oxzLDpcq1dpqAgMwgce5WqkRDtNXK7EPnbmeta",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available summary, metric annotations, correction and roadmap caveats read. September 23, 2026 is the interview date, not a verified page-publication date. Page discloses Solomon named MCGlive a partner. No recording, reserve or audit-report review. Commitments are not deposited funds; yield projections are not guarantees and proposal approval does not prove execution. The guest corrects a host’s liquidation-vote characterization; no liquidation is inferred."
+  },
+  {
+    "id": "external-mcg-syndicate-2026-10-07",
+    "title": "The Syndicate On record: Tim with Josh and Chill",
+    "author": "MCG Signal",
+    "date": "2026-10-07",
+    "type": "article",
+    "url": "https://mcgsignal.com/feed/mcg-2026-10-07/syQqkspvb2PRr1meJ5pJDmhgxwc4hUou2TMjjrTmeta",
+    "description": "Tim discusses The Syndicate’s territory game, player retention, pack-sales business and Backable raise. MCG’s written summary distinguishes the initial revenue split from a conditional plan to route more revenue through the treasury. A mobile free-to-play edition is presented as a future distribution plan.",
+    "tags": [
+      "MetaDAO",
+      "project:the-syndicate",
+      "Founder Interview"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://mcgsignal.com/feed/mcg-2026-10-07/syQqkspvb2PRr1meJ5pJDmhgxwc4hUou2TMjjrTmeta",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete public HTML article, metrics, interview summary and disclosure read after the research fetch failed; normal HTTP returned 200. October 7, 2026 is the interview date. The page also contains a later raise-closed widget; that is not speech from the appearance or a publication timestamp. MetaDAO presents MCG, as disclosed. No audio, gameplay or accounting verification. Host-read figures, player counts, reported revenue routing and planned allowance proposals remain attributed; no executed transfer or legal-equity claim adopted."
+  },
+  {
+    "id": "external-hanson-stranded-3",
+    "title": "Decision-Prediction Markets in Firms: Robin Hanson and Tom Bennett",
+    "author": "Stranded Technologies / Niklas Anzinger",
+    "date": "2022-06-28",
+    "type": "podcast",
+    "url": "https://www.infinitacitytimes.com/p/ep-3-robin-hanson-on-decision-prediction-64a",
+    "description": "Niklas Anzinger interviews Robin Hanson and Futuur founder Tom Bennett about corporate decision markets, including CEO-retention examples, and practical obstacles to building businesses around them. The publisher’s overview closes with Hanson’s argument for small-scale experimentation. Historical background, not a MetaDAO interview.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.infinitacitytimes.com/p/ep-3-robin-hanson-on-decision-prediction-64a",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher episode 3 page dated June 28, 2022, duration 1:08:07 and complete available overview read. Hanson’s own press index corroborates the date and identity. No full audio or transcript review; regulatory statements in the historical overview are not independently verified or adopted as current law. Broader related medical episodes are not added merely for sharing the guest."
   }
 ]

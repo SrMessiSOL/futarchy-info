@@ -1,3 +1,33 @@
+# Solomon, The Syndicate and Hanson follow-up: October 17, 2026
+
+PR #63 merged as 75a0da9b31a500f28e41f20aba5cf5cadc4f12b7. Production run 39004315971 succeeded. All four previous additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted sources
+
+Three additions: two MCG written interview summaries for funded ecosystem projects and a historical Hanson/Futuur podcast. No new full transcript or audio-review claims.
+
+| ID | Date meaning | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-mcg-solomon-2026-09-23 | 2026-09-23 (event) | [Solomon On record: Ranga with Dom and Chill](https://mcgsignal.com/feed/mcg-2026-09-23/SoLo9oxzLDpcq1dpqAgMwgce5WqkRDtNXK7EPnbmeta) | Complete available summary, metric annotations, correction and roadmap caveats read. September 23, 2026 is the interview date, not a verified page-publication date. Page discloses Solomon named MCGlive a partner. No recording, reserve or audit-report review. Commitments are not deposited funds; yield projections are not guarantees and proposal approval does not prove execution. The guest corrects a host’s liquidation-vote characterization; no liquidation is inferred. |
+| external-mcg-syndicate-2026-10-07 | 2026-10-07 (event) | [The Syndicate On record: Tim with Josh and Chill](https://mcgsignal.com/feed/mcg-2026-10-07/syQqkspvb2PRr1meJ5pJDmhgxwc4hUou2TMjjrTmeta) | Complete public HTML article, metrics, interview summary and disclosure read after the research fetch failed; normal HTTP returned 200. October 7, 2026 is the interview date. The page also contains a later raise-closed widget; that is not speech from the appearance or a publication timestamp. MetaDAO presents MCG, as disclosed. No audio, gameplay or accounting verification. Host-read figures, player counts, reported revenue routing and planned allowance proposals remain attributed; no executed transfer or legal-equity claim adopted. |
+| external-hanson-stranded-3 | 2022-06-28 (publication) | [Decision-Prediction Markets in Firms: Robin Hanson and Tom Bennett](https://www.infinitacitytimes.com/p/ep-3-robin-hanson-on-decision-prediction-64a) | Publisher episode 3 page dated June 28, 2022, duration 1:08:07 and complete available overview read. Hanson’s own press index corroborates the date and identity. No full audio or transcript review; regulatory statements in the historical overview are not independently verified or adopted as current law. Broader related medical episodes are not added merely for sharing the guest. |
+
+## Research findings and limits
+
+Solomon’s source distinguishes launch commitments from observed statistics and includes a correction to a host’s liquidation-vote account. Preserve the correction rather than inferring liquidation or executed transfers. The Syndicate page has a later raise-result widget: do not merge its values into the October 7 interview. Revenue routing, mobile plans and allowance changes remain attributed or conditional. Both publishers have commercial ecosystem context.
+
+The Stranded Technologies episode is directly about decision markets in firms; adjacent Hanson episodes about medical interventions are outside this bounded pass. Loyal’s Q4 report remains a lead: reporting period alone does not establish publication date. The previously flagged Laso Ethereum/Solana identity conflict remains unresolved; no questionable mechanics adopted. John Ash’s Hanson appearance remains a primary-recording lead. Existing IDs, registry, lifecycle cutoffs and transcript assets are preserved; no exhaustive coverage claim.
+
+## Local environment
+
+The drive reached zero free space while creating the branch. Removed only the resolved, reproducible .next/cache directory inside this checkout; retained recordings, transcripts, source evidence and downloaded models. Branch creation then succeeded. Disk capacity remains constrained; any build failure must be reported rather than misrepresented as a content failure.
+
+## Validation
+
+npm run check passed: catalog validation, 62 tests and TypeScript. All three additions pass main-library eligibility. npm run build -- --webpack completed with exit 0 and all routes generated; webpack emitted an ENOSPC persistent-cache warning, so local cache persistence was not successful. Diff whitespace check passed. Hosted standard build still required. No merge or deployment of this follow-up performed.
+
+---
+
 # Funded-project interview follow-up: October 17, 2026
 
 PR #62 merged as 98b379270d3c9dd7ad090f2e5622350cbb233815. Production deployment run 39003889800 succeeded. All four merged interviews match titles, dates, URLs, source URLs and descriptions in the live main-library API and individual JSON endpoints (HTTP 200).

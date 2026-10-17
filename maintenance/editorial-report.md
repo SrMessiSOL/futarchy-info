@@ -1,3 +1,32 @@
+# Funded-project interview follow-up: October 17, 2026
+
+PR #62 merged as 98b379270d3c9dd7ad090f2e5622350cbb233815. Production deployment run 39003889800 succeeded. All four merged interviews match titles, dates, URLs, source URLs and descriptions in the live main-library API and individual JSON endpoints (HTTP 200).
+
+## Accepted sources
+
+Four additions: three written MCG interview summaries covering MetaDAO and funded projects, plus a relevant section of Max Raskin’s Hanson interview. These are articles, not claims of full audio review or new transcript assets.
+
+| ID | Date meaning | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-mcg-laso-2026-10-09 | 2026-10-09 (event) | [Laso Finance On record: Hunter Monk with Chill and Josh](https://mcgsignal.com/feed/mcg-2026-10-09/LASocYgQAo8GfypSjedNQgLft8y8DVGg1kSqR3smeta) | Complete available summary, metric annotations, roadmap caveats and disclosure read. October 9, 2026 is the stated interview date, not a verified page-publication date. MetaDAO presents MCG and Laso raised there, as disclosed. No recording, dashboard or audio review. Volume is not revenue; the blended take rate combines different sources. Internal agent activity and potentially gameable rankings are disclosed, not evidence of independent customer demand. |
+| external-mcg-backable-2026-10-05 | 2026-10-05 (event) | [Backable (MetaDAO) On record: rinko with Josh](https://mcgsignal.com/feed/mcg-2026-10-05/METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta) | Full available publisher summary, metrics and announcement caveats read. October 5, 2026 is the interview date. No recording or full transcript review. Rinko’s stated role is business operations, not inferred founder status. The Syndicate launch timing and institutional pre-fill target are plans; no execution or revenue audit. Ownership-token language is the speaker’s account, not a legal-equity conclusion or guarantee of treasury safety. |
+| external-mcg-credible-2026-09-30 | 2026-09-30 (event) | [Credible On record: Arpit Sharma with Dom and Chill](https://mcgsignal.com/feed/mcg-2026-09-30/CREDBHvVqREBCAxMihzr8D1nepHMr2gmQoZWpmgGmeta) | Complete available publisher summary, metric annotations and roadmap caveats read. September 30, 2026 is the interview date. Arpit is described as having joined the team in September; founder status is not inferred. No audio, dashboard or source-ledger review. Volume, annualized revenue and take-rate claims are distinct and unverified. Plans to add earnings to treasury do not prove transfers, distributions or guaranteed yield. |
+| external-raskin-hanson-2025 | 2025-11-15 (publication) | [Interview with Robin Hanson](https://www.maxraskin.com/interviews/robin-hanson) | Publisher itemprop and structured metadata both identify datePublished 2025-11-15T20:00:00-0500; use the publisher-local November 15 date. dateModified is separately May 14, 2026, not publication. Relevant passages around retrieved lines 382–422 read; no full interview or audio review. Hanson explicitly says the linked Lex Fridman and Sam Harris appearances did not discuss futarchy; neither is added on that basis. Medical, political and consciousness claims outside this passage not evaluated. |
+
+## Findings and deferred leads
+
+The previously deferred Max Raskin date is now resolved from matching publisher metadata. November 15, 2025 uses the publisher’s -0500 timezone; May 14, 2026 is modification. No inference from search crawl dates. MCG dates are appearances, not silently assumed publication dates. Its promotional framing and MetaDAO presentation relationship matter; the summaries remain attributed, not independent audits of ecosystem businesses. No further lifecycle exceptions needed.
+
+Loyal’s Q4 2025 transparency report is a useful primary lead, but the report period is not a publication date; contextual/date review remains pending. A FinanceFeeds Laso article mixes an Ethereum ERC-20 contract claim with a Solana MetaDAO raise; do not adopt its token-mechanics claims without resolving identity against primary sources. It is deferred rather than summarized from search excerpts. MCG’s Solomon and The Syndicate appearances remain leads for the next bounded pass. Existing Loyal/Ownership/Seed Club recordings and prior MCG sources are not duplicated.
+
+No exhaustive-coverage claim. Unread Defiant bodies, wider founder archives and Radio #4/#13 audio remain gaps. Existing IDs, project registry, lifecycle rules and transcript assets preserved.
+
+## Validation
+
+npm run check passed: catalog validation, 62 tests and TypeScript. All four additions pass targeted main-library eligibility checks. npm run build -- --webpack and diff whitespace check passed. No merge or deployment of this follow-up performed.
+
+---
+
 # Early founder interviews and Hanson follow-up: October 17, 2026
 
 PR #61 merged as 8dfab9f186b23a15311521cd5ccfbfc776a5ddfa. Production run 39003273630 succeeded. All four new sources and the restored Latest Development Kollan interview matched merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200). The reviewed historical exception is now effective publicly.

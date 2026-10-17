@@ -18630,5 +18630,93 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Publisher date June 11, 2025, duration 1:15:34 and transcript futarchy passage reviewed (retrieved lines 101–125). This is a partial transcript review, not a full listen or review of the culture-drift and medical/political claims elsewhere. Hanson does not name the crypto or government experiments in this passage; none is inferred to be MetaDAO or independently validated. Full third-party transcript remains at publisher and is not copied."
+  },
+  {
+    "id": "external-mcg-laso-2026-10-09",
+    "title": "Laso Finance On record: Hunter Monk with Chill and Josh",
+    "author": "MCG Signal",
+    "date": "2026-10-09",
+    "type": "article",
+    "url": "https://mcgsignal.com/feed/mcg-2026-10-09/LASocYgQAo8GfypSjedNQgLft8y8DVGg1kSqR3smeta",
+    "description": "MCG’s written interview summary covers Laso’s human and agent payments, x402 activity, automated advertising and the proposed Laso Builders pilot. It records Hunter Monk’s caveat that Laso’s own agent contributes heavily to its agent volume. Financial figures and pilot availability remain attributed claims.",
+    "tags": [
+      "MetaDAO",
+      "project:laso-finance",
+      "Founder Interview"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://mcgsignal.com/feed/mcg-2026-10-09/LASocYgQAo8GfypSjedNQgLft8y8DVGg1kSqR3smeta",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available summary, metric annotations, roadmap caveats and disclosure read. October 9, 2026 is the stated interview date, not a verified page-publication date. MetaDAO presents MCG and Laso raised there, as disclosed. No recording, dashboard or audio review. Volume is not revenue; the blended take rate combines different sources. Internal agent activity and potentially gameable rankings are disclosed, not evidence of independent customer demand."
+  },
+  {
+    "id": "external-mcg-backable-2026-10-05",
+    "title": "Backable (MetaDAO) On record: rinko with Josh",
+    "author": "MCG Signal",
+    "date": "2026-10-05",
+    "type": "article",
+    "url": "https://mcgsignal.com/feed/mcg-2026-10-05/METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
+    "description": "Rinko discusses Futardio’s rename to Backable, permissionless versus curated fundraising, founder discretion and staged capital raises. The publisher’s interview summary uses Rip Cars and The Syndicate as examples. Planned launches, legal-rights assertions and company revenue estimates remain attributed, unverified statements.",
+    "tags": [
+      "MetaDAO",
+      "Backable",
+      "project:ripcars",
+      "project:the-syndicate",
+      "Team Interview"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://mcgsignal.com/feed/mcg-2026-10-05/METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Full available publisher summary, metrics and announcement caveats read. October 5, 2026 is the interview date. No recording or full transcript review. Rinko’s stated role is business operations, not inferred founder status. The Syndicate launch timing and institutional pre-fill target are plans; no execution or revenue audit. Ownership-token language is the speaker’s account, not a legal-equity conclusion or guarantee of treasury safety."
+  },
+  {
+    "id": "external-mcg-credible-2026-09-30",
+    "title": "Credible On record: Arpit Sharma with Dom and Chill",
+    "author": "MCG Signal",
+    "date": "2026-09-30",
+    "type": "article",
+    "url": "https://mcgsignal.com/feed/mcg-2026-09-30/CREDBHvVqREBCAxMihzr8D1nepHMr2gmQoZWpmgGmeta",
+    "description": "Arpit Sharma discusses Credible’s institutional payment corridors, settlement model, business expansion and planned treasury revenue routing. MCG’s written summary separates guest estimates from the hosts’ dashboard readings and distinguishes planned checkout and account products from released features.",
+    "tags": [
+      "MetaDAO",
+      "project:credible",
+      "project:solomon",
+      "Team Interview"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://mcgsignal.com/feed/mcg-2026-09-30/CREDBHvVqREBCAxMihzr8D1nepHMr2gmQoZWpmgGmeta",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available publisher summary, metric annotations and roadmap caveats read. September 30, 2026 is the interview date. Arpit is described as having joined the team in September; founder status is not inferred. No audio, dashboard or source-ledger review. Volume, annualized revenue and take-rate claims are distinct and unverified. Plans to add earnings to treasury do not prove transfers, distributions or guaranteed yield."
+  },
+  {
+    "id": "external-raskin-hanson-2025",
+    "title": "Interview with Robin Hanson",
+    "author": "Max Raskin",
+    "date": "2025-11-15",
+    "type": "article",
+    "url": "https://www.maxraskin.com/interviews/robin-hanson",
+    "description": "In the prediction-market and futarchy section of a broader written interview, Hanson describes decision markets as his most consequential idea and discusses his hopes for more competent institutions. These are expectations about governance, not evidence of successful adoption or a specific MetaDAO case study.",
+    "tags": [
+      "Robin Hanson",
+      "Interview",
+      "Decision Markets",
+      "Futarchy"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.maxraskin.com/interviews/robin-hanson",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher itemprop and structured metadata both identify datePublished 2025-11-15T20:00:00-0500; use the publisher-local November 15 date. dateModified is separately May 14, 2026, not publication. Relevant passages around retrieved lines 382–422 read; no full interview or audio review. Hanson explicitly says the linked Lex Fridman and Sam Harris appearances did not discuss futarchy; neither is added on that basis. Medical, political and consciousness claims outside this passage not evaluated."
   }
 ]

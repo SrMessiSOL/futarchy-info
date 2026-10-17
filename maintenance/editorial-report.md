@@ -1,3 +1,31 @@
+# Missing external sources: October 17, 2026
+
+PR #58 merged as ee662bdf6db0634071cb545ca19b01ebe616170e. Production run 38999263716 completed successfully. The live individual Good Wood JSON endpoint returns the corrected English canonical URL in both url and sourceUrl, preserving the ID and publication date.
+
+Five missing sources added; no existing IDs, lifecycle rules, project registry or transcript assets changed.
+
+## Accepted sources
+
+| ID | Publication date | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-metadao-letter-founders | 2026-08-12 | [Letter to Founders](https://metadao.fi/founders) | Full available letter and FAQ read; displayed date August 12, 2026. This living page contains aggregate fundraising figures that differ between retrieved versions; no aggregate count is adopted or used to change the project registry. Liquidity and fundraising advantages are the author’s claims, not guarantees. |
+| external-messari-avici-2025 | 2025-11-18 | [Inside Avici: The People’s Bank Turning Crypto Into Everyday Money](https://newsletter.messari.io/p/inside-avici-the-people-s-bank-turning-crypto-into-everyday-money-1) | Full available Avici profile and November 18, 2025 date read. The newsletter includes a separate Quantus sponsor block immediately before the profile; no claim about independent sponsorship status of the Avici profile is inferred. Financial figures, card terms and price-performance claims not independently audited or represented as current. |
+| external-hanson-polymarket-og | 2026-08-14 | [OG: An Interview with Robin Hanson](https://news.polymarket.com/p/og) | Publisher date August 14, 2026 and written interview passages on organizational incentives, institutional experiments and decision-market adoption read. Publisher labels the conversation condensed and edited. Not a full audio review; political anecdotes, personal claims and AI forecasts not independently verified. Full publisher text is linked, not redistributed. |
+| external-hanson-decision-market-math | 2022-05-17 | [Decision Market Math](https://www.overcomingbias.com/p/decision-market-mathhtml) | Complete available article text and displayed May 17, 2022 publication date read. Algebra is the author’s model, not independently proven here. Conditional stock-value prices are distinguished from event probabilities; no claim of equivalence to MetaDAO market mechanics. |
+| external-hanson-a16z-2026 | 2026-05-26 | [Robin Hanson on Prediction Markets, Gambling, and the Future of Forecasting](https://a16z.com/podcast/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting/) | Complete publisher overview and detail-page Posted May 26, 2026 date reviewed. Publisher archive listing instead shows May 25; catalog uses the explicit detail-page publication date and preserves the discrepancy here. Audio and transcript not reviewed. Regulatory assertions in the overview are not independently verified or adopted. |
+
+## Scope and unresolved leads
+
+Bounded search of MetaDAO and ecosystem founder/media sources plus relevant Hanson interviews and theory. Existing mirrors and catalog entries excluded. No claim of exhaustive coverage. MetaDAO letter is a living page: changing aggregate counts are not historical snapshots or verified registry evidence. a16z detail and archive dates disagree by one day; retain the explicit detail date and disclosed discrepancy.
+
+The Messari profile includes historical product and token claims; inclusion is source attribution, not endorsement or verification of present terms. No third-party full transcript is published. Max Raskin’s Hanson interview remains a lead pending a defensible publication date and contextual passage review. Previously deferred The Defiant bodies remain unresolved; search excerpts are insufficient for catalog summaries. Radio #4/#13 audio remains a separate recovery gap.
+
+## Validation
+
+npm run check passed: 62 tests and TypeScript. npm run build -- --webpack passed. Diff whitespace check passed. This update has not been merged or deployed.
+
+---
+
 # Good Wood canonical link correction: October 17, 2026
 
 Use the user-supplied English Solana URL for external-goodwood-metadao-20 in both url and sourceUrl, replacing the /vi/ locale URL. Preserve the ID, date, description and prior review boundary. Provenance distinguishes the previously reviewed localized listing from the user-confirmed canonical URL; no new audio or transcript review claimed.

@@ -3576,8 +3576,8 @@
     "verification": "source-checked",
     "sourceUrl": "https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution",
     "addedAt": null,
-    "checkedAt": "2026-10-14",
-    "evidenceNote": "Follow-up review: Read the full transcript on the original Nothing Human page, including the closing exchange. The publisher says Gemini 3.0 generated the transcript in chunks and that it was spot-checked, not fully verified. No manual audio review. The transcript has no timestamps, so no timestamp guide is invented. Cultural and demographic forecasts are the speakers’ arguments, not independently established predictions. The futarchy discussion is speculative background, not evidence of MetaDAO implementation or a project raise. The third-party transcript remains on its publisher’s page and is not republished here."
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Follow-up review: Read the full transcript on the original Nothing Human page, including the closing exchange. The publisher says Gemini 3.0 generated the transcript in chunks and that it was spot-checked, not fully verified. No manual audio review. The transcript has no timestamps, so no timestamp guide is invented. Cultural and demographic forecasts are the speakers’ arguments, not independently established predictions. The futarchy discussion is speculative background, not evidence of MetaDAO implementation or a project raise. The third-party transcript remains on its publisher’s page and is not republished here. Relevance recheck 2026-10-17: Publisher transcript rechecked: extended exchange on using futarchy for shared goals, tradeoffs and speculative limits, not just cultural drift."
   },
   {
     "id": "res-181",
@@ -5163,8 +5163,8 @@
     "verification": "source-checked",
     "sourceUrl": "https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801",
     "addedAt": null,
-    "checkedAt": "2026-10-14",
-    "evidenceNote": "Follow-up review: Read The Armen Show’s full episode description and the matching Apple listing, which dates publication to October 28, 2025 at 18:47 UTC. No full transcript, audio or video review. The description outlines the conversation without chapter timestamps; no timed guide is invented. Claims about cultural change and governance remain the speakers’ arguments. This is general futarchy background. No third-party transcript is republished."
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Follow-up review: Read The Armen Show’s full episode description and the matching Apple listing, which dates publication to October 28, 2025 at 18:47 UTC. No full transcript, audio or video review. The description outlines the conversation without chapter timestamps; no timed guide is invented. Claims about cultural change and governance remain the speakers’ arguments. This is general futarchy background. No third-party transcript is republished. Relevance recheck 2026-10-17: Original Armen Show description rechecked: explicitly discusses conditional decision markets and futarchy, beyond cultural drift."
   },
   {
     "id": "res-264",
@@ -11496,7 +11496,7 @@
     "checkedAt": "2026-10-11",
     "dateKind": "publication",
     "datePrecision": "day",
-    "evidenceNote": "Read the complete available English auto-generated caption track and publisher listing. Captions can omit or misrecognize speech; original audio, slides and imagery were not independently reviewed. Publication date remains unknown. Publication date verified on 2026-10-12 from the original YouTube watch page's DOM datePublished and uploadDate metadata, with matching video title. Stored day follows the publisher's timestamp offset, not the recording/event date. Earlier unknown-date wording describes the prior review checkpoint."
+    "evidenceNote": "Read the complete available English auto-generated caption track and publisher listing. Captions can omit or misrecognize speech; original audio, slides and imagery were not independently reviewed. Publication date remains unknown. Publication date verified on 2026-10-12 from the original YouTube watch page's DOM datePublished and uploadDate metadata, with matching video title. Stored day follows the publisher's timestamp offset, not the recording/event date. Earlier unknown-date wording describes the prior review checkpoint. Deduplication audit 2026-10-17: retain this earlier catalog record and its reviewed captions as the visible edition. Alternate publisher audio page: https://hackingstate.podbean.com/e/01-robin_hanson/ (May 25, 2023); the separate podcast-edition publication date does not replace this video’s May 26 date."
   },
   {
     "id": "video-review-453144366d554f42336141",
@@ -18050,7 +18050,7 @@
     "sourceUrl": "https://conversationswithtyler.com/episodes/robin-hanson/",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Displayed publication date February 28, 2018 and separate recording date February 6 checked. Only the futarchy passage in the publisher transcript was reviewed, from the question about a prediction market in futarchy to the subsequent reader question. Not a full podcast listen or a MetaDAO interview. Link to original publisher transcript; full text is not redistributed."
+    "evidenceNote": "Displayed publication date February 28, 2018 and separate recording date February 6 checked. Only the futarchy passage in the publisher transcript was reviewed, from the question about a prediction market in futarchy to the subsequent reader question. Not a full podcast listen or a MetaDAO interview. Link to original publisher transcript; full text is not redistributed. Relevance recheck 2026-10-17: Publisher transcript futarchy exchange rechecked, from Cowen’s adoption question through the cost-accounting and institutional-incentive comparison."
   },
   {
     "id": "external-hanson-hanania-2021",
@@ -18158,7 +18158,7 @@
     "sourceUrl": "https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Publisher publication date and transcript passage from the institutional-reform discussion through the argument for concrete trials reviewed (roughly transcript lines 478–552 in the retrieved page). Partial transcript review, not full podcast listening. No medical, legal or general forecasting claims independently validated; full text remains at the publisher."
+    "evidenceNote": "Publisher publication date and transcript passage from the institutional-reform discussion through the argument for concrete trials reviewed (roughly transcript lines 478–552 in the retrieved page). Partial transcript review, not full podcast listening. No medical, legal or general forecasting claims independently validated; full text remains at the publisher. Relevance recheck 2026-10-17: Publisher futarchy transcript passage rechecked: conditional CEO-retention markets and organizational reform; the broader signaling topic alone is not the basis for inclusion."
   },
   {
     "id": "external-hanson-whowhatwhy-2026",
@@ -18180,7 +18180,7 @@
     "sourceUrl": "https://whowhatwhy.org/podcast/betting-on-reality/",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Publisher page dated 05/08/26, corroborated as May 8 by episode listings. Publisher transcript sections on institutional incentives and decision advice reviewed; not a complete listen or legal/regulatory fact-check. Introductory market valuations, geopolitical allegations and platform-dispute claims are not adopted as verified facts. RSS fetch was blocked; no protection bypass."
+    "evidenceNote": "Publisher page dated 05/08/26, corroborated as May 8 by episode listings. Publisher transcript sections on institutional incentives and decision advice reviewed; not a complete listen or legal/regulatory fact-check. Introductory market valuations, geopolitical allegations and platform-dispute claims are not adopted as verified facts. RSS fetch was blocked; no protection bypass. Relevance recheck 2026-10-17: Publisher transcript decision-advice section rechecked: conditional CEO-retention prices, capital decisions and information subsidies."
   },
   {
     "id": "external-hanson-futarchy-futurism",
@@ -18629,7 +18629,7 @@
     "sourceUrl": "https://www.ideasuntrapped.com/p/big-ideas-with-robin-hanson",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Publisher date June 11, 2025, duration 1:15:34 and transcript futarchy passage reviewed (retrieved lines 101–125). This is a partial transcript review, not a full listen or review of the culture-drift and medical/political claims elsewhere. Hanson does not name the crypto or government experiments in this passage; none is inferred to be MetaDAO or independently validated. Full third-party transcript remains at publisher and is not copied."
+    "evidenceNote": "Publisher date June 11, 2025, duration 1:15:34 and transcript futarchy passage reviewed (retrieved lines 101–125). This is a partial transcript review, not a full listen or review of the culture-drift and medical/political claims elsewhere. Hanson does not name the crypto or government experiments in this passage; none is inferred to be MetaDAO or independently validated. Full third-party transcript remains at publisher and is not copied. Relevance recheck 2026-10-17: Publisher futarchy transcript exchange rechecked: feasibility versus adoption, small trials and organizational resistance."
   },
   {
     "id": "external-mcg-laso-2026-10-09",
@@ -18717,7 +18717,7 @@
     "sourceUrl": "https://www.maxraskin.com/interviews/robin-hanson",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Publisher itemprop and structured metadata both identify datePublished 2025-11-15T20:00:00-0500; use the publisher-local November 15 date. dateModified is separately May 14, 2026, not publication. Relevant passages around retrieved lines 382–422 read; no full interview or audio review. Hanson explicitly says the linked Lex Fridman and Sam Harris appearances did not discuss futarchy; neither is added on that basis. Medical, political and consciousness claims outside this passage not evaluated."
+    "evidenceNote": "Publisher itemprop and structured metadata both identify datePublished 2025-11-15T20:00:00-0500; use the publisher-local November 15 date. dateModified is separately May 14, 2026, not publication. Relevant passages around retrieved lines 382–422 read; no full interview or audio review. Hanson explicitly says the linked Lex Fridman and Sam Harris appearances did not discuss futarchy; neither is added on that basis. Medical, political and consciousness claims outside this passage not evaluated. Relevance recheck 2026-10-17: Publisher Prediction Markets and Futarchy section rechecked. Retained as a limited governance-vision discussion, not a technical explanation or a MetaDAO interview."
   },
   {
     "id": "external-mcg-solomon-2026-09-23",
@@ -18846,7 +18846,9 @@
     "sourceUrl": "https://hackingstate.podbean.com/e/01-robin_hanson/",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Complete original Podbean episode description and Thursday May 25, 2023 date read. Hanson’s press index instead lists May 26; retain the explicit publisher date and disclose the difference. Podchaser points to the same recording and is not a separate source. No full audio or transcript review; effectiveness and institutional-design claims not independently verified."
+    "evidenceNote": "Complete original Podbean episode description and Thursday May 25, 2023 date read. Hanson’s press index instead lists May 26; retain the explicit publisher date and disclose the difference. Podchaser points to the same recording and is not a separate source. No full audio or transcript review; effectiveness and institutional-design claims not independently verified. Relevance/deduplication audit 2026-10-17: alternate audio edition of Hacking State episode 1 with Alex Murshak and Robin Hanson, already retained as video-review-5676346c6b4d726d7a5838. Hide this duplicate while preserving its ID and May 25 podcast-edition date; the video edition has its own May 26 publication date.",
+    "supersededBy": "video-review-5676346c6b4d726d7a5838",
+    "catalogOnly": true
   },
   {
     "id": "external-compass-jurassic-deaton-2026",
@@ -18936,5 +18938,26 @@
     "sourceUrl": "https://valeriees.podbean.com/e/robin-hanson-prediction-markets-can-fix-bad-decisions-prediction-market-movers/",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-hanson-institutional-edge-2026",
+    "title": "The Information Edge: Robin Hanson on prediction and decision markets",
+    "author": "The Institutional Edge / Angelo Calvello",
+    "date": "2026-02-10",
+    "type": "podcast",
+    "url": "https://www.iheart.com/podcast/269-the-institutional-edge-rea-288975641/episode/-321988548/",
+    "description": "Angelo Calvello interviews Hanson about information markets for institutional investors. A dedicated section discusses conditional estimates for organizational decisions and resistance to independent information. The publisher lists that section around minute 25. Background on decision markets, not a MetaDAO-specific interview.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.iheart.com/podcast/269-the-institutional-edge-rea-288975641/episode/-321988548/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Full available syndicated publisher description, chapter list and February 10, 2026 date read on iHeart. Outline places decision markets at 24:57; chapter list says 24:44, so description uses an approximate locator. No full audio or transcript review. Calibration, comparative performance and regulatory claims not independently verified or adopted."
   }
 ]

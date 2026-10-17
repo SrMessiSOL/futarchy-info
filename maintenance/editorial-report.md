@@ -1,3 +1,65 @@
+# Hanson relevance audit and missing decision-market interview: October 17, 2026
+
+PR #67 merged as 66e52a797b38e6c3824cc4d8c4a8d103b9d3fa6b. Production run 39009187628 succeeded. Loyal’s filing and the Prediction Market Movers interview match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).
+
+## Scope and outcome
+
+User’s relevance rule: retain Hanson interviews only where there is substantive futarchy, decision-market or MetaDAO ecosystem discussion. General AI, signaling, cultural drift or election-betting interest alone is insufficient. This audit covers all 31 existing catalog records identified as Hanson interviews, written interviews, talks and the MetaDAO film. References to Hanson inside other guests’ ecosystem interviews are not treated as appearances by him.
+
+Reviewed every record’s existing description and provenance, including prior caption/partial-transcript/overview boundaries. Reopened seven broad publisher pages/passages this pass, listed below. This is not 31 fresh full listens, and unchanged evidence dates are not upgraded. The 30 unique sources have relevant material; none is removed solely because of a broader title. Raskin is a brief governance-vision segment, not a technical lesson. One repeated Hacking State edition is consolidated using the supported catalogOnly/supersededBy cross-URL replacement, preserving both IDs and separate publication dates. The visible original retains caption-review provenance and the alternate audio link.
+
+## Complete existing-record relevance inventory
+
+| ID | Source | Decision and evidence basis |
+| --- | --- | --- |
+| res-180 | [Robin Hanson on Cultural Evolution, Cultural Drift, and Futarchy](https://nothinghuman.substack.com/p/robin-hanson-on-cultural-evolution) | Retain; relevant publisher passage/overview reopened this pass. |
+| res-262 | [Robin Hanson: The Scaling of Futarchy](https://podcasts.apple.com/us/podcast/24-robin-hanson-the-scaling-of-futarchy/id1736309658?i=1000733109174) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| res-263 | [Robin Hanson: Futarchy, Cultural Drift, and the Future of Adaptiveness](https://podcasts.apple.com/us/podcast/457-robin-hanson-futarchy-cultural-drift-and-the/id1293849038?i=1000733913801) | Retain; relevant publisher passage/overview reopened this pass. |
+| res-265 | [Futarchy: Prediction Markets and the Challenge of Disruptive Technology](https://epicenter.tv/episode/98-futarchy-prediction-markets-and-the-challenge-of-disruptive-technology) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| hanson-hodl-2026 | [Futarchy and Prediction Markets: Robin Hanson Interview](https://hodluppod.com/episode/futarchy-robin-hanson-prediction-markets) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| elucidations-hanson-157 | [Episode 157: Robin Hanson discusses prediction markets](https://elucidations.vercel.app/posts/episode-157/) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-435a576b2d467277334d34 | [Futarchy : Dr. Robin Hanson / MetaDAO Inaugural Ownership Meeting](https://www.youtube.com/watch?v=CZWk-Frw3M4) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-4b766c304c72777445386b | [Public epistemics and futarchy by Robin Hanson / Devcon SEA](https://www.youtube.com/watch?v=Kvl0LrwtE8k) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-424c53325458314b787a49 | [Robin Hanson, PhD: Prediction Markets/Futarchy for Efficient Governments and Resilient Economies](https://www.youtube.com/watch?v=BLS2TX1KxzI) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-613171536a6b4c585a3959 | [DAPPCON 2025: Launching Futarchy - Kelvin Santos & Robin Hanson](https://www.youtube.com/watch?v=a1qSjkLXZ9Y) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-5676346c6b4d726d7a5838 | [Hacking State 1 - Robin Hanson: Prediction Markets & Futarchy](https://www.youtube.com/watch?v=Vv4lkMrmzX8) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-453144366d554f42336141 | [Innovation and cultural evolution, betting markets and futarchy - Robin Hanson (390I)](https://www.youtube.com/watch?v=E1D6mUOB3aA) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-694a627442315a67535f30 | [Robin Hanson - Futarchy: A Status Report](https://www.youtube.com/watch?v=iJbtB1ZgS_0) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-4d594b664c3441556c5859 | [Robin Hanson - Futarchy: Competent Governance Soon?!](https://www.youtube.com/watch?v=MYKfL4AUlXY) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-675a784c487a6b3758784d | [Robin Hanson & James Hughes - Futarchy vs Plutarchy: Vote on Values, or Pay to Play?](https://www.youtube.com/watch?v=gZxLHzk7XxM) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-54622d36696b58644f7a45 | [Robin Hanson and "Mencius Moldbug" debate futarchy at Foresight 2010](https://www.youtube.com/watch?v=Tb-6ikXdOzE) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-557a5a54477977785f7549 | [Robin Hanson, Eli Goldfine: Navigating Our Future with Futarchy](https://www.youtube.com/watch?v=UzZTGywx_uI) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| video-review-6633554347417951466745 | [To Touch The Face of God](https://www.youtube.com/watch?v=f3UCGAyQFgE) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| external-hanson-tyler-35 | [Robin Hanson on Signaling and Self-Deception (Ep. 35)](https://conversationswithtyler.com/episodes/robin-hanson/) | Retain; relevant publisher passage/overview reopened this pass. |
+| external-hanson-80000hours-25 | [Why we have to lie to ourselves about why we do what we do, according to economist Robin Hanson](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/) | Retain; relevant publisher passage/overview reopened this pass. |
+| external-hanson-whowhatwhy-2026 | [Betting on Reality](https://whowhatwhy.org/podcast/betting-on-reality/) | Retain; relevant publisher passage/overview reopened this pass. |
+| external-hanson-polymarket-og | [OG: An Interview with Robin Hanson](https://news.polymarket.com/p/og) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| external-hanson-a16z-2026 | [Robin Hanson on Prediction Markets, Gambling, and the Future of Forecasting](https://a16z.com/podcast/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting/) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| external-hanson-nextpredict-1 | [Robin Hanson: The Man Who Wants to Run Governments on Prediction Markets](https://next.io/podcasts/next-io-podcast/robin-hanson-the-man-who-wants-to-run-governments-on-prediction-markets/) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| external-hanson-ideas-untrapped | [Big Ideas with Robin Hanson](https://www.ideasuntrapped.com/p/big-ideas-with-robin-hanson) | Retain; relevant publisher passage/overview reopened this pass. |
+| external-raskin-hanson-2025 | [Interview with Robin Hanson](https://www.maxraskin.com/interviews/robin-hanson) | Retain; relevant publisher passage/overview reopened this pass. |
+| external-hanson-stranded-3 | [Decision-Prediction Markets in Firms: Robin Hanson and Tom Bennett](https://www.infinitacitytimes.com/p/ep-3-robin-hanson-on-decision-prediction-64a) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| external-hanson-hacking-state-1 | [Robin Hanson: Prediction Markets & Futarchy](https://hackingstate.podbean.com/e/01-robin_hanson/) | Duplicate edition; retain canonical video. |
+| external-hanson-john-ash-3 | [Robin Hanson on Futarchy: Listener John Ash, Episode 3](https://www.youtube.com/watch?v=4FtSz3IdH-Q) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| external-hanson-movers-42 | [Robin Hanson: Prediction Markets Can Fix Bad Decisions](https://valeriees.podbean.com/e/robin-hanson-prediction-markets-can-fix-bad-decisions-prediction-market-movers/) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+| external-hanson-hanania-2021 | [Futarchy: Robin Hanson on How Prediction Markets Can Take over the World](https://www.richardhanania.com/p/futarchy-robin-hanson-on-how-prediction) | Retain; prior source-review evidence supports explicit futarchy/decision-market discussion. |
+
+## New accepted interview
+
+[Angelo Calvello with Robin Hanson](https://www.iheart.com/podcast/269-the-institutional-edge-rea-288975641/episode/-321988548/), published February 10, 2026, id external-hanson-institutional-edge-2026. Publisher description and chapters cover organizational decision markets. The two timestamp lists differ slightly; use an approximate minute-25 locator. No full audio review or adoption of accuracy/regulatory claims. No duplicate by title, guest/host or canonical URL found.
+
+## Deferred and excluded leads
+
+Doom Debates’ Eli Goldfine interview has a real 32:08–40:56 futarchy/MetaDAO passage, read in the publisher transcript. It is not a Hanson interview. Its explanation blurs project fundraising with decisions from the META treasury and does not provide a reliable guide to launch mechanics. Deferred rather than adding misleading context. Original page date is August 11, 2026, different from an aggregator’s August 8 listing; no new date record created. URL: https://lironshapira.substack.com/p/14-year-old-prodigy-predicts-friendly-superintelligence .
+
+The Supercycle Manifest fireside chat is a further lead: the original public page was recovered by normal HTTP and says July 15, 2026, but provides only a short introduction. It needs recording-identity comparison against the existing Hanson/Goldfine video before adding another edition. No claim of a newly reviewed transcript. URL: https://supercycle.blog/p/robin-hanson-fireside-chat-manifest . Lex Fridman and Sam Harris appearances are not added merely because Hanson is the guest; Raskin’s transcript says they did not discuss futarchy. Radio #4/#13 audio and deeper funded-project founder archives remain open. No exhaustive discovery claim.
+
+## Validation
+
+Catalog validation, all 62 tests and TypeScript passed. Main-library checks confirm the new interview and canonical Hacking State video are visible, the alternate edition is suppressed and both IDs remain. npm run build -- --webpack completed with exit 0 and all routes generated. Diff whitespace check passed. Existing source IDs, transcript assets, project registry and lifecycle gates preserved. No merge or deployment of this follow-up.
+
+---
+
 # Loyal disclosure and Hanson interview follow-up: October 17, 2026
 
 PR #66 merged as c85647997d868146a110088048b7b38a3c502ddf. Production run 39007571603 succeeded. Both additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200): Jurassic Finance Deaton reporting and John Ash’s Hanson interview.

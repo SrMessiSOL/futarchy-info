@@ -1,3 +1,34 @@
+# External source follow-up: October 17, 2026
+
+PR #56 merged as cd4d9a30382432781b85318e9792c736a62005fd. Production deployment run 38998293203 succeeded; all eight additions were checked in the live main-library API against their merged titles, dates, URLs and descriptions, with individual JSON endpoints HTTP 200.
+
+Six new sources added in this follow-up. Preserve existing IDs, dates, transcript assets and lifecycle rules. No new historical-publication exception or failed-project promotion.
+
+## Accepted sources
+
+| ID | Date meaning | Source | Review boundary |
+| --- | --- | --- | --- |
+| external-hanson-80000hours-25 | 2018-03-28 (publication) | [Why we have to lie to ourselves about why we do what we do, according to economist Robin Hanson](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/) | Publisher publication date and transcript passage from the institutional-reform discussion through the argument for concrete trials reviewed (roughly transcript lines 478–552 in the retrieved page). Partial transcript review, not full podcast listening. No medical, legal or general forecasting claims independently validated; full text remains at the publisher. |
+| external-hanson-whowhatwhy-2026 | 2026-05-08 (publication) | [Betting on Reality](https://whowhatwhy.org/podcast/betting-on-reality/) | Publisher page dated 05/08/26, corroborated as May 8 by episode listings. Publisher transcript sections on institutional incentives and decision advice reviewed; not a complete listen or legal/regulatory fact-check. Introductory market valuations, geopolitical allegations and platform-dispute claims are not adopted as verified facts. RSS fetch was blocked; no protection bypass. |
+| external-hanson-futarchy-futurism | 2024-11-25 (publication) | [Futarchy Futurism](https://www.overcomingbias.com/p/futarchy-futurism) | Complete available article text and displayed November 25, 2024 date read. Poll images, linked posts and commenters’ claims not independently reviewed; hypothetical world-government and adoption scenarios are presented as the author’s speculation. |
+| external-delphi-proph3t-2024 | 2024-10-11 (publication) | [Proph3t: Exploring MetaDAO and the Future of Markets-Driven Governance](https://members.delphidigital.io/media/proph3t-exploring-metadao-and-the-future-of-markets-driven-governance) | Public publisher overview, full chapter list and October 11, 2024 publication date reviewed. Listed duration 63 minutes. Audio, video and transcript not reviewed, and no gated content accessed. YouTube mirror scBjIHJX3Co is the same interview and is not a separate catalog record. |
+| external-mcg-ripcars-2026 | 2026-09-16 (event) | [Rip Cars On record: David Khosroshvili with Dom and Chill](https://mcgsignal.com/feed/mcg-2026-09-16/CARSsxWPkpQWvfyRBwfGMGvysJBHdHGfE46X5MNgmeta) | Complete available publisher summary and metric annotations read; underlying recording not listened to. September 16, 2026 is explicitly the interview date, not a verified page-publication date. Summary contains inconsistent market-size figures, so no exact market-size estimate is adopted. Plans for a further raise or marketing do not prove approval or execution. |
+| external-unchained-governance-2026 | 2026-07-15 (publication) | [Is DAO Governance Broken? How Voter Apathy and Power Struggles Should Be Fixed](https://www.youtube.com/watch?v=CxF2z4HS4qw) | Full available YouTube publisher description and chapter list reviewed in the normal browser. Matching datePublished and uploadDate DOM metadata: 2026-07-15T08:59:40-07:00, with visible July 15 date and 1:04:52 duration. No full audio/video/caption review. A July 16 Unchained clip links to this longer episode; only the full episode is added. |
+
+The MCG page labels September 16 as the interview date; it is stored as an event rather than invented as publication. The Unchained July 16 clip is not a new interview: it points to the July 15 full recording, which is the sole added record. No third-party full transcript is redistributed.
+
+## Discovery limits and deferred sources
+
+Four The Defiant articles were found: MetaDAO’s rejected VC discount, Avici/Rain incident reporting, Galaxy’s futarchy report and Flash Trade’s proposed wind-down. HTTP discovery returned Loading this article placeholders. A normal browser check of the MetaDAO OTC article still showed the placeholder (with October 13, 2025 byline date). Article bodies were not recovered in this pass; search excerpts are leads rather than sufficient source review, so none is fabricated into the catalog.
+
+Already-covered sources excluded: The Big Whale’s Proph3t interview (including its YouTube mirror), Colosseum episode 3, Loyal’s Lightspeed founder interview and July update, Hunter Monk’s Why Laso essay, existing Ownership interviews and prior Hanson sources. No claim of exhaustive search. Radio #4/#13 audio remains an outstanding separate recovery task.
+
+## Validation
+
+npm run check passed (62 tests plus TypeScript); npm run build -- --webpack passed. Hosted standard-build validation will also run on the PR. No merge or deployment of this follow-up performed.
+
+---
+
 # External interviews and media review: October 17, 2026
 
 Eight nonduplicate sources added: two Hanson interview sources, four MetaDAO/external-media episodes, a funded-project founder podcast (Umbra) and a Laso written founder Q&A. The two Galaxy episodes, Good Wood and Tyler interview were absent by URL and title from the current catalog; existing Galaxy research and Lightspeed/Hanson interviews were retained without creating mirrors. All IDs and existing dates preserved.
@@ -571,6 +602,7 @@ The 611-link snapshot is historical discovery data, not 611 approved additions. 
 ## Validation
 
 The current 754-record draft passed catalog validation, all 23 tests, TypeScript and the approved local production build (six static pages). All 371 baseline IDs remain; review JSON parses and decision references resolve. An initial sandbox build hit Windows path access denied; the approved build succeeded. Editorial coverage remains incomplete.
+
 
 
 

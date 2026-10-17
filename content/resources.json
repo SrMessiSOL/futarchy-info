@@ -18137,5 +18137,134 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Displayed October 21, 2025 publication date, complete description and chapter guide reviewed. Page metadata and visible headline use different broader market titles; the stored title follows the visible headline. Embedded video, audio and captions not reviewed; no new transcript claim."
+  },
+  {
+    "id": "external-hanson-80000hours-25",
+    "title": "Why we have to lie to ourselves about why we do what we do, according to economist Robin Hanson",
+    "author": "80,000 Hours",
+    "date": "2018-03-28",
+    "type": "podcast",
+    "url": "https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/",
+    "description": "In the futarchy section of a broader interview, Hanson explains conditional CEO-retention markets and discusses information arriving before a decision. He and Rob Wiblin examine why organizational politics can obstruct useful forecasts and why implementation needs practical trials. Historical background, not a MetaDAO interview.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher publication date and transcript passage from the institutional-reform discussion through the argument for concrete trials reviewed (roughly transcript lines 478–552 in the retrieved page). Partial transcript review, not full podcast listening. No medical, legal or general forecasting claims independently validated; full text remains at the publisher."
+  },
+  {
+    "id": "external-hanson-whowhatwhy-2026",
+    "title": "Betting on Reality",
+    "author": "WhoWhatWhy",
+    "date": "2026-05-08",
+    "type": "podcast",
+    "url": "https://whowhatwhy.org/podcast/betting-on-reality/",
+    "description": "Jeff Schechtman interviews Hanson about prediction markets, institutional resistance and decision-market oversight. Reviewed passages cover organizational forecasting incentives and conditional prices for CEO retention and capital decisions. Legal assertions and examples concerning named platforms remain attributed speaker claims, not independently verified findings.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://whowhatwhy.org/podcast/betting-on-reality/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Publisher page dated 05/08/26, corroborated as May 8 by episode listings. Publisher transcript sections on institutional incentives and decision advice reviewed; not a complete listen or legal/regulatory fact-check. Introductory market valuations, geopolitical allegations and platform-dispute claims are not adopted as verified facts. RSS fetch was blocked; no protection bypass."
+  },
+  {
+    "id": "external-hanson-futarchy-futurism",
+    "title": "Futarchy Futurism",
+    "author": "Robin Hanson",
+    "date": "2024-11-25",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/futarchy-futurism",
+    "description": "Hanson considers where futarchy might be adopted first, emphasizing valuable organizational decisions, measurable outcomes, learning opportunities and resistance from incumbent decision-makers. He explores possible long-term changes in organizational scale and public debate. These are speculative scenarios, not evidence that those outcomes occurred.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/futarchy-futurism",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available article text and displayed November 25, 2024 date read. Poll images, linked posts and commenters’ claims not independently reviewed; hypothetical world-government and adoption scenarios are presented as the author’s speculation."
+  },
+  {
+    "id": "external-delphi-proph3t-2024",
+    "title": "Proph3t: Exploring MetaDAO and the Future of Markets-Driven Governance",
+    "author": "Delphi Digital / Michael Rinko",
+    "date": "2024-10-11",
+    "type": "podcast",
+    "url": "https://members.delphidigital.io/media/proph3t-exploring-metadao-and-the-future-of-markets-driven-governance",
+    "description": "Michael Rinko’s interview with Proph3t covers market efficiency, futarchy metrics, user experience, proposal time horizons, composability and minority protection, according to Delphi’s public overview and chapter guide. Historical product discussion; the recording and transcript were not reviewed in this pass.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Decision Markets"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://members.delphidigital.io/media/proph3t-exploring-metadao-and-the-future-of-markets-driven-governance",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Public publisher overview, full chapter list and October 11, 2024 publication date reviewed. Listed duration 63 minutes. Audio, video and transcript not reviewed, and no gated content accessed. YouTube mirror scBjIHJX3Co is the same interview and is not a separate catalog record."
+  },
+  {
+    "id": "external-mcg-ripcars-2026",
+    "title": "Rip Cars On record: David Khosroshvili with Dom and Chill",
+    "author": "MCG Signal",
+    "date": "2026-09-16",
+    "type": "article",
+    "url": "https://mcgsignal.com/feed/mcg-2026-09-16/CARSsxWPkpQWvfyRBwfGMGvysJBHdHGfE46X5MNgmeta",
+    "description": "MCG’s interview summary covers Rip Cars’ Hot Wheels gacha launch, inventory constraints, collector marketing and a proposed follow-on raise through MetaDAO. Separates sales, trading volume and payments to users selling cars back. Figures and future plans are the founder’s account, not independently audited results.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "project:ripcars"
+    ],
+    "dateKind": "event",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://mcgsignal.com/feed/mcg-2026-09-16/CARSsxWPkpQWvfyRBwfGMGvysJBHdHGfE46X5MNgmeta",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available publisher summary and metric annotations read; underlying recording not listened to. September 16, 2026 is explicitly the interview date, not a verified page-publication date. Summary contains inconsistent market-size figures, so no exact market-size estimate is adopted. Plans for a further raise or marketing do not prove approval or execution."
+  },
+  {
+    "id": "external-unchained-governance-2026",
+    "title": "Is DAO Governance Broken? How Voter Apathy and Power Struggles Should Be Fixed",
+    "author": "Unchained",
+    "date": "2026-07-15",
+    "type": "podcast",
+    "url": "https://www.youtube.com/watch?v=CxF2z4HS4qw",
+    "description": "Laura Shin hosts Nick Almond and Proph3t in a discussion of DAO treasury control, delegate structures and decision markets. The publisher’s chapter guide contrasts governance approaches and includes MetaDAO’s origin story. Allegations about other DAOs and named tokens are not adopted as independent findings.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Decision Markets"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=CxF2z4HS4qw",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Full available YouTube publisher description and chapter list reviewed in the normal browser. Matching datePublished and uploadDate DOM metadata: 2026-07-15T08:59:40-07:00, with visible July 15 date and 1:04:52 duration. No full audio/video/caption review. A July 16 Unchained clip links to this longer episode; only the full episode is added."
   }
 ]

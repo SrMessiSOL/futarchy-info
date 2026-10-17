@@ -1,3 +1,11 @@
+# Good Wood canonical link correction: October 17, 2026
+
+Use the user-supplied English Solana URL for external-goodwood-metadao-20 in both url and sourceUrl, replacing the /vi/ locale URL. Preserve the ID, date, description and prior review boundary. Provenance distinguishes the previously reviewed localized listing from the user-confirmed canonical URL; no new audio or transcript review claimed.
+
+npm run check passed (62 tests plus TypeScript); npm run build -- --webpack passed. No merge or deployment.
+
+---
+
 # External source follow-up: October 17, 2026
 
 PR #56 merged as cd4d9a30382432781b85318e9792c736a62005fd. Production deployment run 38998293203 succeeded; all eight additions were checked in the live main-library API against their merged titles, dates, URLs and descriptions, with individual JSON endpoints HTTP 200.
@@ -602,6 +610,7 @@ The 611-link snapshot is historical discovery data, not 611 approved additions. 
 ## Validation
 
 The current 754-record draft passed catalog validation, all 23 tests, TypeScript and the approved local production build (six static pages). All 371 baseline IDs remain; review JSON parses and decision references resolve. An initial sandbox build hit Windows path access denied; the approved build succeeded. Editorial coverage remains incomplete.
+
 
 
 

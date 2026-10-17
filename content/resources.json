@@ -18080,7 +18080,7 @@
     "author": "The Good Wood Show",
     "date": "2026-06-06",
     "type": "podcast",
-    "url": "https://solana.com/vi/podcasts/the-good-wood-show/episodes/kollan-8bit-from-metadao-ownership-fm-this-is-what-youre-supposed-to-use-crypto-for-ep20-e3kdk77",
+    "url": "https://solana.com/podcasts/the-good-wood-show/episodes/kollan-8bit-from-metadao-ownership-fm-this-is-what-youre-supposed-to-use-crypto-for-ep20-e3kdk77",
     "description": "The episode listing describes a conversation with Kollan House and 8bit about ownership coins, decision markets, pro-rata fundraising, supply mechanics and links between legal entities and proposals. This summary follows the published episode description; the recording has not been reviewed in this pass.",
     "tags": [
       "MetaDAO",
@@ -18091,10 +18091,10 @@
     "dateKind": "publication",
     "datePrecision": "day",
     "verification": "source-checked",
-    "sourceUrl": "https://solana.com/vi/podcasts/the-good-wood-show/episodes/kollan-8bit-from-metadao-ownership-fm-this-is-what-youre-supposed-to-use-crypto-for-ep20-e3kdk77",
+    "sourceUrl": "https://solana.com/podcasts/the-good-wood-show/episodes/kollan-8bit-from-metadao-ownership-fm-this-is-what-youre-supposed-to-use-crypto-for-ep20-e3kdk77",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Solana’s syndicated show listing supplies June 6, 2026, a 50:43 duration, guest names and episode description. Complete listing description reviewed; audio and transcript not reviewed. The English-route fetch failed; the accessible Vietnamese-locale page retains the English episode text. Podcast mirrors are not separate interviews."
+    "evidenceNote": "Solana’s syndicated show listing supplies June 6, 2026, a 50:43 duration, guest names and episode description. Complete listing description reviewed; audio and transcript not reviewed. The listing was reviewed through its accessible Vietnamese-locale page, which retains the English episode text. On October 17, 2026 the user supplied and confirmed the English canonical URL now used for this same episode. Its fetch remains unavailable in the research tool; no additional content review is implied. Podcast mirrors are not separate interviews."
   },
   {
     "id": "external-galaxy-grid-1",

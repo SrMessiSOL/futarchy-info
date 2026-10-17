@@ -18401,7 +18401,7 @@
     "date": "2025-08-14",
     "type": "podcast",
     "url": "https://rss.com/podcasts/the-latest-development/2166554/",
-    "description": "Dirt interviews Kollan about futarchy-based fundraising, token issuance, redemption mechanics and lessons from early MetaDAO launches. Published chapters include Omnipair and mtnCapital as historical examples. This entry follows the publisher’s episode notes and chapter guide; the recording has not been reviewed.",
+    "description": "Dirt interviews Kollan about futarchy-based fundraising, token issuance and early launches. A retrospective mtnCapital discussion examines proposal costs, execution constraints, buybacks and redemption incentives as design lessons. Historical analysis of a troubled fund, not a new mtnCapital investment opportunity.",
     "tags": [
       "MetaDAO",
       "Founder Interview",
@@ -18414,7 +18414,7 @@
     "sourceUrl": "https://rss.com/podcasts/the-latest-development/2166554/",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
-    "evidenceNote": "Publisher-hosted episode 6 page supplies August 14, 2025 and duration 43:05. Available RSS.com introduction and chapters read; RSS.com Read more remains truncated in the research fetch. Complete syndicated episode description and chapter guide read on Amazon Music, including final conditional-market chapter. No full audio or transcript review. Raise figures and redemption claims not independently verified; mixed historical interview is not an endorsement of failed projects."
+    "evidenceNote": "Publisher-hosted episode 6 page supplies August 14, 2025 and duration 43:05. Available RSS.com introduction and chapters read; RSS.com Read more remains truncated in the research fetch. Complete syndicated episode description and chapter guide read on Amazon Music, including final conditional-market chapter. No full audio or transcript review. Raise figures and redemption claims not independently verified; mixed historical interview is not an endorsement of failed projects. Follow-up October 17: publisher HTML links the public WEBVTT at https://transcripts.rss.com/342903/2166554/transcript. Transcript passage 19:00–30:59 read in context, covering mtnCapital stress tests, proposal collateral, instruction limits, discount-to-NAV buybacks and potential redemption. Retrospective failure analysis supports a narrow historical-reporting exception. Speaker estimates, suggested fixes and possible dissolution do not establish execution or a liquidation date. No audio listening or full transcript review; third-party transcript is not republished."
   },
   {
     "id": "external-mcg-umbra-2026-10-13",
@@ -18459,5 +18459,90 @@
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17",
     "evidenceNote": "Complete available article text and displayed April 25, 2026 publication date read. April 25, 1996 is the author’s claimed first-posting anniversary, not this article’s publication date. Linked historical documents, other trials and reader comments not independently reviewed. No claim that the article validates MetaDAO’s implementation or proves improved outcomes."
+  },
+  {
+    "id": "external-hanson-nextpredict-1",
+    "title": "Robin Hanson: The Man Who Wants to Run Governments on Prediction Markets",
+    "author": "NEXT.io / Pierre Lindh",
+    "date": "2026-08-07",
+    "type": "podcast",
+    "url": "https://next.io/podcasts/next-io-podcast/robin-hanson-the-man-who-wants-to-run-governments-on-prediction-markets/",
+    "description": "Pierre Lindh interviews Hanson about prediction markets and his proposed use of decision markets in companies and public institutions. The publisher frames decision support as a broader application than betting. This entry follows the episode overview, without claiming a full recording review.",
+    "tags": [
+      "Robin Hanson",
+      "Decision Markets",
+      "Interview"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://next.io/podcasts/next-io-podcast/robin-hanson-the-man-who-wants-to-run-governments-on-prediction-markets/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available publisher overview, host attribution and August 7, 2026 publication date reviewed. Publisher links the YouTube mirror Xvxu8Sxn0UA; it is not added separately. Audio and transcript not reviewed, and biographical, regulatory and adoption claims not independently verified."
+  },
+  {
+    "id": "external-superteam-germany-icm-2025",
+    "title": "Internet Capital Markets Report: November 2025",
+    "author": "Solana / Superteam Germany",
+    "date": null,
+    "type": "article",
+    "url": "https://www.superteamde.fun/reports/Solana_ICM_Report_2025.pdf",
+    "description": "The report places MetaDAO within Solana’s capital-formation landscape and discusses tokenholder protection, governance and Umbra’s launch. Its MetaDAO section advocates futarchy as a governance mechanism. Statements about enforceable rights, prevention of harmful proposals and launch demand remain publisher claims.",
+    "tags": [
+      "MetaDAO",
+      "project:umbra",
+      "Report",
+      "Media Coverage"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.superteamde.fun/reports/Solana_ICM_Report_2025.pdf",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Nine-page PDF cover identifies November 2025, without a publication day; date remains null rather than inventing November 1. Cover and extracted MetaDAO section on PDF page 9 reviewed, with surrounding ecosystem text. Charts were not visually verified; research-tool screenshots failed. No exact financial metric or claim of guaranteed protection is adopted. Umbra commitments are not accepted proceeds."
+  },
+  {
+    "id": "external-credible-five-layer-stack",
+    "title": "Anatomy of an Instant Transaction: The Five Layers of the Credible Stack",
+    "author": "Credible Team",
+    "date": "2026-06-24",
+    "type": "article",
+    "url": "https://blog.credible.finance/blog/anatomy-of-the-five-layer-payment-stack",
+    "description": "Credible describes a five-layer payment architecture connecting local collection methods, routing, risk underwriting, liquidity and settlement. It explains its claimed separation of merchant payouts from slower underlying clearing. This is the company’s product account, not an independent technical or security assessment.",
+    "tags": [
+      "project:credible",
+      "Product",
+      "Company Article"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.credible.finance/blog/anatomy-of-the-five-layer-payment-stack",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Full available article body, Credible Team byline and June 24, 2026 publication date read. Architecture, AI underwriting, supported markets and settlement-speed assertions not independently tested. Distinct from the previously cataloged June 10 insights article; no claim that publication establishes production performance."
+  },
+  {
+    "id": "external-credible-digital-wallet-shift",
+    "title": "The 56% Shift: Why Digital Wallets Are Rewriting Global E-Commerce",
+    "author": "Credible Team",
+    "date": "2026-09-02",
+    "type": "article",
+    "url": "https://blog.credible.finance/blog/56-percent-digital-wallet-shift-open-payment-stack",
+    "description": "Credible discusses regional wallet preferences and the challenge of combining localized checkout with cross-border treasury settlement. The article presents its payment API as a response to fragmented rails. Adoption statistics, processed-volume figures and product performance are attributed company claims.",
+    "tags": [
+      "project:credible",
+      "Company Article",
+      "Payments"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blog.credible.finance/blog/56-percent-digital-wallet-shift-open-payment-stack",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17",
+    "evidenceNote": "Complete available article, byline and September 2, 2026 date read. Headline percentage is the publisher’s citation of an external payments report, not independently verified research here. No reported volume, integration count, fee comparison or instant-settlement claim adopted as independently established."
   }
 ]

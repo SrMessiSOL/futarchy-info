@@ -1,3 +1,30 @@
+# MetaDAO founder and organizational decision-market interviews: October 17, 2026
+
+PR #68 merged as f435f9dbc6b1fcc1f076481b10dc0e9d04e3482a. Production run 39010500350 succeeded. Live main-library and individual JSON checks match all merged title/date/URL/source/description/evidence-note fields for the new Institutional Edge interview, seven relevance-rechecked entries and the retained Hacking State video. The alternate Hacking State audio ID is absent from browsing and its public JSON endpoint returns 404; original video remains visible.
+
+## Accepted interviews
+
+| ID | Publication date | Source and review boundary |
+| --- | --- | --- |
+| external-chainflow-proph3t-2024 | 2024-06-06 | [Chainflow’s Proph3t Q&A](https://chainflow.io/futarchy-governance-solana-explained/). Complete written recap read; date from original article metadata. Linked Space is not separately added or claimed available. Historical conditional-token and adoption discussion, with no adoption of the introduction’s vote-count shorthand, security guarantees or participation figures. |
+| external-hanson-existential-hope-2022 | 2022-11-24 | [Hanson with Existential Hope](https://www.existentialhope.com/podcasts/robin-hanson). Publisher date and relevant transcript passages read. Retained specifically for organizational decision advice, practical trials and proposed CEO-retention markets. Broader futurism title alone is not the inclusion basis. No full listen or claim that the experiment occurred. |
+
+## Alternate-edition findings
+
+The unresolved Supercycle Manifest lead was compared with existing video-review-557a5a54477977785f7549. The original YouTube publisher is Manifest Conference, explicitly identifies Manifest 2026 (June 12–14), and reports 2,278 seconds. The Supercycle page names Hanson/Goldfine at Manifest and gives 2,277.9036 seconds. This supports treating the page as an alternate edition of the existing recording. Preserve the existing video ID and July 10 publication date; the July 15 Supercycle publication is separately documented, not substituted. Metadata comparison, not audio hash identity or a new transcript review. Alternate publisher URL added to the existing evidence note.
+
+MTS’s May 22 Hanson episode and the already cataloged a16z conversation have matching hosts/themes and likely edition overlap; no second entry added before direct identity comparison. The May 11 MTS culture-drift episode is not included simply because Hanson appears. Doom Debates’ inaccurate MetaDAO mechanism account remains deferred as documented previously. No announcement/clip or unreviewed replay substitutes for an interview.
+
+## Remaining gaps
+
+Full archives are not exhausted. MTS edition comparison, further founder interviews and unavailable Radio #4/#13 audio remain open. No newly copied third-party transcripts, changed project status or inferred onchain execution. Existing registry and lifecycle policy retained.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript and both main-library eligibility checks passed. npm run build -- --webpack completed with exit 0 and all routes generated. Diff whitespace check passed. No merge or deployment of this follow-up performed.
+
+---
+
 # Hanson relevance audit and missing decision-market interview: October 17, 2026
 
 PR #67 merged as 66e52a797b38e6c3824cc4d8c4a8d103b9d3fa6b. Production run 39009187628 succeeded. Loyal’s filing and the Prediction Market Movers interview match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).

@@ -19002,5 +19002,49 @@
     "sourceUrl": "https://www.existentialhope.com/podcasts/robin-hanson",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-hanson-clearer-thinking-174",
+    "title": "Systems of governance built on prediction markets (with Robin Hanson)",
+    "author": "Clearer Thinking / Spencer Greenberg",
+    "date": "2023-09-08",
+    "type": "podcast",
+    "url": "https://podcast.clearerthinking.org/episode/174/robin-hanson-systems-of-governance-built-on-prediction-markets/",
+    "description": "Spencer Greenberg interviews Hanson about futarchy through conditional CEO-retention markets, information aggregation and decision-selection bias. The reviewed transcript then considers national welfare measures, proposal incentives, gaming and the need for small trials. General institutional-design background, not a MetaDAO implementation guide.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "evidenceNote": "Original episode 174 page, complete overview and opening transcript through the first gaming/adoption discussion read (retrieved lines 14–132). Partial transcript review, not full listening. Detail page displays September 8, 2023; Apple lists September 7 at 23:59 UTC. Use the original detail-page date and retain the discrepancy. Proposed mechanics and insider-trading policy views are speaker arguments, not verified implementation or current legal guidance. Publisher transcript is linked, not redistributed.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://podcast.clearerthinking.org/episode/174/robin-hanson-systems-of-governance-built-on-prediction-markets/",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-hanson-type-one-planet-2023",
+    "title": "How To Design A Long-Term, Sustainable Civilization: Robin Hanson",
+    "author": "Type One Planet / Robert Roche",
+    "date": "2023-05-11",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=AnUChtOR0Xg",
+    "description": "Robert Roche interviews Hanson about institutions for long-term civilization. The publisher identifies a dedicated futarchy and governmental decision-market section at 21:40, followed by systemic experimentation and scientific funding. Included for those governance sections; broader survival and environmental scenarios remain speculative.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "evidenceNote": "Original typeoneplanet YouTube title, full description, chapters and player publication metadata read through normal HTTP. Duration 2,958 seconds. Publish timestamp May 11, 2023 21:00:07 -07:00 equals May 12 04:00:07 UTC; catalog follows publisher-local day. Hanson’s press index and syndicated audio listing use May 12, consistent with that UTC day. No full audio, video or transcript review; no demonstrated adoption or forecasts independently validated.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=AnUChtOR0Xg",
+    "addedAt": "2026-10-17",
+    "checkedAt": "2026-10-17"
   }
 ]

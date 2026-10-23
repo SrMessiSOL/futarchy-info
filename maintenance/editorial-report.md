@@ -1,3 +1,26 @@
+# MetaDAO launch analyses: October 23, 2026
+
+PR #73 merged as 8d2251053c186e8f4cf3ed5f5c174af703c36bbb. Production run 39902606787 succeeded. The four PR #71 additions match merged fields in production main-library and individual JSON endpoints (HTTP 200). Next.js remains pinned to 16.4.2. Editorial review is manual: the paid API workflow is disabled; discovery remains active.
+
+## Accepted additions
+
+| Source | Publication date | Review boundary |
+| --- | --- | --- |
+| [Presale Press](https://presalepress.com/blog/metadao-ico-refund-minimum-and-the-deprecated-bid-wall/) | August 30, 2026 | Full article read. August 29 is its documentation snapshot, not publication. Commercially supported analysis; rating, legal conclusions and timing inference not adopted. |
+| [INCRYPTED](https://incrypted.com/en/metadao-review/) | July 29, 2026 | Full article read. Public summary flags imprecise voting language, outdated bid-wall treatment, historical metrics and limits of the no-KYC headline. Historical Ranger examples are not a new promotional update. |
+
+## Corroboration and limits
+
+Official [sale](https://docs.metadao.fi/how-launches-work/sale) and [bid-wall](https://docs.metadao.fi/how-launches-work/bid-wall) documentation read. The bid wall is explicitly deprecated and must not be assumed present without launch-specific evidence. A conditional refund does not establish a general price guarantee. These checks do not constitute an implementation audit or independent validation of reported returns.
+
+Publisher URLs/identities were checked against the catalog and current discovery candidates; neither overlaps. Existing MCG ecosystem interviews and MetaDAO's founder letter were not added again. No new unique interview accepted in this pass. Broader founder archives, MimiKrew directory/raise reconciliation and Radio #4/#13 audio remain open. No exhaustive coverage claim, project-registry change or transcript modification.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. New content is prepared for review, not merged or deployed.
+
+---
+
 # October 23 research update
 
 PR #70 merged as 50f23a31d4795ac924593ea7285e5371f9d5e1c6. Production run 39051841705 succeeded. Both Hanson additions (Clearer Thinking 174 and Type One Planet) match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).

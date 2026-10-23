@@ -1,7 +1,6 @@
-name: Weekly library review
+name: Optional API library review
 on:
-  schedule:
-    - cron: '30 12 * * 1' # Monday 09:30 Argentina
+  # Reviews are performed manually in chat. No recurring paid API runs.
   workflow_dispatch:
 permissions:
   contents: read

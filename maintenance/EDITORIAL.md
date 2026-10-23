@@ -1,5 +1,7 @@
 # Editorial policy
 
+October 23, 2026 user preference: source review is manual in chat, followed by a reviewed PR. Keep existing automatic source discovery running. The optional GitHub API editorial workflow has no schedule and is disabled in repository Actions; do not re-enable it or require an OpenAI API key without a new user request. This supersedes the weekly paid-review schedule described in older setup notes below.
+
 The primary scope is MetaDAO and the projects that raised in its ecosystem. Cover curated and permissionless/Spark raises, product updates, founder interviews, governance decisions, pivots, failed raises, and wind-downs. Keep general futarchy research as background. Use content/projects.json as the project checklist and exact project:<id> tags for navigation. Registry records are dated coverage observations, not proof that every historical project has been discovered. Prefer durable canonical documents and official proposal records. A project announcement is not evidence of completed execution. Attribute claims and avoid endorsing projects. Do not equate all ownership coins with legal equity.
 
 ## Main library and historical attempts

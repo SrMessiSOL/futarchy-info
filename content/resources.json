@@ -19046,5 +19046,91 @@
     "sourceUrl": "https://www.youtube.com/watch?v=AnUChtOR0Xg",
     "addedAt": "2026-10-17",
     "checkedAt": "2026-10-17"
+  },
+  {
+    "id": "external-hanson-crazy-wisdom-486",
+    "title": "Sovereignty by Markets: How Futarchy Turns Bets into Decisions",
+    "author": "Crazy Wisdom / Stewart Alsop",
+    "date": "2025-09-05",
+    "type": "podcast",
+    "url": "https://podcasts.apple.com/us/podcast/episode-486-sovereignty-by-markets-how-futarchy-turns/id1354589767?i=1000725163556",
+    "description": "Stewart Alsop interviews Hanson about conditional betting markets, organizational incentives, executive discretion and outcome metrics. The publisher outlines practical design tradeoffs and institutional resistance. Included for its sustained futarchy discussion, not as evidence of verified adoption.",
+    "tags": [
+      "Robin Hanson",
+      "Futarchy",
+      "Decision Markets",
+      "Interview"
+    ],
+    "evidenceNote": "Complete syndicated publisher overview, topic outline and September 5, 2025 15:00 UTC date read on Apple. Title says episode 486; platform metadata separately says season 15 episode 116. Linked Transistor page returns 404. No full audio or transcript review; approximate topic labels not converted into verified timestamps. Historical experiment and AI-resilience claims remain attributed.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://podcasts.apple.com/us/podcast/episode-486-sovereignty-by-markets-how-futarchy-turns/id1354589767?i=1000725163556",
+    "addedAt": "2026-10-23",
+    "checkedAt": "2026-10-23"
+  },
+  {
+    "id": "external-solanafloor-proph3t-breakpoint",
+    "title": "MetaDAO’s Proph3t on Ownership Coins at Breakpoint Abu Dhabi",
+    "author": "SolanaFloor / Jack Dunham",
+    "date": "2025-12-26",
+    "type": "video",
+    "url": "https://solanafloor.com/videos/xdwa3uzxtns",
+    "description": "SolanaFloor interviews Proph3t about ownership coins, token–business alignment, treasury oversight and the limits of buybacks. The publisher also lists founder fundraising and the 2026 outlook among the topics. These are interview themes, not guarantees against rugs or confirmation of legal ownership rights.",
+    "tags": [
+      "MetaDAO",
+      "Founder Interview",
+      "Ownership Coins",
+      "Decision Markets"
+    ],
+    "evidenceNote": "Full available publisher description and chapter list read. Original page VideoObject metadata gives uploadDate December 26, 2025 20:01 UTC and duration 26:31; event date not inferred. Publisher embed/content links contain a UUID instead of a YouTube video ID, so replay playback is unverified. Link retained to the reviewed publisher page; no full recording or transcript review.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://solanafloor.com/videos/xdwa3uzxtns",
+    "addedAt": "2026-10-23",
+    "checkedAt": "2026-10-23"
+  },
+  {
+    "id": "decision-umbra-008",
+    "title": "Umbra: Optimist–Nimbus Partnership Proposal",
+    "author": "Umbra / MetaDAO",
+    "date": "2026-10-15",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-008",
+    "description": "Proposal for Optimist to support Nimbus with strategy, advisory, marketing and partner development. The official decision page showed Passed at the October 23 review. That outcome does not by itself establish that tokens were transferred or services delivered.",
+    "tags": [
+      "MetaDAO",
+      "Governance",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "evidenceNote": "Complete available official summary and outcome panel read October 23, 2026. Date is the page’s Created on October 15, not publication or execution; directory lists a separate October 16 launch. Official Passed status observed. Instructions and trade details remain loading; no executor transaction inspected, token allocation amount independently confirmed or completed partnership inferred.",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-008",
+    "addedAt": "2026-10-23",
+    "checkedAt": "2026-10-23"
+  },
+  {
+    "id": "decision-umbra-009",
+    "title": "Umbra: Budget Increase Proposal for V2 Launch",
+    "author": "Umbra / MetaDAO",
+    "date": "2026-10-20",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/umbra-009",
+    "description": "Proposal to raise Umbra’s monthly operating budget from $100,000 to $150,000 for V2 operations, expansion and Nimbus infrastructure. The official market was Live at the October 23 review. Product-release statements are the authors’ account; neither proposal approval nor execution is established here.",
+    "tags": [
+      "MetaDAO",
+      "Governance",
+      "project:umbra"
+    ],
+    "dateKind": "event",
+    "evidenceNote": "Complete available official summary and live market panel read October 23, 2026. October 20 is proposal creation, not article publication. Authors Abbas and Kru describe V2, Robinhood Chain expansion and Nimbus. Live TWAP/Passing by is not a final outcome or approval probability. Instructions remained loading; no product, chain deployment or allowance execution independently verified.",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/umbra-009",
+    "addedAt": "2026-10-23",
+    "checkedAt": "2026-10-23"
   }
 ]

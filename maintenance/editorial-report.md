@@ -1,3 +1,34 @@
+# October 23 research update
+
+PR #70 merged as 50f23a31d4795ac924593ea7285e5371f9d5e1c6. Production run 39051841705 succeeded. Both Hanson additions (Clearer Thinking 174 and Type One Planet) match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| ID | Date meaning | Review |
+| --- | --- | --- |
+| external-hanson-crazy-wisdom-486 | 2025-09-05 publication | [Crazy Wisdom](https://podcasts.apple.com/us/podcast/episode-486-sovereignty-by-markets-how-futarchy-turns/id1354589767?i=1000725163556). Publisher overview and topic outline reviewed. Title/platform episode numbering differs. Original linked Transistor page returns 404; accessible Apple edition retained. No full listen. |
+| external-solanafloor-proph3t-breakpoint | 2025-12-26 publication | [SolanaFloor](https://solanafloor.com/videos/xdwa3uzxtns). Description, chapters and embedded date/duration metadata reviewed. Page contains invalid-looking UUID YouTube links; playback is unverified, not claimed recovered. |
+| decision-umbra-008 | 2026-10-15 creation event | [Optimist–Nimbus partnership](https://metadao.fi/decisions/umbra-008). Official summary and Passed panel read. Directory launch date October 16 is separate. No completed transfer or services inferred. |
+| decision-umbra-009 | 2026-10-20 creation event | [V2 budget](https://metadao.fi/decisions/umbra-009). Summary and Live panel read. Request is $100K to $150K monthly; neither passage nor execution confirmed. Product-release claims attributed. |
+
+## Automation state
+
+Discovery run 39809347295 succeeded. Weekly review run 39305540698 failed October 19 because OPENAI_API_KEY repository secret is absent. This is an editorial-review blocker, not a production deployment failure. No credential read, reused, printed or committed; no schedule enabled or changed. Discovery candidates were checked for these publisher URLs/identities and did not overlap.
+
+## Other findings and limits
+
+Official decision directory also shows failed Areal proposals, including a liquidation proposal. Failure of a liquidation proposal does not establish liquidation; no project lifecycle change inferred. MimiKrew appears in decisions and needs a separate directory/raise reconciliation before registry changes. The funded roster was read; no claim of a complete roster refresh. Broader source archives and Radio #4/#13 audio remain unresolved. Catalog IDs, registry, transcript assets and lifecycle gates preserved. No exhaustive coverage claim.
+
+## Dependency advisory
+
+Initial build compiled and generated routes but exited 1 on Next.js security advisory enforcement. npm audit reports the pinned Next.js 16.4.0 affected by GHSA-2464-fhr4-w9xw, GHSA-p3m5-59mp-jv5r and GHSA-673q-mjm6-r5xr, with a 16.4.2 fix available. Application-specific exploitability was not assessed. Dependency upgrade should be a separate reviewed change; no packages changed in this editorial PR.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript and all four main-library eligibility checks passed. Build retry completed with exit 0 and all routes generated; the advisory warning remained. Diff whitespace check passed. No merge or deployment of this follow-up.
+
+---
+
 # Two missing Hanson governance interviews: October 17, 2026
 
 PR #69 merged as 328adad88a4b93778cccbfe3c6fff8063e1dd012. Production run 39011257215 succeeded. Chainflow’s Proph3t Q&A and Hanson’s Existential Hope interview match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).

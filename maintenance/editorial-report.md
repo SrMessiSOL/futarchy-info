@@ -1,3 +1,24 @@
+# Decision-market interviews: October 24, 2026
+
+PR #77 merged as 72dc5423f23f6d3e52be629aa67eb3f9d986625e. Production deployment 40113319681 succeeded. Both additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted sources
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Freakonomics 687](https://freakonomics.com/podcast/are-prediction-markets-the-best-forecasting-tool-ever-or-just-another-casino/) | September 18, 2026 | Complete publisher transcript read, not full listening. Explicit conditional decision-market discussion. Original transcript linked, not copied. |
+| [Sintetia Q&A](https://www.sintetia.com/robin-hanson-full-interview-about-prediction-markets/) | April 27, 2014 | Full written interview read; original publication metadata distinguishes 2023 modification. Historical organizational-decision background, not a new implementation. |
+
+## Other leads and gaps
+
+Catalog/current discovery checked for matching identities and URLs; no overlap. Big Whale's Proph3t interview and Loyal's June/July updates already exist and were not duplicated. Cassandra Forum page could not be read through web discovery and remains deferred; no summary adopted from snippets. Omnipair filing URL could not be confirmed accessible and was not added. Funded-project roster reviewed, with no registry change. Broader founder archives, new-launch raise reconciliation and Radio #4/#13 audio remain open. No exhaustive coverage claim. Manual review and discovery settings unchanged.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. Additions await review, not merged or deployed.
+
+---
+
 # Hanson governance podcast and essay: October 24, 2026
 
 PR #76 merged as 2a09eb53db8bf44e2dee7e9912e4fe26fa7e503f. Production deployment 40106639749 succeeded. Both additions match merged fields in production main-library and individual JSON endpoints (HTTP 200).

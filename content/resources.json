@@ -19220,5 +19220,48 @@
     "sourceUrl": "https://chromatic.run/blog/the-obstacle-is-not-whether-the-market-works/",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-oracle-og-2",
+    "title": "OG Pt. 2: Robin Hanson on Information and Decision Markets",
+    "author": "Polymarket / Werner K. Zagrebbi / Robin Hanson",
+    "date": "2026-08-25",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://news.polymarket.com/p/og-pt-2",
+    "description": "The second part of Werner K. Zagrebbi’s written Hanson interview discusses information revelation, combinatorial markets and choosing applications where decisions need better information. Hanson explains why advising an ongoing process may be more useful than pricing isolated interview questions, and identifies futarchy as his most promising idea. Broader trading and forecasting topics are background; crypto-company success claims remain his assessment.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Talk / Interview"
+    ],
+    "evidenceNote": "Complete public Q&A and disclaimer read October 24, 2026. August 25 is the publisher publication date. Part one is already cataloged; this is a separate installment, not another platform edition. Explicit decision-advisory discussion and final futarchy questions establish relevance. Does not name MetaDAO in its crypto-company example; no specific project endorsement, performance result or mathematical claim independently verified. Original linked interview only; no transcript republication.",
+    "verification": "source-checked",
+    "sourceUrl": "https://news.polymarket.com/p/og-pt-2",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-laso-blockworks-filing",
+    "title": "Laso Finance Token Transparency Filing",
+    "author": "Laso Finance / Blockworks",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "type": "article",
+    "url": "https://blockworks.com/token-transparency/filing/laso",
+    "description": "Laso’s issuer disclosure covers its operating company, intellectual property, treasury allowance, revenue flows and decision-market governance. It distinguishes token participation from automatic equity or distribution rights. The filing contains conflicting launch dates and team-allocation percentages; these are not reconciled here. Blockworks reviews completeness rather than verifying individual answers.",
+    "tags": [
+      "MetaDAO",
+      "Transparency",
+      "project:laso-finance"
+    ],
+    "evidenceNote": "All 12 public filing sections and disclaimer read October 24, 2026. Header says filed August 6, 2026; current living contents have no single verified publication date. Body mixes June 29 TGE, June 30-July 4 sale, July 4 completion and July 5 allocation rows, and 57% versus 59.75% team allocation. No registry dates or tokenomics overwritten. Revenue sweep, legal rights, controls and safety claims not independently audited.",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockworks.com/token-transparency/filing/laso",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

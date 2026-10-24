@@ -19174,5 +19174,51 @@
     "sourceUrl": "https://incrypted.com/en/metadao-review/",
     "addedAt": "2026-10-23",
     "checkedAt": "2026-10-23"
+  },
+  {
+    "id": "external-avici-blockworks-filing",
+    "title": "Avici Token Transparency Filing",
+    "author": "Avici / Blockworks",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "type": "article",
+    "url": "https://blockworks.com/token-transparency/filing/avici",
+    "description": "Avici’s issuer disclosure covers its team, legal entities, treasury controls, governance, token allocations and risks. It distinguishes market-based governance participation from automatic equity or distribution rights. Hosted by Blockworks, which reviews completeness rather than verifying individual answers; this is not an independent audit.",
+    "tags": [
+      "MetaDAO",
+      "Transparency",
+      "project:avici"
+    ],
+    "evidenceNote": "All 12 public filing sections and disclaimer read October 24, 2026. Header says filed September 23, 2026; incident section uses August 21. Current living contents have no single verified publication date. Issuer statements about authorities, contracts, balances and security not independently audited or source-to-deployed-binary verified by this library. Filing completion is not regulatory approval.",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockworks.com/token-transparency/filing/avici",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-chromatic-hanson-adoption",
+    "title": "The obstacle is not whether the market works",
+    "author": "Chromatic",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "sourceUpdatedAt": "2026-08-14",
+    "type": "article",
+    "url": "https://chromatic.run/blog/the-obstacle-is-not-whether-the-market-works/",
+    "description": "Chromatic interprets Robin Hanson’s MetaDAO ownership-meeting talk through the problem of organizational adoption: where decision markets fit, whose approval they replace and why useful information may be resisted. It also discusses experimentation and participation limits. The author’s commercial desk positioning and reported historical metrics remain attributed claims.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Decision Markets",
+      "Analysis"
+    ],
+    "evidenceNote": "Full article and source list read October 24, 2026. Page labels August 14 as Updated, not publication; sourceUpdatedAt preserves it. July 23 is the stated talk event date, not article publication. Recording is already represented in the catalog; this is a distinct written analysis, not another recording edition. No fresh audio review or independent validation of cited market figures. Publisher markets its own decision-analysis desk.",
+    "verification": "source-checked",
+    "sourceUrl": "https://chromatic.run/blog/the-obstacle-is-not-whether-the-market-works/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

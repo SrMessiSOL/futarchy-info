@@ -1,3 +1,24 @@
+# Avici disclosure and Hanson adoption analysis: October 24, 2026
+
+PR #74 merged as edf6686485c1e81544049bc2eec3c67b31b21d5d. Production deployment 40102683322 succeeded. Both PR #74 articles match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted sources
+
+| Source | Date treatment | Review |
+| --- | --- | --- |
+| [Avici filing](https://blockworks.com/token-transparency/filing/avici) | Publication unknown; September 23 filing header is distinct from an August 21 body as-of statement | All 12 sections and disclaimer read. Issuer disclosure, not independent verification or regulatory approval. |
+| [Chromatic analysis](https://chromatic.run/blog/the-obstacle-is-not-whether-the-market-works/) | Publication unknown; August 14 update retained separately; July 23 is the cited talk event | Full article read; organizational adoption argument and commercial positioning distinguished from independently verified findings. |
+
+## Deduplication and remaining work
+
+No matching publisher URLs in the catalog or current discovery candidates. Existing Index interviews with Proph3t and Kru, Messari's Avici article, Hunter Monk's Lightning.news interview and the Hanson–Hughes debate were not duplicated. Chromatic's written analysis is distinct from the existing meeting recording. No new unique interview accepted this pass. Founder archives, MimiKrew raise reconciliation and Radio #4/#13 audio remain open. No exhaustive coverage claim or registry change. Reviews remain manual and discovery stays active.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. These additions are not merged or deployed.
+
+---
+
 # MetaDAO launch analyses: October 23, 2026
 
 PR #73 merged as 8d2251053c186e8f4cf3ed5f5c174af703c36bbb. Production run 39902606787 succeeded. The four PR #71 additions match merged fields in production main-library and individual JSON endpoints (HTTP 200). Next.js remains pinned to 16.4.2. Editorial review is manual: the paid API workflow is disabled; discovery remains active.

@@ -19132,5 +19132,47 @@
     "sourceUrl": "https://metadao.fi/decisions/umbra-009",
     "addedAt": "2026-10-23",
     "checkedAt": "2026-10-23"
+  },
+  {
+    "id": "external-presalepress-metadao-ico-docs",
+    "title": "MetaDAO's ICO, Read Off Its Own Documentation",
+    "author": "Marta Keller / Presale Press",
+    "date": "2026-08-30",
+    "url": "https://presalepress.com/blog/metadao-ico-refund-minimum-and-the-deprecated-bid-wall/",
+    "description": "Marta Keller examines MetaDAO’s documented allocation, refund and treasury-budget rules and the retired bid-wall mechanism. The analysis distinguishes a conditional refund from a general safety guarantee and discusses founder discretion. It reflects a dated documentation snapshot, rather than verified launch outcomes or an implementation audit.",
+    "evidenceNote": "Complete original article and August 30 byline reviewed October 23, 2026; the article analyzes an August 29 documentation snapshot. Commercial support disclosed. Official sale and bid-wall documentation reviewed for context; the latter explicitly deprecates the mechanism. Subjective rating, unlock-timing inference and regulatory conclusions not independently validated. No contract or onchain audit.",
+    "type": "article",
+    "tags": [
+      "MetaDAO",
+      "Fundraising",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://presalepress.com/blog/metadao-ico-refund-minimum-and-the-deprecated-bid-wall/",
+    "addedAt": "2026-10-23",
+    "checkedAt": "2026-10-23"
+  },
+  {
+    "id": "external-incrypted-metadao-review",
+    "title": "MetaDAO Review: How a No-KYC Launchpad with Developer Control Mechanisms Works",
+    "author": "Vlad Shevchenko / INCRYPTED",
+    "date": "2026-07-29",
+    "url": "https://incrypted.com/en/metadao-review/",
+    "description": "Vlad Shevchenko examines MetaDAO’s treasury controls, founder incentives and allocation tradeoffs. Historical July 2026 analysis: its description of decision markets as META-holder voting is imprecise, and its bid-wall discussion does not reflect the current deprecation notice. Reported launch counts and returns are historical claims, not current ecosystem metrics; the title’s no-KYC wording is not a universal eligibility rule.",
+    "evidenceNote": "Complete article and July 29 publication header/footer reviewed October 23, 2026. Official sale and bid-wall docs checked for context: https://docs.metadao.fi/how-launches-work/sale and https://docs.metadao.fi/how-launches-work/bid-wall. Retained as historical external analysis with visible qualifications, not current technical guidance. Ranger examples describe historical fundraising, not a promotional update. No registry, returns, legal eligibility or lifecycle claims adopted.",
+    "type": "article",
+    "tags": [
+      "MetaDAO",
+      "Fundraising",
+      "Analysis"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://incrypted.com/en/metadao-review/",
+    "addedAt": "2026-10-23",
+    "checkedAt": "2026-10-23"
   }
 ]

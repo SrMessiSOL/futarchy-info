@@ -19263,5 +19263,47 @@
     "sourceUrl": "https://blockworks.com/token-transparency/filing/laso",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-armen-457",
+    "title": "457: Robin Hanson | Futarchy, Cultural Drift, and the Future of Adaptiveness",
+    "author": "The Armen Show / Armen Shirvanian / Robin Hanson",
+    "date": "2025-10-28",
+    "type": "podcast",
+    "url": "https://armenshirvanian.com/podcast/457-robin-hanson-futarchy-cultural-drift-and-the-future-of-adaptiveness/",
+    "description": "Armen Shirvanian interviews Hanson about collective inquiry, conditional decision markets and futarchy, alongside a wider discussion of cultural drift. The publisher identifies a dedicated governance discussion about separating values from beliefs. General futarchy background, rather than a MetaDAO project interview; this entry is based on the episode overview, not a full listen.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Talk / Interview"
+    ],
+    "evidenceNote": "Complete publisher overview and matching Apple episode listing reviewed October 24, 2026. Original linked WordPress record /wp-json/wp/v2/posts/3346 gives publication October 28, 2025 at 18:47:06 UTC, matching Apple. September 30, 2026 modification is not publication. Publisher links audio and YouTube; playback, transcript and full conversation not reviewed or republished. Canonical original webpage retained as one episode record.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://armenshirvanian.com/podcast/457-robin-hanson-futarchy-cultural-drift-and-the-future-of-adaptiveness/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-power-futarchy",
+    "title": "Power Futarchy",
+    "author": "Robin Hanson / Overcoming Bias",
+    "date": "2026-04-21",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/power-futarchy",
+    "description": "Hanson proposes advisory decision markets tied to managers’ career success as a possible response to resistance to firm-value-based futarchy. He considers political incentives, sabotage and limits on applying the model to subordinates. A speculative institutional-design proposal, not a demonstrated improvement or a MetaDAO implementation.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Governance"
+    ],
+    "evidenceNote": "Complete public essay and April 21, 2026 publisher byline read October 24. Claims about managerial power and possible benefits are the author’s hypotheses. No tested deployment, effectiveness result or ecosystem partnership established. Comment discussion is separate from the essay; no comment claim adopted.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/power-futarchy",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

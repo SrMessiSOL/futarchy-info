@@ -1,3 +1,24 @@
+# Hanson governance podcast and essay: October 24, 2026
+
+PR #76 merged as 2a09eb53db8bf44e2dee7e9912e4fe26fa7e503f. Production deployment 40106639749 succeeded. Both additions match merged fields in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted sources
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [The Armen Show 457](https://armenshirvanian.com/podcast/457-robin-hanson-futarchy-cultural-drift-and-the-future-of-adaptiveness/) | October 28, 2025 | Publisher overview reviewed, not full listening. Original linked WordPress post 3346 and matching Apple listing agree on date; 2026 modification is separate. |
+| [Power Futarchy](https://www.overcomingbias.com/p/power-futarchy) | April 21, 2026 | Full public essay read. Speculative managerial-incentive design, not tested efficacy or an ecosystem implementation. |
+
+## Other leads and boundaries
+
+No matching identity or URL in catalog/current discovery state. Funded-project checklist read. Rip Cars' September 16 MCG interview and Jurassic's RAWR-001 proposal are already cataloged. The Inner Table interview requires official raise-status reconciliation before any public inclusion; a planned raise is not a completed raise. Broader founder archives, MimiKrew raise reconciliation and Radio #4/#13 audio remain open. No exhaustive coverage claim, registry change or transcript republication. Manual review and discovery settings unchanged.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. New additions are not merged or deployed.
+
+---
+
 # Laso disclosure and Hanson interview continuation: October 24, 2026
 
 PR #75 merged as 5ba1367fc0add04a8db9f410b51b64fb69eac5b6. Deployment 40103132062 succeeded. The Avici filing and Chromatic article match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).

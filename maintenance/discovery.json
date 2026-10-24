@@ -234,22 +234,29 @@
       "sourceId": "ownership-feed",
       "discoveredAt": "2026-10-19",
       "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/01resolved-october-platform-upgrade/",
+      "title": "01Resolved October Platform Upgrade",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-10-24",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-10-23",
+      "lastSuccess": "2026-10-24",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-23",
+      "lastAttempt": "2026-10-24",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-23",
+      "lastAttempt": "2026-10-24",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -259,17 +266,17 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-10-23",
+      "lastSuccess": "2026-10-24",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-10-23",
-      "links": 54
+      "lastSuccess": "2026-10-24",
+      "links": 55
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-10-23",
+      "lastSuccess": "2026-10-24",
       "links": 15
     },
     "kleros-feed": {
@@ -299,17 +306,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-23",
+      "lastSuccess": "2026-10-24",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-23",
+      "lastSuccess": "2026-10-24",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-23",
+      "lastSuccess": "2026-10-24",
       "links": 14
     }
   }

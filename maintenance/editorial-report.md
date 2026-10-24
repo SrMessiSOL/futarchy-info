@@ -1,3 +1,24 @@
+# Laso disclosure and Hanson interview continuation: October 24, 2026
+
+PR #75 merged as 5ba1367fc0add04a8db9f410b51b64fb69eac5b6. Deployment 40103132062 succeeded. The Avici filing and Chromatic article match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted sources
+
+| Source | Date | Review boundary |
+| --- | --- | --- |
+| [The Oracle, OG Pt. 2](https://news.polymarket.com/p/og-pt-2) | August 25, 2026 publication | Complete public written interview read. Decision-advisory applications explicitly discussed; separate installment from existing part one. No full transcript republication. |
+| [Laso filing](https://blockworks.com/token-transparency/filing/laso) | Publication unknown; August 6 filing header retained in evidence | All sections and disclaimer read. Conflicting launch chronology and team allocations flagged publicly; no existing dates or economics overwritten. Issuer disclosure, not an independent audit. |
+
+## Research boundaries
+
+Catalog and current discovery state contain neither URL. Founder essay Why I'm building Laso, existing Index interviews and MCG Backable coverage were not duplicated. Funded-project roster read; no registry change justified. Broader founder archives, MimiKrew raise reconciliation and Radio #4/#13 audio remain open. No exhaustive coverage claim. Manual review preference and discovery schedule unchanged.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. These two additions are not merged or deployed.
+
+---
+
 # Avici disclosure and Hanson adoption analysis: October 24, 2026
 
 PR #74 merged as edf6686485c1e81544049bc2eec3c67b31b21d5d. Production deployment 40102683322 succeeded. Both PR #74 articles match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).

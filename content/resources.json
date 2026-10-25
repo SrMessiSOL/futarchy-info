@@ -19783,5 +19783,51 @@
     "sourceUrl": "https://www.galaxy.com/insights/research/impact-markets-prediction-markets-conditional-pricing",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-zukowski-live-governance-2026",
+    "title": "Auditing governance concentration beyond token allocation: a live-governance study of 52 token protocols",
+    "author": "Zach Zukowski / Frontiers in Blockchain",
+    "date": "2026-08-05",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "url": "https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2026.1853465/full",
+    "description": "A cross-protocol study distinguishes token-holder concentration from voting power and current governance control, including MetaDAO as the sample’s futarchy case. Its descriptive comparisons raise measurement questions around address classification, delegation and insider retention. Inclusion does not establish who controls MetaDAO decision markets or demonstrate that futarchy outperforms token voting.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Research",
+      "Governance"
+    ],
+    "evidenceNote": "Publisher date, abstract, scope/limitations, sampling section 3.2 and MetaDAO-specific passages reviewed October 24, 2026; not a full methodological audit. August 5, 2026 publication confirmed. Holding HHI is not assumed to measure trading influence. Single-cross-section associations are not causal findings. Address identities, replication package, tables and statistical results not independently reproduced; no new claim about current MetaDAO control inferred.",
+    "type": "article",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2026.1853465/full",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-eidos-decision-market-record",
+    "title": "Decision Markets and the Record They Need",
+    "author": "Eidos",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "sourceUpdatedAt": "2026-09-29",
+    "url": "https://eidos.software/thesis/",
+    "description": "Eidos argues that decision markets need records of proposal terms, evidence, participation and execution, using MetaDAO as a central example. It discusses causal-selection concerns and proposes tests for adoption and decision quality. This is the provider’s research and product thesis, not independent verification of its platform or proof that decision markets beat other institutions.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Public thesis sections on decision-market mechanics, limitations, evidence/ execution records and falsification/forecast register reviewed October 24, 2026; not a full source or methodology audit. Visible Updated September 29, 2026 stored only as sourceUpdatedAt; publication unknown. Forecast probabilities remain unresolved author judgments. Platform operation, registration history, adoption counts and on-chain execution checks not independently verified. No affiliation or funded-project status inferred.",
+    "type": "article",
+    "verification": "source-checked",
+    "sourceUrl": "https://eidos.software/thesis/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

@@ -19829,5 +19829,47 @@
     "sourceUrl": "https://eidos.software/thesis/",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-futarchy-predictocracy",
+    "title": "Futarchy vs. Predictocracy",
+    "author": "Robin Hanson / Overcoming Bias",
+    "date": "2008-02-01",
+    "url": "https://www.overcomingbias.com/p/futarchy-vs-prehtml",
+    "description": "Hanson compares futarchy’s explicit welfare measures with markets forecasting later evaluators’ judgments. He discusses shared institutional errors, measurement tradeoffs and his reasons for preferring futarchy for consequential decisions. A historical theoretical argument, not a demonstrated accuracy advantage or analysis of MetaDAO’s current implementation.",
+    "evidenceNote": "Complete public article body and February 1, 2008 publisher date read October 24, 2026. February 2 response link is a later addition, not the original publication date. Arguments remain attributed; linked book and technical paper, full comments and empirical error rates not newly reviewed. Distinct from Abramowicz’s response and Hanson’s February 3 follow-up.",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/futarchy-vs-prehtml",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-abramowicz-predictocracy-futarchy",
+    "title": "Predictocracy vs. Futarchy",
+    "author": "Michael Abramowicz / The Volokh Conspiracy",
+    "date": "2008-02-02",
+    "url": "https://volokh.com/posts/1201909754.shtml",
+    "description": "Abramowicz responds to Hanson, questioning whether noisy welfare measures and poorly targeted subsidies limit conditional markets for smaller decisions. He contrasts explicit objectives with forecasts of retrospective judgments, while favoring modest experimentation within existing governance. A critical design perspective, not an empirical refutation of futarchy or commentary on MetaDAO.",
+    "evidenceNote": "Complete public post and February 2, 2008 at 9:05am publisher header read October 24, 2026. Source presents author preferences and conjectures, not measured comparative performance. Linked book chapters and earlier caveats not newly reviewed. His preference for existing republican institutions amid transition uncertainty is preserved rather than presenting this as a recommendation for immediate government replacement.",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://volokh.com/posts/1201909754.shtml",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

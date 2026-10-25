@@ -1,3 +1,24 @@
+# Credible disclosure and Jurassic campaign reporting: October 24, 2026
+
+PR #79 merged as 0fa7081ab9c5624e3728a6bc94fb65dd55491729. Production deployment 40146075279 succeeded. Both P2P entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [Credible filing](https://blockworks.com/token-transparency/filing/credible-finance) | Publication unknown; July 27 filing header distinguished | All public sections and available responses read. Current Partial/one-gap label retained; no independent audit or legal verification implied. |
+| [SolanaFloor Deaton campaign](https://solanafloor.com/news/jurassic-finance-brings-museum-grade-triceratops-skull-to-solana) | August 18, 2026 publication verified from original metadata | Full article read. Partial campaign funding is distinct from completed acquisition; proposed legal/custody arrangements remain unverified. |
+
+## Deduplication and limits
+
+Neither canonical URL appears in catalog/current discovery. Existing July 29 Compass Deaton pre-launch coverage is a distinct earlier report, not a second edition of this article. Existing Sheldon, Umbra and Proph3t interviews were not duplicated. No new unique interview accepted in this pass. Funded-project roster read; no registry change justified. Broader founder archives, new-raise reconciliation and Radio #4/#13 audio remain open; no exhaustive coverage claim. No lifecycle, transcript or automation changes.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. New additions are not merged or deployed.
+
+---
+
 # P2P fundraising reporting and governance reference: October 24, 2026
 
 PR #78 merged as 4f07a0a6bc55ac594dd814b67a5e7fc40e772e45. Deployment 40145323053 succeeded. Freakonomics and Sintetia entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).

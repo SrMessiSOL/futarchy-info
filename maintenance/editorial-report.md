@@ -1,3 +1,24 @@
+# Futarchy objections and institutional design: October 25, 2026
+
+PR #96 merged as 6006aa3d5259f5939f21c1c01748b992ddbb7230. Production deployment 40156864732 succeeded. Presidential Decision Markets matches merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Reply to Moldbug](https://www.overcomingbias.com/p/reply-to-moldbughtml) | May 22, 2009 | Complete reply read, with quoted objections distinguished from Hanson’s responses. Original linked critique not separately reviewed; accuracy and manipulation claims not independently established. |
+| [Meta Institutions](https://www.overcomingbias.com/p/meta-institutionshtml) | April 26, 2009 | Complete article read. Research agenda for institutional choice; explicitly calls for small-scale demonstrations, not a report of adoption. |
+
+## Discovery and gaps
+
+Canonical URLs and titles checked against catalog and current discovery. Bankless, Unlayered, Gwart/Blockspace, Good Wood, Index Kru, Lightspeed and MCG Umbra interviews and the Blockworks transparency report already exist; no duplicate entries added. Superteam India’s car-designer-to-founder interview remains a lead requiring original-recording identity review. Funded-founder research remains open. Two verified historical research additions, no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Historical decision-market design: October 25, 2026
 
 PR #95 merged as f7c3856dbf18734e70b7e0f2b478378458b24b62. Production deployment 40156536085 succeeded. The Laso interview matches merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

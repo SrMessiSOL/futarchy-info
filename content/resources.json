@@ -19914,5 +19914,49 @@
     "sourceUrl": "https://www.overcomingbias.com/p/merger-decisionhtml",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "report-metadao-q1-2026-financials",
+    "title": "MetaDAO Q1 2026 Financial Statements",
+    "url": "https://drive.google.com/file/d/1GW25RbNwVCjq2D0J-BIyKEdQ1FqlHEoP/view",
+    "description": "MetaDAO’s issuer-prepared first-quarter financial dashboard, statement of operations and explanatory notes. The report distinguishes USDC and token-denominated protocol revenue and explains cost classifications and unrealized token movements. These are unaudited, non-GAAP statements with no assurance, not an independent verification of earnings or current treasury value.",
+    "evidenceNote": "Official report linked from https://metadao.fi/transparency downloaded through public Drive delivery and text-extracted October 24, 2026. Dashboard, statement of operations and revenue/cost accounting notes reviewed (pages 1–4 of 9), not a full financial audit or visual table reconciliation. Q1 denotes the reporting period ending March 31, 2026; publication not established. No figures independently recomputed, balances reconciled or subsequent revisions ruled out.",
+    "author": "MetaDAO",
+    "type": "article",
+    "tags": [
+      "MetaDAO",
+      "Transparency",
+      "Research"
+    ],
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "verification": "source-checked",
+    "sourceUrl": "https://drive.google.com/file/d/1GW25RbNwVCjq2D0J-BIyKEdQ1FqlHEoP/view",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "report-metadao-q2-2026-financials",
+    "title": "MetaDAO Q2 2026 Financial Statements",
+    "url": "https://drive.google.com/file/d/1w5FhIt8y-FFcRTo_uCMUY54cqMxrDZks/view",
+    "description": "MetaDAO’s second-quarter financial statements include quarterly and year-to-date operations, revenue-source notes and accounting presentation changes. The dashboard expands raise coverage to include permissionless launches. These issuer-prepared statements are unaudited and non-GAAP; revenue, cash collection and unrealized valuation changes are distinct concepts.",
+    "evidenceNote": "Official report linked from https://metadao.fi/transparency downloaded through public Drive delivery and text-extracted October 24, 2026. Dashboard, operations and explanatory notes reviewed (pages 1–5 of 13), not a full financial audit or visual table reconciliation. Q2 ends June 30, 2026; PDF creation/modification timestamps do not establish publication. Q1 comparisons require attention to disclosed reclassifications, including Futarchy AMM presentation. No balances or results independently reconciled.",
+    "author": "MetaDAO",
+    "type": "article",
+    "tags": [
+      "MetaDAO",
+      "Transparency",
+      "Research"
+    ],
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "verification": "source-checked",
+    "sourceUrl": "https://drive.google.com/file/d/1w5FhIt8y-FFcRTo_uCMUY54cqMxrDZks/view",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

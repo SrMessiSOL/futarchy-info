@@ -1,3 +1,24 @@
+# Official MetaDAO quarterly statements: October 24, 2026
+
+PR #91 merged as cf710c168939c7774e4201daeee68ed8e751d291. Deployment 40153183835 succeeded. Coindoo and Hanson entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Official source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [MetaDAO Q1 2026 statements](https://drive.google.com/file/d/1GW25RbNwVCjq2D0J-BIyKEdQ1FqlHEoP/view) | Publication unknown; Q1 is a reporting period | Pages 1–4 text reviewed; issuer-prepared, unaudited and non-GAAP. |
+| [MetaDAO Q2 2026 statements](https://drive.google.com/file/d/1w5FhIt8y-FFcRTo_uCMUY54cqMxrDZks/view) | Publication unknown; Q2 is a reporting period | Pages 1–5 text reviewed; accounting changes and expanded raise coverage noted. |
+
+## Discovery and limits
+
+Both PDFs linked directly from MetaDAO's transparency page; canonical Drive identities checked against catalog and current discovery. Public download worked without sign-in or bypass. PDF creation dates not substituted for publication. No statement files redistributed, figures copied as audited results, full-document review or independent reconciliation claimed. Gokhshtein treasury article reviewed but deferred due to its misleading offers-versus-accepted-capital framing and broad protection claims. METADAO-037 research-funding proposal remains a lead; approval is not proof of disbursement, experiments or published results. No unique interview accepted this pass. Founder archives and Radio audio gaps remain open; no exhaustive coverage claim. Registry, transcripts and automation unchanged. X posting remains disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Rip Cars reporting and corporate decision markets: October 24, 2026
 
 PR #90 merged as 1e3cff31b0fbef489aea15849b04091261439def. Deployment 40152452835 succeeded. Both Hanson and Abramowicz entries match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).

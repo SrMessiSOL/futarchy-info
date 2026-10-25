@@ -1,3 +1,23 @@
+# Global decision-market research: October 25, 2026
+
+PR #101 merged as 834b9580809f46168f59384d79f695291e228755. Production deployment 40158693772 succeeded. Both articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted addition
+
+[Decision Markets for Global Governance](https://globalchallenges.org/app/uploads/2023/06/Quarterly-Report-5-November-2017--Global-governance-in-the-age-of-disruptive-technology.pdf), Robin Hanson. Complete chapter text on printed pages 97–101 read, not the full report. Proposes advisory markets for international policy choices; no adoption or empirical validation inferred.
+
+Publication year is 2017. PDF filename labels November, while the author’s bibliography gives December 1. Exact publication date remains unresolved and is stored as null, rather than guessed or taken from the 2023 upload path. Text extraction reviewed; PDF screenshot retrieval failed. Only original PDF linked, no chapter text republished.
+
+## Discovery and gaps
+
+Catalog and current discovery checked for canonical URL and chapter identity. Existing Blockworks Proph3t/FP Lee interview, Umbra ICO article and Colosseum Proph3t episode were not duplicated. The Defiant’s Galaxy/Kollan reporting remains a lead: browser confirmed author/date but body stayed at Loading this article; search excerpts were not used as a full review. How To Vote was read but not added this pass because its decision-market treatment is brief. Funded-founder research and PERC playback verification remain open. One verified addition; no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # MetaDAO historical analysis and policy design: October 25, 2026
 
 PR #100 merged as 4f5d27eeb3f7c3fc15a3494871f0b83eb2e725f5. Production deployment 40158291693 succeeded. Both recording entries match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

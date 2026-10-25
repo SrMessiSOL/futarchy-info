@@ -20273,5 +20273,26 @@
     "sourceUrl": "https://cryptoeconguy.substack.com/p/the-case-for-metadao",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hanson-global-governance",
+    "title": "Decision Markets for Global Governance",
+    "author": "Robin Hanson / Global Challenges Foundation",
+    "date": null,
+    "type": "article",
+    "url": "https://globalchallenges.org/app/uploads/2023/06/Quarterly-Report-5-November-2017--Global-governance-in-the-age-of-disruptive-technology.pdf",
+    "description": "Hanson proposes advisory decision markets for discrete global policy choices, using treaty examples and measurable outcomes. Citizens could use the forecasts to evaluate governments while nations retain autonomy. A 2017 institutional proposal, not evidence of adopted treaties or validated causal estimates.",
+    "tags": [
+      "Decision Markets",
+      "Futarchy",
+      "Research"
+    ],
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "verification": "source-checked",
+    "sourceUrl": "https://globalchallenges.org/app/uploads/2023/06/Quarterly-Report-5-November-2017--Global-governance-in-the-age-of-disruptive-technology.pdf",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "evidenceNote": "Complete chapter text, printed pages 97–101, and author credit reviewed October 25, 2026 in original Foundation PDF; no full 112-page report review claimed. Report is from 2017. File label identifies November, while Hanson’s bibliography lists December 1, 2017; exact publication remains unresolved, so date is null rather than using the 2023 upload path. Text extraction reviewed; screenshot retrieval failed. Accuracy, manipulation resistance and causal claims remain the author’s arguments. Catalog and discovery checked for PDF URL and chapter title."
   }
 ]

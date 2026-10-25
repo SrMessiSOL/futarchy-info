@@ -19305,5 +19305,47 @@
     "sourceUrl": "https://www.overcomingbias.com/p/power-futarchy",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-freakonomics-687",
+    "title": "Are Prediction Markets the Best Forecasting Tool Ever or Just Another Casino?",
+    "author": "Freakonomics Radio / Stephen J. Dubner",
+    "date": "2026-09-18",
+    "type": "podcast",
+    "url": "https://freakonomics.com/podcast/are-prediction-markets-the-best-forecasting-tool-ever-or-just-another-casino/",
+    "description": "Stephen Dubner interviews Robin Hanson, Tarek Mansour and Nicole Kagan about prediction-market incentives and limits. Hanson explains conditional markets for corporate, public and personal decisions and resistance inside organizations. The episode also examines contract resolution, forecasting claims and the tension between information production and sports speculation. General decision-market context, not a MetaDAO interview.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Talk / Interview"
+    ],
+    "evidenceNote": "Complete publisher transcript, episode header and sources read October 24, 2026. Episode 687, September 18 publication. Original audio not manually reviewed; publisher transcript remains on its own site and is not republished. Accuracy, volume, legal and safety claims are attributed, not independently validated; no mathematical or investment guarantee inferred. Other platform editions not added separately.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://freakonomics.com/podcast/are-prediction-markets-the-best-forecasting-tool-ever-or-just-another-casino/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-sintetia-interview",
+    "title": "Robin Hanson: in-depth interview on prediction markets",
+    "author": "Sintetia / Andrés Alonso / Robin Hanson",
+    "date": "2014-04-27",
+    "type": "article",
+    "url": "https://www.sintetia.com/robin-hanson-full-interview-about-prediction-markets/",
+    "description": "Andrés Alonso’s written Hanson interview explores incentives, corporate adoption barriers and combinatorial markets that connect forecasts through conditional relationships. It explains why organizations may resist information that challenges managers. Historical background for decision-market design and adoption, rather than a MetaDAO account or a current description of products and law.",
+    "tags": [
+      "Decision Markets",
+      "Research",
+      "Talk / Interview"
+    ],
+    "evidenceNote": "Complete public written Q&A read October 24, 2026. Original HTML article:published_time and JSON-LD datePublished agree on April 27, 2014 at 23:50:14 UTC; March 22, 2023 modification is separate. Historical legal, corporate-performance and SciCast claims not independently verified or treated as current. Relevance is organizational decision support and conditional information, not an explicit MetaDAO or futarchy implementation report.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.sintetia.com/robin-hanson-full-interview-about-prediction-markets/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

@@ -1,3 +1,24 @@
+# Decision-market demand and welfare measurement: October 25, 2026
+
+PR #103 merged as 0be6ddeaff19e63a30316522352d0414e12556ad. Production deployment 40161310597 succeeded. All three articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Seeking Robust Credible Expertise Buyers](https://www.overcomingbias.com/p/seeking-robust-credible-expertise-buyershtml) | July 2, 2020 | Complete article read. Original publisher date preferred over anthology’s July 1. Adoption requirements and mechanism claims attributed. |
+| [Socialism Via Futarchy](https://www.overcomingbias.com/p/socialism-via-futarchyhtml) | January 30, 2020 | Complete article read. Tentative welfare-measurement thought experiment, not validated political or economic results. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for canonical URLs and source identity. Explainable Governance was read but deferred: primarily jury/justification design with only brief betting-market extensions. Hurupay is a failed raise and its wider founder archive was not pursued. Jurassic’s existing Radio archive and indexed founder material were not duplicated. BidClub’s market discussion remains a lead requiring original show identification and relevance review, rather than adding a third-party transcript excerpt. No new unique funded-founder interview accepted this pass. Two research additions; no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # P2P reporting and governance-design research: October 25, 2026
 
 PR #102 merged as 8c0df8749fcfbd19d8b42410ccf308f196fd5f30. Production deployment 40159809671 succeeded. The Hanson chapter matches merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

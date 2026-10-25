@@ -1,3 +1,24 @@
+# MetaDAO financing decision and conditional-market critique: October 24, 2026
+
+PR #82 merged as 5927f294d9d38c2704b310046fe28168fcc78e0d. Deployment 40147963745 succeeded. Both Omnipair entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [MetaDAO METADAO-033](https://metadao.fi/decisions/metadao-033) | October 9, 2025 proposal creation | Official summary and Failed outcome read; no execution or completed $6M financing inferred. Failed governance proposal is not a failed ecosystem-company raise classification. |
+| [distbit: Decision market challenges](https://distbit.xyz/correlation-vs-causation-in-futarchy/) | July 20, 2024 publication header; later revisions not dated | Full article read. Current 2026 cross-reference disclosed; design arguments not independently validated. |
+
+## Other leads and limits
+
+Catalog/current discovery checked for matching identities and URLs; neither overlaps. Existing Validated, Latest Development, Alpha Liquid, Gramajo, Threadguy, 80,000 Hours and Hanson Details/Futurism sources were not duplicated. Dynomight original page remains unread through web discovery (robots denial); no snippet summary adopted or bypass attempted. No new unique interview accepted this pass. Funded roster read; registry unchanged. Founder archives, new-raise reconciliation and Radio #4/#13 audio remain open. No exhaustive coverage claim or transcript, lifecycle or automation changes.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. Additions await review, not merged or deployed.
+
+---
+
 # Omnipair Dusk analysis and technical reference: October 24, 2026
 
 PR #81 merged as 14efe8c30619199e61579b5b0547fd547448124d. Production deployment 40147390830 succeeded. Both additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).

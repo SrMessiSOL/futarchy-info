@@ -19523,5 +19523,47 @@
     "sourceUrl": "https://github.com/omnipair/dusk",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "decision-metadao-033",
+    "title": "MetaDAO: Proposed $6M OTC with DBA and Variant",
+    "author": "MetaDAO",
+    "date": "2025-10-09",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/metadao-033",
+    "description": "Official record of a proposal to sell $6 million of META to DBA and Variant at $4.0795 per token. The decision page is marked Failed. This preserves the proposed transaction and market outcome, without treating the proposal as completed fundraising or evidence that tokens or funds moved.",
+    "tags": [
+      "MetaDAO",
+      "Governance",
+      "Fundraising"
+    ],
+    "evidenceNote": "Complete available official summary and outcome panel read October 24, 2026. October 9 is Created on, not publication, final-outcome date or execution. Instructions and trades remain loading; no executor transaction or transfers inspected. Failure describes this MetaDAO governance proposal, not an ecosystem company’s failed-raise classification. Later or separate financing is not ruled out.",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/metadao-033",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-distbit-decision-market-challenges",
+    "title": "Decision market challenges",
+    "author": "distbit",
+    "date": "2024-07-20",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://distbit.xyz/correlation-vs-causation-in-futarchy/",
+    "description": "Distbit analyzes how decision rules and new information may distort conditional market prices, then compares direct selection with randomized alternatives. It discusses manipulation, information incentives and tradeoffs between decision quality and elicitation. A theoretical design analysis with proposed mitigations, not an empirical verdict on MetaDAO or a guarantee that randomization removes every incentive problem.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete public article text, diagrams and July 20, 2024 header read October 24, 2026. Current body includes a 2026-08-25 cross-reference, so the publication date is not a claim that all wording was present in 2024; exact revision date unknown. Arguments and numerical examples not mathematically reproduced or experimentally validated. Feedback acknowledgment of Metaproph3t does not establish endorsement, partnership or implementation. Linked papers and experiments not newly reviewed.",
+    "verification": "source-checked",
+    "sourceUrl": "https://distbit.xyz/correlation-vs-causation-in-futarchy/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

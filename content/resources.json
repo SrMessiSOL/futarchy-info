@@ -20148,5 +20148,47 @@
     "sourceUrl": "https://genfinity.io/2026/09/24/solomon-labs-cole-mcmillian-usdv-interview/",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hanson-decision-selection-bias",
+    "title": "Decision Selection Bias",
+    "author": "Robin Hanson",
+    "date": "2024-12-28",
+    "url": "https://www.overcomingbias.com/p/decision-selection-bias",
+    "description": "Hanson examines how conditional market forecasts can diverge from causal estimates when decision makers have different information. He discusses information sharing, decision timing and randomized rejection as possible responses, and calls for experiments. References Proph3t’s discussion; these are design arguments, not validated fixes.",
+    "evidenceNote": "Complete original article text and December 28, 2024 publication date reviewed October 25, 2026. A January 30, 2026 addendum is not the publication date. Source’s CEO example and proposed random rejection policy are theoretical, not a MetaDAO implementation or empirical result. Embedded charts not independently analyzed; description limited to the author’s written explanation. Catalog and discovery checked for canonical URL and title.",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/decision-selection-bias",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-another-panacea-futarchy-obstacles",
+    "title": "Conceptual and Practical Obstacles to Futarchy",
+    "author": "Another Panacea",
+    "date": "2011-01-14",
+    "url": "https://www.anotherpanacea.com/2011/01/14/conceptual-and-practical-obstacles-to-futarchy/",
+    "description": "A critique of futarchy asks how to define welfare metrics, fund many policy markets, protect rights and test manipulation by actors with unequal capital or outside incentives. The author proposes limiting the policy choices considered and calls for experiments. Historical analysis, not a demonstrated failure of MetaDAO.",
+    "evidenceNote": "Complete original article and January 14, 2011 publication date reviewed October 25, 2026. No individual byline shown in retrieved article; publisher used as author rather than inferring identity from site copyright. Regulatory counts, capital requirements and theoretical objections are the author’s arguments, not independently verified facts. Does not discuss MetaDAO. Catalog and discovery checked for canonical URL and title.",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.anotherpanacea.com/2011/01/14/conceptual-and-practical-obstacles-to-futarchy/",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

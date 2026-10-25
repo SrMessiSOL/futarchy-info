@@ -1,3 +1,24 @@
+# Colosseum interviews on MetaDAO capital formation: October 24, 2026
+
+PR #86 merged as 4df049db180234158c726072a3de2f87717ef773. Production run 40150602083 succeeded. Both Phantom and Hanson entries match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [0xResearch with Michael Rinko](https://blockworks.com/podcast/0xresearch/38608298-9b2c-11f1-a76a-1b9d205e59fa) | August 19, 2026 | Publisher overview and chapters reviewed, not full audio/transcript. |
+| [Delphi with Clay Robbins](https://thedelphipodcast.buzzsprout.com/2609274/episodes/18990941-clay-robbins-building-colosseum-solana-s-largest-hackathon-accelerator-with-80-000-participants) | January 19, 2026 | Publisher notes and relevant transcript section approximately 52:57–1:01:22 reviewed, not full listen. |
+
+## Discovery and limits
+
+Catalog and current discovery checked for matching URLs, titles and episode identities. Existing Hanson interviews, Laso founder essay, Good Wood episode and Ownership Proph3t episode not duplicated. Both additions substantially cover MetaDAO, rather than adding general accelerator interviews on a passing mention. Investor claims and simplified mechanics are not endorsed or independently validated. No source transcript copied. Frontiers governance-concentration article remains a lead requiring methodological review; no findings adopted from search snippets. Founder archives and missing Radio audio remain open. Registry and manual editorial setup unchanged; no exhaustive coverage claim.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # MetaDAO explainer and outcome-metric research: October 24, 2026
 
 PR #85 merged as b5b55c4078869efdef76faec07dd514a0c2973bf. Production run 40150249589 succeeded. Gwart and Neodyme entries match merged fields in main-library and individual production JSON endpoints (HTTP 200).

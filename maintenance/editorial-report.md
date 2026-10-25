@@ -1,3 +1,24 @@
+# Ordr disclosures and liquidity design: October 25, 2026
+
+PR #105 merged as c5d94396748aef2911794bfe9edcf7b0a69d3e3b. Production deployment 40162032500 succeeded. Both additions match title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [Ordr issuer filing](https://blockworks.com/token-transparency/filing/ordr-trade) | Undated rolling reference; October 23 version update retained | All 18 sections read. Internal deployment/control inconsistencies flagged; no onchain audit. |
+| [Hanson: Futarchy Liquidity Details](https://www.overcomingbias.com/p/futarchy-liquidity-details) | June 12, 2025 publication | Full body and June 20 addendum read. Timing inconsistency and AI-generated estimates disclosed. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for canonical URLs and alternate editions. Culture-Guiding Futarchy was also read; deferred this batch to prioritize funded-project disclosures and mechanism design. Pirates Parley archive, full Ordr interview listening and unresolved external recording access remain open. No new interview accepted this pass and no exhaustive coverage claim. Existing registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Ordr founder interview and decision-market critique: October 25, 2026
 
 PR #104 merged as e2682642952b79f2851a48861d1854754e372daa. Production deployment 40161662866 succeeded. Both Hanson articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

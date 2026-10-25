@@ -1,3 +1,24 @@
+# Historical futarchy and predictocracy exchange: October 24, 2026
+
+PR #89 merged as 9fdb742e7c768fa7e8ec9f0eab4e6e60ef813265. Deployment 40152119798 succeeded. Zukowski and Eidos entries match merged fields in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Hanson: Futarchy vs. Predictocracy](https://www.overcomingbias.com/p/futarchy-vs-prehtml) | February 1, 2008 | Full article read, theoretical case not empirical performance evidence. |
+| [Abramowicz: Predictocracy vs. Futarchy](https://volokh.com/posts/1201909754.shtml) | February 2, 2008 | Full response read; critique, transition uncertainty and preference for modest uses retained. |
+
+## Other leads and gaps
+
+Catalog and current discovery checked for identities and canonical URLs. Hunter Monk's Money Bags and No Update essays, Omnipair OMFG-005/006 and Oracle Hanson part two already exist. MTS/a16z editions remain a possible overlap to reconcile before adding another recording. Hanson's Development Futures was read as a further lead but not added in this exchange-focused batch; Marriage Futures is peripheral and was not added. A legacy college-choice link returned 404. No new unique interview accepted; founder archives and missing Radio audio remain open. No exhaustive coverage claim. Registry, transcripts, automation and disabled X posting unchanged.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Governance measurement and decision records: October 24, 2026
 
 PR #88 merged as 2b41d7c513004497423b08170142624bd8904f62. Deployment 40151763233 succeeded. Both Galaxy articles match merged fields in production main-library and individual JSON endpoints (HTTP 200).

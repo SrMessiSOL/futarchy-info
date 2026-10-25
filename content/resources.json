@@ -19651,5 +19651,49 @@
     "sourceUrl": "https://neodyme.io/reports/MetaDAO.pdf",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-phantom-metadao-explainer",
+    "title": "Vote on values, bet on beliefs: Inside MetaDAO's futarchy",
+    "author": "Jonathan G. / Phantom",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "sourceUpdatedAt": "2026-01-17",
+    "type": "article",
+    "url": "https://phantom.com/learn/crypto-101/metadao-futarchy",
+    "description": "Phantom introduces MetaDAO and contrasts market-based governance with token voting, including participation, whale influence and manipulation concerns. Its simplified explanation and wallet walkthrough provide historical educational coverage, rather than a precise specification of current conditional-token mechanics or evidence that market governance guarantees better outcomes.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Governance"
+    ],
+    "evidenceNote": "Complete public article read October 24, 2026. No publication date displayed or established; article JSON-LD dateModified is January 17, 2026, recorded only as sourceUpdatedAt. CMS creation and unrelated site timestamps not used as publication. Article describes tokens as representing proposal outcomes; this is a simplified account, not a current protocol specification. First-implementation and effectiveness claims not independently verified; wallet links and current UI not tested.",
+    "verification": "source-checked",
+    "sourceUrl": "https://phantom.com/learn/crypto-101/metadao-futarchy",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-liberal-futarchy",
+    "title": "What Is Liberal Futarchy?",
+    "author": "Robin Hanson / Overcoming Bias",
+    "date": "2025-12-15",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/what-is-liberal-futarchy",
+    "description": "Hanson examines how futarchy might choose measurable objectives consistent with liberal governance, considering rights, neutrality, exit and asset values. He discusses metric gaming and the risk that market discounting neglects future generations. A normative design argument about outcome selection, not an implemented government system or a description of MetaDAO policy.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete public article body and December 15, 2025 publisher date read October 24, 2026. Proposed metrics, objections and the author’s stated preference reviewed; no endorsement or empirical validation inferred. Full comment threads and linked background not reviewed. No MetaDAO-specific adoption claim.",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/what-is-liberal-futarchy",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

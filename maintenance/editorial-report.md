@@ -1,3 +1,24 @@
+# MetaDAO explainer and outcome-metric research: October 24, 2026
+
+PR #85 merged as b5b55c4078869efdef76faec07dd514a0c2973bf. Production run 40150249589 succeeded. Gwart and Neodyme entries match merged fields in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [Phantom MetaDAO explainer](https://phantom.com/learn/crypto-101/metadao-futarchy) | Publication unknown; January 17, 2026 modification stored separately | Full article read. Simplified mechanisms and historic walkthrough, not a current specification or validated effectiveness claim. |
+| [What Is Liberal Futarchy?](https://www.overcomingbias.com/p/what-is-liberal-futarchy) | December 15, 2025 publication | Full article read. Normative outcome-metric design, not implementation or MetaDAO policy. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for URLs and identities. Hanania, WhoWhatWhy, NEXTpredict, Prediction Market Movers, Loyal Lightspeed and Loyal transparency report already exist. Alea's October 2024 MetaDAO report offers a public preview but requires sign-in for the full report; deferred, no access barrier bypassed. No unique interview accepted this pass. Founder archives and remaining Radio audio gaps stay open. No exhaustive coverage claim, project-status changes, transcript changes or automation changes.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # MetaDAO interview and historical security report: October 24, 2026
 
 PR #84 merged as 7f05bf61718414aa47a9f21673e6c890ae545af1. Production run 40149842475 succeeded. Both Hanson articles match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).

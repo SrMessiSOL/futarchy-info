@@ -20294,5 +20294,68 @@
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25",
     "evidenceNote": "Complete chapter text, printed pages 97–101, and author credit reviewed October 25, 2026 in original Foundation PDF; no full 112-page report review claimed. Report is from 2017. File label identifies November, while Hanson’s bibliography lists December 1, 2017; exact publication remains unresolved, so date is null rather than using the 2023 upload path. Text extraction reviewed; screenshot retrieval failed. Accuracy, manipulation resistance and causal claims remain the author’s arguments. Catalog and discovery checked for PDF URL and chapter title."
+  },
+  {
+    "id": "research-hanson-futarchy-harberger-zoning",
+    "title": "Fine Grain Futarchy Zoning Via Harberger Taxes",
+    "author": "Robin Hanson",
+    "date": "2019-01-25",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/fine-grain-futarchy-zoning-via-harberger-taxeshtml",
+    "description": "Hanson explores combining conditional property rights, Harberger taxes and tax-revenue claims to evaluate local zoning changes. He discusses noisy valuations, manipulation and uncompensated losses, with later revisions. A speculative mechanism-design proposal, not evidence of implemented zoning or demonstrated welfare gains.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete original article and visible addenda read October 25, 2026. January 25, 2019 is original publication; later revisions, including October 21, 2021, are not substituted as publication dates. Proposed accounting, manipulation remedies and land-use benefits remain the author’s arguments, not validated results or a MetaDAO implementation. Catalog and discovery checked for canonical URL and title.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/fine-grain-futarchy-zoning-via-harberger-taxeshtml",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hanson-governance-by-jury",
+    "title": "Governance By Jury",
+    "author": "Robin Hanson",
+    "date": "2019-12-24",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/governance-by-juryhtml",
+    "description": "Hanson sketches a jury-based policy process with proposal fees and bounties, then considers betting markets on whether another jury would confirm a decision. He explores repeated challenges, delay and the costs of extra complexity. An explicitly tentative governance design, not an implemented or experimentally validated system.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete original article and December 24, 2019 date read October 25, 2026. Distinguishes basic jury process from market-confirmation and early-adoption variants. Prediction of another jury’s ruling is not treated as proof of welfare improvement. No experiment, implementation, legal recommendation or MetaDAO application inferred. Catalog and discovery checked for canonical URL and title.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/governance-by-juryhtml",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "external-solanafloor-p2p-sale-extension",
+    "title": "The Only Way Out is Through: MetaDAO Extends Controversial P2P.me ICO",
+    "author": "Finn Miller / SolanaFloor",
+    "date": "2026-03-30",
+    "sourceUpdatedAt": "2026-04-03",
+    "type": "news",
+    "url": "https://solanafloor.com/news/only-way-out-through-metadao-extends-controversial-p2pme-ico",
+    "description": "SolanaFloor reports on MetaDAO extending P2P.me’s sale and allowing refunds after controversy over the team’s Polymarket positions. Includes competing community views about responsibility and investor protections. Historical reporting; quoted allegations and legal opinions are not independent findings, and proposed liquidation safeguards are not guarantees.",
+    "tags": [
+      "MetaDAO",
+      "project:p2p-protocol"
+    ],
+    "evidenceNote": "Complete original article read; normal browser confirmed Published March 30, 2026 and Edited April 3, 2026. Publication and edit dates kept separate. Team conduct, policy violations, legal duties and liquidation outcomes are reported or attributed claims, not independently audited conclusions. Ranger discussion is historical context, not post-liquidation promotion. No wallet, Polymarket rule or legal analysis performed. Catalog and discovery checked for canonical URL and title.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://solanafloor.com/news/only-way-out-through-metadao-extends-controversial-p2pme-ico",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

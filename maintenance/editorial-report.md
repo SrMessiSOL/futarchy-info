@@ -1,3 +1,21 @@
+# Missing Hanson interview: October 24, 2026
+
+PR #93 merged as 8eabec7e27c94e5a07a93f750b4fe0f0aa4fed73. Deployment 40155574330 succeeded. METADAO-037 and Development Futures match merged fields in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted addition
+
+[Over the Mountains #12 with Robin Hanson](https://overthemountains.substack.com/p/when-culture-stops-evolving-robin), published May 5, 2026. Full publisher overview and chapter guide reviewed. Governance chapters explicitly cover futarchy and conditional markets; this is not a full recording or transcript review. No MetaDAO-specific interview or validation of broader claims inferred.
+
+## Other leads and gaps
+
+Catalog and current discovery checked for matching URL and episode identity. Scaling Theory #24, Clearer Thinking #174, Manifest/Supercycle, Armen #457, Epicenter and existing Lightspeed interviews were not duplicated. Converging Dialogues #169 remains a lead: retrieved publisher page did not provide enough detail to assess its futarchy treatment. Founder archives remain open; no new unique funded-project interview accepted this pass. One verified addition, no quota or exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Futarchy research authorization and development applications: October 24, 2026
 
 PR #92 merged as bf81589e2adb4c29d7cd8f5f5a98faa0bc309afd. Deployment 40153633543 succeeded. Both financial-report entries match merged fields in main-library and individual production JSON endpoints (HTTP 200).

@@ -19695,5 +19695,51 @@
     "sourceUrl": "https://www.overcomingbias.com/p/what-is-liberal-futarchy",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-0xresearch-rinko-capital-formation",
+    "title": "Can MetaDAO Reinvent Crypto Capital Formation?",
+    "author": "0xResearch / Blockworks / Michael Rinko",
+    "date": "2026-08-19",
+    "url": "https://blockworks.com/podcast/0xresearch/38608298-9b2c-11f1-a76a-1b9d205e59fa",
+    "description": "Colosseum’s Michael Rinko joins 0xResearch to discuss MetaDAO, futarchy and startup capital formation. The publisher’s chapter guide covers early conviction, token voting, suitable fundraising candidates and community formation, alongside broader Solana topics. An investor perspective, not independent evidence of governance effectiveness or a recommendation to raise or invest.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Decision Markets",
+      "Fundraising",
+      "Interview"
+    ],
+    "evidenceNote": "Complete publisher episode overview and chapter guide read October 24, 2026. August 19, 2026 publication confirmed on the episode page. Relevant publisher chapters: 02:42 early conviction, 06:45 futarchy/token voting, 17:08 fundraising fit, 27:14 community. No full audio or transcript review; third-party transcript snippets not adopted. Existing titles, canonical URL and current discovery checked for duplicates.",
+    "type": "podcast",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockworks.com/podcast/0xresearch/38608298-9b2c-11f1-a76a-1b9d205e59fa",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-delphi-clay-robbins-colosseum",
+    "title": "Clay Robbins: Building Colosseum, Solana’s Largest Hackathon & Accelerator with 80,000 Participants",
+    "author": "The Delphi Podcast / Tommy Shaughnessy / Clay Robbins",
+    "date": "2026-01-19",
+    "url": "https://thedelphipodcast.buzzsprout.com/2609274/episodes/18990941-clay-robbins-building-colosseum-solana-s-largest-hackathon-accelerator-with-80-000-participants",
+    "description": "Clay Robbins discusses Colosseum’s accelerator and its relationship with MetaDAO. The relevant closing section covers decision-market governance, founder accountability and STAMP as a proposed route for financing teams before a MetaDAO launch. His assessments remain attributed opinions; the discussion does not establish legal rights or completed financing for particular companies.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Decision Markets",
+      "Fundraising",
+      "Interview"
+    ],
+    "evidenceNote": "Publisher notes, January 19, 2026 header and public transcript section from approximately 52:57 through 1:01:22 reviewed October 24, 2026. Not a full transcript or audio review. Transcript has recognition errors; its winner-takes-everything shorthand is not adopted as a conditional-token specification. STAMP terms and investment outcomes not independently verified. Third-party transcript remains linked at publisher, not copied or redistributed.",
+    "type": "podcast",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://thedelphipodcast.buzzsprout.com/2609274/episodes/18990941-clay-robbins-building-colosseum-solana-s-largest-hackathon-accelerator-with-80-000-participants",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

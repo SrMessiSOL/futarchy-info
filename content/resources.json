@@ -20399,5 +20399,46 @@
     "sourceUrl": "https://www.overcomingbias.com/p/socialism-via-futarchyhtml",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "external-ordr-pirates-parley-26",
+    "title": "Sharded Order Books, and a $150K Raise That Filled in 5 Seconds | Pirates Parley E26",
+    "author": "Pirates Parley / Steve (Happy Pirate), Avhi and Arjun",
+    "date": "2026-07-30",
+    "type": "podcast",
+    "url": "https://solana.com/podcasts/pirates-parley/episodes/sharded-order-books-and-a-150k-raise-that-filled-in-5-seconds-pirates-parley-e26-e3mo5uj",
+    "description": "Ordr’s Avhi and Arjun discuss sharded order books, market making, their Futardio raise and choosing futarchy. The publisher also outlines an audit-first roadmap. Technical performance and fundraising statements remain guest/publisher claims; planned mainnet availability is not a verified release.",
+    "tags": [
+      "Interview",
+      "project:ordr",
+      "MetaDAO"
+    ],
+    "evidenceNote": "Complete publisher overview and chapter guide reviewed October 25, 2026. Episode page lists July 30, 2026 and 55:03; prose says after close while chapter text mentions July 31, so no closing date inferred. Target/oversubscription are not accepted proceeds. No full recording, transcript, code or audit review. Catalog and discovery checked for episode identity.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://solana.com/podcasts/pirates-parley/episodes/sharded-order-books-and-a-150k-raise-that-filled-in-5-seconds-pirates-parley-e26-e3mo5uj",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hunt-decision-experience-design-3",
+    "title": "Decision Experience Design, Part 3: Bets Are Not Decisions",
+    "author": "Roger Hunt",
+    "date": "2026-10-04",
+    "type": "article",
+    "url": "https://rogerhuntphdcand.substack.com/p/decision-experience-design-part-3",
+    "description": "Hunt contrasts institution-sponsored decision markets with consumer event wagering and critiques how interfaces present forecasts beside trade execution. He proposes clearer market information, separate analytical access and calibration tools. An attributed design argument; cited statistics, legal interpretations and claims about market reliability are not independently validated.",
+    "tags": [
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete original article body, displayed date and reference list reviewed October 25, 2026. October 4 is publication, not a study date. Author identifies empirical constraints and divided jurisdictional rulings. References and underlying datasets were not individually audited; not treated as peer-reviewed findings, settled legal rules or a MetaDAO-specific study. Catalog and discovery checked for canonical URL and title.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://rogerhuntphdcand.substack.com/p/decision-experience-design-part-3",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

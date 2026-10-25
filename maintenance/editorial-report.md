@@ -1,3 +1,21 @@
+# Cultural governance research: October 25, 2026
+
+PR #106 merged as e6b64328ab98cfd5cd8a56d1d9f6eb6e765d5472. Production deployment 40213807635 succeeded. Ordr’s filing and Hanson’s liquidity article match title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200). Initial checks during deployment did not yet show the entries; post-deployment checks passed.
+
+## Accepted addition
+
+[Culture-Guiding Futarchy](https://www.overcomingbias.com/p/culture-guiding-futarchy), Robin Hanson, April 25, 2025. Complete original body read. Proposed corporate-culture decision markets are theoretical; no independent validation of corporate statistics or cited technology claims.
+
+## Discovery and gaps
+
+Reviewed the full publisher transcript of Upbeat Globalist’s Hanson Part 2 (June 20, 2024). Deferred: mostly cultural evolution, with only a short concluding futarchy explanation. Its Part 1 is fertility-policy material and was not accepted as a decision-market interview. MTS’s May 22 Hanson overview/chapters closely track the already-cataloged a16z interview’s subject sequence; held as a likely alternate edition rather than adding a second recording entry. Full listening/edition comparison remains open. Existing Loyal updates, Ownership HiveBits report, Loyal Lightspeed interview, Sol Brothers Umbra interview and Solana Compass Backable reporting were not duplicated. Searches for additional ACCRUE, Basket and Omnipair founder interviews did not establish another unique reviewed interview this pass. Cassandra Forum source failed public HTTP retrieval and remains a lead requiring normal browser review. No exhaustive coverage claim. One addition; project registry, transcripts and automation unchanged. X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Ordr disclosures and liquidity design: October 25, 2026
 
 PR #105 merged as c5d94396748aef2911794bfe9edcf7b0a69d3e3b. Production deployment 40162032500 succeeded. Both additions match title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

@@ -1,3 +1,24 @@
+# Decision-market design limits: October 25, 2026
+
+PR #98 merged as d3dd45e71f351e53ce941efb3b745d7fdf1484f6. Production deployment 40157590874 succeeded. Both interviews match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Decision Selection Bias](https://www.overcomingbias.com/p/decision-selection-bias) | December 28, 2024 | Complete text read. January 30, 2026 addendum is separate from publication. Charts not independently analyzed; no implemented or validated remedy claimed. |
+| [Conceptual and Practical Obstacles to Futarchy](https://www.anotherpanacea.com/2011/01/14/conceptual-and-practical-obstacles-to-futarchy/) | January 14, 2011 | Complete article read. Publisher credited because no article byline was visible. Critique and calculations attributed, not independently established. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for URLs and source identities. Existing Lightspeed and Ownership Loyal interviews, MCG Credible and Loyal monthly updates were not duplicated. Credible’s Solana Summit talk remains a lead requiring original-recording review; mirror snippets alone were not accepted. Brief futarchy mentions in other Hanson posts were not treated as dedicated research. Two additions, no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Funded ecosystem interview sources: October 25, 2026
 
 PR #97 merged as 96d0f63495eff2c8841274e6a73e3b7554dc0237. Production deployment 40157251956 succeeded. Both Hanson articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

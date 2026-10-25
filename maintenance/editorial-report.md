@@ -1,3 +1,24 @@
+# Omnipair Dusk analysis and technical reference: October 24, 2026
+
+PR #81 merged as 14efe8c30619199e61579b5b0547fd547448124d. Production deployment 40147390830 succeeded. Both additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [Pine Analytics](https://pineanalytics.substack.com/p/the-case-for-omnipair-at-a-33-million) | October 1, 2026 publication; September 30 snapshot separate | Full article read. Modeled economics and valuation remain assumptions, not realized returns. |
+| [Omnipair Dusk repository](https://github.com/omnipair/dusk) | Undated evolving reference | Complete rendered README read. Experimental, incomplete and unaudited status retained; no code or deployment audit. |
+
+## Research boundaries
+
+Catalog and current discovery checked for matching URLs/identities; neither overlaps. Existing Hunter Monk founder article and interview were not duplicated. No new unique interview accepted this pass. Funded-project roster read; no registry change justified. Broader founder archives, new-raise reconciliation, unread Cassandra material and Radio #4/#13 audio remain open. No exhaustive coverage claim. No transcript, lifecycle or automation changes.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. Additions await review, not merged or deployed.
+
+---
+
 # P2P authority transition and Hanson selection-bias response: October 24, 2026
 
 PR #80 merged as b06105ed596f3ac3ba1c68a719a2780a63630e20. Deployment 40146791707 succeeded. Credible and Jurassic additions match merged fields in production main-library and individual JSON endpoints (HTTP 200).

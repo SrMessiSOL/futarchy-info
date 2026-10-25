@@ -19479,5 +19479,49 @@
     "sourceUrl": "https://www.overcomingbias.com/p/futarchys-minor-flaw",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-pine-omnipair-dusk-2026",
+    "title": "The Case for Omnipair at a $3.3 Million Valuation",
+    "author": "Pine Analytics",
+    "date": "2026-10-01",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://pineanalytics.substack.com/p/the-case-for-omnipair-at-a-33-million",
+    "description": "Pine Analytics reassesses Omnipair’s Dusk design, discussing dynamic fees, leveraged liquidity, liquidation and the challenge of attracting repeat borrowers. It separates proposed V2 mechanics from V1 activity and models possible revenue under explicit assumptions. Valuation and return scenarios are the author’s investment thesis, not established outcomes or this library’s recommendation.",
+    "tags": [
+      "MetaDAO",
+      "Analysis",
+      "project:omnipair"
+    ],
+    "evidenceNote": "Complete public article and October 1, 2026 byline read October 24. September 30 is the author’s repository as-of date, not publication. Official repository README reviewed separately and retains experimental/unaudited status. Modeling, pool-income estimates, market size, comparative valuations and reported Jurassic trading were not independently reproduced. Gross modeled revenue is not realized profit; borrowing demand and production readiness remain unproven.",
+    "verification": "source-checked",
+    "sourceUrl": "https://pineanalytics.substack.com/p/the-case-for-omnipair-at-a-33-million",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "reference-omnipair-dusk-repository",
+    "title": "Omnipair V2: Dusk Repository and Architecture",
+    "author": "Omnipair",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "type": "article",
+    "url": "https://github.com/omnipair/dusk",
+    "description": "Omnipair’s Dusk README describes combined swapping and lending, leveraged LP vaults, isolated spot margin, liquidation and governance-related controls. The publisher labels the software experimental, incomplete and unaudited, with source/devnet program identifiers. This is an evolving technical reference, not confirmation of a production launch or safety audit.",
+    "tags": [
+      "MetaDAO",
+      "Documentation",
+      "Development",
+      "project:omnipair"
+    ],
+    "evidenceNote": "Complete rendered README read October 24, 2026, including overview, risk model, instructions, invariants, verification gates and security status. No single publication date assigned to this changing repository. Source files, technical paper, dependency code, build artifacts and tests not audited or executed. Source/devnet identifiers are publisher labels, not independently inspected deployments. Described invariants and revenue controls remain implementation claims.",
+    "verification": "source-checked",
+    "sourceUrl": "https://github.com/omnipair/dusk",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

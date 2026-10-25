@@ -20066,5 +20066,47 @@
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25",
     "evidenceNote": "Complete original article body and publication date reviewed October 25, 2026. January 4, 2008 is the article publication date, not a market settlement date. Describes six InTrade contracts, four policy parameters, two contract approaches and four unresolved questions. Market availability and sponsorship are the author’s contemporaneous account; archived trading, settlement, forecasting quality and causal validity not independently verified. Catalog and current discovery checked for canonical URL and title."
+  },
+  {
+    "id": "research-hanson-reply-to-moldbug",
+    "title": "Reply to Moldbug",
+    "date": "2009-05-22",
+    "url": "https://www.overcomingbias.com/p/reply-to-moldbughtml",
+    "description": "Hanson responds to objections to futarchy, distinguishing prediction-market concerns from decision-market concerns. Topics include information differences, manipulation, conditional expectations and welfare metrics. A historical argument about mechanism design, not an independent validation of accuracy or resistance to manipulation.",
+    "evidenceNote": "Complete original article body and May 22, 2009 publication date reviewed October 25, 2026. Source alternates quoted objections with Hanson’s responses; description attributes the reply to Hanson. Original linked critique not separately reviewed or cataloged. Empirical claims, consulting history and market examples not independently audited. Catalog and discovery checked for canonical URL and title.",
+    "author": "Robin Hanson",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/reply-to-moldbughtml",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hanson-meta-institutions",
+    "title": "Meta Institutions",
+    "date": "2009-04-26",
+    "url": "https://www.overcomingbias.com/p/meta-institutionshtml",
+    "description": "Hanson proposes decision markets as tools for evaluating institutional choices, alongside ordinary organizational decisions. He asks how institutions should evaluate one another and argues that effectiveness needs demonstration on smaller questions first. A research agenda, not evidence of adoption or successful institutional reform.",
+    "evidenceNote": "Complete original article body and April 26, 2009 publication date reviewed October 25, 2026. Five research questions address evaluating institutions, institutional similarity biases and agreement. Source explicitly calls for more small-scale effectiveness demonstrations before larger reliance. No MetaDAO connection, implementation or empirical success inferred. Catalog and discovery checked for canonical URL and title.",
+    "author": "Robin Hanson",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/meta-institutionshtml",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

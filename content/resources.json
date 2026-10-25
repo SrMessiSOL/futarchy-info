@@ -19565,5 +19565,47 @@
     "sourceUrl": "https://distbit.xyz/correlation-vs-causation-in-futarchy/",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-federal-futarchy",
+    "title": "Federal Futarchy",
+    "date": "2025-01-28",
+    "url": "https://www.overcomingbias.com/p/federal-futarchy",
+    "description": "Robin Hanson proposes four ways to trial futarchy in US federal decisions, from major policies to routine projects and agency metrics. He distinguishes requirements for using decision markets from requirements for comparing their performance against other methods. A proposed research agenda, not evidence of government adoption or independently established effectiveness.",
+    "evidenceNote": "Full public article body and January 28, 2025 publisher header read October 24, 2026. Requirements and all four application strategies reviewed. Claims about robustness, prior trials and regulatory treatment are the author's assertions, not independently verified findings or legal guidance. Linked studies and the complete comment discussion not reviewed. No government implementation inferred.",
+    "author": "Robin Hanson / Overcoming Bias",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/federal-futarchy",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-meta-governance",
+    "title": "Futarchy As Meta Governance",
+    "date": "2025-03-05",
+    "url": "https://www.overcomingbias.com/p/futarchy-as-meta-governance",
+    "description": "Hanson considers limits to market-guided corporate decisions when insiders have information that public traders cannot assess. He proposes a role for futarchy in choosing governance institutions and evaluating outcomes beyond profits, while leaving outcome-metric selection open. Conceptual analysis, not a demonstrated comparison of MetaDAO projects or a verified claim that private firms perform better.",
+    "evidenceNote": "Full public article body and March 5, 2025 publisher header read October 24, 2026. Reviewed the insider-information objection, proposed governance applications and unresolved outcome-metric question. Corporate-return comparisons and claims of unbiased judgments are attributed arguments, not independently tested conclusions. Full comment threads and linked background not reviewed.",
+    "author": "Robin Hanson / Overcoming Bias",
+    "type": "article",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/futarchy-as-meta-governance",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

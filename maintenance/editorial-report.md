@@ -1,3 +1,24 @@
+# Governance measurement and decision records: October 24, 2026
+
+PR #88 merged as 2b41d7c513004497423b08170142624bd8904f62. Deployment 40151763233 succeeded. Both Galaxy articles match merged fields in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [Zukowski governance study](https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2026.1853465/full) | August 5, 2026 publication | Abstract, sampling, limitations and MetaDAO passages reviewed; no replication or current-control verdict. |
+| [Eidos thesis](https://eidos.software/thesis/) | Publication unknown; September 29, 2026 update separate | Relevant thesis, evidence and forecast sections read. Provider claims and unresolved forecasts not validated. |
+
+## Other leads and gaps
+
+Catalog and current discovery checked for matching identities and canonical URLs. Unchained governance interview, Index Proph3t, Good Wood and Hanson's My Best Idea already exist. Reflexivity overview remains unread after fetch timeout; no access protections bypassed. Faster Please lead has not yet been verified at original publisher for sufficient decision-market relevance. No new unique interview accepted. Funded-project founder archives and missing Radio audio remain open. No exhaustive coverage claim or project/transcript/automation changes. X posting remains disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Conditional-market research: October 24, 2026
 
 PR #87 merged as 1a2fd527d996e1347b9cb84a9fb22785d86f36c4. Deployment 40150985603 succeeded. Both Rinko and Robbins interviews match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).

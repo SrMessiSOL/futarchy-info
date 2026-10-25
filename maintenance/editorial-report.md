@@ -1,3 +1,25 @@
+# P2P reporting and governance-design research: October 25, 2026
+
+PR #102 merged as 8c0df8749fcfbd19d8b42410ccf308f196fd5f30. Production deployment 40159809671 succeeded. The Hanson chapter matches merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [SolanaFloor: P2P sale extension](https://solanafloor.com/news/only-way-out-through-metadao-extends-controversial-p2pme-ico) | March 30, 2026; edited April 3 | Complete article read; both dates confirmed in browser. Competing legal and conduct claims attributed. Historical Ranger context is not promotion. |
+| [Fine Grain Futarchy Zoning Via Harberger Taxes](https://www.overcomingbias.com/p/fine-grain-futarchy-zoning-via-harberger-taxeshtml) | January 25, 2019 | Complete article and addenda read. Original date retained; no implemented or validated remedy claimed. |
+| [Governance By Jury](https://www.overcomingbias.com/p/governance-by-juryhtml) | December 24, 2019 | Complete article read. Tentative design; predicting a confirming jury is not proof of welfare improvement. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for source identities. Existing Ownership Sheldon/P2P interview and Blockworks P2P’s costly stunt were not duplicated. No new verified Manhattan founder interview recovered. Amoveo and unrelated Hanson topics remain outside this batch. Three additions, no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility for all three entries, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Global decision-market research: October 25, 2026
 
 PR #101 merged as 834b9580809f46168f59384d79f695291e228755. Production deployment 40158693772 succeeded. Both articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

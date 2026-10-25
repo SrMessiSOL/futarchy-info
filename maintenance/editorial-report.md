@@ -1,3 +1,24 @@
+# Funded ecosystem interview sources: October 25, 2026
+
+PR #97 merged as 96d0f63495eff2c8841274e6a73e3b7554dc0237. Production deployment 40157251956 succeeded. Both Hanson articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Superteam India with Umbra’s Kru](https://www.youtube.com/watch?v=J9CeVJv14FA) | August 1, 2026 | Original publisher overview, chapters and date reviewed in browser. 17:19 recording, not fully listened to. Fundraising commitments distinguished from proceeds. |
+| [Genfinity with Solomon’s Cole McMillian](https://genfinity.io/2026/09/24/solomon-labs-cole-mcmillian-usdv-interview/) | September 24, 2026 | Complete written account read. Embedded announcement and prose differ on conversion status; execution not inferred. Recording not fully reviewed. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for URLs and interview identities. Existing Ownership Ranga, MCG Solomon/Umbra and Index/Lightspeed Kru editions were not duplicated. Solomon product wind-down does not establish company liquidation or justify changing registry status. Genfinity audio/X edition is the same interview; one article entry only. ORE’s MCG reserve-governance discussion remains a lead, not evidence ORE raised through MetaDAO. No exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Futarchy objections and institutional design: October 25, 2026
 
 PR #96 merged as 6006aa3d5259f5939f21c1c01748b992ddbb7230. Production deployment 40156864732 succeeded. Presidential Decision Markets matches merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

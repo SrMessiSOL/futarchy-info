@@ -19347,5 +19347,50 @@
     "sourceUrl": "https://www.sintetia.com/robin-hanson-full-interview-about-prediction-markets/",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-p2p-blockworks-costly-stunt",
+    "title": "P2P’s costly stunt",
+    "author": "Blockworks / Daniel Shapiro and Carlos",
+    "date": "2026-03-31",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://blockworks.com/newsletter/0xresearch/issue/post_dfcd178a-4e15-4b31-b9cd-3df15d5fb0f2",
+    "description": "Blockworks examines the P2P team’s reported trading in its own Polymarket fundraising market, MetaDAO’s response and the trust risks surrounding the sale. It discusses allocation discretion, business traction and treasury oversight. Commitments and hypothetical valuation are distinct from accepted proceeds; the authors’ estimated downside protection is not a guaranteed maximum loss.",
+    "tags": [
+      "MetaDAO",
+      "Fundraising",
+      "Analysis",
+      "project:p2p-protocol"
+    ],
+    "evidenceNote": "Complete P2P section, byline and surrounding newsletter read October 24, 2026. March 31 is publication during the ongoing sale, not proof of settlement. Allegations, team explanations, refund/extension account, metrics and investor participation remain publisher-attributed; linked posts, wallets and refunds not independently verified. No legal conclusion about insider trading. Ranger and Hurupay appear only as historical comparisons; no promotional update or retention exception inferred.",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockworks.com/newsletter/0xresearch/issue/post_dfcd178a-4e15-4b31-b9cd-3df15d5fb0f2",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "reference-p2p-token-economics",
+    "title": "P2P Protocol: Token Economics",
+    "author": "P2P Foundation",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "type": "article",
+    "url": "https://docs.p2p.foundation/whitepaper/token-economics/",
+    "description": "P2P’s documentation describes two governance layers: a token-voting Governor for protocol parameters on Base, and MetaDAO decision markets for treasury and token-supply decisions on Solana. It also describes revenue routing, staking roles and governance-dependent buybacks. These are the project’s design statements, not independently verified deployed controls or automatic holder distributions.",
+    "tags": [
+      "MetaDAO",
+      "Governance",
+      "Documentation",
+      "project:p2p-protocol"
+    ],
+    "evidenceNote": "Full current Token Economics page read October 24, 2026. No publication date displayed, so retained as an undated living reference. Page calls supply fixed while also allowing governance-approved supply changes; no immutable supply cap inferred. Legal classifications, revenue routing, authority ownership, bridge, timelock and execution not independently audited. Neighboring whitepaper sections not treated as newly reviewed.",
+    "verification": "source-checked",
+    "sourceUrl": "https://docs.p2p.foundation/whitepaper/token-economics/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

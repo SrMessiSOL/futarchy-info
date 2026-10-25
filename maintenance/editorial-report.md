@@ -1,3 +1,21 @@
+# Historical decision-market design: October 25, 2026
+
+PR #95 merged as f7c3856dbf18734e70b7e0f2b478378458b24b62. Production deployment 40156536085 succeeded. The Laso interview matches merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted addition
+
+[Presidential Decision Markets](https://www.overcomingbias.com/p/presidential-dehtml), Robin Hanson, January 4, 2008. Complete original article read. Explains shock-response contracts and conditional outcome estimates, with explicit questions about liquidity, credibility, causality and usefulness to voters. Publication date is not settlement date. Contemporary availability claims are attributed; no successful forecasting, policy effect or market settlement independently established.
+
+## Other leads and gaps
+
+Catalog and current discovery checked for URL and source identity. SRC:TLK #12, Index Proph3t, Lightspeed Kollan and existing MCG funded-founder interviews were not duplicated. ReThinking #3 remains unresolved because the original publisher page was unavailable through HTTP. Amoveo’s April 24, 2019 written Hanson Q&A was read but deferred: answers primarily discuss prediction-market adoption, with futarchy supplied by the publisher introduction rather than sustained decision-market treatment. Funded-founder research remains open; one verified addition and no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Missing funded-project founder interview: October 24, 2026
 
 PR #94 merged as 7e411dd65efd394309976a4c24d2dfbb8cf3eaaa. Production deployment 40155906861 succeeded. The Over the Mountains Hanson interview matches merged fields in main-library and individual production JSON endpoints (HTTP 200).

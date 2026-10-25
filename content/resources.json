@@ -20045,5 +20045,26 @@
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24",
     "evidenceNote": "Original Shoal Research X post reviewed in a normal read-only browser October 24, 2026 after HTTP retrieval returned no text. Visible July 1, 2026 publication date, Hunter Monk/Laso founder credits, complete publisher overview and chapter list, and embedded 49:49 video confirmed. Chapters include cards 2:35, agent businesses 7:35, x402 11:49, commerce 24:09, AGI risk 36:52 and defensibility 43:48. Full audio and transcript not reviewed; no transcript republished or regulatory/product claims independently validated. Catalog and discovery checked for URL and interview identity."
+  },
+  {
+    "id": "research-hanson-presidential-decision-markets",
+    "title": "Presidential Decision Markets",
+    "author": "Robin Hanson",
+    "date": "2008-01-04",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/presidential-dehtml",
+    "description": "Hanson describes an InTrade experiment comparing expected policy outcomes under different presidential winners, using shock-response contracts and conditional estimates. He raises open questions about price precision, credibility, causal interpretation and voter preferences. Historical decision-market design and an announcement of trading, not evidence of successful forecasting or policy influence.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/presidential-dehtml",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25",
+    "evidenceNote": "Complete original article body and publication date reviewed October 25, 2026. January 4, 2008 is the article publication date, not a market settlement date. Describes six InTrade contracts, four policy parameters, two contract approaches and four unresolved questions. Market availability and sponsorship are the author’s contemporaneous account; archived trading, settlement, forecasting quality and causal validity not independently verified. Catalog and current discovery checked for canonical URL and title."
   }
 ]

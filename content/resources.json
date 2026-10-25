@@ -19607,5 +19607,49 @@
     "sourceUrl": "https://www.overcomingbias.com/p/futarchy-as-meta-governance",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-gwart-proph3t-futarchy",
+    "title": "Prediction Markets, But For Everything. Futarchy With Proph3t",
+    "author": "The Gwart Show / Blockspace",
+    "date": "2024-09-01",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "podcast",
+    "url": "https://blockspace.media/podcast/prediction-markets-but-for-everything-futarchy-with-proph3t/",
+    "description": "Proph3t joins The Gwart Show to discuss futarchy, DAO governance, tokens and whether traditional entrepreneurs could operate in a DAO-led economy. A historical MetaDAO founder interview, cataloged from the publisher’s episode overview; the full recording has not been reviewed for this addition.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Decision Markets",
+      "Founder Interview"
+    ],
+    "evidenceNote": "Complete episode-specific publisher overview and September 1, 2024 date reviewed October 24, 2026. The June 8, 2026 date and player above it belong to a different featured episode, not this interview. Publisher links YouTube video 48yZZcu6xKM; no full audio, captions or transcript reviewed. Apple link resolves to the show, not an episode. Catalog and current discovery checked for title, canonical URL and video identity; no duplicate found.",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockspace.media/podcast/prediction-markets-but-for-everything-futarchy-with-proph3t/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-neodyme-metadao-amm-2024",
+    "title": "Security Peer Review: MetaDAO AMM",
+    "author": "Neodyme / Robert Reith and Jasper Slusallek",
+    "date": "2024-07-10",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://neodyme.io/reports/MetaDAO.pdf",
+    "description": "Neodyme’s historical review of MetaDAO’s 2024 AMM implementation documents two medium and two low findings. Individual finding sections mark three fixed and the post-deadline TWAP accumulation risk accepted. This is a review of specified historical revisions, not assurance about the current deployment.",
+    "tags": [
+      "MetaDAO",
+      "Research",
+      "Security",
+      "Governance"
+    ],
+    "evidenceNote": "Report cover, scope, architecture and all four finding/remediation sections reviewed October 24, 2026. July 10, 2024 is the document date, not a verified upload/publication timestamp. Report introduction broadly says all findings remediated, but L2 explicitly remains Accepted; individual statuses govern this summary. Code revisions, fixes and current deployed programs not independently audited or matched. Third-party dependencies excluded by report scope.",
+    "verification": "source-checked",
+    "sourceUrl": "https://neodyme.io/reports/MetaDAO.pdf",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

@@ -1,3 +1,24 @@
+# Rip Cars reporting and corporate decision markets: October 24, 2026
+
+PR #90 merged as 1e3cff31b0fbef489aea15849b04091261439def. Deployment 40152452835 succeeded. Both Hanson and Abramowicz entries match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Coindoo Rip Cars reporting](https://coindoo.com/crypto-markets-approve-company-spending-with-8-traders/) | October 18, 2026 | Full article read; official CARS-004 outcome/prices/volume cross-checked. No transfer verification or participant-data reconstruction. |
+| [Hanson: Merger Decision Markets](https://www.overcomingbias.com/p/merger-decisionhtml) | February 2, 2008 | Full article read; proposed applications, not evidence of implementation. |
+
+## Other leads and gaps
+
+Catalog and current discovery checked for matching identities and canonical URLs. MCG Rip Cars coverage and existing GeSIM materials not duplicated. Coindoo's cross-project snapshots are historical reporting, not current operational claims. Article's inconsistent Galaxy organization totals are not adopted. No new interview accepted this pass. Founder archives, unread leads and missing Radio audio remain open. No exhaustive coverage claim or project/transcript/automation changes. X posting remains disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Historical futarchy and predictocracy exchange: October 24, 2026
 
 PR #89 merged as 9fdb742e7c768fa7e8ec9f0eab4e6e60ef813265. Deployment 40152119798 succeeded. Zukowski and Eidos entries match merged fields in main-library and individual production JSON endpoints (HTTP 200).

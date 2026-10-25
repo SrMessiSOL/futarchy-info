@@ -19871,5 +19871,48 @@
     "sourceUrl": "https://volokh.com/posts/1201909754.shtml",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-coindoo-ripcars-participation",
+    "title": "Crypto Markets Approve Company Spending: With 8 Traders",
+    "author": "Kosta Gushterov / Coindoo",
+    "date": "2026-10-18",
+    "url": "https://coindoo.com/crypto-markets-approve-company-spending-with-8-traders/",
+    "description": "Coindoo examines Rip Cars’ inventory-spending approval and reports declining participation across its proposals. It distinguishes authorization from treasury transfers and asks what thin participation reveals about governance. The official CARS-004 page confirms the Passed outcome and quoted market prices and volume; participant counts and wider comparisons remain the publisher’s reporting.",
+    "tags": [
+      "MetaDAO",
+      "project:ripcars",
+      "Governance",
+      "Research"
+    ],
+    "evidenceNote": "Full article and October 18, 2026 publisher date reviewed October 24, 2026. CARS-004 summary/outcome cross-checked at https://metadao.fi/decisions/cars-004; October 2 is proposal creation, not article publication or execution. Instructions/trades remain loading; no transfer inspected. Eight-trader count and comparison dataset not independently rebuilt. Article cites inconsistent Galaxy organization totals; none adopted here. Snapshot discussion of other proposals is not a current-status update or proof of completed financing.",
+    "type": "article",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://coindoo.com/crypto-markets-approve-company-spending-with-8-traders/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-merger-decision-markets",
+    "title": "Merger Decision Markets",
+    "author": "Robin Hanson / Overcoming Bias",
+    "date": "2008-02-02",
+    "url": "https://www.overcomingbias.com/p/merger-decisionhtml",
+    "description": "Hanson proposes conditional markets to inform merger decisions by comparing shareholder value and customer outcomes under merger and no-merger scenarios. Using the then-proposed Microsoft-Yahoo deal, he questions whether advertising prices and quantities adequately capture social benefits. Historical corporate decision-market design, not evidence that the companies implemented the proposed markets.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete public article body and February 2, 2008 publisher date reviewed October 24, 2026. Proposed applications and outcome-measurement doubts retained as the author’s arguments. Quoted contemporary news, corporate adoption claims, linked sources and full comments not independently reviewed; no merger completion, legal conclusion or modern MetaDAO adoption inferred.",
+    "type": "article",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/merger-decisionhtml",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

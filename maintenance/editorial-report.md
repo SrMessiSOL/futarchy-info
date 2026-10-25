@@ -1,3 +1,24 @@
+# Ordr founder interview and decision-market critique: October 25, 2026
+
+PR #104 merged as e2682642952b79f2851a48861d1854754e372daa. Production deployment 40161662866 succeeded. Both Hanson articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Pirates Parley E26: Ordr](https://solana.com/podcasts/pirates-parley/episodes/sharded-order-books-and-a-150k-raise-that-filled-in-5-seconds-pirates-parley-e26-e3mo5uj) | July 30, 2026 | Complete publisher overview/chapters read, not full audio. Conflicting closing-date wording preserved; no proceeds or shipped-product inference. |
+| [Roger Hunt: Decision Experience Design, Part 3](https://rogerhuntphdcand.substack.com/p/decision-experience-design-part-3) | October 4, 2026 | Complete text and reference list read. Design critique with disclosed constraints; cited datasets and legal interpretations not independently audited. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for URLs, titles and alternate episode identity. Existing Laso founder essay, Ownership/Radio GeSIM references and Hanson 80,000 Hours episode were not duplicated. Ordr’s newer Blockworks filing is a lead requiring separate complete review. Pirates Parley archive extends beyond the first visible episode page; no complete archive claim. Full Ordr listening/transcript review remains open. Two verified additions; registry, transcripts and automation unchanged. X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Decision-market demand and welfare measurement: October 25, 2026
 
 PR #103 merged as 0be6ddeaff19e63a30316522352d0414e12556ad. Production deployment 40161310597 succeeded. All three articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

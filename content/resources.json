@@ -20440,5 +20440,49 @@
     "sourceUrl": "https://rogerhuntphdcand.substack.com/p/decision-experience-design-part-3",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "reference-ordr-token-transparency",
+    "title": "Ordr Token Transparency Filing",
+    "author": "Ordr / Blockworks",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "sourceUpdatedAt": "2026-10-23",
+    "type": "article",
+    "url": "https://blockworks.com/token-transparency/filing/ordr-trade",
+    "description": "Ordr’s issuer-filed disclosures cover its team, token allocation, treasury, governance dependencies and liquidity controls. The filing contains conflicting deployment and authority statements. Blockworks checks completeness rather than accuracy; these disclosures are not an independent audit.",
+    "tags": [
+      "project:ordr",
+      "MetaDAO",
+      "Governance"
+    ],
+    "evidenceNote": "Complete 18-section filing read October 25, 2026. Current B2 v2.2 is filed October 23; rolling URL has no established original publication date. Sections 3/5 describe deployed-program authority, while section 11 says no program deployed. Section 11 gives a single key Meteora withdrawal control while section 13 says governance required. Amounts and authority claims not independently checked; committed funds not proceeds. Older B1 edition not duplicated.",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockworks.com/token-transparency/filing/ordr-trade",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hanson-futarchy-liquidity-details",
+    "title": "Futarchy Liquidity Details",
+    "author": "Robin Hanson",
+    "date": "2025-06-12",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/futarchy-liquidity-details",
+    "description": "Hanson proposes varying subsidized decision-market liquidity over time to reward information, improve observation-period signals and reduce selection bias. He discusses conditional-market probabilities, trader exits and advisory markets. A theoretical design argument, not a tested MetaDAO implementation.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete article body and June 20 addendum read October 25, 2026. June 12 is original publication. Diagram described in prose; image not independently inspected. Prose inconsistently names the observation period C–D and D–E; no timing correction inferred. Addendum labels trader-type numbers as ChatGPT4.5 guesses, not empirical measurements. Cited work and mechanism claims not independently validated.",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/futarchy-liquidity-details",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

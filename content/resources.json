@@ -19741,5 +19741,47 @@
     "sourceUrl": "https://thedelphipodcast.buzzsprout.com/2609274/episodes/18990941-clay-robbins-building-colosseum-solana-s-largest-hackathon-accelerator-with-80-000-participants",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-galaxy-conditional-markets-2026",
+    "title": "Conditional Markets Are Beginning to Blossom",
+    "date": "2026-10-15",
+    "url": "https://www.galaxy.com/insights/research/conditional-markets-decision-markets-impact-markets-mainnet-umia-metadao-proof-branchmap-branchpoint-prediction-markets-futarchy",
+    "description": "Galaxy surveys the expansion of conditional markets, including MetaDAO, multi-outcome decision markets and impact-market infrastructure. Its decision-market section compares governance designs and treasury assets, while discussing adoption and liquidity constraints. Sector figures are Galaxy’s dated estimates, not independently reconciled library project counts or audited treasury balances.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Publisher date, introduction, definitions, decision-market section and conclusion reviewed October 24, 2026. October 15, 2026 publication confirmed. Treasury totals and market shares not recalculated; mixed treasury assets are distinguished from stablecoins and fundraising proceeds. Umia and other featured platforms are comparators, not additions to the MetaDAO raised-project registry. No contracts, current deployment status or underlying datasets independently verified; remaining product profiles not comprehensively reviewed.",
+    "author": "Zack Pokorny / Galaxy Research",
+    "type": "article",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.galaxy.com/insights/research/conditional-markets-decision-markets-impact-markets-mainnet-umia-metadao-proof-branchmap-branchpoint-prediction-markets-futarchy",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-galaxy-impact-markets-how-why",
+    "title": "Impact Markets: Addressing the How and Why of a Prediction Market Spinoff",
+    "date": "2026-01-26",
+    "url": "https://www.galaxy.com/insights/research/impact-markets-prediction-markets-conditional-pricing",
+    "description": "Galaxy contrasts event-conditioned asset valuations with binary directional forecasts, discussing payoff design, hedging and limits to causal interpretation. This is background for understanding markets related to futarchy; impact markets do not themselves imply a binding governance decision. Claims about demand and hedge quality remain the author’s analysis rather than verified investment outcomes.",
+    "tags": [
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete public article text and January 26, 2026 publisher date read October 24, 2026. Conditional-pricing arguments and stated limitations reviewed; charts, numerical examples and hedge-equivalence claims not independently reproduced. Conditional valuation is not treated as isolated causal effect. No MetaDAO-specific implementation or experimental success inferred; linked papers and underlying market data not newly audited.",
+    "author": "Zack Pokorny / Galaxy Research",
+    "type": "article",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.galaxy.com/insights/research/impact-markets-prediction-markets-conditional-pricing",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

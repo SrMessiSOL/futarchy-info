@@ -20024,5 +20024,26 @@
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24",
     "evidenceNote": "Complete public publisher overview, speaker credits and chapter guide reviewed October 24, 2026. May 5, 2026 date confirmed on original episode page. Publisher chapters: 1:20:56 futarchy, 1:28:44 conditional markets, 1:34:08 sacred goals. Page shows a Transcript label but no full transcript text in retrieved content; no full transcript or audio review claimed. Cultural, medical and effectiveness claims not independently validated. Catalog/current discovery checked for title and canonical URL."
+  },
+  {
+    "id": "external-laso-shoal-signal-hunter-monk",
+    "title": "Agents Will Run Their Own Businesses: Inside Laso, Agent Payment Cards, and Agent Commerce",
+    "author": "Shoal Research / Hunter Monk and zaddycoin",
+    "date": "2026-07-01",
+    "type": "video",
+    "url": "https://x.com/Shoalresearch/status/2072408613637754925",
+    "description": "Shoal Signal interviews Laso founder Hunter Monk about payment cards for AI agents, self-sovereign spending, x402 and agent-to-agent commerce. The publisher also identifies sections on defensibility and AGI risks. Included as a funded ecosystem founder interview; product capabilities and forecasts remain attributed claims.",
+    "tags": [
+      "Interview",
+      "project:laso-finance",
+      "Ecosystem"
+    ],
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://x.com/Shoalresearch/status/2072408613637754925",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24",
+    "evidenceNote": "Original Shoal Research X post reviewed in a normal read-only browser October 24, 2026 after HTTP retrieval returned no text. Visible July 1, 2026 publication date, Hunter Monk/Laso founder credits, complete publisher overview and chapter list, and embedded 49:49 video confirmed. Chapters include cards 2:35, agent businesses 7:35, x402 11:49, commerce 24:09, AGI risk 36:52 and defensibility 43:48. Full audio and transcript not reviewed; no transcript republished or regulatory/product claims independently validated. Catalog and discovery checked for URL and interview identity."
   }
 ]

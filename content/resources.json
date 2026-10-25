@@ -20484,5 +20484,26 @@
     "sourceUrl": "https://www.overcomingbias.com/p/futarchy-liquidity-details",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hanson-culture-guiding-futarchy",
+    "title": "Culture-Guiding Futarchy",
+    "author": "Robin Hanson",
+    "date": "2025-04-25",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/culture-guiding-futarchy",
+    "description": "Hanson proposes using combinatorial decision markets to connect corporate culture, leadership choices and stock-price outcomes, as practice for broader cultural governance. He contrasts this with simple policy-conditional markets. A speculative proposal, not evidence of successful deployment or a MetaDAO case study.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/culture-guiding-futarchy",
+    "evidenceNote": "Complete original article body and displayed publication date reviewed October 25, 2026. April 25, 2025 is publication. Author acknowledges uncertainty about governing cultural change. Corporate statistics and claims about prior Bayes Net technology remain attributed; linked studies and underlying datasets not independently reviewed. No audio or empirical implementation review. Catalog and discovery checked for title and canonical URL.",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

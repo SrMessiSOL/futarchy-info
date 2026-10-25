@@ -19435,5 +19435,49 @@
     "sourceUrl": "https://solanafloor.com/news/jurassic-finance-brings-museum-grade-triceratops-skull-to-solana",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "reference-p2p-governance-upgradability",
+    "title": "P2P Protocol: Governance and Upgradability",
+    "author": "P2P Foundation",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "type": "article",
+    "url": "https://docs.p2p.foundation/whitepaper/governance-upgradability/",
+    "description": "P2P describes its staged governance transition: an admin multisig still operates protocol parameters and upgrades, while some setters accept the Governor and others remain admin-gated. Planned phases reduce admin authority. The page distinguishes these Base controls from MetaDAO treasury and token-supply decisions on Solana. Documentation of the project’s stated controls, not independent deployment verification.",
+    "tags": [
+      "MetaDAO",
+      "Governance",
+      "Documentation",
+      "project:p2p-protocol"
+    ],
+    "evidenceNote": "Full current page read October 24, 2026. No publication date displayed. This specific authority-transition reference complements the separately cataloged Token Economics chapter; it does not imply all parameters are already DAO-only. Timelocks, member publication, pause limits, deployed Governor and current setter permissions are publisher claims; no contract, deployment or authority audit performed. Future phases are plans.",
+    "verification": "source-checked",
+    "sourceUrl": "https://docs.p2p.foundation/whitepaper/governance-upgradability/",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-futarchys-minor-flaw",
+    "title": "Futarchy’s Minor Flaw",
+    "author": "Robin Hanson / Overcoming Bias",
+    "date": "2025-10-02",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://www.overcomingbias.com/p/futarchys-minor-flaw",
+    "description": "Hanson responds to examples in which information arriving between market pricing and a decision biases conditional prices. He accepts the bias in the examples and argues for changes to decision timing and market design, including explicit options to wait. A theoretical response about decision-selection bias, rather than evidence that every practical futarchy design avoids it.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete public essay text and October 2, 2025 byline read October 24, 2026. Embedded equations/graphs and linked experiments were not independently reproduced or mathematically validated. Critic quotations remain quotations presented by Hanson; linked criticism is not newly source-checked here. Proposed remedies and feasibility are the author’s arguments, not a MetaDAO execution or empirical safety result.",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/futarchys-minor-flaw",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

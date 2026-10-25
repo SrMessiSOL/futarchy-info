@@ -1,3 +1,24 @@
+# P2P authority transition and Hanson selection-bias response: October 24, 2026
+
+PR #80 merged as b06105ed596f3ac3ba1c68a719a2780a63630e20. Deployment 40146791707 succeeded. Credible and Jurassic additions match merged fields in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review |
+| --- | --- | --- |
+| [P2P Governance and Upgradability](https://docs.p2p.foundation/whitepaper/governance-upgradability/) | Undated living reference | Full page read; admin-transition details qualify broad design language in the separate token-economics chapter. Deployment and authorities not audited. |
+| [Hanson: Futarchy's Minor Flaw](https://www.overcomingbias.com/p/futarchys-minor-flaw) | October 2, 2025 publication | Full essay text read. Acknowledged selection bias and proposed design remedies distinguished from empirical validation. Equations/linked experiments not reproduced. |
+
+## Other leads and gaps
+
+Catalog/current discovery checked for URL and identity overlap; neither found. Existing 80,000 Hours, Sheldon and Solomon interviews/articles were not duplicated. Wider Kimia and Areal searches yielded no additional accepted interview this pass; unrelated namesake results excluded. Funded-project checklist read, no registry change. Founder archives, new-raise reconciliation, unread Cassandra material and Radio #4/#13 audio remain open. No exhaustive coverage claim. No transcript, lifecycle or automation changes.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. Additions await review, not merged or deployed.
+
+---
+
 # Credible disclosure and Jurassic campaign reporting: October 24, 2026
 
 PR #79 merged as 0fa7081ab9c5624e3728a6bc94fb65dd55491729. Production deployment 40146075279 succeeded. Both P2P entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).

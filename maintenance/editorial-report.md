@@ -1,3 +1,24 @@
+# Hanson governance research: October 24, 2026
+
+PR #83 merged as 9f2619899277731449eda6acd92f495bf68659dc. Production run 40148378918 succeeded; both additions were verified against main-library and individual JSON endpoints in the preceding deployment review.
+
+## Accepted additions
+
+| Source | Publication date | Review boundary |
+| --- | --- | --- |
+| [Federal Futarchy](https://www.overcomingbias.com/p/federal-futarchy) | January 28, 2025 | Full article read. Proposed trials and evaluation requirements, not government adoption or independently verified effectiveness. |
+| [Futarchy As Meta Governance](https://www.overcomingbias.com/p/futarchy-as-meta-governance) | March 5, 2025 | Full article read. Insider-information limits and institutional choice; corporate comparisons remain attributed arguments. |
+
+## Discovery and limits
+
+Catalog and current discovery checked for matching URLs and identities. Conversations with Tyler #35 and Stranded Technologies #3 already exist; no duplicate editions added. Hanson's press archive supplied further leads, but Re:Thinking, Old Bull, FIR and Bloggingheads pages could not be read through web discovery and remain unverified candidates, not additions. No access protections bypassed. No new unique interview accepted this pass. Both additions are general decision-market background; neither establishes a MetaDAO implementation. Funded-project founder research, roster reconciliation and missing Radio #4/#13 audio remain open. No exhaustive coverage claim. Registry, transcripts and manual editorial policy unchanged.
+
+## Validation
+
+Passed main-library eligibility checks, npm run check (62 tests, content validation and TypeScript), production build with webpack, and git diff --check. Prepared for review only; not merged or deployed.
+
+---
+
 # MetaDAO financing decision and conditional-market critique: October 24, 2026
 
 PR #82 merged as 5927f294d9d38c2704b310046fe28168fcc78e0d. Deployment 40147963745 succeeded. Both Omnipair entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).

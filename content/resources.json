@@ -20108,5 +20108,45 @@
     "sourceUrl": "https://www.overcomingbias.com/p/meta-institutionshtml",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "external-umbra-superteam-india-kru",
+    "title": "He Went from a Car Designer to a Full-time Founder on Solana | Superteam India",
+    "author": "Superteam India / Paarug and Kru",
+    "date": "2026-08-01",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=J9CeVJv14FA",
+    "description": "Paarug interviews Umbra co-founder Kru about joining Solana, community building, his career change and founder operations. The publisher also covers Umbra’s MetaDAO fundraising, describing $155 million in commitments rather than accepted proceeds. Summary based on the publisher’s description and chapter guide.",
+    "tags": [
+      "Interview",
+      "project:umbra"
+    ],
+    "evidenceNote": "Original Superteam India YouTube page reviewed in normal read-only browser October 25, 2026. Expanded description confirms August 1, 2026 publication; player duration 17:19. Complete publisher overview and eight chapter labels reviewed, including MetaDAO 4:15, fundraising 6:02, career pivots 9:04 and operations 14:06. No full recording or transcript review claimed. Chapter headline says raise but description explicitly says commitments; not treated as proceeds. No third-party transcript republished. Catalog and discovery checked for video ID and interview identity.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=J9CeVJv14FA",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "external-solomon-genfinity-cole-mcmillian",
+    "title": "Solomon Labs CMO Cole McMillian on Why USDv Ends Idle Capital on Solana",
+    "author": "Genfinity / Generation Infinity",
+    "date": "2026-09-24",
+    "type": "article",
+    "url": "https://genfinity.io/2026/09/24/solomon-labs-cole-mcmillian-usdv-interview/",
+    "description": "Genfinity’s interview write-up with Solomon CMO Cole McMillian covers USDv’s design, ownership tracking and planned integrations. Reserve, audit, yield and partnership statements remain attributed claims. The publisher’s text is reviewed; the associated recording has not been fully reviewed.",
+    "tags": [
+      "Interview",
+      "project:solomon"
+    ],
+    "evidenceNote": "Complete original publisher article and September 24, 2026 publication date reviewed October 25, 2026. This is the written interview account, not a full audio review. The page’s embedded launch post describes a MetaDAO conversion proposal, while prose describes conversion as accomplished; no execution inferred. Reserve quality, audit scope, rates and third-party loss claims not independently validated. Linked X edition treated as the same interview, not a separate catalog addition. Catalog and discovery checked for URL, guest and edition identity.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://genfinity.io/2026/09/24/solomon-labs-cole-mcmillian-usdv-interview/",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

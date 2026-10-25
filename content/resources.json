@@ -20232,5 +20232,46 @@
     "sourceUrl": "https://www.perc.org/2012/08/10/decision-markets-for-environmental-policy/",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "research-hanson-cato-meta-policy",
+    "title": "Decision Markets as Meta-Policy",
+    "author": "Robin Hanson / Cato Institute",
+    "date": "2014-11-21",
+    "url": "https://www.cato.org/cato-online-forum/decision-markets-meta-policy",
+    "description": "Hanson outlines futarchy through welfare measurement, proposal incentives, conditional markets and safeguards. He contrasts advisory markets with markets that directly choose policy and discusses obstacles to voter adoption. A proposed institutional design, not evidence of implemented policy or demonstrated growth benefits.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete original Cato Online Forum essay and November 21, 2014 publication date reviewed October 25, 2026. Distinguishes hypothetical incentives and forecasts from demonstrated results. Later September 2015 book-chapter listing is not substituted for this web edition’s date or added as another edition. Claims about accuracy, manipulation and growth remain the author’s arguments. Catalog and discovery checked for title and canonical URL.",
+    "type": "article",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.cato.org/cato-online-forum/decision-markets-meta-policy",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "external-max-tang-case-for-metadao",
+    "title": "The Case for MetaDAO",
+    "author": "Max Tang",
+    "date": "2026-02-01",
+    "url": "https://cryptoeconguy.substack.com/p/the-case-for-metadao",
+    "description": "Tang analyzes MetaDAO’s dependence on new launches and trading fees, competition, liquidity and valuation assumptions. Historical investment analysis written in early January and published in February 2026. Forecasts, market figures and recommendations are the author’s views; inclusion does not endorse the trade thesis or claims of investor protection.",
+    "tags": [
+      "MetaDAO",
+      "Research"
+    ],
+    "evidenceNote": "Complete original article text, author and February 1, 2026 publication date reviewed October 25, 2026. Page explicitly says memo written early January; publication date retained. Linked valuation spreadsheet, charts and underlying fee, wallet and legal claims not independently audited. Avoids repeating price targets, execution suggestions, protection guarantees or mint-control implications as established facts. Catalog and discovery checked for canonical URL and title.",
+    "type": "article",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://cryptoeconguy.substack.com/p/the-case-for-metadao",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

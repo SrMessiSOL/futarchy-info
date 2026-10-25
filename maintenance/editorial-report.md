@@ -1,3 +1,24 @@
+# MetaDAO historical analysis and policy design: October 25, 2026
+
+PR #100 merged as 4f5d27eeb3f7c3fc15a3494871f0b83eb2e725f5. Production deployment 40158291693 succeeded. Both recording entries match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Cato: Decision Markets as Meta-Policy](https://www.cato.org/cato-online-forum/decision-markets-meta-policy) | November 21, 2014 | Complete web essay read. Later book edition not duplicated; proposed benefits are not demonstrated results. |
+| [Max Tang: The Case for MetaDAO](https://cryptoeconguy.substack.com/p/the-case-for-metadao) | February 1, 2026 | Complete article text read. Early-January composition distinguished from publication; linked model and underlying metrics not audited. Historical analysis, no endorsement of forecasts or trading advice. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for canonical URLs and source identities. Existing MCG Backable interview was not duplicated. Basket’s profile and The Inner Table’s pre-raise interview are leads, not new proof of completed fundraising. Fundraising Fox profile has conflicting historical and fundraising claims, so it was not accepted. PERC recording playback/completeness remains unverified; live catalog access does not prove audio health. No exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Missing decision-market recordings: October 25, 2026
 
 PR #99 merged as 9f45b223acbd8f2a51c24f68d997ac9ff174315b. Production deployment 40157911338 succeeded. Both articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

@@ -1,3 +1,21 @@
+# Missing funded-project founder interview: October 24, 2026
+
+PR #94 merged as 7e411dd65efd394309976a4c24d2dfbb8cf3eaaa. Production deployment 40155906861 succeeded. The Over the Mountains Hanson interview matches merged fields in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted addition
+
+[Shoal Signal with Laso founder Hunter Monk](https://x.com/Shoalresearch/status/2072408613637754925), July 1, 2026. Original publisher post, complete overview and chapter guide reviewed in a normal read-only browser; embedded recording is 49:49. Topics cover agent payment cards, x402, agent commerce, defensibility and AGI risks. Video entry points directly to the recording, not a separate announcement. This is not a full recording or transcript review; compliance, capability and future product claims are not independently validated.
+
+## Discovery and gaps
+
+Canonical URL and interview identity checked against catalog and current discovery. Existing Hunter Monk Ownership Podcast, Lightning.news interview and Laso launch articles were not duplicated. Hanson Converging Dialogues, ReThinking and Old Bull remain leads requiring sufficient original-page review. Missing Radio #4 and #13 audio remains unresolved. One verified addition; no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Initial build hit a sandbox directory-write denial; permitted retry succeeded. Prepared for review, not merged or deployed.
+
+---
+
 # Missing Hanson interview: October 24, 2026
 
 PR #93 merged as 8eabec7e27c94e5a07a93f750b4fe0f0aa4fed73. Deployment 40155574330 succeeded. METADAO-037 and Development Futures match merged fields in main-library and individual production JSON endpoints (HTTP 200).

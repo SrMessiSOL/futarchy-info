@@ -19392,5 +19392,48 @@
     "sourceUrl": "https://docs.p2p.foundation/whitepaper/token-economics/",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-credible-blockworks-filing",
+    "title": "Credible Finance Token Transparency Filing",
+    "author": "Credible Finance / Blockworks",
+    "date": null,
+    "dateKind": "unknown",
+    "datePrecision": "unknown",
+    "undatedReference": true,
+    "type": "article",
+    "url": "https://blockworks.com/token-transparency/filing/credible-finance",
+    "description": "Credible’s issuer disclosure covers its segregated-portfolio structure, operating company, intellectual property, treasury allowance, token allocations and funding. It describes governance and enforcement powers and distinguishes operating revenue from raise proceeds. The reviewed page is marked Partial with one gap; Blockworks assesses completeness rather than verifying the answers.",
+    "tags": [
+      "MetaDAO",
+      "Transparency",
+      "project:credible"
+    ],
+    "evidenceNote": "All 18 public section headings, available responses and disclaimer read October 24, 2026. July 27 filing header and July 22 incident as-of statement are not a verified publication date for current living contents. Partial/one-gap status observed, not an audit finding or regulatory approval. Linked legal documents, wallets, authority enforcement and financial figures not independently verified. No automatic holder distributions inferred.",
+    "verification": "source-checked",
+    "sourceUrl": "https://blockworks.com/token-transparency/filing/credible-finance",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-solanafloor-jurassic-deaton-campaign",
+    "title": "Jurassic Finance Brings Museum-Grade Triceratops Skull to Solana",
+    "author": "SolanaFloor / Pablo",
+    "date": "2026-08-18",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://solanafloor.com/news/jurassic-finance-brings-museum-grade-triceratops-skull-to-solana",
+    "description": "SolanaFloor reports on Jurassic’s opened Deaton fundraising campaign and proposed fossil-specific SPV and token structure. It describes a $660,000 target and partial funding at publication, alongside proposed museum arrangements. This is a campaign checkpoint, not evidence of completed acquisition, finalized custody or enforceable tokenholder rights.",
+    "tags": [
+      "MetaDAO",
+      "Real World Assets",
+      "project:jurassic-finance"
+    ],
+    "evidenceNote": "Full article read October 24, 2026. Original article:published_time and JSON-LD datePublished/dateModified agree on August 18, 2026 at 18:57:47.660 UTC. August 17 raise opening is a separate reported event. Distinct from the existing July 29 Solana Compass pre-launch article. Funding, fossil authentication, legal ownership and museum arrangements remain attributed reporting, not independently audited outcomes.",
+    "verification": "source-checked",
+    "sourceUrl": "https://solanafloor.com/news/jurassic-finance-brings-museum-grade-triceratops-skull-to-solana",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

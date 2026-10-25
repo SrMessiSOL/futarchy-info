@@ -20190,5 +20190,47 @@
     "sourceUrl": "https://www.anotherpanacea.com/2011/01/14/conceptual-and-practical-obstacles-to-futarchy/",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "external-hanson-ideamarket-3",
+    "title": "Robin Hanson: Boxing with the King of Prediction Markets | Ideamarket Podcast Ep 3",
+    "author": "Ideamarket / Mike Elias and Robin Hanson",
+    "date": "2021-08-16",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=wC6krCh48-Q",
+    "description": "Ideamarket interviews Hanson about idea futures and organizational decision markets before debating credibility, informed versus noise traders and whether market signals track external truth. Included for its explicit decision-market section and mechanism-design discussion. Summary follows the publisher’s overview and chapters, not a full recording review.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Interview",
+      "Research"
+    ],
+    "evidenceNote": "Original Ideamarket YouTube overview, complete chapter list, August 16, 2021 premiere date and 1:51:16 duration reviewed in normal browser October 25, 2026. Decision markets chapter starts 6:30 on video; syndicated audio lists 6:00 and about 1:48 total, so offsets were not mixed. Hanson’s GMU press archive corroborates date, host and episode identity. No full audio/transcript review or transcript republication; no MetaDAO interview inferred. Catalog and discovery checked for video ID, title and alternate audio edition.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.youtube.com/watch?v=wC6krCh48-Q",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "external-hanson-perc-environmental-policy",
+    "title": "Decision Markets for Environmental Policy",
+    "author": "PERC / Robin Hanson",
+    "date": "2012-08-10",
+    "type": "podcast",
+    "url": "https://www.perc.org/2012/08/10/decision-markets-for-environmental-policy/",
+    "description": "PERC hosts a workshop audio page for Hanson’s presentation on information markets for environmental services. Historical decision-market background from the workshop on financial contracting, transaction costs and environmental amenities. The publisher’s short description establishes the topic; the recording has not been reviewed.",
+    "tags": [
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Original PERC page reviewed in normal browser October 25, 2026 after HTTP retrieval failed. Page displays August 10, 2012, names Hanson and workshop, and includes an audio player. Date is publisher page date; exact presentation day not independently established. Player initially showed 00:00 duration; audio playback, completeness and file health not verified. No detailed speech summary or transcript provided. Catalog and discovery checked for canonical URL and title.",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.perc.org/2012/08/10/decision-markets-for-environmental-policy/",
+    "addedAt": "2026-10-25",
+    "checkedAt": "2026-10-25"
   }
 ]

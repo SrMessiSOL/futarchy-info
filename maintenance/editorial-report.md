@@ -1,3 +1,24 @@
+# Missing decision-market recordings: October 25, 2026
+
+PR #99 merged as 9f45b223acbd8f2a51c24f68d997ac9ff174315b. Production deployment 40157911338 succeeded. Both articles match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Ideamarket Podcast #3 with Hanson](https://www.youtube.com/watch?v=wC6krCh48-Q) | August 16, 2021 | Original publisher overview and full chapter list reviewed. Video chapter offsets differ from syndicated audio; video offsets retained. Full recording/transcript not reviewed. |
+| [PERC: Decision Markets for Environmental Policy](https://www.perc.org/2012/08/10/decision-markets-for-environmental-policy/) | August 10, 2012 | Original short publisher description and audio-player presence reviewed. Page date is not independently verified presentation date. Player duration and audio playback remain unverified. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for canonical URLs, titles and edition identity. Existing Omnipair treasury decision OMFG-006, Ownership Rakka/Paystream and Latest Development Kollan interviews were not duplicated. Old Bull’s Hanson interview remains a lead after HTTP failure; no content inferred. PERC audio health/completeness remains a disclosed gap. Funded-project founder research remains open; no exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production webpack build and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Decision-market design limits: October 25, 2026
 
 PR #98 merged as d3dd45e71f351e53ce941efb3b745d7fdf1484f6. Production deployment 40157590874 succeeded. Both interviews match merged title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200).

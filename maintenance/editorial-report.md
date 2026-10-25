@@ -1,3 +1,24 @@
+# Conditional-market research: October 24, 2026
+
+PR #87 merged as 1a2fd527d996e1347b9cb84a9fb22785d86f36c4. Deployment 40150985603 succeeded. Both Rinko and Robbins interviews match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Publication | Review boundary |
+| --- | --- | --- |
+| [Galaxy conditional-market survey](https://www.galaxy.com/insights/research/conditional-markets-decision-markets-impact-markets-mainnet-umia-metadao-proof-branchmap-branchpoint-prediction-markets-futarchy) | October 15, 2026 | Introduction, definitions, decision-market section and conclusion reviewed. Sector figures not independently reconciled. |
+| [Galaxy impact-market analysis](https://www.galaxy.com/insights/research/impact-markets-prediction-markets-conditional-pricing) | January 26, 2026 | Full public text read; theoretical comparisons not independently validated. General background, not new MetaDAO implementation evidence. |
+
+## Other leads and gaps
+
+Catalog and current discovery checked for matching URLs and identities. Earlier Galaxy ownership-coin and futarchy reports remain separate works. Reflexivity overview could not be fetched and remains unread; Eidos thesis is a candidate needing a separate methodology/source review. No summaries inferred from inaccessible pages or exhaustive coverage claimed. No new unique interview accepted this pass. Funded-project founder archives and Radio audio gaps remain open. Registry, transcripts and automation unchanged. X posting remains disabled as requested.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Colosseum interviews on MetaDAO capital formation: October 24, 2026
 
 PR #86 merged as 4df049db180234158c726072a3de2f87717ef773. Production run 40150602083 succeeded. Both Phantom and Hanson entries match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).

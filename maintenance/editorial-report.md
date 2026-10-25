@@ -1,3 +1,24 @@
+# MetaDAO interview and historical security report: October 24, 2026
+
+PR #84 merged as 7f05bf61718414aa47a9f21673e6c890ae545af1. Production run 40149842475 succeeded. Both Hanson articles match merged titles, dates, URLs, source URLs and descriptions in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [Proph3t on The Gwart Show](https://blockspace.media/podcast/prediction-markets-but-for-everything-futarchy-with-proph3t/) | September 1, 2024 publication | Publisher overview reviewed, not a full listen. Featured player/date above this episode belong to another recording. |
+| [Neodyme MetaDAO AMM report](https://neodyme.io/reports/MetaDAO.pdf) | July 10, 2024 document date, event rather than verified publication | Scope and all four finding/remediation sections reviewed. Three fixed, one accepted; no assurance about current code. |
+
+## Other leads and limits
+
+Current catalog and discovery checked for canonical URLs, titles and video identity. SRC:TLK #12, Colosseum #3, Solfate #57 and Advisory Futarchy already exist and were not duplicated. Gwart's Apple link resolves to the overall show; canonical episode page retained. Neodyme revision scope and individual statuses retained without reproducing the report or claiming independent auditing. Funded-project roster unchanged; founder archives and Radio #4/#13 audio remain incomplete. No exhaustive coverage claim, transcripts or automation changes.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Hanson governance research: October 24, 2026
 
 PR #83 merged as 9f2619899277731449eda6acd92f495bf68659dc. Production run 40148378918 succeeded; both additions were verified against main-library and individual JSON endpoints in the preceding deployment review.

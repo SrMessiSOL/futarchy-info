@@ -19958,5 +19958,49 @@
     "sourceUrl": "https://drive.google.com/file/d/1w5FhIt8y-FFcRTo_uCMUY54cqMxrDZks/view",
     "addedAt": "2026-10-24",
     "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "decision-metadao-037",
+    "title": "MetaDAO: Fund Futarchy Applications Research at George Mason University",
+    "author": "MetaDAO / Proph3t and Kollan",
+    "date": "2026-03-20",
+    "dateKind": "event",
+    "url": "https://metadao.fi/decisions/metadao-037",
+    "description": "MetaDAO approved a proposal requesting $80,007 for a Hanson-led experimental study of decision-market governance at George Mason University. The plan names Daniel Houser and proposes controlled experiments with student participants. The displayed executed instruction is an authorization memo; it does not independently establish payment, a signed agreement, completed experiments or published findings.",
+    "tags": [
+      "MetaDAO",
+      "Futarchy",
+      "Decision Markets",
+      "Governance",
+      "Research"
+    ],
+    "evidenceNote": "Full rendered summary, budget, risks and Instructions tab read in the normal browser October 24, 2026 after public HTTP hit a security checkpoint. March 20 is Created on, not publication or disbursement. Passed outcome and Executed memo displayed; memo authorizes agreement signature and transfer. No transfer transaction, contract, IRB approval, recruitment, results or supporting Drive documents independently inspected. Proposed April–September schedule is not evidence of completion.",
+    "type": "article",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/metadao-037",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "id": "external-hanson-development-futures",
+    "title": "Development Futures",
+    "author": "Robin Hanson / Overcoming Bias",
+    "date": "2007-11-19",
+    "dateKind": "publication",
+    "url": "https://www.overcomingbias.com/p/development-futhtml",
+    "description": "Hanson proposes decision markets to compare measurable development-project outcomes conditional on approval or rejection. He discusses revealing alternatives and evaluation criteria, subsidizing participation and building a track record. A historical proposal for decision support in aid and public policy, not evidence of adoption or a validated causal-impact estimator.",
+    "tags": [
+      "Futarchy",
+      "Decision Markets",
+      "Research"
+    ],
+    "evidenceNote": "Complete public article body and November 19, 2007 publisher date reviewed October 24, 2026. Hypothetical examples and claims about comparing conditional outcomes remain attributed proposals; selection bias, causal identification and empirical performance not independently resolved. Linked studies, full comments and alleged institutional use not newly verified. No MetaDAO implementation claim.",
+    "type": "article",
+    "datePrecision": "day",
+    "verification": "source-checked",
+    "sourceUrl": "https://www.overcomingbias.com/p/development-futhtml",
+    "addedAt": "2026-10-24",
+    "checkedAt": "2026-10-24"
   }
 ]

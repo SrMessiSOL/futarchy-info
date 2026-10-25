@@ -1,3 +1,24 @@
+# Futarchy research authorization and development applications: October 24, 2026
+
+PR #92 merged as bf81589e2adb4c29d7cd8f5f5a98faa0bc309afd. Deployment 40153633543 succeeded. Both financial-report entries match merged fields in main-library and individual production JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review boundary |
+| --- | --- | --- |
+| [METADAO-037](https://metadao.fi/decisions/metadao-037) | March 20, 2026 proposal creation | Full summary and instruction reviewed in normal browser. Executed memo is authorization, not verified payment or research delivery. |
+| [Hanson: Development Futures](https://www.overcomingbias.com/p/development-futhtml) | November 19, 2007 publication | Full article read; historical design proposal, not validated causal inference or institutional adoption. |
+
+## Discovery and gaps
+
+Catalog and current discovery checked for canonical URLs and identities. Letter to Founders, SOL BROTHERS Umbra, Lightspeed Kru/Cal and Index interviews already exist. HTTP checkpoint on proposal respected; read-only browser recovered public content. No supporting Drive agreement, grant disbursement, experimental results or on-chain transfer verified. Additional institutional reports and founder archives remain leads; no new unique interview accepted this pass or exhaustive coverage claim. Registry, transcripts and automation unchanged; X posting disabled.
+
+## Validation
+
+Passed main-library eligibility, npm run check (62 tests, catalog validation and TypeScript), production build with webpack and git diff --check. Prepared for review, not merged or deployed.
+
+---
+
 # Official MetaDAO quarterly statements: October 24, 2026
 
 PR #91 merged as cf710c168939c7774e4201daeee68ed8e751d291. Deployment 40153183835 succeeded. Coindoo and Hanson entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).

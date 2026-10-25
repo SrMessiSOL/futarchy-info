@@ -1,3 +1,24 @@
+# P2P fundraising reporting and governance reference: October 24, 2026
+
+PR #78 merged as 4f07a0a6bc55ac594dd814b67a5e7fc40e772e45. Deployment 40145323053 succeeded. Freakonomics and Sintetia entries match merged fields in production main-library and individual JSON endpoints (HTTP 200).
+
+## Accepted additions
+
+| Source | Date treatment | Review |
+| --- | --- | --- |
+| [Blockworks: P2P's costly stunt](https://blockworks.com/newsletter/0xresearch/issue/post_dfcd178a-4e15-4b31-b9cd-3df15d5fb0f2) | March 31, 2026 publication during sale | Full P2P section read. Reporting and estimated protection remain attributed, not legal findings or a loss guarantee. Commitments are not proceeds. |
+| [P2P Token Economics](https://docs.p2p.foundation/whitepaper/token-economics/) | Undated living reference | Complete page read. Distinguishes Base Governor from Solana decision markets; statements are design claims, not a deployment audit. Fixed-supply wording qualified against allowed governance changes. |
+
+## Research boundaries
+
+Catalog and discovery checked for URL/identity overlap; neither found. Existing Umbra interviews, Avici manifesto and Credible July articles were not duplicated. CIES synthesis remains unaccepted pending review and primary verification of broad technical claims. Cassandra page still unread: normal HTTP request stopped at an insecure redirect; no protection bypass attempted. No new unique interview accepted this pass. Funded roster read; no registry, lifecycle, transcript or schedule change. Founder archives, new-raise reconciliation and Radio #4/#13 audio remain open; no exhaustive coverage claim.
+
+## Validation
+
+Catalog validation, all 62 tests, TypeScript, both main-library eligibility checks and production webpack build passed. Diff whitespace check passed. New additions are not merged or deployed.
+
+---
+
 # Decision-market interviews: October 24, 2026
 
 PR #77 merged as 72dc5423f23f6d3e52be629aa67eb3f9d986625e. Production deployment 40113319681 succeeded. Both additions match merged titles, dates, URLs, source URLs and descriptions in main-library and individual JSON endpoints (HTTP 200).

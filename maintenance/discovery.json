@@ -248,22 +248,29 @@
       "sourceId": "01resolved",
       "discoveredAt": "2026-10-25",
       "status": "pending"
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E03-Lili-over-computer-e3r55ao",
+      "title": "Ownership Podcast S2 E03: Lili (over.computer)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-10-27",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-10-26",
+      "lastSuccess": "2026-10-27",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-26",
+      "lastAttempt": "2026-10-27",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-26",
+      "lastAttempt": "2026-10-27",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -273,18 +280,18 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-10-26",
+      "lastSuccess": "2026-10-27",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-10-26",
+      "lastSuccess": "2026-10-27",
       "links": 56
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-10-26",
-      "links": 15
+      "lastSuccess": "2026-10-27",
+      "links": 16
     },
     "kleros-feed": {
       "status": "ok",
@@ -313,17 +320,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-26",
+      "lastSuccess": "2026-10-27",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-26",
+      "lastSuccess": "2026-10-27",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-26",
+      "lastSuccess": "2026-10-27",
       "links": 14
     }
   }

@@ -255,22 +255,36 @@
       "sourceId": "ownership-feed",
       "discoveredAt": "2026-10-27",
       "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/metadao-reallocates-1-9m-from-ownership-capital-to-an-ecosystem-fund-and-rip-cars-closes-its-1-5m-round/",
+      "title": "MetaDAO Reallocates $1.9M from Ownership Capital to an Ecosystem Fund and Rip Cars Closes its $1.5M Round.",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-11-01",
+      "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-october-2026/",
+      "title": "Ownership Coin Monthly: October",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-11-01",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-10-31",
+      "lastSuccess": "2026-11-01",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-31",
+      "lastAttempt": "2026-11-01",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-10-31",
+      "lastAttempt": "2026-11-01",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -280,17 +294,17 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-10-31",
+      "lastSuccess": "2026-11-01",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-10-31",
-      "links": 56
+      "lastSuccess": "2026-11-01",
+      "links": 58
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-10-31",
+      "lastSuccess": "2026-11-01",
       "links": 16
     },
     "kleros-feed": {
@@ -320,17 +334,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-31",
+      "lastSuccess": "2026-11-01",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-31",
+      "lastSuccess": "2026-11-01",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-10-31",
+      "lastSuccess": "2026-11-01",
       "links": 14
     }
   }

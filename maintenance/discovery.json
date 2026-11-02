@@ -269,22 +269,29 @@
       "sourceId": "01resolved",
       "discoveredAt": "2026-11-01",
       "status": "pending"
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E04-Marc-Ryan-Spout-Finance-e3rjqi2",
+      "title": "Ownership Podcast S2 E04: Marc Ryan (Spout Finance)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-11-02",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-11-01",
+      "lastSuccess": "2026-11-02",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-01",
+      "lastAttempt": "2026-11-02",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-01",
+      "lastAttempt": "2026-11-02",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -294,18 +301,18 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-11-01",
+      "lastSuccess": "2026-11-02",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-11-01",
+      "lastSuccess": "2026-11-02",
       "links": 58
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-11-01",
-      "links": 16
+      "lastSuccess": "2026-11-02",
+      "links": 17
     },
     "kleros-feed": {
       "status": "ok",
@@ -334,17 +341,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-01",
+      "lastSuccess": "2026-11-02",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-01",
+      "lastSuccess": "2026-11-02",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-01",
+      "lastSuccess": "2026-11-02",
       "links": 14
     }
   }

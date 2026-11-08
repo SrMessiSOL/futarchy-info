@@ -276,22 +276,29 @@
       "sourceId": "ownership-feed",
       "discoveredAt": "2026-11-02",
       "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/1609sat-draws-6-9m-in-commitments-and-metadao-names-mori-finance-its-next-curated-raise/",
+      "title": "1609SAT Draws $6.9M in Commitments and MetaDAO Names Mori Finance Its Next Curated Raise",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-11-08",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-11-07",
+      "lastSuccess": "2026-11-08",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-07",
+      "lastAttempt": "2026-11-08",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-07",
+      "lastAttempt": "2026-11-08",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -301,17 +308,17 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-11-07",
+      "lastSuccess": "2026-11-08",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-11-07",
-      "links": 58
+      "lastSuccess": "2026-11-08",
+      "links": 59
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-11-07",
+      "lastSuccess": "2026-11-08",
       "links": 17
     },
     "kleros-feed": {
@@ -341,17 +348,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-07",
+      "lastSuccess": "2026-11-08",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-07",
+      "lastSuccess": "2026-11-08",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-07",
+      "lastSuccess": "2026-11-08",
       "links": 14
     }
   }

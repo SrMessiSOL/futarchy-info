@@ -20505,5 +20505,252 @@
     "evidenceNote": "Complete original article body and displayed publication date reviewed October 25, 2026. April 25, 2025 is publication. Author acknowledges uncertainty about governing cultural change. Corporate statistics and claims about prior Bayes Net technology remain attributed; linked studies and underlying datasets not independently reviewed. No audio or empirical implementation review. Catalog and discovery checked for title and canonical URL.",
     "addedAt": "2026-10-25",
     "checkedAt": "2026-10-25"
+  },
+  {
+    "id": "proposal-metadao-042",
+    "title": "METADAO-042: Ownership Capital Escrow and Ecosystem Fund",
+    "author": "MetaDAO",
+    "date": "2026-10-26",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/metadao-042",
+    "description": "Ends the prior Ownership Capital authorization and proposes allocating the escrowed USDC to a segregated MetaDAO LLC ecosystem fund. MetaDAO marks the decision Passed; escrow release, transfer and agreement amendment were not independently verified.",
+    "tags": [
+      "MetaDAO",
+      "Governance"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/metadao-042",
+    "evidenceNote": "Created October 26 per detail page. Proposal summary and market result reviewed; custody wording lists four names with a 2-of-3 threshold, so signer composition is unresolved.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "proposal-nectar-001",
+    "title": "NECTAR-001: HiveBits Treasury Transfer",
+    "author": "HiveBits / MetaDAO",
+    "date": "2026-10-27",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/nectar-001",
+    "description": "Proposal to transfer 92,000 USDC from the HiveBits treasury to an external wallet. MetaDAO records the decision as Failed.",
+    "tags": [
+      "project:hivebits",
+      "Governance"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/nectar-001",
+    "evidenceNote": "Detail shows creation October 27; index shows market launch October 28. Reviewed displayed summary and result, not transaction instructions.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "proposal-nectar-002",
+    "title": "NECTAR-002: HiveBits Action Catalog",
+    "author": "HiveBits / MetaDAO",
+    "date": "2026-10-28",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://metadao.fi/decisions/nectar-002",
+    "description": "Proposal to adopt the action catalog, under which proposals select an action with its own terms. MetaDAO records the decision as Passed; implementation was not independently verified.",
+    "tags": [
+      "project:hivebits",
+      "Governance"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.fi/decisions/nectar-002",
+    "evidenceNote": "Detail shows creation October 28; index shows market launch October 31. Reviewed displayed summary and result, not transaction instructions.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "proposal-loyal-004",
+    "title": "LOYAL-004: Withdraw Half of Futarchy AMM Liquidity to Treasury",
+    "author": "Loyal / MetaDAO",
+    "date": "2026-10-29",
+    "dateKind": "event",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://metadao.com/decisions/loyal-004",
+    "description": "Proposal to move half of the DAO-owned LOYAL/USDC futarchy AMM position into the Loyal treasury. The current MetaDAO decision index records Passed; withdrawal was not independently verified.",
+    "tags": [
+      "project:loyal",
+      "Governance"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://metadao.com/decisions/loyal-004",
+    "evidenceNote": "Detail shows October 29 creation and an older Live snapshot; MetaDAO decisions index shows October 31 launch and Passed. Reviewed displayed summary and result.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "research-01resolved-monthly-2026-10",
+    "title": "Ownership Coin Monthly: October",
+    "author": "01Resolved",
+    "date": "2026-11-01",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://01resolved.com/research/ownership-coin-monthly-research-report-october-2026/",
+    "description": "01Resolved reviews October Backable raises, treasury and operating developments, and concentration in decision-market activity. The issue also discusses research data quality and analyzes Laso Finance.",
+    "tags": [
+      "MetaDAO",
+      "Decision Markets",
+      "Research",
+      "project:laso-finance"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://01resolved.com/research/ownership-coin-monthly-research-report-october-2026/",
+    "evidenceNote": "Publisher displays November 1; October is the reporting period. Overview and relevant ledger and market sections reviewed; analytics, valuations and reported executions not independently reproduced.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "news-compass-metadao-apps-program",
+    "title": "MetaDAO Launches Apps Program for Consumer App Raises",
+    "author": "Solana Compass",
+    "date": "2026-11-04",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "news",
+    "url": "https://solanacompass.com/news/metadao-launches-apps-program-for-consumer-app-raises-starting-with-1609sats-100000-round",
+    "description": "Solana Compass reports on MetaDAO's consumer-app funding track and the first round's terms, including MetaDAO's planned anchor allocation and limits on founder token sales. Company traction is self-reported.",
+    "tags": [
+      "MetaDAO",
+      "Backable"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://solanacompass.com/news/metadao-launches-apps-program-for-consumer-app-raises-starting-with-1609sats-100000-round",
+    "evidenceNote": "Full publisher article reviewed. November 4 is publication, distinct from the scheduled opening. Compared terms with the official 1609SAT listing; no program audit or settlement verification.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "news-compass-1609sat-close-mori-open",
+    "title": "1609SAT Raise Closes and Mori Finance Opens Its Raise",
+    "author": "Solana Compass",
+    "date": "2026-11-09",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "news",
+    "url": "https://solanacompass.com/news/metadaos-1609sat-raise-closes-79x-oversubscribed-with-79m-committed-as-mori-finance-raise-opens",
+    "description": "Solana Compass reports about $7.9 million in 1609SAT commitments against a $100,000 cap and the opening of Mori Finance's curated round. The commitments do not represent accepted proceeds, and Mori's opening does not establish its final result.",
+    "tags": [
+      "MetaDAO",
+      "Backable"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://solanacompass.com/news/metadaos-1609sat-raise-closes-79x-oversubscribed-with-79m-committed-as-mori-finance-raise-opens",
+    "evidenceNote": "Full article reviewed. November 9 publication; the publisher describes allocations as settling. Official company pages are rolling snapshots; no final allocation, token trading or refund completion inferred.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "news-coinformer-percolator-backable-plan",
+    "title": "Percolator's Backable Raise Plan and Existing Token Holders",
+    "author": "The Coinformer Newsroom",
+    "date": "2026-11-08",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "news",
+    "url": "https://thecoinformer.com/news/solana-percolator-abandons-community-token",
+    "description": "The Coinformer reports on Percolator's proposed PERC raise, the lack of a swap for the existing community token, and criticism of paid participation terms. The article describes a plan; no completed raise or audit is established.",
+    "tags": [
+      "Backable",
+      "MetaDAO"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://thecoinformer.com/news/solana-percolator-abandons-community-token",
+    "evidenceNote": "Full original reporting reviewed. The linked Backable page did not expose substantive terms in the accessible snapshot; launch and token terms remain attributed to the report.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "research-01resolved-weekly-2026-11-01",
+    "title": "MetaDAO Ecosystem Fund and Rip Cars Strategic Round",
+    "author": "01Resolved / James and Drew",
+    "date": "2026-11-01",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://01resolved.com/research/metadao-reallocates-1-9m-from-ownership-capital-to-an-ecosystem-fund-and-rip-cars-closes-its-1-5m-round/",
+    "description": "The weekly briefing covers MetaDAO’s ecosystem fund approval, Rip Cars’ reported strategic round close, Over’s postponement, and product updates across Umbra, Laso, P2P and Backable projects.",
+    "tags": [
+      "MetaDAO",
+      "Decision Markets",
+      "Research",
+      "project:ripcars"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://01resolved.com/research/metadao-reallocates-1-9m-from-ownership-capital-to-an-ecosystem-fund-and-rip-cars-closes-its-1-5m-round/",
+    "evidenceNote": "Full briefing reviewed. November 1 is publication; decision states reflect the reporting snapshot. Fund transfer, round settlement, launches and business figures were not independently verified.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "research-01resolved-weekly-2026-11-08",
+    "title": "1609SAT Commitments and Mori Finance’s Curated Raise",
+    "author": "01Resolved / James and Drew",
+    "date": "2026-11-08",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "article",
+    "url": "https://01resolved.com/research/1609sat-draws-6-9m-in-commitments-and-metadao-names-mori-finance-its-next-curated-raise/",
+    "description": "The weekly briefing covers 1609SAT commitments before close, Mori’s planned raise, HiveBits and Loyal decisions, Cope’s reported raise close and updates from several ecosystem projects.",
+    "tags": [
+      "MetaDAO",
+      "Decision Markets",
+      "Research"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://01resolved.com/research/1609sat-draws-6-9m-in-commitments-and-metadao-names-mori-finance-its-next-curated-raise/",
+    "evidenceNote": "Full briefing reviewed. Its November 8 commitment snapshot predates the November 9 close reporting. Market outcomes do not independently establish execution; operating metrics and project announcements remain attributed.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "ownership-s2-e03-over-computer",
+    "title": "Ownership Podcast S2 E03: Lili (Over.computer)",
+    "author": "Ownership / 8bitpenis",
+    "date": "2026-10-26",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "podcast",
+    "url": "https://solana.com/nl/podcasts/ownership/episodes/ownership-podcast-s2-e03-lili-over-computer-e3r55ao",
+    "description": "Lili discusses Over.computer’s prop trading model, payout incentives and its reasons for choosing MetaDAO. The episode reflects plans at publication; the subsequent 01Resolved briefing reported that the raise was postponed.",
+    "tags": [
+      "Ownership",
+      "Interview",
+      "MetaDAO"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://solana.com/nl/podcasts/ownership/episodes/ownership-podcast-s2-e03-lili-over-computer-e3r55ao",
+    "evidenceNote": "Publisher episode date, 38:00 duration and full overview reviewed; no full listening or transcript review. Not proof of completed financing.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
+  },
+  {
+    "id": "ownership-s2-e04-spout-finance",
+    "title": "Ownership Podcast S2 E04: Marc Ryan (Spout Finance)",
+    "author": "Ownership / 8bitpenis",
+    "date": "2026-11-02",
+    "dateKind": "publication",
+    "datePrecision": "day",
+    "type": "podcast",
+    "url": "https://solana.com/ar/podcasts/ownership/episodes/ownership-podcast-s2-e04-marc-ryan-spout-finance-e3rjqi2",
+    "description": "Marc Ryan discusses using covered calls with tokenized stock lending, the risks of that design, and capital formation. Ownership’s chapter guide includes a discussion of MetaDAO and why Spout did not use it for the round discussed.",
+    "tags": [
+      "Ownership",
+      "Interview",
+      "MetaDAO"
+    ],
+    "verification": "source-checked",
+    "sourceUrl": "https://solana.com/ar/podcasts/ownership/episodes/ownership-podcast-s2-e04-marc-ryan-spout-finance-e3rjqi2",
+    "evidenceNote": "Publisher episode date, 47:17 duration and full overview reviewed, alongside the publisher’s chapter list available through a public index. No full listening or transcript review; not a MetaDAO-funded project classification.",
+    "addedAt": "2026-11-09",
+    "checkedAt": "2026-11-09"
   }
 ]

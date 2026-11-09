@@ -1,3 +1,33 @@
+# Ecosystem catch-up: October 26 to November 9, 2026
+
+Baseline: PR #107 merged October 25.
+
+## Reviewed additions
+
+- [METADAO-042: Ownership Capital Escrow and Ecosystem Fund](https://metadao.fi/decisions/metadao-042) (2026-10-26): Created October 26 per detail page. Proposal summary and market result reviewed; custody wording lists four names with a 2-of-3 threshold, so signer composition is unresolved.
+- [NECTAR-001: HiveBits Treasury Transfer](https://metadao.fi/decisions/nectar-001) (2026-10-27): Detail shows creation October 27; index shows market launch October 28. Reviewed displayed summary and result, not transaction instructions.
+- [NECTAR-002: HiveBits Action Catalog](https://metadao.fi/decisions/nectar-002) (2026-10-28): Detail shows creation October 28; index shows market launch October 31. Reviewed displayed summary and result, not transaction instructions.
+- [LOYAL-004: Withdraw Half of Futarchy AMM Liquidity to Treasury](https://metadao.com/decisions/loyal-004) (2026-10-29): Detail shows October 29 creation and an older Live snapshot; MetaDAO decisions index shows October 31 launch and Passed. Reviewed displayed summary and result.
+- [Ownership Coin Monthly: October](https://01resolved.com/research/ownership-coin-monthly-research-report-october-2026/) (2026-11-01): Publisher displays November 1; October is the reporting period. Overview and relevant ledger and market sections reviewed; analytics, valuations and reported executions not independently reproduced.
+- [MetaDAO Launches Apps Program for Consumer App Raises](https://solanacompass.com/news/metadao-launches-apps-program-for-consumer-app-raises-starting-with-1609sats-100000-round) (2026-11-04): Full publisher article reviewed. November 4 is publication, distinct from the scheduled opening. Compared terms with the official 1609SAT listing; no program audit or settlement verification.
+- [1609SAT Raise Closes and Mori Finance Opens Its Raise](https://solanacompass.com/news/metadaos-1609sat-raise-closes-79x-oversubscribed-with-79m-committed-as-mori-finance-raise-opens) (2026-11-09): Full article reviewed. November 9 publication; the publisher describes allocations as settling. Official company pages are rolling snapshots; no final allocation, token trading or refund completion inferred.
+- [Percolator's Backable Raise Plan and Existing Token Holders](https://thecoinformer.com/news/solana-percolator-abandons-community-token) (2026-11-08): Full original reporting reviewed. The linked Backable page did not expose substantive terms in the accessible snapshot; launch and token terms remain attributed to the report.
+
+- [MetaDAO Ecosystem Fund and Rip Cars Strategic Round](https://01resolved.com/research/metadao-reallocates-1-9m-from-ownership-capital-to-an-ecosystem-fund-and-rip-cars-closes-its-1-5m-round/) (2026-11-01): Full briefing reviewed. November 1 is publication; decision states reflect the reporting snapshot. Fund transfer, round settlement, launches and business figures were not independently verified.
+- [1609SAT Commitments and Mori Finance’s Curated Raise](https://01resolved.com/research/1609sat-draws-6-9m-in-commitments-and-metadao-names-mori-finance-its-next-curated-raise/) (2026-11-08): Full briefing reviewed. Its November 8 commitment snapshot predates the November 9 close reporting. Market outcomes do not independently establish execution; operating metrics and project announcements remain attributed.
+- [Ownership Podcast S2 E03: Lili (Over.computer)](https://solana.com/nl/podcasts/ownership/episodes/ownership-podcast-s2-e03-lili-over-computer-e3r55ao) (2026-10-26): Publisher episode date, 38:00 duration and full overview reviewed; no full listening or transcript review. Not proof of completed financing.
+- [Ownership Podcast S2 E04: Marc Ryan (Spout Finance)](https://solana.com/ar/podcasts/ownership/episodes/ownership-podcast-s2-e04-marc-ryan-spout-finance-e3rjqi2) (2026-11-02): Publisher episode date, 47:17 duration and full overview reviewed, alongside the publisher’s chapter list available through a public index. No full listening or transcript review; not a MetaDAO-funded project classification.
+
+## Coverage limits
+
+Reviewed MetaDAO and Backable decision and company listings, 01Resolved and Solana Compass coverage, Percolator reporting, and Ownership publisher metadata. Ownership Reports 20 (Jurassic) and 21 (1609SAT) are replay leads; no complete playback or transcript verified. 1609SAT and Mori settlement and listing status remain separate from reported commitments and opening; no funded-registry change. Orendal, MimiKrew, DRAWUP and The Inner Table show pre-cutoff closes on Backable; their retrospective coverage is in the monthly report. MetaDAO 2.0 docs show an October update month without establishing a post-cutoff day. No new dated Hanson decision-market work was established in the bounded search. This is not exhaustive coverage.
+
+## Validation
+
+Local validation was blocked by missing dependencies; reinstall failed with insufficient disk space. Validate library on the draft PR runs catalog checks, tests, type checking and the production build.
+
+---
+
 # Cultural governance research: October 25, 2026
 
 PR #106 merged as e6b64328ab98cfd5cd8a56d1d9f6eb6e765d5472. Production deployment 40213807635 succeeded. Ordr’s filing and Hanson’s liquidity article match title, date, URL, source URL and description in main-library and individual production JSON endpoints (HTTP 200). Initial checks during deployment did not yet show the entries; post-deployment checks passed.

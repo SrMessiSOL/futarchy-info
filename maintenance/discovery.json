@@ -283,22 +283,29 @@
       "sourceId": "01resolved",
       "discoveredAt": "2026-11-08",
       "status": "pending"
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E05-Pavan-Mori-Finance-e3s9044",
+      "title": "Ownership Podcast S2 E05: Pavan (Mori Finance)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-11-13",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-11-12",
+      "lastSuccess": "2026-11-13",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-12",
+      "lastAttempt": "2026-11-13",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-12",
+      "lastAttempt": "2026-11-13",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -308,18 +315,18 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-11-12",
+      "lastSuccess": "2026-11-13",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-11-12",
+      "lastSuccess": "2026-11-13",
       "links": 59
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-11-12",
-      "links": 17
+      "lastSuccess": "2026-11-13",
+      "links": 18
     },
     "kleros-feed": {
       "status": "ok",
@@ -348,17 +355,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-12",
+      "lastSuccess": "2026-11-13",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-12",
+      "lastSuccess": "2026-11-13",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-12",
+      "lastSuccess": "2026-11-13",
       "links": 14
     }
   }

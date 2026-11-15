@@ -290,22 +290,29 @@
       "sourceId": "ownership-feed",
       "discoveredAt": "2026-11-13",
       "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/mori-finance-draws-7-7m-in-commitments-and-jurassic-approves-sale-of-up-to-6m-rawr/",
+      "title": "Mori Finance Draws $7.7M in Commitments and Jurassic Approves Sale of Up to 6M RAWR",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-11-15",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-11-14",
+      "lastSuccess": "2026-11-15",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-14",
+      "lastAttempt": "2026-11-15",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-14",
+      "lastAttempt": "2026-11-15",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -315,17 +322,17 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-11-14",
+      "lastSuccess": "2026-11-15",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-11-14",
-      "links": 59
+      "lastSuccess": "2026-11-15",
+      "links": 60
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-11-14",
+      "lastSuccess": "2026-11-15",
       "links": 18
     },
     "kleros-feed": {
@@ -355,17 +362,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-14",
+      "lastSuccess": "2026-11-15",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-14",
+      "lastSuccess": "2026-11-15",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-14",
+      "lastSuccess": "2026-11-15",
       "links": 14
     }
   }

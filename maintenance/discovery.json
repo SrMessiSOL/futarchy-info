@@ -302,17 +302,17 @@
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-11-17",
+      "lastSuccess": "2026-11-18",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-17",
+      "lastAttempt": "2026-11-18",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-17",
+      "lastAttempt": "2026-11-18",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -322,17 +322,17 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-11-17",
+      "lastSuccess": "2026-11-18",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-11-17",
+      "lastSuccess": "2026-11-18",
       "links": 60
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-11-17",
+      "lastSuccess": "2026-11-18",
       "links": 18
     },
     "kleros-feed": {
@@ -362,17 +362,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-17",
+      "lastSuccess": "2026-11-18",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-17",
+      "lastSuccess": "2026-11-18",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-17",
+      "lastSuccess": "2026-11-18",
       "links": 14
     }
   }

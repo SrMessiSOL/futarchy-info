@@ -297,22 +297,29 @@
       "sourceId": "01resolved",
       "discoveredAt": "2026-11-15",
       "status": "pending"
+    },
+    {
+      "url": "https://podcasters.spotify.com/pod/show/ownership9/episodes/Ownership-Podcast-S2-E06-FP-Sanctum-e3skoo9",
+      "title": "Ownership Podcast S2 E06: FP (Sanctum)",
+      "sourceId": "ownership-feed",
+      "discoveredAt": "2026-11-19",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-11-18",
+      "lastSuccess": "2026-11-19",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-18",
+      "lastAttempt": "2026-11-19",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-18",
+      "lastAttempt": "2026-11-19",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -322,18 +329,18 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-11-18",
+      "lastSuccess": "2026-11-19",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-11-18",
+      "lastSuccess": "2026-11-19",
       "links": 60
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-11-18",
-      "links": 18
+      "lastSuccess": "2026-11-19",
+      "links": 19
     },
     "kleros-feed": {
       "status": "ok",
@@ -362,17 +369,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-18",
+      "lastSuccess": "2026-11-19",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-18",
+      "lastSuccess": "2026-11-19",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-18",
+      "lastSuccess": "2026-11-19",
       "links": 14
     }
   }

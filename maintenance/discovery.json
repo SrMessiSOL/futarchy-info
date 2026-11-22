@@ -304,22 +304,29 @@
       "sourceId": "ownership-feed",
       "discoveredAt": "2026-11-19",
       "status": "pending"
+    },
+    {
+      "url": "https://01resolved.com/research/rip-cars-passes-50-000-packs-opened-and-loyal-adds-ethereum-and-tron-deposits/",
+      "title": "Rip Cars Passes 50,000 Packs Opened and Loyal Adds Ethereum and Tron Deposits",
+      "sourceId": "01resolved",
+      "discoveredAt": "2026-11-22",
+      "status": "pending"
     }
   ],
   "sources": {
     "01resolved": {
       "status": "ok",
-      "lastSuccess": "2026-11-21",
+      "lastSuccess": "2026-11-22",
       "links": 5
     },
     "metadao-decisions": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-21",
+      "lastAttempt": "2026-11-22",
       "reason": "HTTP 429"
     },
     "metadao-blog": {
       "status": "unavailable",
-      "lastAttempt": "2026-11-21",
+      "lastAttempt": "2026-11-22",
       "reason": "HTTP 403"
     },
     "hanson": {
@@ -329,17 +336,17 @@
     },
     "01resolved-rss": {
       "status": "ok",
-      "lastSuccess": "2026-11-21",
+      "lastSuccess": "2026-11-22",
       "links": 15
     },
     "01resolved-archive": {
       "status": "ok",
-      "lastSuccess": "2026-11-21",
-      "links": 60
+      "lastSuccess": "2026-11-22",
+      "links": 61
     },
     "ownership-feed": {
       "status": "ok",
-      "lastSuccess": "2026-11-21",
+      "lastSuccess": "2026-11-22",
       "links": 19
     },
     "kleros-feed": {
@@ -369,17 +376,17 @@
     },
     "loyal-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-21",
+      "lastSuccess": "2026-11-22",
       "links": 9
     },
     "umbra-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-21",
+      "lastSuccess": "2026-11-22",
       "links": 7
     },
     "solomon-updates": {
       "status": "ok",
-      "lastSuccess": "2026-11-21",
+      "lastSuccess": "2026-11-22",
       "links": 14
     }
   }
